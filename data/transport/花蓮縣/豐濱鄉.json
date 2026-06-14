@@ -1,0 +1,1017 @@
+{
+  "city": "花蓮縣",
+  "district": "豐濱鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 67,
+  "items": [
+    {
+      "id": 3166765945,
+      "name": "德蕾莎",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.465727,
+      "lng": 121.489682,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723461,
+      "name": "靜埔國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.463117,
+      "lng": 121.4954945
+    },
+    {
+      "id": 3168723462,
+      "name": "靜埔B",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4621391,
+      "lng": 121.4977635,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.095Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723463,
+      "name": "靜埔A",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.459765,
+      "lng": 121.498806
+    },
+    {
+      "id": 3168723464,
+      "name": "靜埔村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4581085,
+      "lng": 121.4976827
+    },
+    {
+      "id": 3168723465,
+      "name": "三富橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4454333,
+      "lng": 121.4958716,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723466,
+      "name": "千禧山莊",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4425328,
+      "lng": 121.495563,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832981,
+      "name": "長虹橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4690252,
+      "lng": 121.4912575,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832982,
+      "name": "大港口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4697363,
+      "lng": 121.496656,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832983,
+      "name": "港口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.474988,
+      "lng": 121.5040439,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832984,
+      "name": "石梯坪",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4908016,
+      "lng": 121.5080414
+    },
+    {
+      "id": 3256832985,
+      "name": "石梯港",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4921044,
+      "lng": 121.505602
+    },
+    {
+      "id": 3256832986,
+      "name": "石梯灣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4962678,
+      "lng": 121.5042667,
+      "routes": [
+        "8119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832987,
+      "name": "石門",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.522851,
+      "lng": 121.5026503,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832989,
+      "name": "豐濱",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.598484,
+      "lng": 121.5217605,
+      "routes": [
+        "1125",
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832990,
+      "name": "豐濱監工站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6007668,
+      "lng": 121.5229783,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256832991,
+      "name": "恩主公廟",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6076078,
+      "lng": 121.5286301,
+      "routes": [
+        "304",
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414912,
+      "name": "忠孝橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6445921,
+      "lng": 121.4947022,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.095Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414913,
+      "name": "翠谷",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6400603,
+      "lng": 121.4882964,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414914,
+      "name": "泰來農場",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6354304,
+      "lng": 121.4906818,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414915,
+      "name": "信義橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6310273,
+      "lng": 121.4924089,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414916,
+      "name": "和平橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6128428,
+      "lng": 121.507817,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414917,
+      "name": "豐富",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.605179,
+      "lng": 121.5118752,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414918,
+      "name": "豐濱加油站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6025344,
+      "lng": 121.5190957,
+      "routes": [
+        "1125",
+        "1140"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414919,
+      "name": "豐濱鄉公所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6014844,
+      "lng": 121.5216931,
+      "routes": [
+        "1125",
+        "1140"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282494435,
+      "name": "獅子山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4707161,
+      "lng": 121.5011128,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495064,
+      "name": "月洞",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.480264,
+      "lng": 121.5079558,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495065,
+      "name": "石梯坪",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4871563,
+      "lng": 121.5089257,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495066,
+      "name": "石梯坪遊憩區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4909328,
+      "lng": 121.5079195,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495067,
+      "name": "石梯橋休息區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4999761,
+      "lng": 121.5045156
+    },
+    {
+      "id": 3282495068,
+      "name": "石門",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5202959,
+      "lng": 121.5021901,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495069,
+      "name": "石門洞",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5230218,
+      "lng": 121.5027139
+    },
+    {
+      "id": 3282495070,
+      "name": "監工站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6007954,
+      "lng": 121.5229279,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495071,
+      "name": "深橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6137375,
+      "lng": 121.5287697,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495072,
+      "name": "富光",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6210487,
+      "lng": 121.5290567,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495090,
+      "name": "27號橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6268753,
+      "lng": 121.5297004
+    },
+    {
+      "id": 3282495091,
+      "name": "東興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6343922,
+      "lng": 121.5314693,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495092,
+      "name": "新莊",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.641088,
+      "lng": 121.5331578,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495093,
+      "name": "新社國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6515139,
+      "lng": 121.5363371,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495094,
+      "name": "新社",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6514841,
+      "lng": 121.5362802,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495095,
+      "name": "新社",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6532979,
+      "lng": 121.5378085,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495096,
+      "name": "高山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6843622,
+      "lng": 121.546855,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282495097,
+      "name": "葛碼蘭民宿",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6891061,
+      "lng": 121.5481388,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510020,
+      "name": "龜庵",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6965605,
+      "lng": 121.550627,
+      "routes": [
+        "8119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510021,
+      "name": "磯崎海水浴場",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6995577,
+      "lng": 121.5498659,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510022,
+      "name": "磯崎道班房",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7056496,
+      "lng": 121.5468573,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510023,
+      "name": "磯崎",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7082798,
+      "lng": 121.5469002,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510024,
+      "name": "20號橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7152416,
+      "lng": 121.5471371
+    },
+    {
+      "id": 3282510025,
+      "name": "牛寮坑",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7377724,
+      "lng": 121.5566303,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510026,
+      "name": "芭崎",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7410607,
+      "lng": 121.5587246,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.096Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3287107631,
+      "name": "石梯漁港北口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.494774,
+      "lng": 121.5042191
+    },
+    {
+      "id": 3287113013,
+      "name": "靜安",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4658414,
+      "lng": 121.4893754
+    },
+    {
+      "id": 3287113822,
+      "name": "南石梯坪",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.4837965,
+      "lng": 121.5088579,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804654020,
+      "name": "小湖",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6563936,
+      "lng": 121.5399885
+    },
+    {
+      "id": 6804654022,
+      "name": "新峯",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6654614,
+      "lng": 121.5433037
+    },
+    {
+      "id": 6804654024,
+      "name": "新峰天空步道",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6705712,
+      "lng": 121.5443753
+    },
+    {
+      "id": 6804669659,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5140002,
+      "lng": 121.5026307
+    },
+    {
+      "id": 6804669662,
+      "name": "大灣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5316286,
+      "lng": 121.5063107,
+      "routes": [
+        "1145"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804669664,
+      "name": "南立德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5657118,
+      "lng": 121.5177402,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804669667,
+      "name": "北立德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5802286,
+      "lng": 121.5242104,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804683645,
+      "name": "永豐",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6098876,
+      "lng": 121.5288037
+    },
+    {
+      "id": 6804683654,
+      "name": "南東興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6329339,
+      "lng": 121.5308355,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804683656,
+      "name": "北東興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6347043,
+      "lng": 121.5315744,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804691310,
+      "name": "百齡",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6462146,
+      "lng": 121.5343049,
+      "routes": [
+        "1145"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9653301379,
+      "name": "立德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.5743298,
+      "lng": 121.5218125
+    },
+    {
+      "id": 9653866845,
+      "name": "豐富",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.6091073,
+      "lng": 121.508718
+    },
+    {
+      "id": 11365495137,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "豐濱鄉",
+      "lat": 23.7318074,
+      "lng": 121.5580215
+    }
+  ]
+}

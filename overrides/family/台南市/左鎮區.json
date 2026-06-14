@@ -1,0 +1,98 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:02:49.911Z",
+  "items": [
+    {
+      "id": 2390433332,
+      "name": "觀日亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9910931,
+      "lng": 120.4098065,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.899Z"
+    },
+    {
+      "id": 9763998411,
+      "name": "308高地觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9759134,
+      "lng": 120.4421364,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.901Z"
+    },
+    {
+      "id": 9778583850,
+      "name": "小玉山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0015702,
+      "lng": 120.4539296,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.903Z"
+    },
+    {
+      "id": 9778616962,
+      "name": "大峽谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.986042,
+      "lng": 120.4423361,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.904Z"
+    },
+    {
+      "id": 9778618395,
+      "name": "草山夕陽",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0021851,
+      "lng": 120.4591364,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.905Z"
+    },
+    {
+      "id": 9778633925,
+      "name": "桃源谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9927862,
+      "lng": 120.4494863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.907Z"
+    },
+    {
+      "id": 10294275717,
+      "name": "二寮觀日亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9927955,
+      "lng": 120.4097217,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.908Z"
+    },
+    {
+      "id": 379324176,
+      "name": "要月吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0048357,
+      "lng": 120.4305835,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.909Z"
+    },
+    {
+      "id": 10780425,
+      "name": "臺南左鎮化石園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0645298,
+      "lng": 120.3893102,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:49.910Z",
+      "address": "臺南市左鎮區榮和里菜寮61-1號"
+    }
+  ]
+}

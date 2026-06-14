@@ -1,0 +1,68 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:38:43.285Z",
+  "items": [
+    {
+      "id": 4465672868,
+      "name": "四季廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0107071,
+      "lng": 121.5085624,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.279Z"
+    },
+    {
+      "id": 388224261,
+      "name": "樂華夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0085166,
+      "lng": 121.5120468,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.281Z"
+    },
+    {
+      "id": 505976170,
+      "name": "永和社大生態教育園區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0055526,
+      "lng": 121.5309181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.282Z"
+    },
+    {
+      "id": 848699560,
+      "name": "鄭曼青紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0106254,
+      "lng": 121.5175586,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.283Z",
+      "address": "新北市永和區豫溪街57巷10弄8號"
+    },
+    {
+      "id": 1465511686,
+      "name": "福運哨",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0059586,
+      "lng": 121.5273789,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.283Z"
+    },
+    {
+      "id": 7018055,
+      "name": "台北市野雁保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0269609,
+      "lng": 121.50551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:38:43.284Z"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "city": "彰化縣",
+  "district": "永靖鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 6,
+  "items": [
+    {
+      "id": 2088370509,
+      "name": "永靖",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9201614,
+      "lng": 120.5480689,
+      "routes": [
+        "7路",
+        "1830",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416440989,
+      "name": "五汴頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9297197,
+      "lng": 120.5535704,
+      "routes": [
+        "7路",
+        "6706",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416440991,
+      "name": "五福村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9057751,
+      "lng": 120.5400715,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441002,
+      "name": "太平",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9371214,
+      "lng": 120.557819,
+      "routes": [
+        "7路",
+        "6706",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441004,
+      "name": "永興路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9232956,
+      "lng": 120.5522097,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441006,
+      "name": "湳港西",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "永靖鄉",
+      "lat": 23.9119329,
+      "lng": 120.54349,
+      "routes": [
+        "7路",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

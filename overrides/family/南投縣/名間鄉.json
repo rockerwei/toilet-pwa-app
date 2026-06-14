@@ -1,0 +1,108 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:36:37.835Z",
+  "items": [
+    {
+      "id": 3502454575,
+      "name": "921 斜塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8333626,
+      "lng": 120.7101728,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.820Z"
+    },
+    {
+      "id": 4712130563,
+      "name": "松柏嶺遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8339034,
+      "lng": 120.6361194,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.823Z"
+    },
+    {
+      "id": 5301820634,
+      "name": "南投豬樂園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8544811,
+      "lng": 120.6968037,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.824Z",
+      "address": "551南投縣名間鄉彰南路256號"
+    },
+    {
+      "id": 5435950724,
+      "name": "茶香步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8408455,
+      "lng": 120.6274054,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.826Z"
+    },
+    {
+      "id": 5436382922,
+      "name": "集集綠色隧道西口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8352217,
+      "lng": 120.7229629,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.827Z"
+    },
+    {
+      "id": 10767840579,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8363,
+      "lng": 120.6327,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.829Z"
+    },
+    {
+      "id": 10767840710,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.832606,
+      "lng": 120.630001,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.830Z"
+    },
+    {
+      "id": 526642582,
+      "name": "921斜塔休憩區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8331193,
+      "lng": 120.7106527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.832Z"
+    },
+    {
+      "id": 1196904801,
+      "name": "七星陣地公園-24砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8271673,
+      "lng": 120.6408612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.833Z"
+    },
+    {
+      "id": 1196904803,
+      "name": "七星陣地公園-25砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.829952,
+      "lng": 120.6398318,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:36:37.834Z"
+    }
+  ]
+}

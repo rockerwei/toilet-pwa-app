@@ -1,0 +1,38 @@
+{
+  "city": "台東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:30:19.917Z",
+  "items": [
+    {
+      "id": 6914452685,
+      "name": "關山月眉自行車道起點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0071378,
+      "lng": 121.150808,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:30:19.911Z"
+    },
+    {
+      "id": 1150952486,
+      "name": "耘禾莊園民宿",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.0837041,
+      "lng": 121.177108,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:30:19.915Z",
+      "address": "956台東縣關山鎮頂庄16號"
+    },
+    {
+      "id": 1351615823,
+      "name": "關山親水公園遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0382923,
+      "lng": 121.1725856,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:30:19.917Z"
+    }
+  ]
+}

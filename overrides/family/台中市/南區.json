@@ -1,0 +1,60 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:24:01.985Z",
+  "items": [
+    {
+      "id": 3622981166,
+      "name": "蘭花生態園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1202778,
+      "lng": 120.6755393,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:01.977Z"
+    },
+    {
+      "id": 5540543021,
+      "name": "忠孝夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1302138,
+      "lng": 120.6833681,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:01.979Z"
+    },
+    {
+      "id": 10216592672,
+      "name": "臺灣火柴故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.1171307,
+      "lng": 120.663715,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:01.981Z",
+      "address": "臺中市南區工學路72號"
+    },
+    {
+      "id": 10609317091,
+      "name": "崇倫碉堡(歷史建物)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1231829,
+      "lng": 120.6547688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:01.982Z",
+      "address": "臺中市南區建國南路一段"
+    },
+    {
+      "id": 331477463,
+      "name": "文化部文化資產園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1322063,
+      "lng": 120.6814487,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:01.984Z",
+      "address": "40247臺中市南區復興路三段362號"
+    }
+  ]
+}

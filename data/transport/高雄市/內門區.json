@@ -1,0 +1,455 @@
+{
+  "city": "高雄市",
+  "district": "內門區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 25,
+  "items": [
+    {
+      "id": 3875655770,
+      "name": "內門路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.8867865,
+      "lng": 120.4341851,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875655778,
+      "name": "馬頭山頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.8854557,
+      "lng": 120.442791,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5344481644,
+      "name": "實踐大學(校區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9046484,
+      "lng": 120.4671881,
+      "routes": [
+        "8035C",
+        "8042(假日延駛台南機場)",
+        "8050",
+        "E01A區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535605,
+      "name": "分水嶺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 23.0010589,
+      "lng": 120.4682502,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535607,
+      "name": "內興里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9936172,
+      "lng": 120.4671317,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535609,
+      "name": "椰樹橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9889295,
+      "lng": 120.4687545,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535611,
+      "name": "頂寮橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9820391,
+      "lng": 120.4695109,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535613,
+      "name": "木柵",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9756385,
+      "lng": 120.4686284,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535615,
+      "name": "蘇遠埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9667643,
+      "lng": 120.4680437,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535617,
+      "name": "內湖",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9610779,
+      "lng": 120.4717854,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348535619,
+      "name": "口湖",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9484782,
+      "lng": 120.4675435,
+      "routes": [
+        "8035A",
+        "8035C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536521,
+      "name": "內門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9450437,
+      "lng": 120.4635416,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536523,
+      "name": "內門區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9417808,
+      "lng": 120.4623252,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536525,
+      "name": "內門國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.939743,
+      "lng": 120.4611853,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536527,
+      "name": "十三甲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9366294,
+      "lng": 120.4613274,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536529,
+      "name": "內埔橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9317644,
+      "lng": 120.4596939,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536531,
+      "name": "菜公坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9275031,
+      "lng": 120.45647,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536533,
+      "name": "中埔頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9235753,
+      "lng": 120.4538602,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536535,
+      "name": "內門國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9223957,
+      "lng": 120.4530957,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536537,
+      "name": "中埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9200154,
+      "lng": 120.4510117,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536539,
+      "name": "觀音亭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9182713,
+      "lng": 120.4538991,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536541,
+      "name": "農會(內門)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9171615,
+      "lng": 120.4571013,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536543,
+      "name": "二層橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9171398,
+      "lng": 120.4613435,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5348536545,
+      "name": "石溝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9111611,
+      "lng": 120.4659998,
+      "routes": [
+        "8035A",
+        "8035B",
+        "8035C",
+        "8050"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13462186301,
+      "name": "野森動物學校",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "內門區",
+      "lat": 22.9134013,
+      "lng": 120.4569795,
+      "routes": [
+        "8035C"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.373Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

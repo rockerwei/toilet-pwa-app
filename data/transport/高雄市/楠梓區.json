@@ -1,0 +1,3383 @@
+{
+  "city": "高雄市",
+  "district": "楠梓區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 180,
+  "items": [
+    {
+      "id": 257398442,
+      "name": "楠梓",
+      "type": "train",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7271409,
+      "lng": 120.324127
+    },
+    {
+      "id": 1311875269,
+      "name": "大學17街大學26街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.729702,
+      "lng": 120.2819927,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1336833306,
+      "name": "土庫三路(清豐路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7391677,
+      "lng": 120.3281674,
+      "routes": [
+        "97"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1389897854,
+      "name": "右昌街口(軍校路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7093272,
+      "lng": 120.2930273,
+      "routes": [
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1389897895,
+      "name": "莒光新村(軍校路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.706368,
+      "lng": 120.2929322,
+      "routes": [
+        "29",
+        "29區間車",
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "245",
+        "8015",
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1880904046,
+      "name": "朝新路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7247299,
+      "lng": 120.3250425,
+      "routes": [
+        "97",
+        "8048"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2399424079,
+      "name": "經六內環北路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7234309,
+      "lng": 120.2995445,
+      "routes": [
+        "紅57",
+        "紅57區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150668,
+      "name": "亞洲托兒所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7181091,
+      "lng": 120.2963529,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150671,
+      "name": "加宏路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7167105,
+      "lng": 120.2935531,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150673,
+      "name": "加宏路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.714662,
+      "lng": 120.293573,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "29",
+        "29區間車",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150674,
+      "name": "加宏路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7154803,
+      "lng": 120.2929484,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "29",
+        "29區間車",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150675,
+      "name": "後昌路(左楠路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7077563,
+      "lng": 120.3012336,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150677,
+      "name": "慈愛大樓",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7129731,
+      "lng": 120.2942361,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150680,
+      "name": "捷運世運站(左楠路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7004863,
+      "lng": 120.3026958
+    },
+    {
+      "id": 2547150681,
+      "name": "煉油廠(捷運世運站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7026256,
+      "lng": 120.3023041,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線",
+        "219A",
+        "219B",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150685,
+      "name": "莒光國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7099965,
+      "lng": 120.2963301,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2547150688,
+      "name": "莒光新村(後昌路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7080759,
+      "lng": 120.2992657,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "39",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548230661,
+      "name": "加昌軍校路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7125004,
+      "lng": 120.2916009,
+      "routes": [
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548230666,
+      "name": "加昌樂群路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7158772,
+      "lng": 120.2980437,
+      "routes": [
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548230668,
+      "name": "右昌國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7134583,
+      "lng": 120.2929142,
+      "routes": [
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548230670,
+      "name": "果菜市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7140665,
+      "lng": 120.2949156,
+      "routes": [
+        "29",
+        "29區間車",
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548230672,
+      "name": "樂群路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7181621,
+      "lng": 120.297305,
+      "routes": [
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151828,
+      "name": "家樂福新楠店(清豐一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7363375,
+      "lng": 120.3317405,
+      "routes": [
+        "29",
+        "97",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779016,
+      "name": "中山高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7281528,
+      "lng": 120.2919957,
+      "routes": [
+        "245",
+        "8015",
+        "紅56科技幹線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779018,
+      "name": "仁壽宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7281855,
+      "lng": 120.2832633,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779020,
+      "name": "南藍田(高雄大學)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7269486,
+      "lng": 120.2802891,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779022,
+      "name": "大學32街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7314308,
+      "lng": 120.2921751,
+      "routes": [
+        "245",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779023,
+      "name": "大學十一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.727998,
+      "lng": 120.2868676
+    },
+    {
+      "id": 2599779024,
+      "name": "大學十七街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7313847,
+      "lng": 120.2804945,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779026,
+      "name": "大學南路(藍昌路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7324656,
+      "lng": 120.291325,
+      "routes": [
+        "紅56科技幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779027,
+      "name": "大學東路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7273441,
+      "lng": 120.2902494
+    },
+    {
+      "id": 2599779029,
+      "name": "大學西路口(第一綜合大樓)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.730001,
+      "lng": 120.2783259,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345368,
+      "name": "援中國小(藍田路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.726222,
+      "lng": 120.2785662,
+      "routes": [
+        "245",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779031,
+      "name": "高大管理學院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.732233,
+      "lng": 120.288088,
+      "routes": [
+        "245",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779033,
+      "name": "高雄大學(大學南路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.732078,
+      "lng": 120.2851662,
+      "routes": [
+        "245",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121976,
+      "name": "加工區(中央路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7235673,
+      "lng": 120.3035608,
+      "routes": [
+        "紅56科技幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121981,
+      "name": "亞洲城社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7222896,
+      "lng": 120.2955055,
+      "routes": [
+        "245",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121983,
+      "name": "幸福新城",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.723483,
+      "lng": 120.2913199,
+      "routes": [
+        "245",
+        "8015",
+        "紅56科技幹線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121985,
+      "name": "後昌新路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7215422,
+      "lng": 120.2918147,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121987,
+      "name": "德惠路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.726042,
+      "lng": 120.3022247,
+      "routes": [
+        "7C",
+        "紅56科技幹線",
+        "紅56科技幹線區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721845,
+      "name": "捷運楠梓科技園區站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7182358,
+      "lng": 120.3063091,
+      "routes": [
+        "7A",
+        "7D",
+        "28",
+        "29",
+        "29區間車",
+        "98",
+        "219A",
+        "219B",
+        "紅56科技幹線",
+        "紅56科技幹線區間車",
+        "紅57區間車",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121990,
+      "name": "益群路(德民路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7236958,
+      "lng": 120.2974722,
+      "routes": [
+        "7C",
+        "紅56科技幹線",
+        "紅71C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121992,
+      "name": "翠屏路口(惠民路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7253765,
+      "lng": 120.300043,
+      "routes": [
+        "7C",
+        "紅56科技幹線",
+        "紅56科技幹線區間車",
+        "紅71C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121993,
+      "name": "翠屏路口(惠民路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7249765,
+      "lng": 120.2989613,
+      "routes": [
+        "7C",
+        "紅56科技幹線",
+        "紅56科技幹線區間車",
+        "紅71C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2601121994,
+      "name": "藍田路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7258992,
+      "lng": 120.2916578,
+      "routes": [
+        "245",
+        "紅56科技幹線",
+        "紅56科技幹線區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434042,
+      "name": "加工區北門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7252237,
+      "lng": 120.3040855,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434043,
+      "name": "加工區北門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7256353,
+      "lng": 120.3050472,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434048,
+      "name": "德祥路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7285678,
+      "lng": 120.3117524,
+      "routes": [
+        "紅56科技幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434050,
+      "name": "德祥路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7268367,
+      "lng": 120.3071298,
+      "routes": [
+        "7C",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434056,
+      "name": "德維街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7273161,
+      "lng": 120.3105109,
+      "routes": [
+        "紅56科技幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434058,
+      "name": "德賢路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7263909,
+      "lng": 120.3055138,
+      "routes": [
+        "7C",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844196281,
+      "name": "海專路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.726056,
+      "lng": 120.3095856,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7C",
+        "301",
+        "301區間車",
+        "紅56科技幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434064,
+      "name": "藍昌路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7174024,
+      "lng": 120.2909923,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345344,
+      "name": "三山街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7143628,
+      "lng": 120.2841766,
+      "routes": [
+        "29",
+        "29區間車",
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345346,
+      "name": "德民路口(三山街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7164225,
+      "lng": 120.2828188,
+      "routes": [
+        "29",
+        "29區間車",
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345348,
+      "name": "中興里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7247484,
+      "lng": 120.2775944,
+      "routes": [
+        "245",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345350,
+      "name": "五福社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7188582,
+      "lng": 120.2837816,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345352,
+      "name": "元帥廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7116806,
+      "lng": 120.2874441,
+      "routes": [
+        "29",
+        "29區間車",
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345359,
+      "name": "右昌(三山街口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7108342,
+      "lng": 120.2893107,
+      "routes": [
+        "29",
+        "29區間車",
+        "245",
+        "8015",
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345361,
+      "name": "右昌街口(德民路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7181084,
+      "lng": 120.2846953,
+      "routes": [
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345363,
+      "name": "大學21路一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7232489,
+      "lng": 120.2794979,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345364,
+      "name": "大學21路二",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7272752,
+      "lng": 120.2819569,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345365,
+      "name": "大學6街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7238266,
+      "lng": 120.2818304,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345366,
+      "name": "大學西路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7256894,
+      "lng": 120.281139,
+      "routes": [
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345371,
+      "name": "援中港",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7222351,
+      "lng": 120.2782069,
+      "routes": [
+        "245",
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345375,
+      "name": "永康新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7094465,
+      "lng": 120.2917546,
+      "routes": [
+        "29",
+        "29區間車",
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345379,
+      "name": "盛昌街口(三山街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7124213,
+      "lng": 120.2856199,
+      "routes": [
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2731345382,
+      "name": "興中橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7215896,
+      "lng": 120.2793522,
+      "routes": [
+        "245",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副",
+        "紅53梓官幹線-區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721822,
+      "name": "中華社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7090906,
+      "lng": 120.3248607,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721824,
+      "name": "加昌站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.719097,
+      "lng": 120.2986808,
+      "routes": [
+        "7A",
+        "7C",
+        "7D",
+        "28",
+        "39",
+        "205中華幹線",
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "219A",
+        "219B",
+        "245",
+        "301",
+        "301區間車",
+        "紅60A",
+        "紅60B",
+        "紅71C"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721825,
+      "name": "加昌國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7202077,
+      "lng": 120.2965148,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7C",
+        "28",
+        "219A",
+        "219B",
+        "245"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721827,
+      "name": "加昌路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7197804,
+      "lng": 120.310497,
+      "routes": [
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "219A",
+        "219B",
+        "紅56科技幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721833,
+      "name": "壽民路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7216189,
+      "lng": 120.2968335,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7C",
+        "28",
+        "219A",
+        "219B",
+        "245"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721835,
+      "name": "外環西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7213217,
+      "lng": 120.2987697,
+      "routes": [
+        "28",
+        "219A",
+        "219B",
+        "紅71C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721839,
+      "name": "建楠路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7272883,
+      "lng": 120.3293205,
+      "routes": [
+        "28",
+        "29",
+        "29區間車",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721841,
+      "name": "後勁國小(捷運後勁站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7211125,
+      "lng": 120.3137723,
+      "routes": [
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "301",
+        "301區間車",
+        "紅56科技幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721843,
+      "name": "後勁國中(捷運後勁站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7218932,
+      "lng": 120.3156102,
+      "routes": [
+        "7A",
+        "7D",
+        "28",
+        "29",
+        "29區間車",
+        "301",
+        "301區間車",
+        "紅56科技幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721847,
+      "name": "東門入口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7188228,
+      "lng": 120.3079007,
+      "routes": [
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "219A",
+        "219B",
+        "紅56科技幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721849,
+      "name": "高雄榮家(楠梓科技園區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7167771,
+      "lng": 120.3025061,
+      "routes": [
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "219A",
+        "219B",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.471Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721851,
+      "name": "慈雲寺(楠梓區公所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.73026,
+      "lng": 120.3271098,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "97",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.471Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721853,
+      "name": "楠梓派出所(楠梓路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7305427,
+      "lng": 120.328702,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "8023",
+        "8023區間車",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.471Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721855,
+      "name": "楠梓火車站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7275061,
+      "lng": 120.325411,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "7D",
+        "28",
+        "29",
+        "29區間車",
+        "97",
+        "224",
+        "8023",
+        "8023區間車",
+        "8048",
+        "8506",
+        "紅58A",
+        "紅58B",
+        "T801"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.471Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721857,
+      "name": "楠梓農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7283642,
+      "lng": 120.3296467,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "28",
+        "29",
+        "29區間車",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.471Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721859,
+      "name": "楠梓陸橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7248751,
+      "lng": 120.3237715,
+      "routes": [
+        "28"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.265Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721861,
+      "name": "楠陽國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7248563,
+      "lng": 120.3296467,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "28",
+        "29",
+        "29區間車",
+        "紅58A",
+        "紅58B",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721867,
+      "name": "稔田里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7122653,
+      "lng": 120.3256424,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721871,
+      "name": "金屬中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7144204,
+      "lng": 120.3257997,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655185,
+      "name": "世運主場館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.700953,
+      "lng": 120.2979673,
+      "routes": [
+        "39",
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655187,
+      "name": "中和里一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7235905,
+      "lng": 120.2767906,
+      "routes": [
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655193,
+      "name": "中和里二",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7283345,
+      "lng": 120.2732143,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.265Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2753105787,
+      "name": "朝新路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7239929,
+      "lng": 120.3258052,
+      "routes": [
+        "97",
+        "8048"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151835,
+      "name": "土庫六路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7422065,
+      "lng": 120.3324827,
+      "routes": [
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151841,
+      "name": "健仁醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7238456,
+      "lng": 120.3294968,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "29",
+        "29區間車",
+        "紅58A",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151845,
+      "name": "建楠路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7267647,
+      "lng": 120.3284928,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "29",
+        "29區間車",
+        "紅58A",
+        "紅58B",
+        "T801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151851,
+      "name": "捷運都會公園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7301186,
+      "lng": 120.3205367,
+      "routes": [
+        "7A",
+        "7C",
+        "29",
+        "29區間車",
+        "97",
+        "301",
+        "301區間車",
+        "8023區間車",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8048",
+        "8049",
+        "紅56科技幹線",
+        "紅58A",
+        "紅58B",
+        "紅58C(寒暑假停駛)",
+        "T801"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151870,
+      "name": "楠梓高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7445105,
+      "lng": 120.3312735,
+      "routes": [
+        "7C",
+        "29",
+        "97",
+        "紅58A",
+        "紅58B",
+        "紅58C(寒暑假停駛)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151876,
+      "name": "土庫社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7392123,
+      "lng": 120.3328427,
+      "routes": [
+        "29",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.472Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151882,
+      "name": "芎林六街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7480179,
+      "lng": 120.3310543,
+      "routes": [
+        "7C",
+        "97",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151884,
+      "name": "電力公司(楠梓)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7324722,
+      "lng": 120.3304651,
+      "routes": [
+        "7A",
+        "29",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2769151887,
+      "name": "高雄科大(第一西校區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7514061,
+      "lng": 120.3315818,
+      "routes": [
+        "7C",
+        "97",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2841948554,
+      "name": "國光高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7083598,
+      "lng": 120.3064997
+    },
+    {
+      "id": 2841948556,
+      "name": "後勁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7186715,
+      "lng": 120.31044,
+      "routes": [
+        "219A",
+        "219B",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2841948558,
+      "name": "後勁宿舍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7114903,
+      "lng": 120.308028,
+      "routes": [
+        "219A",
+        "219B",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2841948560,
+      "name": "後勁派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7156665,
+      "lng": 120.3093971,
+      "routes": [
+        "219A",
+        "219B",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2841948562,
+      "name": "捷運油廠國小站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7078314,
+      "lng": 120.3029494,
+      "routes": [
+        "219A",
+        "219B",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844196275,
+      "name": "彩虹城",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7246394,
+      "lng": 120.3007841,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844196277,
+      "name": "德民路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7235075,
+      "lng": 120.2986734,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844196279,
+      "name": "東翠屏里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7279403,
+      "lng": 120.312287,
+      "routes": [
+        "7A",
+        "29",
+        "29區間車",
+        "301",
+        "301區間車"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844196283,
+      "name": "監理處(都會公園)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7311181,
+      "lng": 120.3167456
+    },
+    {
+      "id": 2844196285,
+      "name": "高楠路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7314522,
+      "lng": 120.3201618,
+      "routes": [
+        "7A",
+        "29",
+        "29區間車",
+        "301",
+        "301區間車",
+        "紅56科技幹線",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047509,
+      "name": "中三街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7241434,
+      "lng": 120.3027312,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.266Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047510,
+      "name": "經六西二街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7183985,
+      "lng": 120.3017613,
+      "routes": [
+        "紅57",
+        "紅57區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047511,
+      "name": "久昌街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.711966,
+      "lng": 120.2831136,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.473Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047513,
+      "name": "加昌路口(捷運後勁站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7236813,
+      "lng": 120.3161557,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "7C",
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047515,
+      "name": "右昌國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7140303,
+      "lng": 120.2873492,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616055,
+      "name": "土庫二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7390069,
+      "lng": 120.3256516,
+      "routes": [
+        "7C"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047518,
+      "name": "塑膠廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7155989,
+      "lng": 120.2992759,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047520,
+      "name": "後昌路(吉昌街口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7164345,
+      "lng": 120.2891923,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047522,
+      "name": "楠梓國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7353525,
+      "lng": 120.3260867,
+      "routes": [
+        "29",
+        "97",
+        "8506"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047524,
+      "name": "楠梓國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7328106,
+      "lng": 120.3278445,
+      "routes": [
+        "29",
+        "97",
+        "8506"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047527,
+      "name": "高雄科大(楠梓)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7247783,
+      "lng": 120.3132346,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "7C",
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047529,
+      "name": "盛昌街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7109815,
+      "lng": 120.2845563,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047531,
+      "name": "三山街口(盛昌街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7125025,
+      "lng": 120.2862681,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047532,
+      "name": "經五開發路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7203481,
+      "lng": 120.3024322,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.267Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2853047533,
+      "name": "福興街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7149407,
+      "lng": 120.2813018,
+      "routes": [
+        "29",
+        "29區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025463,
+      "name": "仁翔社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7365229,
+      "lng": 120.3370392,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025465,
+      "name": "北國麗景",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7415291,
+      "lng": 120.3385303,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "7D",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025466,
+      "name": "安泰街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7433302,
+      "lng": 120.3389215,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025468,
+      "name": "常德路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7393647,
+      "lng": 120.3371198,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025470,
+      "name": "常順街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7330551,
+      "lng": 120.3363348,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025473,
+      "name": "楠梓路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7281661,
+      "lng": 120.3303257,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "224",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025476,
+      "name": "立安路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7432193,
+      "lng": 120.3360407,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.474Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025477,
+      "name": "立民路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7413197,
+      "lng": 120.337535,
+      "routes": [
+        "6",
+        "6(建楠路發車)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025478,
+      "name": "興楠路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7297497,
+      "lng": 120.3331467,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025481,
+      "name": "高雄少年法院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7306798,
+      "lng": 120.3355421,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "224",
+        "8048",
+        "8506",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2930747929,
+      "name": "開發內環西路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7199253,
+      "lng": 120.3003101,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2968988304,
+      "name": "楠梓運動園區(土庫路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7354749,
+      "lng": 120.3332262,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2968988305,
+      "name": "楠梓運動園區(土庫路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7349518,
+      "lng": 120.3322849,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2968988306,
+      "name": "清豐里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7388719,
+      "lng": 120.3361288,
+      "routes": [
+        "7A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304535,
+      "name": "經三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7212658,
+      "lng": 120.306162,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304537,
+      "name": "東六新經路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7245753,
+      "lng": 120.3084538,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304538,
+      "name": "開發經二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7227251,
+      "lng": 120.3072439,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304539,
+      "name": "員工服務中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7238494,
+      "lng": 120.3065078,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304540,
+      "name": "經二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7216189,
+      "lng": 120.3071537,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304544,
+      "name": "創意南路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7129411,
+      "lng": 120.3013725,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3005304545,
+      "name": "中二街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.723572,
+      "lng": 120.3045947,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363325504,
+      "name": "外埔(楠梓)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7311862,
+      "lng": 120.3374462,
+      "routes": [
+        "224",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "T801"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658410,
+      "name": "元昌街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7214746,
+      "lng": 120.2877622,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658412,
+      "name": "國昌國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7193862,
+      "lng": 120.2867402,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658414,
+      "name": "大學26街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7297775,
+      "lng": 120.2847769,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658418,
+      "name": "德民路(右昌森林公園)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7216175,
+      "lng": 120.2932956,
+      "routes": [
+        "245",
+        "紅56科技幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658420,
+      "name": "智昌街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7196588,
+      "lng": 120.2842624,
+      "routes": [
+        "245"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.475Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3894652473,
+      "name": "清豐三路口(土庫路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7389424,
+      "lng": 120.3307638,
+      "routes": [
+        "97"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4500380196,
+      "name": "統聯客運楠梓站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.729702,
+      "lng": 120.333708,
+      "routes": [
+        "1610",
+        "1610A",
+        "1610B",
+        "1610C",
+        "1610E",
+        "1621",
+        "1621D",
+        "1621E",
+        "1650D",
+        "1651",
+        "1838",
+        "1838A",
+        "1862",
+        "1862A",
+        "1872",
+        "1872A"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580827632,
+      "name": "世運",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7017541,
+      "lng": 120.3025096,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.268Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580834623,
+      "name": "油廠國小",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7087537,
+      "lng": 120.3023063,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580837515,
+      "name": "楠梓科技園區",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7187124,
+      "lng": 120.3071682,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580840208,
+      "name": "都會公園",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7296101,
+      "lng": 120.3209273,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580845736,
+      "name": "後勁",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7223496,
+      "lng": 120.3162548,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5293351045,
+      "name": "楠梓站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7263801,
+      "lng": 120.3249068,
+      "routes": [
+        "6",
+        "6(建楠路發車)",
+        "7A",
+        "7D",
+        "28",
+        "29",
+        "29區間車",
+        "97",
+        "224",
+        "8023",
+        "8023區間車",
+        "8048",
+        "8506",
+        "紅58A",
+        "紅58B",
+        "T801"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5395405197,
+      "name": "監理所(高楠路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7326635,
+      "lng": 120.320203,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "紅56科技幹線",
+        "紅58A",
+        "紅58B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5475013716,
+      "name": "經六路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7217732,
+      "lng": 120.3002685,
+      "routes": [
+        "紅57",
+        "紅57區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115795,
+      "name": "經五路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7216913,
+      "lng": 120.3016808,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115811,
+      "name": "新經一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7229178,
+      "lng": 120.3095973,
+      "routes": [
+        "紅57",
+        "紅57區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.476Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115812,
+      "name": "東三街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.721725,
+      "lng": 120.308919,
+      "routes": [
+        "紅57區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115815,
+      "name": "東六街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.724873,
+      "lng": 120.3085587,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115819,
+      "name": "中一街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7208177,
+      "lng": 120.3071721,
+      "routes": [
+        "紅57",
+        "紅57區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115824,
+      "name": "中央圓環",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.721926,
+      "lng": 120.3047563,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7299115842,
+      "name": "創意北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7147322,
+      "lng": 120.3007953,
+      "routes": [
+        "紅57"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616054,
+      "name": "台糖花卉中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7410007,
+      "lng": 120.3251205,
+      "routes": [
+        "7C"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616058,
+      "name": "清豐路口(楠梓路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7382351,
+      "lng": 120.3241871,
+      "routes": [
+        "7C",
+        "8506"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198449000,
+      "name": "七號公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7149139,
+      "lng": 120.2965131,
+      "routes": [
+        "29",
+        "29區間車",
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823874,
+      "name": "興昌里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7169643,
+      "lng": 120.2869023,
+      "routes": [
+        "8017",
+        "8021",
+        "8043"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823876,
+      "name": "北右昌(右昌街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7143468,
+      "lng": 120.2895936,
+      "routes": [
+        "8015",
+        "8017",
+        "8021",
+        "8043"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8420604127,
+      "name": "高雄大學 (德中路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7274943,
+      "lng": 120.2738598,
+      "routes": [
+        "8017",
+        "8021",
+        "8043"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12791891427,
+      "name": "翠屏里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7268741,
+      "lng": 120.3026614,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13305992318,
+      "name": "大學一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7269253,
+      "lng": 120.2941245,
+      "routes": [
+        "紅56科技幹線區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13306011121,
+      "name": "壽豐路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7233263,
+      "lng": 120.294235,
+      "routes": [
+        "紅56科技幹線區間車"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 126247895,
+      "name": "高雄市公車加昌站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7187788,
+      "lng": 120.2992419,
+      "routes": [
+        "7A",
+        "7C",
+        "7D",
+        "28",
+        "39",
+        "205中華幹線",
+        "217A新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "219A",
+        "219B",
+        "245",
+        "301",
+        "301區間車",
+        "紅60A",
+        "紅60B",
+        "紅71C"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 852010576,
+      "name": "和欣客運楠梓站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "楠梓區",
+      "lat": 22.7226893,
+      "lng": 120.3321737,
+      "routes": [
+        "7512",
+        "7512C",
+        "7512E",
+        "7512F",
+        "7513",
+        "7513A",
+        "7513B",
+        "7513D",
+        "7513K"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.477Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

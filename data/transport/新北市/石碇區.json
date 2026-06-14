@@ -1,0 +1,1373 @@
+{
+  "city": "新北市",
+  "district": "石碇區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 80,
+  "items": [
+    {
+      "id": 2501797013,
+      "name": "十三股",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9472377,
+      "lng": 121.6491816,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797029,
+      "name": "十股寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9523962,
+      "lng": 121.6390364,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797037,
+      "name": "南邦寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9611219,
+      "lng": 121.6142872,
+      "routes": [
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.605Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797055,
+      "name": "太清殿",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9576149,
+      "lng": 121.6116332,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797057,
+      "name": "小格頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.951793,
+      "lng": 121.6320152,
+      "routes": [
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.605Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797059,
+      "name": "小金瓜寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9449088,
+      "lng": 121.6556748,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797063,
+      "name": "巡邏站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9470903,
+      "lng": 121.6586778,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797067,
+      "name": "柑園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9594859,
+      "lng": 121.6170668,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797069,
+      "name": "二格公園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9570939,
+      "lng": 121.6234789,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797071,
+      "name": "棲霞山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9499603,
+      "lng": 121.663347,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797073,
+      "name": "水底寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9469747,
+      "lng": 121.6648332,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501798383,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.954631,
+      "lng": 121.627779
+    },
+    {
+      "id": 2501798387,
+      "name": "輔迪山莊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9590628,
+      "lng": 121.6200588,
+      "routes": [
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.605Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501798395,
+      "name": "雲海國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9539366,
+      "lng": 121.637005,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501798399,
+      "name": "風露嘴",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9520852,
+      "lng": 121.6455061,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2502496332,
+      "name": "楓子林路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0085219,
+      "lng": 121.6422842,
+      "routes": [
+        "923坪林站",
+        "923捷運新店站(新店路)",
+        "1915C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862477,
+      "name": "永定煤礦",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0065058,
+      "lng": 121.6964705,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862479,
+      "name": "明陽慈惠堂",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0166927,
+      "lng": 121.7051437,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862480,
+      "name": "姑娘廟",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0164717,
+      "lng": 121.6989289,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862481,
+      "name": "永定里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0070218,
+      "lng": 121.693967,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862484,
+      "name": "大湖格",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.017683,
+      "lng": 121.7008046,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862485,
+      "name": "藤寮坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0104607,
+      "lng": 121.699723,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862490,
+      "name": "五坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0221494,
+      "lng": 121.6955427,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849864693,
+      "name": "峰橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0091141,
+      "lng": 121.6839123,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849864694,
+      "name": "石碇埔",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0077004,
+      "lng": 121.6728112,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849864695,
+      "name": "永定國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0070829,
+      "lng": 121.6882676,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849864696,
+      "name": "孔子廟",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0054313,
+      "lng": 121.6714812,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849864697,
+      "name": "文山煤礦",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0105946,
+      "lng": 121.6770202,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849868006,
+      "name": "自來水公司",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0074191,
+      "lng": 121.653408,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849868007,
+      "name": "排寮橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0067563,
+      "lng": 121.6664048,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849868012,
+      "name": "三民煤礦",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0122378,
+      "lng": 121.6453931,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849868013,
+      "name": "八分寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0111228,
+      "lng": 121.6413594,
+      "routes": [
+        "660",
+        "660區",
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延",
+        "912",
+        "949",
+        "石碇高中-捷運忠孝復興站"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2895255109,
+      "name": "雙溪口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0058905,
+      "lng": 121.6517096,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2895415990,
+      "name": "石碇",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9913371,
+      "lng": 121.6589174,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "819副延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907048716,
+      "name": "石碇高中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0119426,
+      "lng": 121.6432531,
+      "routes": [
+        "660",
+        "660區",
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延",
+        "912",
+        "949",
+        "石碇高中-捷運忠孝復興站"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907476180,
+      "name": "外埔",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9931862,
+      "lng": 121.6553715
+    },
+    {
+      "id": 2907476182,
+      "name": "外按橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0000728,
+      "lng": 121.6522063,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "819副延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907476184,
+      "name": "外石崁",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9981152,
+      "lng": 121.6531172,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "819副延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907476194,
+      "name": "石碇區公所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9914158,
+      "lng": 121.6575417,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "819副延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907476196,
+      "name": "石碇國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9909237,
+      "lng": 121.6596365,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907476197,
+      "name": "石碇東街",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9889201,
+      "lng": 121.6590005,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907477420,
+      "name": "街仔頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9907939,
+      "lng": 121.6614792,
+      "routes": [
+        "666皇帝殿",
+        "666華梵大學"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907477424,
+      "name": "長潭壁",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0086375,
+      "lng": 121.6498426,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907477426,
+      "name": "隆盛里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0112726,
+      "lng": 121.6468548,
+      "routes": [
+        "666皇帝殿",
+        "666烏塗窟",
+        "666華梵大學",
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "819副",
+        "819副延"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907571969,
+      "name": "華梵大學",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9784691,
+      "lng": 121.6916442,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2907812201,
+      "name": "皇帝殿",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9824538,
+      "lng": 121.6711744,
+      "routes": [
+        "666皇帝殿",
+        "666華梵大學"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2909169369,
+      "name": "橫平路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9815375,
+      "lng": 121.6612143,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2909169371,
+      "name": "溪邊寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9786591,
+      "lng": 121.6585759,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2909169373,
+      "name": "烏塗窟",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9755134,
+      "lng": 121.6572457,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2909169375,
+      "name": "烏塗窟一",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9750076,
+      "lng": 121.6534384
+    },
+    {
+      "id": 2909169376,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9836298,
+      "lng": 121.6605026,
+      "routes": [
+        "666烏塗窟"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106605,
+      "name": "串穴湖",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0055536,
+      "lng": 121.6684696,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106607,
+      "name": "大溪墘",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0065489,
+      "lng": 121.6928129,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106610,
+      "name": "排寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.007272,
+      "lng": 121.6646241,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106614,
+      "name": "法濟寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0073237,
+      "lng": 121.6618641,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106617,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0095957,
+      "lng": 121.6876583,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3389106619,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0108164,
+      "lng": 121.680213,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432380494,
+      "name": "永安國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9430038,
+      "lng": 121.6661543,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400341,
+      "name": "淡蘭藝文館",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.990953,
+      "lng": 121.659738
+    },
+    {
+      "id": 8432400342,
+      "name": "下橫坪",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9858485,
+      "lng": 121.6665283,
+      "routes": [
+        "666皇帝殿",
+        "666華梵大學"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400344,
+      "name": "土庫尖路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.011624,
+      "lng": 121.640657,
+      "routes": [
+        "F711深坑區公有市場",
+        "F711深坑國小校門口"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400446,
+      "name": "光明寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.032373,
+      "lng": 121.6669241,
+      "routes": [
+        "小5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400483,
+      "name": "天明宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.954462,
+      "lng": 121.6259696,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400593,
+      "name": "永定聖興宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.0148087,
+      "lng": 121.6989403,
+      "routes": [
+        "795往木柵"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400650,
+      "name": "下坑頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.972899,
+      "lng": 121.688993,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400651,
+      "name": "九寮坡",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.981099,
+      "lng": 121.674502,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400653,
+      "name": "老鷹嘴",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.989023,
+      "lng": 121.6635249,
+      "routes": [
+        "666皇帝殿",
+        "666華梵大學"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400689,
+      "name": "光明里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.030646,
+      "lng": 121.666137,
+      "routes": [
+        "小5",
+        "F903"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400725,
+      "name": "中崩山口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.975422,
+      "lng": 121.677031,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400735,
+      "name": "崩山口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.976931,
+      "lng": 121.676121,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400969,
+      "name": "坑頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.974975,
+      "lng": 121.689555,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400971,
+      "name": "華梵路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.971435,
+      "lng": 121.687035,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400972,
+      "name": "大崙",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.975788,
+      "lng": 121.687338,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400974,
+      "name": "龜山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.976298,
+      "lng": 121.683756,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400976,
+      "name": "磨石坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.972141,
+      "lng": 121.687224,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400977,
+      "name": "豐田派出所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.973919,
+      "lng": 121.687445,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400979,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.975932,
+      "lng": 121.681356,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400981,
+      "name": "半路橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.978412,
+      "lng": 121.675287,
+      "routes": [
+        "666華梵大學"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401609,
+      "name": "石汐光明路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 25.033655,
+      "lng": 121.680111
+    },
+    {
+      "id": 12716210082,
+      "name": "大格門登山口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "石碇區",
+      "lat": 24.9474744,
+      "lng": 121.6648021
+    }
+  ]
+}

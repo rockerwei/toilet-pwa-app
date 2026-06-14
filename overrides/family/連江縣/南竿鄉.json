@@ -1,0 +1,352 @@
+{
+  "city": "連江縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:56:11.318Z",
+  "items": [
+    {
+      "id": 1952647596,
+      "name": "秋桂亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1676835,
+      "lng": 119.9253925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.290Z"
+    },
+    {
+      "id": 1952682995,
+      "name": "北海坑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1424967,
+      "lng": 119.9290209,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.292Z"
+    },
+    {
+      "id": 3291847985,
+      "name": "鐵堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1418655,
+      "lng": 119.9209167,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.294Z"
+    },
+    {
+      "id": 4195574688,
+      "name": "南竿機場服務台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1578691,
+      "lng": 119.9553809,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.296Z",
+      "address": "連江縣南竿鄉復興村220號"
+    },
+    {
+      "id": 4720530110,
+      "name": "大漢據點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.140831,
+      "lng": 119.9288696,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.297Z"
+    },
+    {
+      "id": 4722106545,
+      "name": "牛角聚落",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1637603,
+      "lng": 119.9527512,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.299Z"
+    },
+    {
+      "id": 5566659158,
+      "name": "觀夕平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1605955,
+      "lng": 119.9145532,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.300Z"
+    },
+    {
+      "id": 5566659159,
+      "name": "雲台山觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1506059,
+      "lng": 119.9230567,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.302Z"
+    },
+    {
+      "id": 7491945085,
+      "name": "勝利堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1588522,
+      "lng": 119.9346474,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.303Z"
+    },
+    {
+      "id": 7727962007,
+      "name": "馬祖1青年民宿借問站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1455768,
+      "lng": 119.9132066,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.304Z"
+    },
+    {
+      "id": 10201933163,
+      "name": "藍眼淚生態館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 26.1678765,
+      "lng": 119.9192325,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.304Z",
+      "address": "連江縣南竿鄉四維村24號"
+    },
+    {
+      "id": 10201933177,
+      "name": "雲台山軍情館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 26.1503902,
+      "lng": 119.922877,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.305Z"
+    },
+    {
+      "id": 10583792605,
+      "name": "馬祖劍碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1588308,
+      "lng": 119.9186312,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.306Z"
+    },
+    {
+      "id": 10607880104,
+      "name": "官帽山步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1404014,
+      "lng": 119.9242647,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.306Z"
+    },
+    {
+      "id": 10608000722,
+      "name": "綠色隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1396929,
+      "lng": 119.9266427,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.307Z"
+    },
+    {
+      "id": 10608000735,
+      "name": "銅門據點石碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1390675,
+      "lng": 119.9245737,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.308Z"
+    },
+    {
+      "id": 10608000747,
+      "name": "青蛙石 (俯看)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1396531,
+      "lng": 119.9262845,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.308Z"
+    },
+    {
+      "id": 10608000748,
+      "name": "馬祖地質公園展示館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.141191,
+      "lng": 119.9275484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.309Z"
+    },
+    {
+      "id": 13463740384,
+      "name": "腰山遊憩區（規劃中）",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 26.1487517,
+      "lng": 119.9328684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.310Z"
+    },
+    {
+      "id": 13710628782,
+      "name": "南竿 26 據點",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1515427,
+      "lng": 119.9547323,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.310Z"
+    },
+    {
+      "id": 13710647904,
+      "name": "介壽濱海遊憩步道導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1517364,
+      "lng": 119.9546748,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.311Z"
+    },
+    {
+      "id": 13710647976,
+      "name": "海天之丘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1513519,
+      "lng": 119.9549065,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.311Z"
+    },
+    {
+      "id": 13710647977,
+      "name": "南竿26據點全區地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1514855,
+      "lng": 119.9547966,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.312Z"
+    },
+    {
+      "id": 13710647980,
+      "name": "觀夕平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1512172,
+      "lng": 119.954619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.312Z"
+    },
+    {
+      "id": 13742098879,
+      "name": "南竿全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1565663,
+      "lng": 119.951925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.313Z"
+    },
+    {
+      "id": 13742098880,
+      "name": "蔬菜公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1565662,
+      "lng": 119.9519165,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.313Z"
+    },
+    {
+      "id": 391510595,
+      "name": "福澳港遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1606952,
+      "lng": 119.9441026,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.314Z"
+    },
+    {
+      "id": 478866131,
+      "name": "南竿遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.1412152,
+      "lng": 119.927558,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.314Z",
+      "address": "連江縣南竿鄉仁愛村95-2號"
+    },
+    {
+      "id": 478868210,
+      "name": "馬祖民俗文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 26.1503569,
+      "lng": 119.9354774,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.315Z",
+      "address": "連江縣南竿鄉清水村135號"
+    },
+    {
+      "id": 493519728,
+      "name": "八八坑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.160326,
+      "lng": 119.9534302,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.316Z"
+    },
+    {
+      "id": 830188877,
+      "name": "馬祖國家風景區管理處行政中心",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 26.1420724,
+      "lng": 119.9281976,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.316Z",
+      "address": "連江縣南竿鄉仁愛村95-1號"
+    },
+    {
+      "id": 1115505227,
+      "name": "經國先生紀念堂",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 26.1503957,
+      "lng": 119.9341913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.317Z"
+    },
+    {
+      "id": 7039489,
+      "name": "福建省政府、連江縣政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 26.1646627,
+      "lng": 120.2015784,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.317Z"
+    },
+    {
+      "id": 7075828,
+      "name": "馬祖列島燕鷗保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 26.1648018,
+      "lng": 120.2015787,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:56:11.318Z"
+    }
+  ]
+}

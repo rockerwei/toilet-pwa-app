@@ -1,0 +1,60 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:12:45.759Z",
+  "items": [
+    {
+      "id": 2747384967,
+      "name": "鄭南榕自由紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.061535,
+      "lng": 121.5455665,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:12:45.754Z",
+      "address": "105台北市松山區民權東路三段106巷3弄11號三樓"
+    },
+    {
+      "id": 9889034016,
+      "name": "馬來西亞觀光局在臺辦事處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0567405,
+      "lng": 121.5483235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:12:45.756Z",
+      "address": "105臺北市松山區敦化北路170號八樓C室"
+    },
+    {
+      "id": 197842868,
+      "name": "彩虹橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0522348,
+      "lng": 121.5766905,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:12:45.757Z"
+    },
+    {
+      "id": 313680586,
+      "name": "臺北偶戲館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0477493,
+      "lng": 121.5613549,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:12:45.758Z",
+      "address": "105台北市松山區市民大道五段99號"
+    },
+    {
+      "id": 516455044,
+      "name": "饒河街觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0506837,
+      "lng": 121.5750698,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:12:45.759Z"
+    }
+  ]
+}

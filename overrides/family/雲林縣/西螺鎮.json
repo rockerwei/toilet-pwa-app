@@ -1,0 +1,59 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:47:02.171Z",
+  "items": [
+    {
+      "id": 9540300817,
+      "name": "醬油",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8017775,
+      "lng": 120.4317367,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:47:02.163Z"
+    },
+    {
+      "id": 164257492,
+      "name": "東市場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8021169,
+      "lng": 120.4633578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:47:02.166Z",
+      "address": "雲林縣西螺鎮延平路35-49號"
+    },
+    {
+      "id": 377700318,
+      "name": "ART72 Gallery",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.8021899,
+      "lng": 120.4629625,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:47:02.168Z"
+    },
+    {
+      "id": 377700460,
+      "name": "西螺延平老街文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.8019425,
+      "lng": 120.4625283,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:47:02.169Z",
+      "address": "648雲林縣西螺鎮延平路92號"
+    },
+    {
+      "id": 924634160,
+      "name": "西螺戲院",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8013462,
+      "lng": 120.4635823,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:47:02.170Z"
+    }
+  ]
+}

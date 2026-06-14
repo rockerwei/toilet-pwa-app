@@ -1,0 +1,37 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:59:51.445Z",
+  "items": [
+    {
+      "id": 8836210900,
+      "name": "校史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0232469,
+      "lng": 120.2241843,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:59:51.441Z"
+    },
+    {
+      "id": 9759374080,
+      "name": "復興老兵文化園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9980113,
+      "lng": 120.2400712,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:59:51.443Z"
+    },
+    {
+      "id": 552959022,
+      "name": "經國紀念行館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0026389,
+      "lng": 120.2443354,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:59:51.445Z"
+    }
+  ]
+}

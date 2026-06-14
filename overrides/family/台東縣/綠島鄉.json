@@ -1,0 +1,540 @@
+{
+  "city": "台東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:37:51.876Z",
+  "items": [
+    {
+      "id": 940950153,
+      "name": "綠島朝日溫泉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6370781,
+      "lng": 121.504017,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.836Z",
+      "address": "951臺東縣綠島鄉溫泉路167號"
+    },
+    {
+      "id": 940950176,
+      "name": "彎弓洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6693492,
+      "lng": 121.5096748,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.838Z"
+    },
+    {
+      "id": 940950211,
+      "name": "綠島燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6765213,
+      "lng": 121.4663471,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.840Z"
+    },
+    {
+      "id": 940950223,
+      "name": "帆船鼻",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6361348,
+      "lng": 121.5043735,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.842Z"
+    },
+    {
+      "id": 940951342,
+      "name": "綠島梅花鹿生態文創園區",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 22.6716376,
+      "lng": 121.4941583,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.843Z",
+      "address": "951臺東縣綠島鄉草山201號"
+    },
+    {
+      "id": 3776472922,
+      "name": "小長城",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6606462,
+      "lng": 121.5071401,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.845Z"
+    },
+    {
+      "id": 4166789022,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.644424,
+      "lng": 121.495774,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.846Z"
+    },
+    {
+      "id": 4175284646,
+      "name": "綠島白沙灣民宿",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 22.6387799,
+      "lng": 121.4960629,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.847Z",
+      "address": "951臺東縣綠島鄉大白沙32號"
+    },
+    {
+      "id": 4295593670,
+      "name": "石朗",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6552385,
+      "lng": 121.4746843,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.848Z"
+    },
+    {
+      "id": 4295605207,
+      "name": "龜灣鼻",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6466647,
+      "lng": 121.47335,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.849Z"
+    },
+    {
+      "id": 4295605208,
+      "name": "龜灣",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6446575,
+      "lng": 121.4830754,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.850Z"
+    },
+    {
+      "id": 4295605210,
+      "name": "龍蝦洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6413284,
+      "lng": 121.4902428,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.851Z"
+    },
+    {
+      "id": 4296527956,
+      "name": "帆船鼻",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6350695,
+      "lng": 121.5071894,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.852Z"
+    },
+    {
+      "id": 4296528416,
+      "name": "柴口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6766773,
+      "lng": 121.4832634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.852Z"
+    },
+    {
+      "id": 4296619813,
+      "name": "孔子岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6521352,
+      "lng": 121.5057951,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.853Z"
+    },
+    {
+      "id": 4298612046,
+      "name": "酬勤水庫",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.672712,
+      "lng": 121.5008226,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.853Z"
+    },
+    {
+      "id": 4298612152,
+      "name": "牛頭山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.676948,
+      "lng": 121.5079514,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.854Z"
+    },
+    {
+      "id": 5430816674,
+      "name": "觀景平台 (已無視野)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6455881,
+      "lng": 121.4926745,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.855Z"
+    },
+    {
+      "id": 5430816675,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6582865,
+      "lng": 121.4927059,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.855Z"
+    },
+    {
+      "id": 9828353145,
+      "name": "樓門岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6821656,
+      "lng": 121.5111388,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.856Z"
+    },
+    {
+      "id": 10767840615,
+      "name": "臺東",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6435988,
+      "lng": 121.4990996,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.857Z"
+    },
+    {
+      "id": 11766474072,
+      "name": "過山古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6560583,
+      "lng": 121.4860474,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.857Z"
+    },
+    {
+      "id": 11766474076,
+      "name": "↑ 阿眉山 0.94km",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6560905,
+      "lng": 121.4861866,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.858Z"
+    },
+    {
+      "id": 11766474184,
+      "name": "↑300M●1500M↓",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6543352,
+      "lng": 121.4880545,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.859Z"
+    },
+    {
+      "id": 11766474185,
+      "name": "←900M●900M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6502856,
+      "lng": 121.4911032,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.859Z"
+    },
+    {
+      "id": 11766474197,
+      "name": "↖600M●1200M↘",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6517765,
+      "lng": 121.4887816,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.860Z"
+    },
+    {
+      "id": 11766474200,
+      "name": "←1200M●600M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.649647,
+      "lng": 121.4935322,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.860Z"
+    },
+    {
+      "id": 11766474221,
+      "name": "←1500M●300M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6493985,
+      "lng": 121.4963899,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.861Z"
+    },
+    {
+      "id": 11766474250,
+      "name": "↑1800M●終點↓",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6490694,
+      "lng": 121.4985516,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.861Z"
+    },
+    {
+      "id": 11766474257,
+      "name": "過山古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6487825,
+      "lng": 121.4987071,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.862Z"
+    },
+    {
+      "id": 11766481508,
+      "name": "←終點●1800M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.656033,
+      "lng": 121.4862927,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.863Z"
+    },
+    {
+      "id": 11766513186,
+      "name": "綠島燈塔",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6758269,
+      "lng": 121.466627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.864Z"
+    },
+    {
+      "id": 11766513201,
+      "name": "陸蟹保育",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6760132,
+      "lng": 121.4712643,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.864Z"
+    },
+    {
+      "id": 11770715656,
+      "name": "↑1800M●終點↓",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6435727,
+      "lng": 121.4990112,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.865Z"
+    },
+    {
+      "id": 11770715657,
+      "name": "過山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6436221,
+      "lng": 121.4990368,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.866Z"
+    },
+    {
+      "id": 11770790473,
+      "name": "←1500M●300M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6442549,
+      "lng": 121.4971158,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.866Z"
+    },
+    {
+      "id": 11770790519,
+      "name": "←1200M●600M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6447476,
+      "lng": 121.4945308,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.867Z"
+    },
+    {
+      "id": 11770790561,
+      "name": "←900M●900M→",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6457772,
+      "lng": 121.4922009,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.867Z"
+    },
+    {
+      "id": 11770790593,
+      "name": "↑600M●1200M↓",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6471074,
+      "lng": 121.4900741,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.868Z"
+    },
+    {
+      "id": 11780480520,
+      "name": "↖300M●1500M↘",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6493182,
+      "lng": 121.4890617,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.869Z"
+    },
+    {
+      "id": 11780480548,
+      "name": "↖終點●1800M↘",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6511096,
+      "lng": 121.4870321,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.870Z"
+    },
+    {
+      "id": 11780488081,
+      "name": "過山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.651229,
+      "lng": 121.4870201,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.870Z"
+    },
+    {
+      "id": 11780488135,
+      "name": "觀海步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6446159,
+      "lng": 121.4996973,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.871Z"
+    },
+    {
+      "id": 11785907559,
+      "name": "紫坪",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.637603,
+      "lng": 121.4989098,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.871Z"
+    },
+    {
+      "id": 11785907563,
+      "name": "紫坪",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6361759,
+      "lng": 121.4986686,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.872Z"
+    },
+    {
+      "id": 11794990720,
+      "name": "綠島漁業資源保育區石朗分區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6554269,
+      "lng": 121.4748542,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.872Z"
+    },
+    {
+      "id": 11794990722,
+      "name": "石朗",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6551244,
+      "lng": 121.4748286,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.873Z"
+    },
+    {
+      "id": 11794990737,
+      "name": "綠島漁業資源保育區龜灣分區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6394831,
+      "lng": 121.4934607,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.874Z"
+    },
+    {
+      "id": 12033883529,
+      "name": "仙人疊石",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6589202,
+      "lng": 121.5075819,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.874Z"
+    },
+    {
+      "id": 114443622,
+      "name": "綠島遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6719949,
+      "lng": 121.4685901,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.875Z"
+    },
+    {
+      "id": 416842192,
+      "name": "朝日旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6384188,
+      "lng": 121.4990746,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.875Z"
+    },
+    {
+      "id": 531019902,
+      "name": "梅花鹿生態園區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.6709767,
+      "lng": 121.4975668,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.876Z"
+    },
+    {
+      "id": 531151254,
+      "name": "綠島燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6765209,
+      "lng": 121.4663287,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:51.876Z"
+    }
+  ]
+}

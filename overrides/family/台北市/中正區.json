@@ -1,0 +1,919 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:09:44.399Z",
+  "items": [
+    {
+      "id": 471260837,
+      "name": "清代布政使司衙門遺址碑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0428649,
+      "lng": 121.5099431,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.346Z"
+    },
+    {
+      "id": 929021085,
+      "name": "黃氏節孝坊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0429124,
+      "lng": 121.5154958,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.353Z"
+    },
+    {
+      "id": 929021102,
+      "name": "急公好義牌坊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.041085,
+      "lng": 121.5142824,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.355Z"
+    },
+    {
+      "id": 1707904027,
+      "name": "臺大檔案館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.013943,
+      "lng": 121.5287319,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.356Z",
+      "address": "100臺北市中正區思源街18號"
+    },
+    {
+      "id": 2079702387,
+      "name": "服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0440913,
+      "lng": 121.529353,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.356Z"
+    },
+    {
+      "id": 2645583717,
+      "name": "荷風閣",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0316361,
+      "lng": 121.5111447,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.357Z"
+    },
+    {
+      "id": 3007194571,
+      "name": "入府動線公告牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0409223,
+      "lng": 121.512832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.358Z"
+    },
+    {
+      "id": 3007195602,
+      "name": "臺北車站商圈觀光導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0388788,
+      "lng": 121.512961,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.358Z"
+    },
+    {
+      "id": 3007195603,
+      "name": "國家圖書館指引牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.038096,
+      "lng": 121.5169963,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.359Z"
+    },
+    {
+      "id": 3200945581,
+      "name": "孫運璿科技．人文紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0335779,
+      "lng": 121.5115224,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.360Z",
+      "address": "10066臺北市中正區重慶南路二段6巷10號"
+    },
+    {
+      "id": 3440694296,
+      "name": "避難收容場所",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0419106,
+      "lng": 121.5084664,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.360Z"
+    },
+    {
+      "id": 3440695996,
+      "name": "臺灣銀行舊照",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0411982,
+      "lng": 121.5129373,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.361Z"
+    },
+    {
+      "id": 3440726895,
+      "name": "公園禁止事項",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0414747,
+      "lng": 121.5155029,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.361Z"
+    },
+    {
+      "id": 3440743693,
+      "name": "臺北市公園自治條例",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0415124,
+      "lng": 121.5155181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.362Z"
+    },
+    {
+      "id": 3634067395,
+      "name": "旅遊資訊",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0151668,
+      "lng": 121.5336614,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.362Z"
+    },
+    {
+      "id": 3675174636,
+      "name": "旅遊資訊",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0419274,
+      "lng": 121.5186847,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.363Z"
+    },
+    {
+      "id": 3676291825,
+      "name": "古蹟導覽牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0427432,
+      "lng": 121.5317698,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.363Z"
+    },
+    {
+      "id": 3680106756,
+      "name": "旅遊服務中心指示牌兼路燈",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0472469,
+      "lng": 121.5165985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.363Z"
+    },
+    {
+      "id": 3851543641,
+      "name": "古蹟導覽牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0450297,
+      "lng": 121.5229423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.364Z"
+    },
+    {
+      "id": 4253208206,
+      "name": "公館水岸觀光導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0119011,
+      "lng": 121.528551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.364Z"
+    },
+    {
+      "id": 4524863796,
+      "name": "西門旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0428621,
+      "lng": 121.5086388,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.365Z"
+    },
+    {
+      "id": 4524864162,
+      "name": "捷運台北車站站名史記",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0464218,
+      "lng": 121.5172565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.365Z"
+    },
+    {
+      "id": 4834803696,
+      "name": "主婦聯盟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0134938,
+      "lng": 121.5343509,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.366Z"
+    },
+    {
+      "id": 4838087637,
+      "name": "第九號蒸汽車頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0431969,
+      "lng": 121.5144472,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.366Z"
+    },
+    {
+      "id": 4838087638,
+      "name": "騰雲號",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0431973,
+      "lng": 121.5143844,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.367Z"
+    },
+    {
+      "id": 4838087669,
+      "name": "國父史跡紀念館重修記",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0475093,
+      "lng": 121.5194781,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.367Z"
+    },
+    {
+      "id": 4948054931,
+      "name": "觀音山步道地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0112642,
+      "lng": 121.5311646,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.368Z"
+    },
+    {
+      "id": 5110488956,
+      "name": "植栽與鋪面景觀設計的理念",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0475905,
+      "lng": 121.5104954,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.368Z"
+    },
+    {
+      "id": 5110488957,
+      "name": "清代城內道路鋪面",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0475779,
+      "lng": 121.5104701,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.368Z"
+    },
+    {
+      "id": 5110488959,
+      "name": "臺北城牆條石工具",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0476326,
+      "lng": 121.5106337,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.369Z"
+    },
+    {
+      "id": 5110488960,
+      "name": "臺北城牆條石工法",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0476377,
+      "lng": 121.5106608,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.369Z"
+    },
+    {
+      "id": 5110488961,
+      "name": "臺北城「城市軸線」的人文意義",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.047601,
+      "lng": 121.5108368,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.370Z"
+    },
+    {
+      "id": 5110488962,
+      "name": "臺北城建城沿革",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0475579,
+      "lng": 121.5107997,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.370Z"
+    },
+    {
+      "id": 5110488964,
+      "name": "旅遊資訊地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0474377,
+      "lng": 121.511329,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.371Z"
+    },
+    {
+      "id": 5110488965,
+      "name": "臺北城門",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0476242,
+      "lng": 121.5115981,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.372Z"
+    },
+    {
+      "id": 5110488966,
+      "name": "築城風水地景",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0477304,
+      "lng": 121.511482,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.372Z"
+    },
+    {
+      "id": 5110488969,
+      "name": "臺北築城材料及構造特色",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0478697,
+      "lng": 121.5106517,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.373Z"
+    },
+    {
+      "id": 5110488970,
+      "name": "臺灣鐵路的興築與北門的關係",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0477174,
+      "lng": 121.510359,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.374Z"
+    },
+    {
+      "id": 5110488971,
+      "name": "三線路的故事",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0473456,
+      "lng": 121.5102544,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.374Z"
+    },
+    {
+      "id": 5259954578,
+      "name": "跨堤平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0201087,
+      "lng": 121.522634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.374Z"
+    },
+    {
+      "id": 5318080610,
+      "name": "國史館展場",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0398684,
+      "lng": 121.5108938,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.375Z",
+      "address": "10048臺北市中正區長沙街一段2號1-2樓"
+    },
+    {
+      "id": 5332858654,
+      "name": "台灣公路原點路牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0457996,
+      "lng": 121.5199034,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.376Z"
+    },
+    {
+      "id": 5551867524,
+      "name": "原住民族文化產業推展中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0315586,
+      "lng": 121.5194258,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.376Z"
+    },
+    {
+      "id": 5711786928,
+      "name": "台北府考棚遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0455875,
+      "lng": 121.518962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.377Z"
+    },
+    {
+      "id": 5761755274,
+      "name": "健康歩道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0334127,
+      "lng": 121.5208149,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.377Z"
+    },
+    {
+      "id": 5813517479,
+      "name": "黃氏節孝坊",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0428905,
+      "lng": 121.5155088,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.377Z"
+    },
+    {
+      "id": 6681320988,
+      "name": "台灣國家婦女館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0430712,
+      "lng": 121.5269228,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.378Z"
+    },
+    {
+      "id": 7002886701,
+      "name": "詢問處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0478837,
+      "lng": 121.518444,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.379Z"
+    },
+    {
+      "id": 7330912585,
+      "name": "二二八公園平面圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0431727,
+      "lng": 121.5142205,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.379Z"
+    },
+    {
+      "id": 7330912590,
+      "name": "第九號蒸汽車頭",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0431132,
+      "lng": 121.5144485,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.380Z"
+    },
+    {
+      "id": 7330912591,
+      "name": "騰雲號",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0431137,
+      "lng": 121.5143855,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.380Z"
+    },
+    {
+      "id": 7330912617,
+      "name": "戶外石器區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0429066,
+      "lng": 121.5153558,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.380Z"
+    },
+    {
+      "id": 8049288911,
+      "name": "古蹟導覽示意圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0386422,
+      "lng": 121.5154236,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.381Z"
+    },
+    {
+      "id": 8123184723,
+      "name": "綠意蕩漾-水生植物",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0347557,
+      "lng": 121.519578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.381Z"
+    },
+    {
+      "id": 8250623832,
+      "name": "中正紀念堂園區平面導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0335235,
+      "lng": 121.5209973,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.382Z"
+    },
+    {
+      "id": 9565542174,
+      "name": "詢問處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.044807,
+      "lng": 121.5234354,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.382Z"
+    },
+    {
+      "id": 9565542175,
+      "name": "詢問處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0461807,
+      "lng": 121.517985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.382Z"
+    },
+    {
+      "id": 9565542176,
+      "name": "詢問處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0466825,
+      "lng": 121.5159626,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.383Z"
+    },
+    {
+      "id": 9565953563,
+      "name": "詢問處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0338507,
+      "lng": 121.5291312,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.383Z"
+    },
+    {
+      "id": 9785004774,
+      "name": "臺灣銀行文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0414149,
+      "lng": 121.5112589,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.384Z"
+    },
+    {
+      "id": 11299163748,
+      "name": "創藝小客廳",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0105797,
+      "lng": 121.5320881,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.384Z"
+    },
+    {
+      "id": 11377061910,
+      "name": "信箱牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0105485,
+      "lng": 121.5328746,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.385Z"
+    },
+    {
+      "id": 11405485007,
+      "name": "臺北植物園苗圃",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0330997,
+      "lng": 121.5081815,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.385Z"
+    },
+    {
+      "id": 12416364117,
+      "name": "營業時間牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0453063,
+      "lng": 121.5096665,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.386Z"
+    },
+    {
+      "id": 12462530129,
+      "name": "警政署警察史蹟館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0454126,
+      "lng": 121.5227109,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.386Z"
+    },
+    {
+      "id": 12826104628,
+      "name": "避難收容處所",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0146592,
+      "lng": 121.5335572,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.386Z"
+    },
+    {
+      "id": 12844151311,
+      "name": "林森紀念堂",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0299064,
+      "lng": 121.5149541,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.387Z"
+    },
+    {
+      "id": 197611923,
+      "name": "二二八國家紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0314824,
+      "lng": 121.5140327,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.388Z",
+      "address": "10066臺北市中正區南海路54號"
+    },
+    {
+      "id": 252994060,
+      "name": "臺北當代工藝設計分館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0319082,
+      "lng": 121.5122993,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.388Z",
+      "address": "10066臺北市中正區南海路41號"
+    },
+    {
+      "id": 253142536,
+      "name": "國立臺灣博物館土銀展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0436749,
+      "lng": 121.5143916,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.389Z",
+      "address": "10046台北市中正區襄陽路25號"
+    },
+    {
+      "id": 268533343,
+      "name": "蒲添生雕塑紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0454353,
+      "lng": 121.524682,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.389Z",
+      "address": "100臺北市中正區林森北路9巷16號"
+    },
+    {
+      "id": 271367088,
+      "name": "國家攝影文化中心（原大阪商船株式會社臺北支店）",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0466337,
+      "lng": 121.5144585,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.390Z",
+      "address": "10041臺北市中正區忠孝西路一段70號"
+    },
+    {
+      "id": 299946169,
+      "name": "國立臺灣博物館 南門分館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0332646,
+      "lng": 121.5162137,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.390Z"
+    },
+    {
+      "id": 350363353,
+      "name": "攝影平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0395405,
+      "lng": 121.5131431,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.390Z"
+    },
+    {
+      "id": 396108250,
+      "name": "南門町三二三",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.03258,
+      "lng": 121.5111165,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.391Z"
+    },
+    {
+      "id": 442087802,
+      "name": "紀州庵文學森林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0215346,
+      "lng": 121.5206219,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.391Z",
+      "address": "100臺北市中正區同安街107號"
+    },
+    {
+      "id": 504654491,
+      "name": "觀景木棧平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0112617,
+      "lng": 121.5298837,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.392Z"
+    },
+    {
+      "id": 593801638,
+      "name": "南機場夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0285116,
+      "lng": 121.5060228,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.393Z"
+    },
+    {
+      "id": 746060239,
+      "name": "台灣文學基地",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0413892,
+      "lng": 121.5283572,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.393Z",
+      "address": "100臺北市中正區幸福里19鄰濟南路二段27號"
+    },
+    {
+      "id": 1050624567,
+      "name": "追思懷念區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0403008,
+      "lng": 121.5152136,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.394Z"
+    },
+    {
+      "id": 1050624645,
+      "name": "台北二二八紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0403727,
+      "lng": 121.5154688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.395Z",
+      "address": "10048臺北市中正區凱達格蘭大道3號"
+    },
+    {
+      "id": 1050624649,
+      "name": "翠亨閣",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0420781,
+      "lng": 121.515738,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.395Z"
+    },
+    {
+      "id": 1051081794,
+      "name": "弄春池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0408354,
+      "lng": 121.5250868,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.395Z"
+    },
+    {
+      "id": 1052759757,
+      "name": "中正紀念堂",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0346367,
+      "lng": 121.5218155,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.396Z",
+      "address": "10048臺北市中正區中山南路21號"
+    },
+    {
+      "id": 1053359244,
+      "name": "自由廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0361609,
+      "lng": 121.5187198,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.396Z"
+    },
+    {
+      "id": 1053396976,
+      "name": "民主大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0354708,
+      "lng": 121.5201399,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.397Z"
+    },
+    {
+      "id": 1130777700,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0412968,
+      "lng": 121.5284526,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.397Z"
+    },
+    {
+      "id": 1164881546,
+      "name": "日光詣SPACIA",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0476926,
+      "lng": 121.5179873,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.398Z"
+    },
+    {
+      "id": 1229841985,
+      "name": "腊葉館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0317797,
+      "lng": 121.5088825,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.399Z"
+    },
+    {
+      "id": 7018055,
+      "name": "台北市野雁保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0269609,
+      "lng": 121.50551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:09:44.399Z"
+    }
+  ]
+}

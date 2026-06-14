@@ -1,0 +1,98 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:10:27.712Z",
+  "items": [
+    {
+      "id": 6295921935,
+      "name": "高鐵彰化站旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8743154,
+      "lng": 120.574699,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.698Z"
+    },
+    {
+      "id": 6615527314,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.878391,
+      "lng": 120.6152867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.701Z"
+    },
+    {
+      "id": 9385761314,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8611,
+      "lng": 120.6121,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.703Z"
+    },
+    {
+      "id": 9673472493,
+      "name": "田中窯創藝園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8691341,
+      "lng": 120.5701169,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.704Z",
+      "address": "520彰化縣田中鎮斗中路二段230巷248號"
+    },
+    {
+      "id": 10767840571,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.861867,
+      "lng": 120.61269,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.706Z"
+    },
+    {
+      "id": 10767840572,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.861683,
+      "lng": 120.61039,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.708Z"
+    },
+    {
+      "id": 10767840573,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.840645,
+      "lng": 120.613699,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.709Z"
+    },
+    {
+      "id": 11228660017,
+      "name": "中央嶺造林步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.878478,
+      "lng": 120.6151699,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.711Z"
+    },
+    {
+      "id": 1212020715,
+      "name": "五峰平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8784251,
+      "lng": 120.615218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:10:27.712Z"
+    }
+  ]
+}

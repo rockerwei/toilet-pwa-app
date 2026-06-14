@@ -1,0 +1,722 @@
+{
+  "city": "苗栗縣",
+  "district": "公館鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 43,
+  "items": [
+    {
+      "id": 4831398162,
+      "name": "公館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5019341,
+      "lng": 120.8281943,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398188,
+      "name": "樟樹伯公",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.514908,
+      "lng": 120.8240483,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398190,
+      "name": "五谷岡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5204501,
+      "lng": 120.8216812,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398192,
+      "name": "苗栗農改場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4950646,
+      "lng": 120.8281058,
+      "routes": [
+        "101",
+        "101B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398195,
+      "name": "公館國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4983475,
+      "lng": 120.8279623,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398197,
+      "name": "玉泉",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5091363,
+      "lng": 120.82596,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4831398199,
+      "name": "蠶絲廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5066713,
+      "lng": 120.8269357,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.099Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4833327876,
+      "name": "苗栗特色館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4908588,
+      "lng": 120.8283408,
+      "routes": [
+        "101",
+        "101B",
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4833327878,
+      "name": "館南",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4929213,
+      "lng": 120.8281007,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.099Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853760316,
+      "name": "鶴岡口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5287734,
+      "lng": 120.819,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657",
+        "5659"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713747964,
+      "name": "福基",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4727119,
+      "lng": 120.8302948,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713747965,
+      "name": "福園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4752361,
+      "lng": 120.8300775,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713747966,
+      "name": "福星",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4794715,
+      "lng": 120.8299676,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713747972,
+      "name": "福全",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4834431,
+      "lng": 120.8291388,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713763791,
+      "name": "石墻",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.483924,
+      "lng": 120.8167335,
+      "routes": [
+        "101",
+        "101B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713833280,
+      "name": "福德",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4653978,
+      "lng": 120.8623713,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713833282,
+      "name": "出礦坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4638573,
+      "lng": 120.8520395,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713833284,
+      "name": "精米所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4656614,
+      "lng": 120.8489791,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713839281,
+      "name": "楊喜崎",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.466389,
+      "lng": 120.8432847,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713845286,
+      "name": "上福基",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4667161,
+      "lng": 120.8349632,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713845338,
+      "name": "黃金小鎮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.47009,
+      "lng": 120.8311236,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875405,
+      "name": "新珠廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5293335,
+      "lng": 120.8218663,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875407,
+      "name": "德馨社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.530203,
+      "lng": 120.8234279,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875409,
+      "name": "高禾程",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5311742,
+      "lng": 120.8252286,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875411,
+      "name": "鶴岡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5313931,
+      "lng": 120.8312663,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875413,
+      "name": "宏福社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5318135,
+      "lng": 120.8280573,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.099Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875414,
+      "name": "胡厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.531017,
+      "lng": 120.8335835,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875416,
+      "name": "東西橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5280479,
+      "lng": 120.836615,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875418,
+      "name": "寬仁",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.528211,
+      "lng": 120.8397814,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875420,
+      "name": "善西橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5244887,
+      "lng": 120.849244,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875429,
+      "name": "新庄角",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5276463,
+      "lng": 120.8502242,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875433,
+      "name": "南河國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5298249,
+      "lng": 120.8528933,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875442,
+      "name": "玉清寺口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5333288,
+      "lng": 120.8561932,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875444,
+      "name": "北河活動中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5352372,
+      "lng": 120.8596001,
+      "routes": [
+        "5659"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875486,
+      "name": "鄉界",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4748632,
+      "lng": 120.812997
+    },
+    {
+      "id": 8236875488,
+      "name": "關爺宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4727644,
+      "lng": 120.8175631
+    },
+    {
+      "id": 8236875490,
+      "name": "石圍牆",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4721825,
+      "lng": 120.8193096
+    },
+    {
+      "id": 8236875492,
+      "name": "香埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4725004,
+      "lng": 120.8259078
+    },
+    {
+      "id": 8239476328,
+      "name": "交流道口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5270834,
+      "lng": 120.8192232,
+      "routes": [
+        "5656",
+        "5657"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.100Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239476333,
+      "name": "枋屋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4860775,
+      "lng": 120.828765,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241992033,
+      "name": "苗栗交流道",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5204343,
+      "lng": 120.8214244,
+      "routes": [
+        "101",
+        "101B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241992035,
+      "name": "公館鄉公所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.5058406,
+      "lng": 120.8269519,
+      "routes": [
+        "101",
+        "101B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.100Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241992037,
+      "name": "苗栗特色館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "公館鄉",
+      "lat": 24.4892625,
+      "lng": 120.8283536,
+      "routes": [
+        "101",
+        "101B",
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.194Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

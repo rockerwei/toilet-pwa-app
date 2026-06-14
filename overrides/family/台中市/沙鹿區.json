@@ -1,0 +1,28 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:35:02.304Z",
+  "items": [
+    {
+      "id": 4430843589,
+      "name": "好好聚落文創園區",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.2208218,
+      "lng": 120.5634863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:02.301Z",
+      "address": "433臺中市沙鹿區鎮南路福嘉巷永福巷7號"
+    },
+    {
+      "id": 1016212079,
+      "name": "沙龍莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.1986852,
+      "lng": 120.5658303,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:02.304Z"
+    }
+  ]
+}

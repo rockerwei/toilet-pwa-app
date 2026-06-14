@@ -1,0 +1,2619 @@
+{
+  "city": "台中市",
+  "district": "豐原區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 179,
+  "items": [
+    {
+      "id": 2360181149,
+      "name": "國家教育研究院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2708826,
+      "lng": 120.7518358
+    },
+    {
+      "id": 2963927262,
+      "name": "朴子口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2730654,
+      "lng": 120.7533738,
+      "routes": [
+        "90延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2963927263,
+      "name": "民安",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2752871,
+      "lng": 120.7565007,
+      "routes": [
+        "90",
+        "90延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "850",
+        "黃2"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2963927265,
+      "name": "埤頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2770421,
+      "lng": 120.759875,
+      "routes": [
+        "90延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644925927,
+      "name": "文化新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.238013,
+      "lng": 120.7108436
+    },
+    {
+      "id": 3644926588,
+      "name": "菸廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2364791,
+      "lng": 120.7102845
+    },
+    {
+      "id": 3644926590,
+      "name": "輸配電",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2410533,
+      "lng": 120.7125608
+    },
+    {
+      "id": 3646644904,
+      "name": "媽祖廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2516861,
+      "lng": 120.7183951
+    },
+    {
+      "id": 3646644950,
+      "name": "豐原分局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2427392,
+      "lng": 120.7135444
+    },
+    {
+      "id": 3646644954,
+      "name": "豐原火車站(下客)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2535177,
+      "lng": 120.7223265
+    },
+    {
+      "id": 3646644955,
+      "name": "豐原車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2553661,
+      "lng": 120.7225974
+    },
+    {
+      "id": 3646644958,
+      "name": "臺灣企銀(豐原郵局)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2513671,
+      "lng": 120.7151531
+    },
+    {
+      "id": 3646644960,
+      "name": "豐原電信局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2497958,
+      "lng": 120.7148904,
+      "routes": [
+        "202",
+        "203",
+        "900",
+        "989",
+        "989延"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.200Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646644962,
+      "name": "豐原高商",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2474677,
+      "lng": 120.7151964
+    },
+    {
+      "id": 3646644965,
+      "name": "頂街(中正路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2522785,
+      "lng": 120.721286
+    },
+    {
+      "id": 3771966990,
+      "name": "和平街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2522707,
+      "lng": 120.7199761
+    },
+    {
+      "id": 3771967032,
+      "name": "豐原",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2536964,
+      "lng": 120.7212342,
+      "routes": [
+        "55",
+        "202",
+        "203",
+        "206",
+        "207",
+        "208",
+        "209",
+        "211",
+        "213",
+        "215",
+        "223",
+        "227",
+        "865"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846043273,
+      "name": "北環福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2593259,
+      "lng": 120.7210785
+    },
+    {
+      "id": 3846043275,
+      "name": "圓環北大順街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2605515,
+      "lng": 120.7235034
+    },
+    {
+      "id": 3846043277,
+      "name": "圓環北角潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2600001,
+      "lng": 120.7261236
+    },
+    {
+      "id": 3846043279,
+      "name": "圓環東水源路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2557511,
+      "lng": 120.7298982
+    },
+    {
+      "id": 3846043281,
+      "name": "新惠生醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2579878,
+      "lng": 120.7195834
+    },
+    {
+      "id": 3846043283,
+      "name": "葫蘆墩文化中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2528105,
+      "lng": 120.7294292,
+      "routes": [
+        "90",
+        "90延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "152",
+        "152延",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "黃4"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846043285,
+      "name": "三豐大順街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2576935,
+      "lng": 120.721479
+    },
+    {
+      "id": 3846061607,
+      "name": "三光新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2500116,
+      "lng": 120.7075262,
+      "routes": [
+        "12",
+        "12延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "152",
+        "152延",
+        "152區1",
+        "182",
+        "183",
+        "185",
+        "186",
+        "218",
+        "220",
+        "220繞",
+        "232",
+        "237",
+        "237區",
+        "238",
+        "239",
+        "528",
+        "529"
+      ],
+      "routeCount": 24,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846061609,
+      "name": "圓環北中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2556452,
+      "lng": 120.7132687
+    },
+    {
+      "id": 3846061612,
+      "name": "圓環南中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.249841,
+      "lng": 120.7090891,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846061613,
+      "name": "葫蘆墩公園(圓環西路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2550959,
+      "lng": 120.7109482,
+      "routes": [
+        "218",
+        "700",
+        "888"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846061615,
+      "name": "大湳里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2567243,
+      "lng": 120.717074
+    },
+    {
+      "id": 3846061616,
+      "name": "成功圓環西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2549397,
+      "lng": 120.7091993,
+      "routes": [
+        "235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846061619,
+      "name": "豐原勞保局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2548117,
+      "lng": 120.7066956,
+      "routes": [
+        "235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846061621,
+      "name": "豐原果菜市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2530086,
+      "lng": 120.7057616,
+      "routes": [
+        "235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846071565,
+      "name": "圓環南中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2453143,
+      "lng": 120.71314
+    },
+    {
+      "id": 3846071567,
+      "name": "圓環南中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2459071,
+      "lng": 120.7117493
+    },
+    {
+      "id": 3846071570,
+      "name": "圓環南永安街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2473916,
+      "lng": 120.7103311
+    },
+    {
+      "id": 3846071571,
+      "name": "圓環東保康路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2433106,
+      "lng": 120.7213385,
+      "routes": [
+        "235",
+        "901",
+        "901副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996469,
+      "name": "圓環東安康路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2445573,
+      "lng": 120.7230618,
+      "routes": [
+        "901",
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.294Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846071575,
+      "name": "圓環東田心路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2432374,
+      "lng": 120.7196081,
+      "routes": [
+        "235",
+        "901",
+        "901副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846071577,
+      "name": "圓環東自強南街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2441595,
+      "lng": 120.7162349,
+      "routes": [
+        "202",
+        "203",
+        "901",
+        "901副",
+        "956",
+        "956副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846075657,
+      "name": "圓環東南陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2454694,
+      "lng": 120.7251025,
+      "routes": [
+        "152",
+        "235",
+        "901",
+        "901副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846075659,
+      "name": "圓環東同安街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2479604,
+      "lng": 120.7270333,
+      "routes": [
+        "152",
+        "235"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3846075661,
+      "name": "圓環東向陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2504893,
+      "lng": 120.7281544,
+      "routes": [
+        "152",
+        "235"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889503236,
+      "name": "忠勤新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2495488,
+      "lng": 120.7039952
+    },
+    {
+      "id": 3889503238,
+      "name": "慈興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.265904,
+      "lng": 120.7205333
+    },
+    {
+      "id": 3889503245,
+      "name": "溪底",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2761646,
+      "lng": 120.7222994
+    },
+    {
+      "id": 3889503249,
+      "name": "社皮鐵路巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2492256,
+      "lng": 120.7021358
+    },
+    {
+      "id": 3889510067,
+      "name": "臺豐社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2489116,
+      "lng": 120.7002785
+    },
+    {
+      "id": 3889510069,
+      "name": "豐原國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2614421,
+      "lng": 120.719932
+    },
+    {
+      "id": 3889510072,
+      "name": "農會事業場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2719695,
+      "lng": 120.7216238
+    },
+    {
+      "id": 3889510074,
+      "name": "道班前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2701777,
+      "lng": 120.7211826
+    },
+    {
+      "id": 3902784861,
+      "name": "中興圓環南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2470799,
+      "lng": 120.7121571,
+      "routes": [
+        "152"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902784863,
+      "name": "中興田心路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2481861,
+      "lng": 120.7174299,
+      "routes": [
+        "152",
+        "989",
+        "989延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902784866,
+      "name": "大楓樹福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2576911,
+      "lng": 120.7305709
+    },
+    {
+      "id": 3902784868,
+      "name": "永豐原紙廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2586778,
+      "lng": 120.7324126
+    },
+    {
+      "id": 3902784869,
+      "name": "永豐原紙廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2596612,
+      "lng": 120.7336132,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902785113,
+      "name": "義士祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2600929,
+      "lng": 120.7360095
+    },
+    {
+      "id": 3902785115,
+      "name": "翁子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.261205,
+      "lng": 120.7372984
+    },
+    {
+      "id": 3902785117,
+      "name": "臺中市政府衛生局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2479373,
+      "lng": 120.7139651,
+      "routes": [
+        "152"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902785119,
+      "name": "臺中市政府陽明大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2470832,
+      "lng": 120.7210816,
+      "routes": [
+        "152",
+        "989",
+        "989延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902785124,
+      "name": "陽明自強南街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2459059,
+      "lng": 120.7227578,
+      "routes": [
+        "152",
+        "223",
+        "227",
+        "989",
+        "989延"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902994314,
+      "name": "半張",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2651836,
+      "lng": 120.7457869
+    },
+    {
+      "id": 3902994316,
+      "name": "向陽圓環東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2511937,
+      "lng": 120.7281066,
+      "routes": [
+        "90",
+        "90延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.212Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902994321,
+      "name": "新都酒店",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2521236,
+      "lng": 120.7239036,
+      "routes": [
+        "90",
+        "90延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "223",
+        "227",
+        "956",
+        "956副",
+        "黃1",
+        "黃4"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.213Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902995619,
+      "name": "翁子保養廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2621929,
+      "lng": 120.7394315,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902995621,
+      "name": "翁子國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.263759,
+      "lng": 120.742712
+    },
+    {
+      "id": 3902995623,
+      "name": "蜈蚣崎步道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2677482,
+      "lng": 120.7491405,
+      "routes": [
+        "90",
+        "90延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "811",
+        "888"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.214Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3902995632,
+      "name": "豐原老人會館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2521571,
+      "lng": 120.7259692
+    },
+    {
+      "id": 3903045623,
+      "name": "南興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2565579,
+      "lng": 120.7440282,
+      "routes": [
+        "90",
+        "90延",
+        "152",
+        "152延",
+        "700",
+        "811",
+        "956",
+        "956副",
+        "958"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.215Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3903045625,
+      "name": "富陽路235巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2597239,
+      "lng": 120.7452623
+    },
+    {
+      "id": 3903045627,
+      "name": "王家厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.263472,
+      "lng": 120.745364
+    },
+    {
+      "id": 3903046257,
+      "name": "八方國際商城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2456866,
+      "lng": 120.703048,
+      "routes": [
+        "12",
+        "12延",
+        "920"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.215Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3903046259,
+      "name": "豐原高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2555571,
+      "lng": 120.7420646
+    },
+    {
+      "id": 3903046261,
+      "name": "豐陽國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2618773,
+      "lng": 120.7459599
+    },
+    {
+      "id": 3962858820,
+      "name": "合作國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2393268,
+      "lng": 120.7041884
+    },
+    {
+      "id": 3926714612,
+      "name": "東龍家電",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2370684,
+      "lng": 120.7009182
+    },
+    {
+      "id": 3926715288,
+      "name": "社皮美樂地公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.24245,
+      "lng": 120.7033772,
+      "routes": [
+        "12",
+        "12延",
+        "920"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.216Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3926733748,
+      "name": "中正圓環西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.250368,
+      "lng": 120.7099403
+    },
+    {
+      "id": 3926733751,
+      "name": "慈龍寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2506755,
+      "lng": 120.7121041
+    },
+    {
+      "id": 3926776825,
+      "name": "水源圓環東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.255226,
+      "lng": 120.732135
+    },
+    {
+      "id": 3926776827,
+      "name": "水源豐原大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2557858,
+      "lng": 120.7382544
+    },
+    {
+      "id": 3926776829,
+      "name": "水源豐東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2554366,
+      "lng": 120.7344627
+    },
+    {
+      "id": 3926776856,
+      "name": "豐村國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2555924,
+      "lng": 120.7359018
+    },
+    {
+      "id": 3962858817,
+      "name": "三村里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2424623,
+      "lng": 120.7057879
+    },
+    {
+      "id": 3962858824,
+      "name": "成功社興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2474312,
+      "lng": 120.7069679,
+      "routes": [
+        "63"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3962860760,
+      "name": "西勢成功路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2448488,
+      "lng": 120.7081667,
+      "routes": [
+        "63",
+        "701"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964097972,
+      "name": "圳寮口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2523409,
+      "lng": 120.7158074,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964097974,
+      "name": "大湳里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2564491,
+      "lng": 120.7187177,
+      "routes": [
+        "211",
+        "212",
+        "213",
+        "215"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964367176,
+      "name": "北陽豐東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2512048,
+      "lng": 120.7345894,
+      "routes": [
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964367178,
+      "name": "南陽新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2453235,
+      "lng": 120.7268939
+    },
+    {
+      "id": 3964367183,
+      "name": "廣福宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2440909,
+      "lng": 120.7289811,
+      "routes": [
+        "227",
+        "901副",
+        "989",
+        "989延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964368687,
+      "name": "豐東向陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.249825,
+      "lng": 120.7315416,
+      "routes": [
+        "223",
+        "901"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964368689,
+      "name": "豐原大道中陽503巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2494848,
+      "lng": 120.7375232,
+      "routes": [
+        "901副",
+        "901副2",
+        "958",
+        "989",
+        "989延"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.304Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964368691,
+      "name": "豐原大道中陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2464278,
+      "lng": 120.7326471,
+      "routes": [
+        "901副",
+        "989",
+        "989延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964368693,
+      "name": "豐原監理站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2473276,
+      "lng": 120.7296594,
+      "routes": [
+        "223",
+        "901"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3964368695,
+      "name": "豐東南陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2455727,
+      "lng": 120.7286377,
+      "routes": [
+        "223",
+        "227",
+        "901"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4449245396,
+      "name": "豐原",
+      "type": "train",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2545422,
+      "lng": 120.7236842
+    },
+    {
+      "id": 5223410603,
+      "name": "東豐/后豐鐵馬道",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2713595,
+      "lng": 120.7400385
+    },
+    {
+      "id": 5223410605,
+      "name": "國豐三豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2772399,
+      "lng": 120.7246748
+    },
+    {
+      "id": 5513551907,
+      "name": "統聯豐原",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.25429,
+      "lng": 120.7221748,
+      "routes": [
+        "12",
+        "12延",
+        "90",
+        "90延",
+        "92",
+        "202",
+        "203",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "213",
+        "215",
+        "223",
+        "227",
+        "700跳蛙公車",
+        "865臨",
+        "900",
+        "900跳蛙公車",
+        "989",
+        "989延",
+        "黃1",
+        "黃4"
+      ],
+      "routeCount": 25,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.220Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5759688565,
+      "name": "大發鑄造",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2349977,
+      "lng": 120.7239747,
+      "routes": [
+        "202",
+        "203"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5759688570,
+      "name": "鐮村里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2327646,
+      "lng": 120.7247525
+    },
+    {
+      "id": 5759688577,
+      "name": "竹圍口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.230172,
+      "lng": 120.724192,
+      "routes": [
+        "202",
+        "203"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5759688579,
+      "name": "金星觀入口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2265838,
+      "lng": 120.7244924
+    },
+    {
+      "id": 5759688583,
+      "name": "下鐮村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.223991,
+      "lng": 120.724487
+    },
+    {
+      "id": 5759690926,
+      "name": "豐原區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2419054,
+      "lng": 120.7186036
+    },
+    {
+      "id": 5759690928,
+      "name": "甘宅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2385147,
+      "lng": 120.7222299,
+      "routes": [
+        "202",
+        "203"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5788708484,
+      "name": "豐南國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2386866,
+      "lng": 120.7172393,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5788727469,
+      "name": "豐原藝文館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2415637,
+      "lng": 120.7172075
+    },
+    {
+      "id": 5788858631,
+      "name": "豐田田心路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2398683,
+      "lng": 120.7198564,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5789277040,
+      "name": "豐原醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2429295,
+      "lng": 120.725776,
+      "routes": [
+        "223",
+        "227",
+        "989",
+        "989延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5789277041,
+      "name": "永康南陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2441699,
+      "lng": 120.7278767
+    },
+    {
+      "id": 5789277043,
+      "name": "豐原安康共好社宅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2403466,
+      "lng": 120.7233518,
+      "routes": [
+        "956"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5789292945,
+      "name": "豐東國中(同安街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2464165,
+      "lng": 120.7289282,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5789644433,
+      "name": "育樂新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2476499,
+      "lng": 120.7235452
+    },
+    {
+      "id": 5789644434,
+      "name": "南陽國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2485949,
+      "lng": 120.7223205
+    },
+    {
+      "id": 5789644435,
+      "name": "惠陽中陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2507554,
+      "lng": 120.7242632
+    },
+    {
+      "id": 5789650892,
+      "name": "豐勢明興街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2562143,
+      "lng": 120.7275015
+    },
+    {
+      "id": 5789758885,
+      "name": "北陽中陽路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2510629,
+      "lng": 120.7361291,
+      "routes": [
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.221Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5791131663,
+      "name": "豐東北陽二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2529615,
+      "lng": 120.7338679,
+      "routes": [
+        "223",
+        "901",
+        "901副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6022672173,
+      "name": "水源地(豐原漆藝館)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2554331,
+      "lng": 120.7440192,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6059351536,
+      "name": "豐原轉運中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2542422,
+      "lng": 120.7244316,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "92",
+        "152",
+        "152延",
+        "182",
+        "183",
+        "185",
+        "186",
+        "211",
+        "212",
+        "213",
+        "215",
+        "218",
+        "220",
+        "220繞",
+        "223",
+        "227",
+        "232",
+        "237",
+        "237區",
+        "238",
+        "239",
+        "528",
+        "529",
+        "700",
+        "811",
+        "813",
+        "888",
+        "889",
+        "921",
+        "956",
+        "956副",
+        "958",
+        "989",
+        "989延",
+        "1617",
+        "1617A",
+        "1617B",
+        "1617C",
+        "1617D",
+        "1617E"
+      ],
+      "routeCount": 45,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6787274453,
+      "name": "豐原大道豐科路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2639138,
+      "lng": 120.7222152
+    },
+    {
+      "id": 6787274455,
+      "name": "豐原大道角潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2651145,
+      "lng": 120.729602
+    },
+    {
+      "id": 8022353940,
+      "name": "消防公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2628819,
+      "lng": 120.7140921
+    },
+    {
+      "id": 8022353964,
+      "name": "豐原大道豐社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2520171,
+      "lng": 120.7033861
+    },
+    {
+      "id": 9651319974,
+      "name": "大明西勢路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2434582,
+      "lng": 120.7076062,
+      "routes": [
+        "700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9651319976,
+      "name": "大明合作街76巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2405588,
+      "lng": 120.7096469,
+      "routes": [
+        "700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9651319979,
+      "name": "圓環西豐社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2522332,
+      "lng": 120.7087514
+    },
+    {
+      "id": 9651319980,
+      "name": "水源愛國街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2550033,
+      "lng": 120.7278393
+    },
+    {
+      "id": 9652203000,
+      "name": "豐原鎮清宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2538747,
+      "lng": 120.7443887,
+      "routes": [
+        "12延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253587909,
+      "name": "國豐路二段656巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2730131,
+      "lng": 120.7353794,
+      "routes": [
+        "811",
+        "850"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969393,
+      "name": "東陽里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2266469,
+      "lng": 120.754463,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969395,
+      "name": "東陽太坑巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2299122,
+      "lng": 120.7526521,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969397,
+      "name": "東陽秀坑巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2314198,
+      "lng": 120.7505842,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969399,
+      "name": "東陽泉洲巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2330557,
+      "lng": 120.7477236,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969401,
+      "name": "豪傑山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2340461,
+      "lng": 120.74656,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969403,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2346142,
+      "lng": 120.7439442,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969405,
+      "name": "二號橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2362522,
+      "lng": 120.7420121,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262969407,
+      "name": "寶泉犬舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2369508,
+      "lng": 120.7398158,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980809,
+      "name": "吊橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2351514,
+      "lng": 120.7383127,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980811,
+      "name": "東陽橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2360975,
+      "lng": 120.7367758,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980813,
+      "name": "車程",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.236827,
+      "lng": 120.7353018,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980815,
+      "name": "武明山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2380384,
+      "lng": 120.7347927,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980817,
+      "name": "福陽國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2418029,
+      "lng": 120.7351418,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980819,
+      "name": "綠山莊口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2405672,
+      "lng": 120.7332509,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980821,
+      "name": "南陽綠山巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2420173,
+      "lng": 120.7322715,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980823,
+      "name": "南陽橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.242477,
+      "lng": 120.7304,
+      "routes": [
+        "227"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980825,
+      "name": "公老坪頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2606415,
+      "lng": 120.7685748,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980827,
+      "name": "北埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.261916,
+      "lng": 120.7662782,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980829,
+      "name": "崎頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2620778,
+      "lng": 120.7635267,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980831,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2626712,
+      "lng": 120.7606052,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980833,
+      "name": "叉路口(水源路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2640468,
+      "lng": 120.7577502,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980835,
+      "name": "豐原球場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2641951,
+      "lng": 120.7543219,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980837,
+      "name": "丘逢甲紀念公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2623678,
+      "lng": 120.7523064,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980839,
+      "name": "興農牛莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2610192,
+      "lng": 120.7513227,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980841,
+      "name": "慈惠堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2607225,
+      "lng": 120.7527502,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980843,
+      "name": "水遠橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2601021,
+      "lng": 120.7543146,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980845,
+      "name": "蕭家花園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2592794,
+      "lng": 120.7548841,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980847,
+      "name": "北坑口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2576947,
+      "lng": 120.752765,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10262980849,
+      "name": "中正公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2542556,
+      "lng": 120.7477577,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10263048894,
+      "name": "福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2703551,
+      "lng": 120.7328381,
+      "routes": [
+        "黃4"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10263048896,
+      "name": "朴子里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2742352,
+      "lng": 120.7477671,
+      "routes": [
+        "黃4"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233148,
+      "name": "鐮村路210巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2290775,
+      "lng": 120.7225994
+    },
+    {
+      "id": 10982233160,
+      "name": "三和路354巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2325122,
+      "lng": 120.7028788
+    },
+    {
+      "id": 10982233162,
+      "name": "台灣味噌文化館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2351589,
+      "lng": 120.7006956,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233166,
+      "name": "大億加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2413361,
+      "lng": 120.6967428,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233170,
+      "name": "臺灣氣球博物館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2479178,
+      "lng": 120.6992077,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233174,
+      "name": "豐原大道460巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2646747,
+      "lng": 120.7268869
+    },
+    {
+      "id": 10982248124,
+      "name": "豐工三豐799巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2687781,
+      "lng": 120.7114101
+    },
+    {
+      "id": 10982248126,
+      "name": "葫蘆墩國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2620814,
+      "lng": 120.7130516
+    },
+    {
+      "id": 10982248128,
+      "name": "仁洲豐北街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2597041,
+      "lng": 120.714129,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271013,
+      "name": "圓環西中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2507173,
+      "lng": 120.7092494,
+      "routes": [
+        "700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12078268572,
+      "name": "慈濟公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2574152,
+      "lng": 120.7334591,
+      "routes": [
+        "901",
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12078268576,
+      "name": "朝陽橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2378784,
+      "lng": 120.7267068,
+      "routes": [
+        "958"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12078268578,
+      "name": "永康公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2392991,
+      "lng": 120.727901,
+      "routes": [
+        "958"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12078268580,
+      "name": "廣福宮(豐原大道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2438703,
+      "lng": 120.73031,
+      "routes": [
+        "958"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996467,
+      "name": "圳寮里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2556729,
+      "lng": 120.7155621,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12102044793,
+      "name": "叉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2640543,
+      "lng": 120.7575879,
+      "routes": [
+        "223"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 360062052,
+      "name": "豐原客運豐原站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "豐原區",
+      "lat": 24.2540514,
+      "lng": 120.7216835,
+      "routes": [
+        "12",
+        "12延",
+        "90",
+        "90延",
+        "92",
+        "202",
+        "203",
+        "206",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "213",
+        "215",
+        "223",
+        "227",
+        "700跳蛙公車",
+        "865臨",
+        "900",
+        "900跳蛙公車",
+        "989",
+        "989延",
+        "黃1",
+        "黃4"
+      ],
+      "routeCount": 25,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.226Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "city": "嘉義縣",
+  "district": "阿里山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 37,
+  "items": [
+    {
+      "id": 2368313064,
+      "name": "沼平",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5144467,
+      "lng": 120.8139361,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2368313598,
+      "name": "二萬平",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5089707,
+      "lng": 120.7901441,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2381046036,
+      "name": "祝山",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5101762,
+      "lng": 120.8230003,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2381221953,
+      "name": "阿里山",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5100028,
+      "lng": 120.8043442,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2381233201,
+      "name": "十字路",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.49276,
+      "lng": 120.7539935,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2381259650,
+      "name": "多林",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4986935,
+      "lng": 120.7306512,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4413131549,
+      "name": "青年活動中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5003203,
+      "lng": 120.7935852,
+      "routes": [
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5123592873,
+      "name": "香林站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5174679,
+      "lng": 120.8103742
+    },
+    {
+      "id": 7092439181,
+      "name": "第一分道",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5214148,
+      "lng": 120.795529
+    },
+    {
+      "id": 7384310302,
+      "name": "神木",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5187352,
+      "lng": 120.807946,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 7563793376,
+      "name": "醫療中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4720415,
+      "lng": 120.703648,
+      "routes": [
+        "7322"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793384,
+      "name": "鹿堀",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4071834,
+      "lng": 120.6544504,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803085,
+      "name": "十字村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4922539,
+      "lng": 120.75466,
+      "routes": [
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803091,
+      "name": "頂湖茶葉",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.47128,
+      "lng": 120.70644,
+      "routes": [
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803094,
+      "name": "望峰",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4680696,
+      "lng": 120.6968416,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803115,
+      "name": "湖底",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4789085,
+      "lng": 120.7147308,
+      "routes": [
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803121,
+      "name": "福山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4609835,
+      "lng": 120.7224156,
+      "routes": [
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803124,
+      "name": "頂永興",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4666081,
+      "lng": 120.6918727,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803125,
+      "name": "石壁",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.453118,
+      "lng": 120.6784892,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803129,
+      "name": "上湖底",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.47431,
+      "lng": 120.71119,
+      "routes": [
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803131,
+      "name": "瞭望台",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4084771,
+      "lng": 120.653627,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803132,
+      "name": "凸龜山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.47972,
+      "lng": 120.74588,
+      "routes": [
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.489Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394432,
+      "name": "米洋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4615734,
+      "lng": 120.7116245,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394433,
+      "name": "竹腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4537737,
+      "lng": 120.7116815,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394434,
+      "name": "基布鳥",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.450462,
+      "lng": 120.7255513,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394436,
+      "name": "阿里山國中小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.46845,
+      "lng": 120.70235,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394439,
+      "name": "樂野",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4709144,
+      "lng": 120.7027244,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394441,
+      "name": "達邦",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4542833,
+      "lng": 120.7499926,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394442,
+      "name": "葡里",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4639665,
+      "lng": 120.7059727,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394443,
+      "name": "花圃",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.46326,
+      "lng": 120.71171,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394445,
+      "name": "特富野路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.45598,
+      "lng": 120.74999,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7580394446,
+      "name": "永富",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.4667373,
+      "lng": 120.7081331,
+      "routes": [
+        "7314"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7670901333,
+      "name": "遊客中心站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5114529,
+      "lng": 120.8037786
+    },
+    {
+      "id": 7670901334,
+      "name": "候車總站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5105832,
+      "lng": 120.8026933
+    },
+    {
+      "id": 7670901335,
+      "name": "沼平站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.51371,
+      "lng": 120.8134639
+    },
+    {
+      "id": 7670901339,
+      "name": "對高岳站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.515188,
+      "lng": 120.8189599
+    },
+    {
+      "id": 1138508578,
+      "name": "阿里山轉運站",
+      "type": "bus_station",
+      "city": "嘉義縣",
+      "district": "阿里山鄉",
+      "lat": 23.5083988,
+      "lng": 120.8015654,
+      "routes": [
+        "1835",
+        "6739",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.489Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

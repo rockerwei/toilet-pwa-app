@@ -1,0 +1,77 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:51:03.808Z",
+  "items": [
+    {
+      "id": 4831398204,
+      "name": "苗栗特色館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.4895446,
+      "lng": 120.8279348,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.797Z"
+    },
+    {
+      "id": 5444091721,
+      "name": "陶色公路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5126673,
+      "lng": 120.8247308,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.800Z"
+    },
+    {
+      "id": 11070926879,
+      "name": "苗栗桐馨莊園民宿",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.4864785,
+      "lng": 120.8220604,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.802Z"
+    },
+    {
+      "id": 13468221201,
+      "name": "錫隘古道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.5366394,
+      "lng": 120.9074352,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.803Z"
+    },
+    {
+      "id": 308670265,
+      "name": "台灣油礦陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.4601085,
+      "lng": 120.8559946,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.805Z"
+    },
+    {
+      "id": 692720904,
+      "name": "出磺坑吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.4633697,
+      "lng": 120.8519695,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.806Z"
+    },
+    {
+      "id": 1078983296,
+      "name": "客家文學花園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.4643623,
+      "lng": 120.8576054,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:51:03.808Z"
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "city": "新北市",
+  "district": "平溪區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T22:47:16.582Z",
+  "rev": 1,
+  "count": 52,
+  "items": [
+    {
+      "id": 765335733,
+      "name": "嶺腳",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0295899,
+      "lng": 121.7484854
+    },
+    {
+      "id": 765335740,
+      "name": "望古",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0345064,
+      "lng": 121.7635976
+    },
+    {
+      "id": 765335750,
+      "name": "十分",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0410902,
+      "lng": 121.7752471
+    },
+    {
+      "id": 2689737770,
+      "name": "菁桐坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0233751,
+      "lng": 121.7230314,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854600,
+      "name": "圳口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0323181,
+      "lng": 121.7656092,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854601,
+      "name": "九華山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0289806,
+      "lng": 121.7556758,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854602,
+      "name": "電信局",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.025485,
+      "lng": 121.7465478,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854603,
+      "name": "嶺腳社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0267087,
+      "lng": 121.743766,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854604,
+      "name": "平溪",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0246511,
+      "lng": 121.7381524,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F822平溪",
+        "F822東勢格派出所",
+        "F823分水崙",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪",
+        "F920汐止",
+        "F920嶺腳車站"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854605,
+      "name": "三聖宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0226775,
+      "lng": 121.7282189,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854606,
+      "name": "菁桐煤礦",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0226659,
+      "lng": 121.7202014,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854607,
+      "name": "十分風景區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0455509,
+      "lng": 121.7804441,
+      "routes": [
+        "F821平溪",
+        "F821新寮"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854608,
+      "name": "福德宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0384618,
+      "lng": 121.7748272,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854609,
+      "name": "慶和站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.033349,
+      "lng": 121.7628625,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F823分水崙",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854610,
+      "name": "大法寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0261487,
+      "lng": 121.7496182,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854611,
+      "name": "慈航宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0281136,
+      "lng": 121.7472957,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854612,
+      "name": "茶園圃",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0254978,
+      "lng": 121.742612,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854613,
+      "name": "平溪國中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0233241,
+      "lng": 121.7337312,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854614,
+      "name": "中埔",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0220333,
+      "lng": 121.7244745,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854615,
+      "name": "薯榔尖",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0226972,
+      "lng": 121.7176583,
+      "routes": [
+        "795往木柵"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854617,
+      "name": "十分寮橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0428913,
+      "lng": 121.7776049,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854618,
+      "name": "南山里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0362883,
+      "lng": 121.7711367,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854619,
+      "name": "萬寶洞",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0309182,
+      "lng": 121.7598321,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854621,
+      "name": "田子",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0272655,
+      "lng": 121.7448948,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F822平溪",
+        "F822東勢格派出所",
+        "F823分水崙",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854622,
+      "name": "外店",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0249259,
+      "lng": 121.7407423,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F822平溪",
+        "F822東勢格派出所",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854623,
+      "name": "慈惠宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0223288,
+      "lng": 121.7301596,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849854625,
+      "name": "南山社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0402518,
+      "lng": 121.7760093,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862478,
+      "name": "薯榔寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0195637,
+      "lng": 121.7104611,
+      "routes": [
+        "795往木柵"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862483,
+      "name": "詹厝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0187327,
+      "lng": 121.7083152,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862488,
+      "name": "一坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0206342,
+      "lng": 121.7149258,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849862489,
+      "name": "分水崙",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0183869,
+      "lng": 121.7063577,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪",
+        "F823分水崙",
+        "F823福隆",
+        "F825",
+        "F825不經雙溪"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268452827,
+      "name": "十分遊客中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0472565,
+      "lng": 121.7824219,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "F821新寮"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374708671,
+      "name": "十分寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0444839,
+      "lng": 121.7796515,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站",
+        "F821平溪",
+        "F821新寮",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3388962160,
+      "name": "二坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0234723,
+      "lng": 121.7212809,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "795往平溪"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3388962179,
+      "name": "河灣渡假村",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0468478,
+      "lng": 121.7808613,
+      "routes": [
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3951752488,
+      "name": "菁桐",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.023978,
+      "lng": 121.7238692
+    },
+    {
+      "id": 4113227424,
+      "name": "東勢格",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0238524,
+      "lng": 121.7504556,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4131992947,
+      "name": "大華",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0498565,
+      "lng": 121.7974777
+    },
+    {
+      "id": 4262940632,
+      "name": "新寮大厝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0593095,
+      "lng": 121.7930638,
+      "routes": [
+        "F821平溪"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6982390423,
+      "name": "平溪",
+      "type": "train",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0256629,
+      "lng": 121.7400116
+    },
+    {
+      "id": 8432400447,
+      "name": "白鶯橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0239496,
+      "lng": 121.7504376,
+      "routes": [
+        "F821平溪",
+        "F821新寮",
+        "F822平溪",
+        "F822東勢格派出所",
+        "F823分水崙",
+        "F823福隆"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400543,
+      "name": "月桃寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.04927,
+      "lng": 121.783832,
+      "routes": [
+        "F821平溪",
+        "F821新寮"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400544,
+      "name": "東勢格派出所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.005429,
+      "lng": 121.750613,
+      "routes": [
+        "F822平溪",
+        "F822東勢格派出所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400662,
+      "name": "新寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.057726,
+      "lng": 121.787776,
+      "routes": [
+        "F821平溪",
+        "F821新寮"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400664,
+      "name": "孝子山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.023816,
+      "lng": 121.73511,
+      "routes": [
+        "795往木柵",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400665,
+      "name": "自來水廠",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.014946,
+      "lng": 121.752029,
+      "routes": [
+        "F822平溪",
+        "F822東勢格派出所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400950,
+      "name": "野人谷",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.058056,
+      "lng": 121.7876834,
+      "routes": [
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400952,
+      "name": "李家祖厝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.070845,
+      "lng": 121.7894278,
+      "routes": [
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400954,
+      "name": "自強農場",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.056453,
+      "lng": 121.7878256,
+      "routes": [
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400957,
+      "name": "十分瀑布",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0493,
+      "lng": 121.7836898,
+      "routes": [
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400959,
+      "name": "白鶯石",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0243513,
+      "lng": 121.7489613,
+      "routes": [
+        "795往十分寮",
+        "795往木柵",
+        "846平溪國中",
+        "846基隆客運瑞芳站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13700961048,
+      "name": "平湖里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "平溪區",
+      "lat": 25.0266423,
+      "lng": 121.7804714,
+      "routes": [
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.157Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

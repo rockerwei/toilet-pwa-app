@@ -1,0 +1,179 @@
+{
+  "city": "彰化縣",
+  "district": "竹塘鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 11,
+  "items": [
+    {
+      "id": 4745233614,
+      "name": "西大灣",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8572265,
+      "lng": 120.4337452,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745233616,
+      "name": "大灣",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8557681,
+      "lng": 120.4374581,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405291946,
+      "name": "戴厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8678867,
+      "lng": 120.4249406,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405291948,
+      "name": "竹塘國中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.864487,
+      "lng": 120.4254475,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405292018,
+      "name": "西竹塘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8618391,
+      "lng": 120.4256393,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405292020,
+      "name": "竹塘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8606506,
+      "lng": 120.4278065,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405292121,
+      "name": "東竹塘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8585288,
+      "lng": 120.4283161,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405305648,
+      "name": "大橋頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.884918,
+      "lng": 120.4052049,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405305650,
+      "name": "外牛稠",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8822668,
+      "lng": 120.409475,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5405305700,
+      "name": "民靖國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8783721,
+      "lng": 120.4161912
+    },
+    {
+      "id": 5405305702,
+      "name": "民靖",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "竹塘鄉",
+      "lat": 23.8754191,
+      "lng": 120.420358,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.954Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:00:24.792Z",
+  "items": [
+    {
+      "id": 4228254983,
+      "name": "赤崁",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.543805,
+      "lng": 120.407697,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:00:24.786Z"
+    },
+    {
+      "id": 5336229430,
+      "name": "舊振南文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.6223491,
+      "lng": 120.3891373,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:00:24.789Z",
+      "address": "高雄市大寮區捷西路298號"
+    },
+    {
+      "id": 10118948029,
+      "name": "74.1高地",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6071537,
+      "lng": 120.377131,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:00:24.790Z"
+    },
+    {
+      "id": 279357463,
+      "name": "大寮赤崁觀音寺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5396956,
+      "lng": 120.4015725,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:00:24.791Z",
+      "address": "高雄市大寮區義仁里2鄰鳳林一路29巷2之100號"
+    }
+  ]
+}

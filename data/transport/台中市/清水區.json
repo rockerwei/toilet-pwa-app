@@ -1,0 +1,2946 @@
+{
+  "city": "台中市",
+  "district": "清水區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 214,
+  "items": [
+    {
+      "id": 2697249169,
+      "name": "清水車站(中正街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.263248,
+      "lng": 120.57011,
+      "routes": [
+        "111",
+        "178",
+        "179",
+        "688"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3407194579,
+      "name": "大甲溪橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.310572,
+      "lng": 120.6032529
+    },
+    {
+      "id": 3407194695,
+      "name": "中華北臨港路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3033385,
+      "lng": 120.5964252
+    },
+    {
+      "id": 3408280607,
+      "name": "臺中港",
+      "type": "train",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.304341,
+      "lng": 120.6026813
+    },
+    {
+      "id": 3408280608,
+      "name": "甲南(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3045102,
+      "lng": 120.6011913
+    },
+    {
+      "id": 3408280609,
+      "name": "甲南",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3048651,
+      "lng": 120.6006867,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408280612,
+      "name": "劉厝(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.301075,
+      "lng": 120.595905
+    },
+    {
+      "id": 3408280618,
+      "name": "劉厝(中華北路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3011685,
+      "lng": 120.5956866
+    },
+    {
+      "id": 3408280620,
+      "name": "中牛埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2981255,
+      "lng": 120.5928396
+    },
+    {
+      "id": 3408280626,
+      "name": "菁埔庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2962264,
+      "lng": 120.5909326
+    },
+    {
+      "id": 3408280628,
+      "name": "頂湳仔(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2935149,
+      "lng": 120.58861
+    },
+    {
+      "id": 3408280633,
+      "name": "頂湳仔(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2922328,
+      "lng": 120.588338
+    },
+    {
+      "id": 3408280634,
+      "name": "下湳里(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2905904,
+      "lng": 120.5869256,
+      "routes": [
+        "93",
+        "95",
+        "95副",
+        "95區",
+        "97",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "616",
+        "695"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408280636,
+      "name": "三田國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2881159,
+      "lng": 120.5855451
+    },
+    {
+      "id": 3408280638,
+      "name": "下湳仔(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2837942,
+      "lng": 120.5830683,
+      "routes": [
+        "93",
+        "95",
+        "95副",
+        "95區",
+        "97",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3",
+        "616",
+        "695"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408280644,
+      "name": "朝興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2807287,
+      "lng": 120.5812167
+    },
+    {
+      "id": 3408280673,
+      "name": "下湳加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2784431,
+      "lng": 120.579459
+    },
+    {
+      "id": 3408642074,
+      "name": "西寧國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.275718,
+      "lng": 120.5750944
+    },
+    {
+      "id": 3408642085,
+      "name": "五權東鎮新路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2746218,
+      "lng": 120.5723659,
+      "routes": [
+        "183",
+        "186",
+        "304",
+        "688副",
+        "黃14"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.962Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642088,
+      "name": "清水五權夜市",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.276644,
+      "lng": 120.5679204,
+      "routes": [
+        "183",
+        "186",
+        "304"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.962Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642297,
+      "name": "慈濟靜思堂(五權路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2772716,
+      "lng": 120.5616021
+    },
+    {
+      "id": 3408642299,
+      "name": "武鹿",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2799917,
+      "lng": 120.5564855,
+      "routes": [
+        "183",
+        "186",
+        "239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642301,
+      "name": "上武鹿",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2797047,
+      "lng": 120.5590528,
+      "routes": [
+        "183",
+        "186",
+        "239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642304,
+      "name": "下武鹿",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2800082,
+      "lng": 120.5541514,
+      "routes": [
+        "183",
+        "186",
+        "239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642310,
+      "name": "竹仔寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2807987,
+      "lng": 120.5519824,
+      "routes": [
+        "183",
+        "186",
+        "239",
+        "688"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642312,
+      "name": "中山高美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2749027,
+      "lng": 120.5773239,
+      "routes": [
+        "93",
+        "95",
+        "95副",
+        "95區",
+        "97",
+        "178",
+        "179",
+        "183",
+        "186",
+        "239",
+        "304",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3",
+        "688副",
+        "695",
+        "黃13",
+        "黃14"
+      ],
+      "routeCount": 23,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.962Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3408642314,
+      "name": "中山董公街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2726635,
+      "lng": 120.5767593,
+      "routes": [
+        "93",
+        "95",
+        "95副",
+        "95區",
+        "97",
+        "178",
+        "179",
+        "183",
+        "186",
+        "239",
+        "304",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3",
+        "688副",
+        "695",
+        "黃13",
+        "黃14"
+      ],
+      "routeCount": 23,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.963Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638254,
+      "name": "清泉國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3050192,
+      "lng": 120.5928066,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638280,
+      "name": "臨港三美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3008618,
+      "lng": 120.5774817,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638281,
+      "name": "臨港路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3013168,
+      "lng": 120.5773187,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.963Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638283,
+      "name": "國姓廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3026743,
+      "lng": 120.5843788,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638286,
+      "name": "溪底(三美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2994316,
+      "lng": 120.5777755
+    },
+    {
+      "id": 3410638288,
+      "name": "溪埔仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.300094,
+      "lng": 120.5746256,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410638292,
+      "name": "臨港高美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2973571,
+      "lng": 120.5647862,
+      "routes": [
+        "170"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410642594,
+      "name": "臨港港埠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2946745,
+      "lng": 120.5561079,
+      "routes": [
+        "679副",
+        "679副2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.107Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410642618,
+      "name": "梧棲觀光漁港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2939898,
+      "lng": 120.5217639,
+      "routes": [
+        "111",
+        "123",
+        "307",
+        "309",
+        "688"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410791509,
+      "name": "高美濕地",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3118699,
+      "lng": 120.551175,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.963Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410791511,
+      "name": "文興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3112231,
+      "lng": 120.5523324
+    },
+    {
+      "id": 3410791512,
+      "name": "文興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3109055,
+      "lng": 120.5534007
+    },
+    {
+      "id": 3410791517,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3112192,
+      "lng": 120.5547411
+    },
+    {
+      "id": 3410791519,
+      "name": "海口村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3109205,
+      "lng": 120.5565986,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.963Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3410791524,
+      "name": "五分子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3097077,
+      "lng": 120.55916
+    },
+    {
+      "id": 3415457737,
+      "name": "清水",
+      "type": "train",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2635258,
+      "lng": 120.5688397
+    },
+    {
+      "id": 3415457753,
+      "name": "清水",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2703255,
+      "lng": 120.5757886
+    },
+    {
+      "id": 3415457763,
+      "name": "分局前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2692167,
+      "lng": 120.5752079
+    },
+    {
+      "id": 3415457775,
+      "name": "華南銀行(清水分行)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2684229,
+      "lng": 120.5750788
+    },
+    {
+      "id": 3415457779,
+      "name": "清水高中(學園街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.266232,
+      "lng": 120.5749025
+    },
+    {
+      "id": 3415457792,
+      "name": "中山星河路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2597754,
+      "lng": 120.5714426
+    },
+    {
+      "id": 3415722669,
+      "name": "中華鰲峰路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2688276,
+      "lng": 120.5671201
+    },
+    {
+      "id": 3415722671,
+      "name": "中華南社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2656099,
+      "lng": 120.5643417,
+      "routes": [
+        "95",
+        "95副",
+        "95區",
+        "616",
+        "695"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415722673,
+      "name": "中華民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2629954,
+      "lng": 120.5625022
+    },
+    {
+      "id": 3416914180,
+      "name": "鰲峰西社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2693815,
+      "lng": 120.5702149
+    },
+    {
+      "id": 3416914183,
+      "name": "社口(鰲峰路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2684366,
+      "lng": 120.568167
+    },
+    {
+      "id": 3416914185,
+      "name": "銀聯二村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2683851,
+      "lng": 120.5654512
+    },
+    {
+      "id": 3416914187,
+      "name": "清水國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2679364,
+      "lng": 120.5629839
+    },
+    {
+      "id": 3416914189,
+      "name": "清水區公所(鎮政路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2687915,
+      "lng": 120.5598645
+    },
+    {
+      "id": 3416914191,
+      "name": "港區藝術中心(鎮政路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2693824,
+      "lng": 120.5578681,
+      "routes": [
+        "123",
+        "303",
+        "304",
+        "688",
+        "688副"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3416914517,
+      "name": "秀水里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2721127,
+      "lng": 120.5567345,
+      "routes": [
+        "123",
+        "688",
+        "688副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3416914519,
+      "name": "首園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2728522,
+      "lng": 120.5543356
+    },
+    {
+      "id": 3419813801,
+      "name": "環球大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2737143,
+      "lng": 120.5333358,
+      "routes": [
+        "170",
+        "183",
+        "186",
+        "239",
+        "307",
+        "688"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3419813803,
+      "name": "梧棟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2774338,
+      "lng": 120.534455,
+      "routes": [
+        "183",
+        "186",
+        "239",
+        "307",
+        "309",
+        "679副",
+        "679副2",
+        "679繞",
+        "688",
+        "688副"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3419813807,
+      "name": "後營門口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2785854,
+      "lng": 120.5349494
+    },
+    {
+      "id": 3419813815,
+      "name": "西瓜寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2820094,
+      "lng": 120.5364119
+    },
+    {
+      "id": 3419813817,
+      "name": "賢德大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2850449,
+      "lng": 120.5381367
+    },
+    {
+      "id": 3419813819,
+      "name": "德豐大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.283298,
+      "lng": 120.5369448
+    },
+    {
+      "id": 3419813821,
+      "name": "臺中港北堤",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2887767,
+      "lng": 120.5395378,
+      "routes": [
+        "170",
+        "183",
+        "186",
+        "239",
+        "307",
+        "688"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368747,
+      "name": "南社里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2672046,
+      "lng": 120.5608471,
+      "routes": [
+        "128",
+        "306",
+        "306E",
+        "306W"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368751,
+      "name": "東槺榔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2642866,
+      "lng": 120.5485197
+    },
+    {
+      "id": 3639368757,
+      "name": "牛埔(鰲峰路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2659972,
+      "lng": 120.5557082
+    },
+    {
+      "id": 3639368789,
+      "name": "槺榔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2633493,
+      "lng": 120.5450688
+    },
+    {
+      "id": 3639368791,
+      "name": "西牛埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2649603,
+      "lng": 120.5515403
+    },
+    {
+      "id": 3796813659,
+      "name": "下楊厝里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2859332,
+      "lng": 120.6134009
+    },
+    {
+      "id": 3796813661,
+      "name": "下舊庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2927632,
+      "lng": 120.6301534
+    },
+    {
+      "id": 3796813665,
+      "name": "新興社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2692627,
+      "lng": 120.6075872,
+      "routes": [
+        "91延1",
+        "91延2",
+        "164",
+        "165",
+        "182",
+        "183",
+        "185",
+        "186"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796813667,
+      "name": "楊厝里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2889811,
+      "lng": 120.61567
+    },
+    {
+      "id": 3796813669,
+      "name": "海風里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2924272,
+      "lng": 120.6193334
+    },
+    {
+      "id": 3796813713,
+      "name": "舊庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2913761,
+      "lng": 120.6325432
+    },
+    {
+      "id": 3796813715,
+      "name": "良逸公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.292459,
+      "lng": 120.6254357
+    },
+    {
+      "id": 3796813719,
+      "name": "許厝寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2795437,
+      "lng": 120.6130321
+    },
+    {
+      "id": 3796813722,
+      "name": "頂吳厝里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2759389,
+      "lng": 120.6111668,
+      "routes": [
+        "91延1",
+        "91延2",
+        "164",
+        "165",
+        "182",
+        "183",
+        "185",
+        "186"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796828562,
+      "name": "頂舊庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2897113,
+      "lng": 120.6350809
+    },
+    {
+      "id": 3798983205,
+      "name": "嘉陽高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2658329,
+      "lng": 120.5824514
+    },
+    {
+      "id": 4646803692,
+      "name": "中華五權路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2762465,
+      "lng": 120.5720332
+    },
+    {
+      "id": 4681231794,
+      "name": "中華南華路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2583277,
+      "lng": 120.5590829,
+      "routes": [
+        "95",
+        "95區",
+        "616"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4824866523,
+      "name": "清水戶政事務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2661257,
+      "lng": 120.562635,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4824882722,
+      "name": "鎮政民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2655814,
+      "lng": 120.5607072
+    },
+    {
+      "id": 4853861202,
+      "name": "港埠中清路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.279147,
+      "lng": 120.5481827
+    },
+    {
+      "id": 4853861204,
+      "name": "漁港港埠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.282521,
+      "lng": 120.5485019
+    },
+    {
+      "id": 4853861206,
+      "name": "頂海濱里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2854328,
+      "lng": 120.5458613,
+      "routes": [
+        "123",
+        "183",
+        "186",
+        "239"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853861208,
+      "name": "海濱里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2866259,
+      "lng": 120.544433
+    },
+    {
+      "id": 4853861210,
+      "name": "9號風車",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.311221,
+      "lng": 120.5268672
+    },
+    {
+      "id": 4853861212,
+      "name": "18號風車",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3036872,
+      "lng": 120.5445188
+    },
+    {
+      "id": 4853867566,
+      "name": "橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2803939,
+      "lng": 120.5750705,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867568,
+      "name": "頂橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2823058,
+      "lng": 120.5748707,
+      "routes": [
+        "178",
+        "179",
+        "黃13"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867570,
+      "name": "廖厝(高美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.28467,
+      "lng": 120.5746541
+    },
+    {
+      "id": 4853867572,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2869865,
+      "lng": 120.5733405,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867573,
+      "name": "三田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2905975,
+      "lng": 120.5747473
+    },
+    {
+      "id": 4853867575,
+      "name": "城隍廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2925386,
+      "lng": 120.5754058,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867577,
+      "name": "國姓里(三美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2954625,
+      "lng": 120.5756874
+    },
+    {
+      "id": 4853867579,
+      "name": "李厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2976394,
+      "lng": 120.5771264
+    },
+    {
+      "id": 4853867581,
+      "name": "蔡厝(三美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3056844,
+      "lng": 120.5755815
+    },
+    {
+      "id": 4853867583,
+      "name": "溪頭仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3082254,
+      "lng": 120.5750652,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867587,
+      "name": "許厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3093413,
+      "lng": 120.5726793,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867589,
+      "name": "高美植物園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3106649,
+      "lng": 120.5697249,
+      "routes": [
+        "179"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867591,
+      "name": "新厝(三美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3111599,
+      "lng": 120.5657592
+    },
+    {
+      "id": 4853867593,
+      "name": "高美",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3099206,
+      "lng": 120.5607985,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853867595,
+      "name": "竹圍仔(三美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3105402,
+      "lng": 120.5630878
+    },
+    {
+      "id": 4853886911,
+      "name": "高美社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3085591,
+      "lng": 120.5628383
+    },
+    {
+      "id": 4853886913,
+      "name": "高南里舊庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3057479,
+      "lng": 120.5633426,
+      "routes": [
+        "178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853886915,
+      "name": "蔡厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3043412,
+      "lng": 120.5632031,
+      "routes": [
+        "178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853886917,
+      "name": "頂溪底",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3017707,
+      "lng": 120.5636805,
+      "routes": [
+        "178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853886919,
+      "name": "溪底(高美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2999911,
+      "lng": 120.5643028,
+      "routes": [
+        "178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853886920,
+      "name": "高南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2953023,
+      "lng": 120.5642089,
+      "routes": [
+        "178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.119Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853887222,
+      "name": "四塊厝(高美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2918211,
+      "lng": 120.5665746,
+      "routes": [
+        "178",
+        "黃14"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853887223,
+      "name": "高美路350巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2912466,
+      "lng": 120.5687606
+    },
+    {
+      "id": 4853887225,
+      "name": "裕嘉里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2907723,
+      "lng": 120.5710244,
+      "routes": [
+        "178",
+        "黃14"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853887228,
+      "name": "國姓里(高美路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2897357,
+      "lng": 120.5719605
+    },
+    {
+      "id": 4853954342,
+      "name": "基登公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2891532,
+      "lng": 120.632565,
+      "routes": [
+        "185",
+        "186"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954344,
+      "name": "榮憶公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.286159,
+      "lng": 120.6311341,
+      "routes": [
+        "91延2",
+        "91繞2",
+        "185",
+        "186"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.974Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954346,
+      "name": "北東山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2781494,
+      "lng": 120.6296468,
+      "routes": [
+        "185",
+        "186"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954348,
+      "name": "新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2767337,
+      "lng": 120.630945,
+      "routes": [
+        "185",
+        "186"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954350,
+      "name": "僑昌公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2747288,
+      "lng": 120.6316879,
+      "routes": [
+        "185",
+        "186"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954352,
+      "name": "東山廟前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2725588,
+      "lng": 120.633367,
+      "routes": [
+        "185",
+        "186",
+        "232"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954355,
+      "name": "東山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2732593,
+      "lng": 120.631924,
+      "routes": [
+        "185",
+        "186",
+        "232"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954357,
+      "name": "東山大寶寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2710367,
+      "lng": 120.6406814
+    },
+    {
+      "id": 4853977700,
+      "name": "高美濕地遊客中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3020665,
+      "lng": 120.5470857,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853977714,
+      "name": "高美濕地體驗館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3060486,
+      "lng": 120.5465586
+    },
+    {
+      "id": 4853977716,
+      "name": "西安朝天宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3087509,
+      "lng": 120.5495701
+    },
+    {
+      "id": 4998974421,
+      "name": "中華民治東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.272516,
+      "lng": 120.5683205
+    },
+    {
+      "id": 4998978226,
+      "name": "華江北民享路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2740069,
+      "lng": 120.565478,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4998979143,
+      "name": "海濱中華路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2717208,
+      "lng": 120.5675992,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4998986326,
+      "name": "五權華江北街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2769956,
+      "lng": 120.5647337,
+      "routes": [
+        "183",
+        "186",
+        "304"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5019821531,
+      "name": "海濱民享路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2746731,
+      "lng": 120.5637712,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5021999422,
+      "name": "漁港文興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2886631,
+      "lng": 120.5415451
+    },
+    {
+      "id": 5385351121,
+      "name": "中華高美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.277894,
+      "lng": 120.5752396
+    },
+    {
+      "id": 5774909995,
+      "name": "五權民有路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2759672,
+      "lng": 120.571007
+    },
+    {
+      "id": 6049582322,
+      "name": "五權南平等路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2745803,
+      "lng": 120.5591308,
+      "routes": [
+        "304",
+        "688"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6049582324,
+      "name": "南社郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2719591,
+      "lng": 120.5583905
+    },
+    {
+      "id": 6052223269,
+      "name": "高美濕地(三順路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2991538,
+      "lng": 120.5468846,
+      "routes": [
+        "309",
+        "679",
+        "679副",
+        "679繞",
+        "688",
+        "688副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.975Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6052223271,
+      "name": "中清五權南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.273557,
+      "lng": 120.5572996,
+      "routes": [
+        "309"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830700,
+      "name": "武鹿里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2739455,
+      "lng": 120.5514966
+    },
+    {
+      "id": 6064830702,
+      "name": "甲桂林社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2746836,
+      "lng": 120.5495667,
+      "routes": [
+        "123",
+        "688",
+        "黃14"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.975Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830704,
+      "name": "台灣大食品",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2921222,
+      "lng": 120.5262737
+    },
+    {
+      "id": 6064830705,
+      "name": "臺中港北堤",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.28964,
+      "lng": 120.5388802
+    },
+    {
+      "id": 6065057847,
+      "name": "長明公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2964666,
+      "lng": 120.5521524
+    },
+    {
+      "id": 6065057848,
+      "name": "長明公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.297695,
+      "lng": 120.5504116,
+      "routes": [
+        "679副",
+        "679繞",
+        "688",
+        "688副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.975Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6065057849,
+      "name": "港埠臨海路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.292681,
+      "lng": 120.5515677
+    },
+    {
+      "id": 6065057851,
+      "name": "慈雲堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2904257,
+      "lng": 120.5509669,
+      "routes": [
+        "688",
+        "688副",
+        "黃14"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.975Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6065057853,
+      "name": "港埠海濱路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2855875,
+      "lng": 120.5497518,
+      "routes": [
+        "111",
+        "688"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6065057855,
+      "name": "港埠五權路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2819672,
+      "lng": 120.5489284
+    },
+    {
+      "id": 6065057857,
+      "name": "清水第二市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2678024,
+      "lng": 120.5607234
+    },
+    {
+      "id": 6065057859,
+      "name": "清水鬼洞",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2720355,
+      "lng": 120.5815494,
+      "routes": [
+        "111"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6065057860,
+      "name": "鰲峰山公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2689373,
+      "lng": 120.5815982
+    },
+    {
+      "id": 6065057862,
+      "name": "牛罵頭遺址",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2682036,
+      "lng": 120.5802419
+    },
+    {
+      "id": 6065183638,
+      "name": "遊客中心(美堤街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3029399,
+      "lng": 120.5464192,
+      "routes": [
+        "178",
+        "179"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6065183640,
+      "name": "高美三美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3105372,
+      "lng": 120.5624159
+    },
+    {
+      "id": 6070186430,
+      "name": "大甲溪南岸",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3096969,
+      "lng": 120.5999306
+    },
+    {
+      "id": 6070186431,
+      "name": "大甲溪南岸",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3098461,
+      "lng": 120.6013189
+    },
+    {
+      "id": 7109164627,
+      "name": "清海國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2754417,
+      "lng": 120.5520142,
+      "routes": [
+        "309"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133222971,
+      "name": "清水龍天宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2718109,
+      "lng": 120.5718467,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7151304941,
+      "name": "五權中央路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.279084,
+      "lng": 120.5554301,
+      "routes": [
+        "688"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8425506062,
+      "name": "忠義宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2909808,
+      "lng": 120.6123005
+    },
+    {
+      "id": 8425506064,
+      "name": "大楊國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2923131,
+      "lng": 120.6104913
+    },
+    {
+      "id": 8425506066,
+      "name": "南清宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2961272,
+      "lng": 120.6118291
+    },
+    {
+      "id": 8425506067,
+      "name": "大楊油庫",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2948369,
+      "lng": 120.6114112
+    },
+    {
+      "id": 8622293610,
+      "name": "大勇南北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2682443,
+      "lng": 120.5333778,
+      "routes": [
+        "307",
+        "309",
+        "688"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.121Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9653971995,
+      "name": "四維大勇路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2667622,
+      "lng": 120.5394719,
+      "routes": [
+        "307副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9653971998,
+      "name": "四維港新五路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2682688,
+      "lng": 120.5398646,
+      "routes": [
+        "307副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9658765582,
+      "name": "民安仁愛路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2621434,
+      "lng": 120.5485084,
+      "routes": [
+        "306繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9658765584,
+      "name": "仁愛民權一街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2610833,
+      "lng": 120.5519303,
+      "routes": [
+        "306繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9658765586,
+      "name": "民和忠孝西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2628279,
+      "lng": 120.555178
+    },
+    {
+      "id": 9658765588,
+      "name": "民和民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2642493,
+      "lng": 120.5557945,
+      "routes": [
+        "306繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795732,
+      "name": "護安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2927429,
+      "lng": 120.5756362,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795734,
+      "name": "中央北路菁埔路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2969408,
+      "lng": 120.5888071,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795736,
+      "name": "客庄路85巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3049723,
+      "lng": 120.6086305,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795738,
+      "name": "海風三街235巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2968168,
+      "lng": 120.6142358,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795740,
+      "name": "南清宮(海風二街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2965513,
+      "lng": 120.6119594,
+      "routes": [
+        "14延",
+        "164",
+        "黃13"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795742,
+      "name": "頂三庄路206巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2939373,
+      "lng": 120.6142234,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795744,
+      "name": "三元宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.290623,
+      "lng": 120.6139002,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795746,
+      "name": "大缺(客庄路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3059042,
+      "lng": 120.6240901,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795747,
+      "name": "頂海口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3102899,
+      "lng": 120.5578667
+    },
+    {
+      "id": 10240668543,
+      "name": "民享路民享三街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2747457,
+      "lng": 120.5601164,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10240668545,
+      "name": "秀水里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2781401,
+      "lng": 120.5622545,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10240668551,
+      "name": "文興宮(海濱路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2869051,
+      "lng": 120.5445685,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10240668553,
+      "name": "海濱里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2886834,
+      "lng": 120.5464256,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10240668555,
+      "name": "鎮元宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2917829,
+      "lng": 120.5565236,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10240668557,
+      "name": "臨江里(中央路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2912747,
+      "lng": 120.5651491,
+      "routes": [
+        "黃14"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539261,
+      "name": "港新五四維路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2689067,
+      "lng": 120.5396673
+    },
+    {
+      "id": 10259539262,
+      "name": "八德東大勇路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2680635,
+      "lng": 120.5372912,
+      "routes": [
+        "307副",
+        "695"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11733437844,
+      "name": "公車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3118907,
+      "lng": 120.5506846
+    },
+    {
+      "id": 12025324084,
+      "name": "微風一品社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2708484,
+      "lng": 120.5526432,
+      "routes": [
+        "303"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025324086,
+      "name": "鎮政路378巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2711345,
+      "lng": 120.5487514
+    },
+    {
+      "id": 12025324106,
+      "name": "鎮政中央41巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2696136,
+      "lng": 120.5467249,
+      "routes": [
+        "303"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025324108,
+      "name": "港埠港口路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2666048,
+      "lng": 120.5436082,
+      "routes": [
+        "95副",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025324109,
+      "name": "四維東大勇路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.266276,
+      "lng": 120.5412479,
+      "routes": [
+        "95副",
+        "303",
+        "308副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025324110,
+      "name": "大勇四維東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.265145,
+      "lng": 120.5412224,
+      "routes": [
+        "95副",
+        "128",
+        "303",
+        "308副",
+        "308副繞",
+        "309",
+        "695"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025324112,
+      "name": "四維東民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.268429,
+      "lng": 120.5422671,
+      "routes": [
+        "95副",
+        "303",
+        "308副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025400243,
+      "name": "民族四維東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2689094,
+      "lng": 120.5414826,
+      "routes": [
+        "308副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025400244,
+      "name": "民族八德東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2702677,
+      "lng": 120.5377556,
+      "routes": [
+        "308副",
+        "678",
+        "695"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12025400247,
+      "name": "八德大勇路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.268726,
+      "lng": 120.5349165,
+      "routes": [
+        "678"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12119860559,
+      "name": "槺新公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.269264,
+      "lng": 120.5486535,
+      "routes": [
+        "695"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566896,
+      "name": "民族路二段390巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2658345,
+      "lng": 120.5538796,
+      "routes": [
+        "95副",
+        "695"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566898,
+      "name": "民族民安路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2669673,
+      "lng": 120.5495533,
+      "routes": [
+        "95副",
+        "695"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566899,
+      "name": "民族民安路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2663093,
+      "lng": 120.5506943,
+      "routes": [
+        "95副",
+        "695"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566900,
+      "name": "八德民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2722255,
+      "lng": 120.5363647,
+      "routes": [
+        "695"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183438,
+      "name": "中央北路菁埔路157巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2967232,
+      "lng": 120.5851915,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183440,
+      "name": "頂湳路福圳街二段口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.3020911,
+      "lng": 120.6009863,
+      "routes": [
+        "黃13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183442,
+      "name": "慈雲堂(港埠路口)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2900757,
+      "lng": 120.5514575,
+      "routes": [
+        "111",
+        "688"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132184602,
+      "name": "大勇八德東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2669413,
+      "lng": 120.5370158,
+      "routes": [
+        "128",
+        "309",
+        "688"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12148112264,
+      "name": "大楊北街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2886732,
+      "lng": 120.6139145
+    },
+    {
+      "id": 12148112266,
+      "name": "許厝里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2792409,
+      "lng": 120.6127262
+    },
+    {
+      "id": 12148112268,
+      "name": "永安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2682104,
+      "lng": 120.5997585
+    },
+    {
+      "id": 13094872738,
+      "name": "台中海洋館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2958754,
+      "lng": 120.5202196,
+      "routes": [
+        "178",
+        "179",
+        "309",
+        "679",
+        "679副",
+        "679繞",
+        "688",
+        "688副"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872742,
+      "name": "民族路二段229巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "清水區",
+      "lat": 24.2654842,
+      "lng": 120.5579143,
+      "routes": [
+        "95副",
+        "306繞",
+        "695"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.977Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

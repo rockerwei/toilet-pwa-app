@@ -1,0 +1,68 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:24:44.605Z",
+  "items": [
+    {
+      "id": 3334032191,
+      "name": "旅遊資訊中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1494385,
+      "lng": 120.6651043,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.596Z"
+    },
+    {
+      "id": 4639192592,
+      "name": "老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1457765,
+      "lng": 120.6632134,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.599Z"
+    },
+    {
+      "id": 8595701854,
+      "name": "國立臺灣美術館(五權西路)",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.14023,
+      "lng": 120.66374,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.600Z"
+    },
+    {
+      "id": 12287685504,
+      "name": "Taichung Fifth Public Retail Market",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1387003,
+      "lng": 120.6725918,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.602Z"
+    },
+    {
+      "id": 13691650158,
+      "name": "臺中文學館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.1395787,
+      "lng": 120.6729394,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.603Z",
+      "address": "403003臺中市西區樂群街38號"
+    },
+    {
+      "id": 1233815070,
+      "name": "i",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1337131,
+      "lng": 120.674594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:24:44.605Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:12:17.527Z",
+  "items": [
+    {
+      "id": 9624197573,
+      "name": "日本神社遺址鳥居",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2757241,
+      "lng": 120.7240491,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.518Z"
+    },
+    {
+      "id": 9624230979,
+      "name": "三明火",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.264967,
+      "lng": 120.6936834,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.521Z"
+    },
+    {
+      "id": 9624231009,
+      "name": "千年牛樟展覽台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2766306,
+      "lng": 120.7203619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.522Z"
+    },
+    {
+      "id": 9634886382,
+      "name": "那瑪夏全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.2069256,
+      "lng": 120.6676566,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.524Z"
+    },
+    {
+      "id": 949678115,
+      "name": "瑪雅吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2386074,
+      "lng": 120.6942612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.525Z"
+    },
+    {
+      "id": 959616578,
+      "name": "那次蘭吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2538124,
+      "lng": 120.6972452,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:12:17.527Z"
+    }
+  ]
+}

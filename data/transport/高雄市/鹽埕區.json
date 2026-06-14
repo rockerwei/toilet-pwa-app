@@ -1,0 +1,474 @@
+{
+  "city": "高雄市",
+  "district": "鹽埕區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 24,
+  "items": [
+    {
+      "id": 2534984902,
+      "name": "歷史博物館(大公路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6264457,
+      "lng": 120.2850363,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "76",
+        "77昌福幹線",
+        "82",
+        "82公車式小黃",
+        "168環西區間",
+        "168環東區間",
+        "214",
+        "219A",
+        "219B",
+        "224",
+        "8001",
+        "紅52"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2265882540,
+      "name": "三山國王廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6259083,
+      "lng": 120.2838791,
+      "routes": [
+        "11",
+        "76",
+        "77昌福幹線",
+        "82",
+        "82公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2273757411,
+      "name": "五福瀨南街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6242379,
+      "lng": 120.2824118,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "56A",
+        "56B",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "219A",
+        "219B",
+        "224"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2283987201,
+      "name": "捷運鹽埕埔站(大仁路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.625101,
+      "lng": 120.2853631,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "56A",
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "168環西區間",
+        "168環東區間",
+        "214",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798436,
+      "name": "北斗街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6323413,
+      "lng": 120.2840151,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798438,
+      "name": "國際商場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6252963,
+      "lng": 120.2815595,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "219A",
+        "219B",
+        "224",
+        "紅52"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798439,
+      "name": "大公路口(建國四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6276819,
+      "lng": 120.2813787,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.541Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798442,
+      "name": "大智路(光榮國小)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6235672,
+      "lng": 120.2866614,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "56A",
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "168環西區間",
+        "168環東區間",
+        "214",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798445,
+      "name": "建國四路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6250901,
+      "lng": 120.2803212,
+      "routes": [
+        "50五福幹線",
+        "56A",
+        "56B",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512798451,
+      "name": "鹽埕分局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6305851,
+      "lng": 120.2830858,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984894,
+      "name": "大公路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.627275,
+      "lng": 120.2832609,
+      "routes": [
+        "11",
+        "33(6:33繞駛後指部)",
+        "76",
+        "77昌福幹線",
+        "82",
+        "82公車式小黃",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984896,
+      "name": "大成街口(輕軌真愛碼頭站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6210391,
+      "lng": 120.2885427,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "168環西區間",
+        "168環東區間",
+        "214",
+        "224"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984898,
+      "name": "大智路口(五福四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6218373,
+      "lng": 120.2869106,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "168環西區間",
+        "168環東區間",
+        "214",
+        "224"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984905,
+      "name": "高雄女中(真愛碼頭)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6206161,
+      "lng": 120.2880127
+    },
+    {
+      "id": 2792797104,
+      "name": "七賢三路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6295101,
+      "lng": 120.2851067,
+      "routes": [
+        "82",
+        "82公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797130,
+      "name": "府北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6288244,
+      "lng": 120.2855283,
+      "routes": [
+        "56A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835097770,
+      "name": "漁人碼頭(公園路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6230519,
+      "lng": 120.2802588
+    },
+    {
+      "id": 2835097773,
+      "name": "輕軌駁二蓬萊站(高雄港)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.620921,
+      "lng": 120.2794328,
+      "routes": [
+        "紅52"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3180197758,
+      "name": "駁二藝術特區(大智路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6208221,
+      "lng": 120.2849755,
+      "routes": [
+        "60覺民幹線",
+        "60覺民幹線區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.542Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580663525,
+      "name": "鹽埕埔",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6241553,
+      "lng": 120.2840775,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.304Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4804112949,
+      "name": "真愛碼頭",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6192654,
+      "lng": 120.2894256,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.304Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4934237746,
+      "name": "駁二蓬萊",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6204454,
+      "lng": 120.2799183,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.304Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4934237755,
+      "name": "駁二大義",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6184985,
+      "lng": 120.2842225,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.304Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5963969989,
+      "name": "文武聖殿",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "lat": 22.6295474,
+      "lng": 120.2807283,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.304Z",
+      "lineConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:02:51.143Z",
+  "items": [
+    {
+      "id": 4586374889,
+      "name": "得月樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6573603,
+      "lng": 120.3575857,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.131Z"
+    },
+    {
+      "id": 9833534711,
+      "name": "青春嶺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6615541,
+      "lng": 120.3857832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.135Z"
+    },
+    {
+      "id": 11095231638,
+      "name": "小草嶺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6689259,
+      "lng": 120.3868201,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.137Z"
+    },
+    {
+      "id": 11096667478,
+      "name": "尖山嶺登山導覽圖 (模糊)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6684549,
+      "lng": 120.3897709,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.138Z"
+    },
+    {
+      "id": 13249497453,
+      "name": "最南端果嶺",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6635307,
+      "lng": 120.3380269,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.140Z"
+    },
+    {
+      "id": 603446839,
+      "name": "澄清湖風景區兒童樂園",
+      "facilityType": "theme_park",
+      "facilityLabel": "🎡 遊樂場",
+      "lat": 22.6588323,
+      "lng": 120.3462425,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.142Z"
+    },
+    {
+      "id": 775351813,
+      "name": "澄清湖風景區服務台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6535509,
+      "lng": 120.349957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:02:51.143Z"
+    }
+  ]
+}

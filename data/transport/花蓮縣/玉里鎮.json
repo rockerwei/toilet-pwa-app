@@ -1,0 +1,838 @@
+{
+  "city": "花蓮縣",
+  "district": "玉里鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 52,
+  "items": [
+    {
+      "id": 206218985,
+      "name": "玉里",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3315585,
+      "lng": 121.3115556
+    },
+    {
+      "id": 289680445,
+      "name": "三民",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4246636,
+      "lng": 121.3452414
+    },
+    {
+      "id": 3255493565,
+      "name": "安通溫泉",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.280922,
+      "lng": 121.3411388,
+      "routes": [
+        "309",
+        "8181"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493569,
+      "name": "南通",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3074988,
+      "lng": 121.3352967,
+      "routes": [
+        "1137",
+        "8181"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493570,
+      "name": "樂合(鼎東)",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3206793,
+      "lng": 121.3358844,
+      "routes": [
+        "8181"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493571,
+      "name": "玉里慈濟醫院",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3351533,
+      "lng": 121.3184277,
+      "routes": [
+        "8181"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493572,
+      "name": "玉里火車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3315013,
+      "lng": 121.3122818,
+      "routes": [
+        "309",
+        "1130",
+        "1135",
+        "1135A",
+        "1137",
+        "1142",
+        "8181"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493573,
+      "name": "玉里榮民醫院",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3383635,
+      "lng": 121.3129078,
+      "routes": [
+        "1135A",
+        "8181"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756763,
+      "name": "長良",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.2759681,
+      "lng": 121.2874922,
+      "routes": [
+        "1130"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756764,
+      "name": "長良國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.2850385,
+      "lng": 121.2869723,
+      "routes": [
+        "1130"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756766,
+      "name": "客城",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3098762,
+      "lng": 121.3062443,
+      "routes": [
+        "1130"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756767,
+      "name": "圓環",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3310176,
+      "lng": 121.3159176,
+      "routes": [
+        "1130",
+        "1135",
+        "1135A",
+        "1137"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817590,
+      "name": "余外科",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3278087,
+      "lng": 121.3170899
+    },
+    {
+      "id": 3280817591,
+      "name": "戶政事務所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3245287,
+      "lng": 121.319587,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817592,
+      "name": "福安新村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3239307,
+      "lng": 121.3226307,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817593,
+      "name": "樂合",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.319058,
+      "lng": 121.3375419,
+      "routes": [
+        "1135",
+        "1135A",
+        "1137"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817594,
+      "name": "新民",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3203574,
+      "lng": 121.3377753,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817595,
+      "name": "上石光",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3331238,
+      "lng": 121.3392659,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817596,
+      "name": "下石光",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3345157,
+      "lng": 121.3393522,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817597,
+      "name": "東豐",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3410563,
+      "lng": 121.3406955,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817598,
+      "name": "鐵份",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3455937,
+      "lng": 121.3440107,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817599,
+      "name": "坪頂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3659828,
+      "lng": 121.3489658,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817600,
+      "name": "高寮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3825797,
+      "lng": 121.3526197,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817601,
+      "name": "觀音橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3912395,
+      "lng": 121.3541962,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817602,
+      "name": "觀音國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3955676,
+      "lng": 121.3580097,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817603,
+      "name": "觀音",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.398945,
+      "lng": 121.3601447,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817604,
+      "name": "新田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4036122,
+      "lng": 121.3629986,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817605,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4084671,
+      "lng": 121.3659621
+    },
+    {
+      "id": 3280817606,
+      "name": "舊田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4125046,
+      "lng": 121.3675642,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817607,
+      "name": "玉東國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4170097,
+      "lng": 121.3702028,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817608,
+      "name": "松浦",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4280546,
+      "lng": 121.3733474,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817609,
+      "name": "溪浦",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4310155,
+      "lng": 121.3763158
+    },
+    {
+      "id": 3280817610,
+      "name": "麻汝",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4360544,
+      "lng": 121.3795474,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817611,
+      "name": "埤尾",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4387461,
+      "lng": 121.3808325,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817612,
+      "name": "泰林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.448293,
+      "lng": 121.3896417,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817613,
+      "name": "春日國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4519088,
+      "lng": 121.393317,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817614,
+      "name": "春日",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4550924,
+      "lng": 121.3960885,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817615,
+      "name": "苓雅",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4664192,
+      "lng": 121.4036726,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.085Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817621,
+      "name": "德武",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4796127,
+      "lng": 121.4047503,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421802,
+      "name": "三民國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4318984,
+      "lng": 121.3498642,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421803,
+      "name": "三民國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4290018,
+      "lng": 121.3482468,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421804,
+      "name": "三民車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4243637,
+      "lng": 121.3461742,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421809,
+      "name": "三軒",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4019845,
+      "lng": 121.3323781,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421810,
+      "name": "大禹",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3804235,
+      "lng": 121.3294892,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421811,
+      "name": "酸柑",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.361537,
+      "lng": 121.3245313,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421812,
+      "name": "煙寮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3544606,
+      "lng": 121.3218643,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421813,
+      "name": "玉里高中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3467818,
+      "lng": 121.3183867,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421814,
+      "name": "地政事務所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3420284,
+      "lng": 121.3165316
+    },
+    {
+      "id": 3282421816,
+      "name": "玉里街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.334343,
+      "lng": 121.3145447
+    },
+    {
+      "id": 3665355184,
+      "name": "玉溪農會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3379218,
+      "lng": 121.3152248,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6801557537,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.4145479,
+      "lng": 121.3425726
+    },
+    {
+      "id": 361377901,
+      "name": "玉里站",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "玉里鎮",
+      "lat": 23.3324023,
+      "lng": 121.3126582,
+      "routes": [
+        "309",
+        "1130",
+        "1135",
+        "1135A",
+        "1137",
+        "1142",
+        "8181"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

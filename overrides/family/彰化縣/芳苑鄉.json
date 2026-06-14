@@ -1,0 +1,57 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:30:07.487Z",
+  "items": [
+    {
+      "id": 1271039808,
+      "name": "芳苑燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9711566,
+      "lng": 120.3241315,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:30:07.479Z"
+    },
+    {
+      "id": 9502869625,
+      "name": "休憩平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9593823,
+      "lng": 120.3802994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:30:07.482Z"
+    },
+    {
+      "id": 9502869640,
+      "name": "遊憩區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9593259,
+      "lng": 120.3803662,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:30:07.483Z"
+    },
+    {
+      "id": 9887236964,
+      "name": "觀夕平臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9683321,
+      "lng": 120.3237228,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:30:07.485Z"
+    },
+    {
+      "id": 7073701,
+      "name": "彰雲嘉沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6406272,
+      "lng": 120.1598771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:30:07.486Z"
+    }
+  ]
+}

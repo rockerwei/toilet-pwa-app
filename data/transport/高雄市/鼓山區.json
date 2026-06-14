@@ -1,0 +1,2365 @@
+{
+  "city": "高雄市",
+  "district": "鼓山區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 132,
+  "items": [
+    {
+      "id": 1080438921,
+      "name": "市立聯合醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.655105,
+      "lng": 120.2923203,
+      "routes": [
+        "73",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "205中華幹線",
+        "8043",
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1080438927,
+      "name": "明誠中學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.665212,
+      "lng": 120.2923861,
+      "routes": [
+        "205中華幹線",
+        "8043",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅52"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1080485429,
+      "name": "明誠中學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6657636,
+      "lng": 120.2915923,
+      "routes": [
+        "205中華幹線",
+        "8043",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅52"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1085529769,
+      "name": "輕軌壽山公園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6260164,
+      "lng": 120.2778224,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1085529848,
+      "name": "西子灣(英國領事館官邸)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6184652,
+      "lng": 120.2659971,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1085529855,
+      "name": "輕軌文武聖殿站(台電)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.63001,
+      "lng": 120.2808124,
+      "routes": [
+        "11",
+        "56A",
+        "56B",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1281603644,
+      "name": "前鋒社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6674349,
+      "lng": 120.2852718,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅33明誠幹線",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.543Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1281603665,
+      "name": "銘傳路口(九如四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6658793,
+      "lng": 120.28409,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅33明誠幹線",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1291815925,
+      "name": "大榮幼稚園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6549026,
+      "lng": 120.2810737
+    },
+    {
+      "id": 1305546420,
+      "name": "輕軌鼓山區公所站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6366712,
+      "lng": 120.2809748,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305817985,
+      "name": "大榮高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6533586,
+      "lng": 120.2788643,
+      "routes": [
+        "11",
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305817986,
+      "name": "高雄電台",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6559922,
+      "lng": 120.2791828,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1310366814,
+      "name": "龍華國小站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6554228,
+      "lng": 120.299455,
+      "routes": [
+        "168環西",
+        "168環西區間"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875380,
+      "name": "捷運凹子底站(輕軌愛河之心站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6570321,
+      "lng": 120.3029738,
+      "routes": [
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "301",
+        "8502",
+        "紅33明誠幹線",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅62A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1310366834,
+      "name": "裕誠路口(大順一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6540611,
+      "lng": 120.2942276,
+      "routes": [
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1310366839,
+      "name": "龍德路口(大順一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6547208,
+      "lng": 120.2964448,
+      "routes": [
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875241,
+      "name": "內惟派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6583178,
+      "lng": 120.2791718,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875252,
+      "name": "龍德路口(神農路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.657784,
+      "lng": 120.2966035,
+      "routes": [
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875268,
+      "name": "逢甲路口(九如四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6639002,
+      "lng": 120.2825916,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875276,
+      "name": "龍泉寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.656102,
+      "lng": 120.2754627,
+      "routes": [
+        "11",
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875286,
+      "name": "內惟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6624787,
+      "lng": 120.2782611,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.544Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875301,
+      "name": "華安街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6479821,
+      "lng": 120.2769811,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875310,
+      "name": "日昌路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6606065,
+      "lng": 120.2802013,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875328,
+      "name": "九如四路口(逢甲路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6637669,
+      "lng": 120.2835508,
+      "routes": [
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875334,
+      "name": "鼓山高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6529721,
+      "lng": 120.2757732,
+      "routes": [
+        "11",
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875339,
+      "name": "鼓山國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6505155,
+      "lng": 120.2763945,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875352,
+      "name": "鼓山三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6448161,
+      "lng": 120.2777629,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875376,
+      "name": "葆禎路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.66194,
+      "lng": 120.2815265,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875389,
+      "name": "內惟橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6593862,
+      "lng": 120.2760507,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875411,
+      "name": "果貿社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6702406,
+      "lng": 120.2864348,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "73",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "8043",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅33明誠幹線",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1311875484,
+      "name": "厚德路口站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6471987,
+      "lng": 120.2777555
+    },
+    {
+      "id": 1315119663,
+      "name": "大順一路(好市多)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6567948,
+      "lng": 120.3062538,
+      "routes": [
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1325348317,
+      "name": "南屏路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6569035,
+      "lng": 120.3000798,
+      "routes": [
+        "紅33明誠幹線",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅62A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1325348326,
+      "name": "國泰市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6500435,
+      "lng": 120.2791663,
+      "routes": [
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1325348327,
+      "name": "九如四路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6483822,
+      "lng": 120.2791229,
+      "routes": [
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1326438948,
+      "name": "高雄市立美術館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6567326,
+      "lng": 120.2880829,
+      "routes": [
+        "8502",
+        "紅33明誠幹線",
+        "紅35",
+        "紅35(繞駛崇實社區)",
+        "紅52"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.545Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1326438960,
+      "name": "紐約57街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6631123,
+      "lng": 120.2884194,
+      "routes": [
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1326438968,
+      "name": "裕誠路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6582866,
+      "lng": 120.2940189,
+      "routes": [
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1326438975,
+      "name": "美術館(中華藝校)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6554477,
+      "lng": 120.2880568,
+      "routes": [
+        "73",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1327596330,
+      "name": "高等法院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6612694,
+      "lng": 120.298879,
+      "routes": [
+        "8502",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1327596334,
+      "name": "中華路口(明誠三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6613007,
+      "lng": 120.2929713,
+      "routes": [
+        "8502",
+        "紅33明誠幹線",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1327596335,
+      "name": "美術東六街口(明誠四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.661306,
+      "lng": 120.2908912,
+      "routes": [
+        "紅33明誠幹線",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2811225820,
+      "name": "美術東四路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.660398,
+      "lng": 120.2903789,
+      "routes": [
+        "紅25公車式小黃",
+        "紅25繞公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1327596338,
+      "name": "美術館(明誠四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6621281,
+      "lng": 120.2864786,
+      "routes": [
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1329952985,
+      "name": "龍勝路口(凹仔底公園)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6610474,
+      "lng": 120.2953977,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1329952986,
+      "name": "捷運巨蛋站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6651425,
+      "lng": 120.3030598,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "16A",
+        "16A繞(經文信路)",
+        "16B",
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "301",
+        "8502",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)",
+        "紅62A"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1330868880,
+      "name": "裕豐街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6648484,
+      "lng": 120.2950251,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.546Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1330868886,
+      "name": "三民家商",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6657438,
+      "lng": 120.3008162,
+      "routes": [
+        "3",
+        "16A",
+        "16B",
+        "紅36裕誠幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1330868896,
+      "name": "明倫路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6657757,
+      "lng": 120.2974045,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1332461771,
+      "name": "民康街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6622718,
+      "lng": 120.2941598,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "紅36裕誠幹線",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169291,
+      "name": "中山大學行政大樓",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6248577,
+      "lng": 120.2659157,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169294,
+      "name": "哨船街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6223987,
+      "lng": 120.2693131,
+      "routes": [
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169300,
+      "name": "哨船頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6193687,
+      "lng": 120.2691136,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169309,
+      "name": "捷運哈瑪星站(輕軌哈瑪星站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6215612,
+      "lng": 120.2752656,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B",
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169311,
+      "name": "港務公司(西子灣隧道)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6239621,
+      "lng": 120.2701493,
+      "routes": [
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169314,
+      "name": "西子灣(英國領事館官邸)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6196708,
+      "lng": 120.2665057,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169325,
+      "name": "雄鎮北門(打狗英國領事館)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6174758,
+      "lng": 120.2673797,
+      "routes": [
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2470169331,
+      "name": "鼓山市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.622473,
+      "lng": 120.2726993,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482444008,
+      "name": "河西華安街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.647785,
+      "lng": 120.2832912,
+      "routes": [
+        "168環西",
+        "168環東",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482444010,
+      "name": "河邊里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6416461,
+      "lng": 120.2823599,
+      "routes": [
+        "168環西",
+        "168環東"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2523286973,
+      "name": "明誠路口(博愛二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6615663,
+      "lng": 120.3029689,
+      "routes": [
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "301",
+        "8502",
+        "紅62A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001593,
+      "name": "明誠路口(中華一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6621876,
+      "lng": 120.2926952,
+      "routes": [
+        "205中華幹線",
+        "8043",
+        "紅52"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001599,
+      "name": "美術東五路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6586253,
+      "lng": 120.2924937,
+      "routes": [
+        "205中華幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001605,
+      "name": "龍子里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6508531,
+      "lng": 120.292136,
+      "routes": [
+        "73",
+        "205中華幹線",
+        "8043"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130613,
+      "name": "新濱碼頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6198802,
+      "lng": 120.2726043,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130618,
+      "name": "濱海二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6215757,
+      "lng": 120.2699265,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130627,
+      "name": "鼓山輪渡站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6197102,
+      "lng": 120.2707312,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.547Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2571324293,
+      "name": "大順一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6562245,
+      "lng": 120.3086924,
+      "routes": [
+        "92自由幹線",
+        "8502"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604132096,
+      "name": "華榮公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6629788,
+      "lng": 120.2971745,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604132097,
+      "name": "華榮公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6643098,
+      "lng": 120.2969809
+    },
+    {
+      "id": 2614756192,
+      "name": "瑞豐市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6693618,
+      "lng": 120.2942271,
+      "routes": [
+        "16B",
+        "217A新昌幹線",
+        "217B新昌幹線",
+        "217D新昌幹線(高應大發車)",
+        "217E新昌幹線(大華里發車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2670325019,
+      "name": "鼓山派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6344513,
+      "lng": 120.2825724,
+      "routes": [
+        "11",
+        "56A",
+        "56B",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2753105770,
+      "name": "華榮路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6675966,
+      "lng": 120.2959562,
+      "routes": [
+        "16A",
+        "16A繞(經文信路)",
+        "16B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2753105779,
+      "name": "裕誠路口(華榮路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6662799,
+      "lng": 120.2967585,
+      "routes": [
+        "16A",
+        "16A繞(經文信路)",
+        "16B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797117,
+      "name": "元亨寺(興隆路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6382475,
+      "lng": 120.2788895,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797120,
+      "name": "壽山停車場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6347994,
+      "lng": 120.2792563,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797124,
+      "name": "壽山動物園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6340052,
+      "lng": 120.2762123,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797127,
+      "name": "壽山登山口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6347297,
+      "lng": 120.2774269,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797137,
+      "name": "忠烈祠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6291965,
+      "lng": 120.2774825,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.548Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797140,
+      "name": "忠烈祠觀景台",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6251649,
+      "lng": 120.2744604
+    },
+    {
+      "id": 2792797148,
+      "name": "萬壽山橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6359118,
+      "lng": 120.2791973,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.549Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797149,
+      "name": "金馬賓館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6276657,
+      "lng": 120.2789826,
+      "routes": [
+        "56A",
+        "56B",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.549Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2811225806,
+      "name": "H棟宿舍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6272479,
+      "lng": 120.2678416,
+      "routes": [
+        "橘1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.549Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2811225807,
+      "name": "中山大學活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6279757,
+      "lng": 120.2653498,
+      "routes": [
+        "橘1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.549Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2811225816,
+      "name": "美明路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6654121,
+      "lng": 120.2892645,
+      "routes": [
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2811225818,
+      "name": "臺鐵鼓山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6421681,
+      "lng": 120.2783951,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835097769,
+      "name": "中山大學(隧道口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6238372,
+      "lng": 120.2698757,
+      "routes": [
+        "50五福幹線",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835097775,
+      "name": "哈瑪星旅運接駁中心(輕軌哈瑪星站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6204477,
+      "lng": 120.2763482,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835097776,
+      "name": "哈瑪星旅運接駁中心(輕軌哈瑪星站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6211122,
+      "lng": 120.2754474,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2844218320,
+      "name": "龍德路口(博愛一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6547693,
+      "lng": 120.3033776,
+      "routes": [
+        "100百貨幹線",
+        "224",
+        "301"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849762393,
+      "name": "雄鋒社區(鼓山三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6692534,
+      "lng": 120.2835315
+    },
+    {
+      "id": 2849762394,
+      "name": "雄鋒社區(鼓山三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6685477,
+      "lng": 120.2826701,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849762395,
+      "name": "元亨寺(鼓山二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6400684,
+      "lng": 120.2792818,
+      "routes": [
+        "11",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2849762398,
+      "name": "桃子園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6708671,
+      "lng": 120.284841
+    },
+    {
+      "id": 2849762399,
+      "name": "自強新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6647281,
+      "lng": 120.2802298,
+      "routes": [
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)",
+        "219A",
+        "219B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2925761827,
+      "name": "美術園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6533943,
+      "lng": 120.2882074,
+      "routes": [
+        "73",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅33明誠幹線",
+        "紅52"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2971091139,
+      "name": "山海宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6443438,
+      "lng": 120.2541325,
+      "routes": [
+        "橘1延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2971091141,
+      "name": "慈德宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6472866,
+      "lng": 120.2536917,
+      "routes": [
+        "橘1延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2971091142,
+      "name": "文學院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6337334,
+      "lng": 120.2613098,
+      "routes": [
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2971091144,
+      "name": "武嶺路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6289323,
+      "lng": 120.2633871,
+      "routes": [
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2971091146,
+      "name": "海水浴場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6252273,
+      "lng": 120.264812,
+      "routes": [
+        "橘1延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3180197757,
+      "name": "棧貳庫",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6188163,
+      "lng": 120.2791554
+    },
+    {
+      "id": 3191642363,
+      "name": "願景橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6504202,
+      "lng": 120.2861379,
+      "routes": [
+        "168環西",
+        "168環東",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3885600628,
+      "name": "文信路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6644733,
+      "lng": 120.3006592,
+      "routes": [
+        "3繞(17時以後改道文信路)",
+        "16A繞(經文信路)",
+        "8502",
+        "紅36裕誠幹線(17時以後改道文信路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580663523,
+      "name": "哈瑪星",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.621369,
+      "lng": 120.2748048,
+      "lines": [
+        "高雄環狀輕軌",
+        "橘線"
+      ],
+      "lineCount": 2,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T16:43:42.550Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580663524,
+      "name": "凹子底",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6571226,
+      "lng": 120.3030787,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580663530,
+      "name": "巨蛋",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6656214,
+      "lng": 120.3032563,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4934237745,
+      "name": "哈瑪星",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6216116,
+      "lng": 120.2758388,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5528502177,
+      "name": "鼓山",
+      "type": "train",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.641978,
+      "lng": 120.2809263
+    },
+    {
+      "id": 5622257948,
+      "name": "美術館",
+      "type": "train",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6519869,
+      "lng": 120.2815509
+    },
+    {
+      "id": 5622257949,
+      "name": "內惟",
+      "type": "train",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6658791,
+      "lng": 120.2869788
+    },
+    {
+      "id": 5963967382,
+      "name": "鼓山區公所",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6360321,
+      "lng": 120.2825911,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5963969990,
+      "name": "壽山公園",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6265296,
+      "lng": 120.278669,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 6041709541,
+      "name": "九如國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6518104,
+      "lng": 120.2770348,
+      "routes": [
+        "11",
+        "38B(去繞鼓山三路)",
+        "38C(返繞鼓山三路)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8057987300,
+      "name": "臺鐵美術館",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6521144,
+      "lng": 120.2817491,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8057987301,
+      "name": "馬卡道",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6470427,
+      "lng": 120.2814409,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8057987302,
+      "name": "輕軌鼓山站",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6420358,
+      "lng": 120.2810929,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8185972295,
+      "name": "青海美術南二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6515118,
+      "lng": 120.2858825,
+      "routes": [
+        "73",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅33明誠幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8538190666,
+      "name": "義享天地",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6545562,
+      "lng": 120.3061627,
+      "routes": [
+        "8502"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8584603972,
+      "name": "鼓山行政中心(興隆)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6360747,
+      "lng": 120.2806681,
+      "routes": [
+        "56A",
+        "56B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8584603973,
+      "name": "綠川里(慈仁宮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6352669,
+      "lng": 120.284447,
+      "routes": [
+        "紅27"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8584603975,
+      "name": "河邊里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6396715,
+      "lng": 120.2835472,
+      "routes": [
+        "紅27"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8740903908,
+      "name": "臺鐵內惟站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.665728,
+      "lng": 120.2880994,
+      "routes": [
+        "紅25公車式小黃",
+        "紅25繞公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8938449480,
+      "name": "海工館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6290489,
+      "lng": 120.2622349,
+      "routes": [
+        "橘1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9018997867,
+      "name": "中山大學海科院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.630229,
+      "lng": 120.2618652,
+      "routes": [
+        "橘1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9776227774,
+      "name": "愛河之心",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6561709,
+      "lng": 120.303253,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 9776227775,
+      "name": "龍華國小",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6544819,
+      "lng": 120.2950847,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 9776227776,
+      "name": "聯合醫院",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.654805,
+      "lng": 120.2910873,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 9776227777,
+      "name": "美術館",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6549882,
+      "lng": 120.2872544,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 9776227778,
+      "name": "內惟藝術中心",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6549695,
+      "lng": 120.2828409,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.309Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 11954239470,
+      "name": "美術館(中華藝校)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6560748,
+      "lng": 120.2888587,
+      "routes": [
+        "73",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅25公車式小黃",
+        "紅25繞公車式小黃",
+        "紅35",
+        "紅35(繞駛崇實社區)"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 447994152,
+      "name": "哈瑪星轉運站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "鼓山區",
+      "lat": 22.6204449,
+      "lng": 120.2763676,
+      "routes": [
+        "紅52",
+        "橘1",
+        "橘1延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.551Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

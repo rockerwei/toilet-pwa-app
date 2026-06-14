@@ -1,0 +1,1111 @@
+{
+  "city": "嘉義縣",
+  "district": "中埔鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-12T00:48:18.596Z",
+  "rev": 1,
+  "count": 59,
+  "items": [
+    {
+      "id": 2679814122,
+      "name": "金蘭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4437194,
+      "lng": 120.5078462,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3116052379,
+      "name": "三層崎",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3710586,
+      "lng": 120.4951361,
+      "routes": [
+        "黃14 三層崎→白河",
+        "黃14 白河→三層崎"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3116052381,
+      "name": "三德宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3776377,
+      "lng": 120.4839733,
+      "routes": [
+        "黃14 三層崎→白河",
+        "黃14 白河→三層崎"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3116052387,
+      "name": "公埤",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3748024,
+      "lng": 120.4908138,
+      "routes": [
+        "黃14 三層崎→白河",
+        "黃14 白河→三層崎"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3116052389,
+      "name": "同仁路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3732737,
+      "lng": 120.4921288,
+      "routes": [
+        "黃14 三層崎→白河",
+        "黃14 白河→三層崎"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3116052396,
+      "name": "水庫路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3715772,
+      "lng": 120.4929625,
+      "routes": [
+        "黃14 三層崎→白河",
+        "黃14 白河→三層崎"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4524904290,
+      "name": "公館尾",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4353801,
+      "lng": 120.4513227,
+      "routes": [
+        "7210",
+        "7210B",
+        "7214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4524904292,
+      "name": "後庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4525691,
+      "lng": 120.4602184,
+      "routes": [
+        "7210",
+        "7210B",
+        "7214",
+        "7215",
+        "7215B",
+        "7216",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "縣府6路"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5452427049,
+      "name": "老園仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4119499,
+      "lng": 120.5141468
+    },
+    {
+      "id": 5452427051,
+      "name": "頂埔路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4160308,
+      "lng": 120.5168653,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5452427053,
+      "name": "中埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4227759,
+      "lng": 120.522117,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453894848,
+      "name": "澐水溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3792266,
+      "lng": 120.534769,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453959218,
+      "name": "澐水",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.38459,
+      "lng": 120.5261698,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453959220,
+      "name": "中埤路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3891678,
+      "lng": 120.5215833,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453959703,
+      "name": "公車站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4022898,
+      "lng": 120.5114579
+    },
+    {
+      "id": 5453959705,
+      "name": "員園山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4032584,
+      "lng": 120.511242,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453959707,
+      "name": "同仁派出所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4054234,
+      "lng": 120.5128513,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453959709,
+      "name": "同仁",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4067969,
+      "lng": 120.5131102,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5453966622,
+      "name": "竹頭崎",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.392986,
+      "lng": 120.5192108,
+      "routes": [
+        "7215",
+        "7215B",
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454207961,
+      "name": "中崙礦場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3820542,
+      "lng": 120.5571654,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454207964,
+      "name": "中崙隧道",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3835744,
+      "lng": 120.5532655,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454212283,
+      "name": "公車站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3743309,
+      "lng": 120.562275
+    },
+    {
+      "id": 5454212284,
+      "name": "公車站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3785582,
+      "lng": 120.5627444
+    },
+    {
+      "id": 5454212285,
+      "name": "廟口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3732241,
+      "lng": 120.5639058,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220112,
+      "name": "南寮路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3620765,
+      "lng": 120.5782691,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.895Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220113,
+      "name": "永富路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3803013,
+      "lng": 120.5844891,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220115,
+      "name": "外石子湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3828272,
+      "lng": 120.5831265,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220117,
+      "name": "內蕉子湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3845727,
+      "lng": 120.5778614,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.895Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220119,
+      "name": "石子湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3831547,
+      "lng": 120.573425,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220120,
+      "name": "橫坑頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3818696,
+      "lng": 120.5712095,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454222022,
+      "name": "中興",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3774318,
+      "lng": 120.5736557,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454222024,
+      "name": "梅園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3756358,
+      "lng": 120.5757022,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454222025,
+      "name": "中崙嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.3759928,
+      "lng": 120.5680338,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6566485117,
+      "name": "吳鳳廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4435626,
+      "lng": 120.5422094,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6566514701,
+      "name": "頂六國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4459297,
+      "lng": 120.4942929,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7216A",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6742291147,
+      "name": "仁友醫院",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.43956,
+      "lng": 120.4538836,
+      "routes": [
+        "7210",
+        "7210B",
+        "7214",
+        "縣府6路"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6742291171,
+      "name": "中埔農會",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.44988,
+      "lng": 120.45961,
+      "routes": [
+        "7210",
+        "7210B",
+        "7214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6742291182,
+      "name": "公館",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.44504,
+      "lng": 120.45705,
+      "routes": [
+        "7210",
+        "7210B",
+        "7214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984438,
+      "name": "吳鳳成仁地",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4414523,
+      "lng": 120.5305231,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984440,
+      "name": "樹頭埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4423482,
+      "lng": 120.5149367,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984441,
+      "name": "田寮路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.445438,
+      "lng": 120.5010156,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984443,
+      "name": "頂中下街",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4494993,
+      "lng": 120.4895462,
+      "routes": [
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984445,
+      "name": "三和公司",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4518491,
+      "lng": 120.4738725,
+      "routes": [
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984447,
+      "name": "和美村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4513275,
+      "lng": 120.4695538,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984453,
+      "name": "隆興",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.441615,
+      "lng": 120.527624,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984456,
+      "name": "頂六派出所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4483182,
+      "lng": 120.490783,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7216A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984457,
+      "name": "湖仔厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4420418,
+      "lng": 120.5227063,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984459,
+      "name": "石山店",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4424909,
+      "lng": 120.5379479,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984462,
+      "name": "汴頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4411041,
+      "lng": 120.5328075,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984463,
+      "name": "頂六",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4474788,
+      "lng": 120.4923056,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7216A",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984467,
+      "name": "十塊厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4484547,
+      "lng": 120.5482749,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984468,
+      "name": "三界埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.45132,
+      "lng": 120.46677,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984469,
+      "name": "隆興村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4411949,
+      "lng": 120.5345488,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984477,
+      "name": "和美村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4514436,
+      "lng": 120.4709751,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561996087,
+      "name": "司公廍",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4513217,
+      "lng": 120.4792311,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561996089,
+      "name": "和睦國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4512948,
+      "lng": 120.4650066,
+      "routes": [
+        "7215",
+        "7215B",
+        "7216",
+        "7301",
+        "7301A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13910808659,
+      "name": "和美仁義路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4575093,
+      "lng": 120.4698334,
+      "routes": [
+        "忠孝新民幹線(紅線)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.897Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13910808660,
+      "name": "和美仁義路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4581518,
+      "lng": 120.4707186,
+      "routes": [
+        "忠孝新民幹線(紅線)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.897Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13910808666,
+      "name": "和美幸福五街口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "中埔鄉",
+      "lat": 23.4561657,
+      "lng": 120.4672036,
+      "routes": [
+        "忠孝新民幹線(紅線)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.897Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,2124 @@
+{
+  "city": "苗栗縣",
+  "district": "頭份市",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 119,
+  "items": [
+    {
+      "id": 3342151710,
+      "name": "水流東",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7050953,
+      "lng": 120.9645713,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359170722,
+      "name": "珊珠湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6835431,
+      "lng": 120.9579994,
+      "routes": [
+        "5609",
+        "5609A",
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3360733693,
+      "name": "斗煥坪營區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6801233,
+      "lng": 120.948498,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.127Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3663998445,
+      "name": "風爐缺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7026516,
+      "lng": 120.9466815,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.127Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3663998446,
+      "name": "永和山水庫",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6633226,
+      "lng": 120.9213185,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4102670089,
+      "name": "慈母橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6804631,
+      "lng": 120.9548722,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4102670090,
+      "name": "上斗(頭份後花園)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6805076,
+      "lng": 120.9469722,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4102670091,
+      "name": "國光客運頭份站",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6864448,
+      "lng": 120.9107127,
+      "routes": [
+        "1823",
+        "1823A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4183479346,
+      "name": "蘆竹里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6711518,
+      "lng": 120.8863208,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625864939,
+      "name": "流東口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.68489,
+      "lng": 120.9591339,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.128Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625864941,
+      "name": "親民橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6853552,
+      "lng": 120.9652668,
+      "routes": [
+        "5609",
+        "5609A",
+        "5804",
+        "5805",
+        "5806",
+        "5810"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625864943,
+      "name": "九芎林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6820005,
+      "lng": 120.9643149,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.128Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625864974,
+      "name": "樟樹下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6846146,
+      "lng": 120.9621859,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625895985,
+      "name": "下珊珠湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6817223,
+      "lng": 120.9564503,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403131,
+      "name": "大化宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.681523,
+      "lng": 120.9437375,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403136,
+      "name": "大營路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6823006,
+      "lng": 120.9412018,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403146,
+      "name": "大成中學",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6830516,
+      "lng": 120.9384324,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403148,
+      "name": "興華中學",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6851489,
+      "lng": 120.9360517,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403159,
+      "name": "純芳茶行",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6859227,
+      "lng": 120.9321351,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629403167,
+      "name": "崎仔頭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6862389,
+      "lng": 120.9294227,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.128Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476440,
+      "name": "上公園郵局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6880754,
+      "lng": 120.9148149,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5812",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476455,
+      "name": "九天堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6881581,
+      "lng": 120.9191462,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476470,
+      "name": "土牛",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6878839,
+      "lng": 120.921943,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476480,
+      "name": "土牛橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6869396,
+      "lng": 120.9244321,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476481,
+      "name": "三角仔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6865525,
+      "lng": 120.9262171,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629476486,
+      "name": "崎仔頭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6865761,
+      "lng": 120.9282748,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629555832,
+      "name": "民權里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6804477,
+      "lng": 120.9017885,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629555835,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6819253,
+      "lng": 120.9038682,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629610643,
+      "name": "地磅",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6696512,
+      "lng": 120.8836698,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629610645,
+      "name": "恆誼化工",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6741577,
+      "lng": 120.8915645,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629610676,
+      "name": "中台化工",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6768717,
+      "lng": 120.8960076,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629610679,
+      "name": "中肚",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6779645,
+      "lng": 120.8983163,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4629610681,
+      "name": "民生里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6794209,
+      "lng": 120.9003338,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4633969224,
+      "name": "山下里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6994844,
+      "lng": 120.9193812,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4633969226,
+      "name": "蟠桃里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6951194,
+      "lng": 120.9163592,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838735436,
+      "name": "流水潭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6725632,
+      "lng": 120.8828258,
+      "routes": [
+        "5811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838735438,
+      "name": "永貞國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6797361,
+      "lng": 120.8849233,
+      "routes": [
+        "5811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838847203,
+      "name": "尖山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6646269,
+      "lng": 120.8810878,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838847204,
+      "name": "尖山米粉街口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6644417,
+      "lng": 120.8806452,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4839118298,
+      "name": "廣興入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6598018,
+      "lng": 120.8816564,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842800182,
+      "name": "尖山國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6542305,
+      "lng": 120.8828513,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842802999,
+      "name": "濫坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6413582,
+      "lng": 120.883253,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842803001,
+      "name": "中華社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6434054,
+      "lng": 120.8834428,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842803005,
+      "name": "大華金屬",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.64617,
+      "lng": 120.8837673,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842803007,
+      "name": "中尖山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6489187,
+      "lng": 120.884757,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842905322,
+      "name": "藤坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6326916,
+      "lng": 120.8840543,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.130Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842905328,
+      "name": "福樂新村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6354978,
+      "lng": 120.8835675
+    },
+    {
+      "id": 4842915447,
+      "name": "崇佛寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6263133,
+      "lng": 120.8906069,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842915453,
+      "name": "上藤坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6276202,
+      "lng": 120.8882426,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832995836,
+      "name": "維新路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.68288,
+      "lng": 120.8822384,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832995837,
+      "name": "蘆竹湳",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6760631,
+      "lng": 120.8839792,
+      "routes": [
+        "5811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835246635,
+      "name": "尚順廣場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6910174,
+      "lng": 120.9020935
+    },
+    {
+      "id": 6835246637,
+      "name": "頭份國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6909991,
+      "lng": 120.902064,
+      "routes": [
+        "101",
+        "101A",
+        "101C",
+        "5804",
+        "5805A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835246641,
+      "name": "頭份運動公園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.68966,
+      "lng": 120.8929445,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835305685,
+      "name": "頭份交流道",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6927622,
+      "lng": 120.9143083,
+      "routes": [
+        "1823",
+        "1823A",
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835305686,
+      "name": "頭份交流道",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6911429,
+      "lng": 120.9136029
+    },
+    {
+      "id": 6835305687,
+      "name": "國光站前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6884207,
+      "lng": 120.9114464,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.130Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261858,
+      "name": "下公園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6839012,
+      "lng": 120.9057829,
+      "routes": [
+        "1823",
+        "1823A",
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5807",
+        "5807A",
+        "5810",
+        "5812",
+        "5823"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261859,
+      "name": "下公園二",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.684508,
+      "lng": 120.905461,
+      "routes": [
+        "5803",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.131Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261861,
+      "name": "六合國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6849004,
+      "lng": 120.9016422,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261863,
+      "name": "頭份工業區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6853732,
+      "lng": 120.8949146,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261865,
+      "name": "華夏公司",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6854061,
+      "lng": 120.8897956,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261867,
+      "name": "華夏",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6852233,
+      "lng": 120.8895461,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261868,
+      "name": "永貞路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.684993,
+      "lng": 120.8859345,
+      "routes": [
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7700983156,
+      "name": "顯會路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6903557,
+      "lng": 120.9155166,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.131Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7700983157,
+      "name": "頭份郵局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6887205,
+      "lng": 120.9145403,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701002474,
+      "name": "建國國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6952869,
+      "lng": 120.9104942,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701002476,
+      "name": "建國國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6943901,
+      "lng": 120.9120364,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701002479,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6934348,
+      "lng": 120.9137329
+    },
+    {
+      "id": 7701067645,
+      "name": "翠亨街口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6998767,
+      "lng": 120.9015772,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701067650,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6993589,
+      "lng": 120.9028244,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701067651,
+      "name": "後湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.697842,
+      "lng": 120.9037136,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701067656,
+      "name": "黎厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6969306,
+      "lng": 120.9049796,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7701067659,
+      "name": "蟠桃郵局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6966564,
+      "lng": 120.908111,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701547,
+      "name": "玫瑰庭園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6984012,
+      "lng": 120.8903065,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.131Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701549,
+      "name": "達茂茶行",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.697987,
+      "lng": 120.8922377,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.131Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701550,
+      "name": "八德二路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6971365,
+      "lng": 120.8937089,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701558,
+      "name": "合興街口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6965687,
+      "lng": 120.8953424,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701562,
+      "name": "後庄國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6967307,
+      "lng": 120.8983545,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701566,
+      "name": "信佑機械",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6991176,
+      "lng": 120.8994475,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844005,
+      "name": "珊珠湖口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6847386,
+      "lng": 120.9625262,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844007,
+      "name": "珊珠湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6846474,
+      "lng": 120.9587684,
+      "routes": [
+        "5609",
+        "5609A",
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 198874031,
+      "name": "苗栗客運頭份站",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.686377,
+      "lng": 120.9106953,
+      "routes": [
+        "1823",
+        "1823A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771940313,
+      "name": "仁和站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6509438,
+      "lng": 120.8837876,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363437,
+      "name": "頭份市公所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6869715,
+      "lng": 120.913222,
+      "routes": [
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5812",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.132Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363480,
+      "name": "江厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7091346,
+      "lng": 120.9678705,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363483,
+      "name": "蘇厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7028307,
+      "lng": 120.9641434,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364385,
+      "name": "欄杆橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6981991,
+      "lng": 120.9617822,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364387,
+      "name": "集會所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6959457,
+      "lng": 120.9621087,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364389,
+      "name": "張厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6921254,
+      "lng": 120.9609166,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364391,
+      "name": "全家福新村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6888942,
+      "lng": 120.9603654,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364393,
+      "name": "信德國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6859049,
+      "lng": 120.9596906,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955286,
+      "name": "昊天宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6659079,
+      "lng": 120.9179917,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955288,
+      "name": "鼎旺世界",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6693465,
+      "lng": 120.9170703,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955290,
+      "name": "陽明山莊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6715648,
+      "lng": 120.9160634,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955292,
+      "name": "中山堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6729945,
+      "lng": 120.9145864,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955302,
+      "name": "新興國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6750214,
+      "lng": 120.9126496,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955304,
+      "name": "東興橋頭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6775304,
+      "lng": 120.9099905,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955306,
+      "name": "銀河路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6818525,
+      "lng": 120.9070204,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229955316,
+      "name": "興隆路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6898947,
+      "lng": 120.9192123,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958823,
+      "name": "上埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6932402,
+      "lng": 120.9221016,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958825,
+      "name": "胡鐵工廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6950481,
+      "lng": 120.9239694,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958827,
+      "name": "康泰藥局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.695455,
+      "lng": 120.9265986
+    },
+    {
+      "id": 8229958829,
+      "name": "松竹新村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6957725,
+      "lng": 120.9287321,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958831,
+      "name": "興隆社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6968492,
+      "lng": 120.9315503,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958833,
+      "name": "南湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6976255,
+      "lng": 120.9329367,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958835,
+      "name": "觀音宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6976833,
+      "lng": 120.936828,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958837,
+      "name": "鍾厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6986967,
+      "lng": 120.9401262,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958839,
+      "name": "茶工廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7011885,
+      "lng": 120.9429012,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958841,
+      "name": "細坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7018112,
+      "lng": 120.9436805,
+      "routes": [
+        "5812"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958873,
+      "name": "文化路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.7004405,
+      "lng": 120.9001106,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241956713,
+      "name": "建國路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6960469,
+      "lng": 120.9089184,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850919,
+      "name": "德義路社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6911931,
+      "lng": 120.8976588,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.132Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850921,
+      "name": "昌隆廣場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6876591,
+      "lng": 120.89778,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.132Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850923,
+      "name": "頭份音樂公園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.686699,
+      "lng": 120.8999759,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850925,
+      "name": "西堤牛排",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6879195,
+      "lng": 120.9012355,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850927,
+      "name": "尚順君樂飯店",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6883805,
+      "lng": 120.9035109,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850929,
+      "name": "大潤發",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6866475,
+      "lng": 120.9046249
+    },
+    {
+      "id": 12753856819,
+      "name": "頭份戶政事務所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭份市",
+      "lat": 24.6851302,
+      "lng": 120.9071007,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5804",
+        "5805",
+        "5806",
+        "5810",
+        "5823"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.233Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

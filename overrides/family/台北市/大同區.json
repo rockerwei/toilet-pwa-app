@@ -1,0 +1,131 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:10:57.803Z",
+  "items": [
+    {
+      "id": 4838087692,
+      "name": "避難收容場所",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0518625,
+      "lng": 121.5170995,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.788Z"
+    },
+    {
+      "id": 6035461886,
+      "name": "保安宮解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0732239,
+      "lng": 121.5153686,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.790Z"
+    },
+    {
+      "id": 6144634003,
+      "name": "唐山帆船造景",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0569726,
+      "lng": 121.5076962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.791Z"
+    },
+    {
+      "id": 6292776085,
+      "name": "臺灣漫畫基地",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0500053,
+      "lng": 121.5160797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.792Z",
+      "address": "台北市大同區華陰街36號"
+    },
+    {
+      "id": 6341235216,
+      "name": "機車瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0627235,
+      "lng": 121.5110945,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.793Z"
+    },
+    {
+      "id": 7130046505,
+      "name": "新芳春",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0571057,
+      "lng": 121.5126071,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.794Z"
+    },
+    {
+      "id": 7682149833,
+      "name": "大稻埕旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0549423,
+      "lng": 121.5099983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.795Z",
+      "address": "103012臺北市大同區迪化街一段44號"
+    },
+    {
+      "id": 13146774801,
+      "name": "阿嬤家 和平與女性人權館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0644497,
+      "lng": 121.5180761,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.797Z",
+      "address": "臺北市大同區承德路三段36號五樓"
+    },
+    {
+      "id": 217690234,
+      "name": "台北當代藝術館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.050783,
+      "lng": 121.5190265,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.800Z",
+      "address": "10351臺北市大同區長安西路39號"
+    },
+    {
+      "id": 396410905,
+      "name": "寧夏夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0555973,
+      "lng": 121.5151334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.801Z"
+    },
+    {
+      "id": 449472181,
+      "name": "生態池",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0602784,
+      "lng": 121.517169,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.802Z"
+    },
+    {
+      "id": 7362354,
+      "name": "迪化街商圈",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0559803,
+      "lng": 121.5102149,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:10:57.803Z"
+    }
+  ]
+}

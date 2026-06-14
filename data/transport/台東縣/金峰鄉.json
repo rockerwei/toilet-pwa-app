@@ -1,0 +1,85 @@
+{
+  "city": "台東縣",
+  "district": "金峰鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 6,
+  "items": [
+    {
+      "id": 3175062128,
+      "name": "森林遊樂區 (內溫泉)",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.6902873,
+      "lng": 120.993226
+    },
+    {
+      "id": 3179182029,
+      "name": "正興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.6045516,
+      "lng": 120.9984401
+    },
+    {
+      "id": 3179182032,
+      "name": "檢查哨",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.5947124,
+      "lng": 120.9705349,
+      "routes": [
+        "8150"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.287Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256787831,
+      "name": "賓茂",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.5323914,
+      "lng": 120.9610081,
+      "routes": [
+        "8138"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.287Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256803202,
+      "name": "金峰",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.5953767,
+      "lng": 120.9585308
+    },
+    {
+      "id": 3256806030,
+      "name": "壢坵",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "金峰鄉",
+      "lat": 22.5257119,
+      "lng": 120.9266611,
+      "routes": [
+        "8138"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.830Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

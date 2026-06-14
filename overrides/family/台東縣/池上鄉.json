@@ -1,0 +1,344 @@
+{
+  "city": "台東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:37:10.979Z",
+  "items": [
+    {
+      "id": 2978969923,
+      "name": "金城武樹",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0973527,
+      "lng": 121.204443,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.951Z"
+    },
+    {
+      "id": 4102367790,
+      "name": "大坡池風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.1207376,
+      "lng": 121.2232492,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.955Z"
+    },
+    {
+      "id": 4784423936,
+      "name": "錦園賞螢導覽",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.1054543,
+      "lng": 121.2282748,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.956Z"
+    },
+    {
+      "id": 4845538428,
+      "name": "天堂之路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0999537,
+      "lng": 121.2072473,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.958Z"
+    },
+    {
+      "id": 4845539622,
+      "name": "水車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1031358,
+      "lng": 121.2071745,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.960Z"
+    },
+    {
+      "id": 4845539627,
+      "name": "池上浮圳",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1029554,
+      "lng": 121.2132332,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.961Z"
+    },
+    {
+      "id": 4845568521,
+      "name": "水車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1001411,
+      "lng": 121.1982375,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.962Z"
+    },
+    {
+      "id": 7859890918,
+      "name": "浮圳大觀亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1030744,
+      "lng": 121.2129848,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.963Z"
+    },
+    {
+      "id": 7859890920,
+      "name": "池上星球",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1244446,
+      "lng": 121.2182127,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.964Z",
+      "address": "臺東縣池上鄉中山路203號"
+    },
+    {
+      "id": 7859890930,
+      "name": "池上環圳自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.11956,
+      "lng": 121.22219,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.965Z"
+    },
+    {
+      "id": 7859890943,
+      "name": "舊池上火車站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.130833,
+      "lng": 121.2225,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.966Z",
+      "address": "臺東縣池上鄉福文村鐵花路30號"
+    },
+    {
+      "id": 9075374017,
+      "name": "池上水孔生態園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1070123,
+      "lng": 121.1934699,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.966Z"
+    },
+    {
+      "id": 9869936765,
+      "name": "池上斷層觀察點-曾宅",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.119346,
+      "lng": 121.2301531,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.967Z"
+    },
+    {
+      "id": 9869936774,
+      "name": "池上斷層觀察點-南海天道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1153416,
+      "lng": 121.2275925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.967Z"
+    },
+    {
+      "id": 9869943534,
+      "name": "池上斷層觀察點-余宅",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.108205,
+      "lng": 121.2237728,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.968Z"
+    },
+    {
+      "id": 9869982936,
+      "name": "池上斷層觀察點-錦園村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1046157,
+      "lng": 121.2227875,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.969Z"
+    },
+    {
+      "id": 12805575101,
+      "name": "Lotus viewpoint",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1193528,
+      "lng": 121.2268629,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.969Z"
+    },
+    {
+      "id": 190871631,
+      "name": "中正路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1246365,
+      "lng": 121.2207829,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.970Z"
+    },
+    {
+      "id": 300664263,
+      "name": "大坡池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1172293,
+      "lng": 121.2252958,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.970Z"
+    },
+    {
+      "id": 390816248,
+      "name": "台糖池上牧野渡假村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1120168,
+      "lng": 121.1936553,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.971Z"
+    },
+    {
+      "id": 482677353,
+      "name": "萬安磚造廠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0954814,
+      "lng": 121.219775,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.972Z"
+    },
+    {
+      "id": 513779708,
+      "name": "客家文化園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.1122037,
+      "lng": 121.2009015,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.972Z",
+      "address": "臺東縣池上鄉新興村新光路1號"
+    },
+    {
+      "id": 577510651,
+      "name": "伯朗大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0989311,
+      "lng": 121.2132553,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.973Z"
+    },
+    {
+      "id": 577510652,
+      "name": "伯朗大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0994181,
+      "lng": 121.2161018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.973Z"
+    },
+    {
+      "id": 577510656,
+      "name": "伯朗大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0996631,
+      "lng": 121.2175333,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.974Z"
+    },
+    {
+      "id": 577510664,
+      "name": "天堂之路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0967209,
+      "lng": 121.2131306,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.975Z"
+    },
+    {
+      "id": 674021863,
+      "name": "金色豐收館西",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.1125942,
+      "lng": 121.2028136,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.975Z",
+      "address": "臺東縣池上鄉新興村7鄰85之6號"
+    },
+    {
+      "id": 962658217,
+      "name": "杜園(杜錦枝紀念庭園)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1158906,
+      "lng": 121.2124667,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.976Z",
+      "address": "臺東縣池上鄉新興村6鄰80號"
+    },
+    {
+      "id": 962658227,
+      "name": "中正路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1257559,
+      "lng": 121.2198013,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.976Z"
+    },
+    {
+      "id": 1095578279,
+      "name": "稻米原鄉館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0974113,
+      "lng": 121.2192133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.977Z",
+      "address": "臺東縣池上鄉萬安村1鄰1-12號"
+    },
+    {
+      "id": 1197012936,
+      "name": "台東農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.1191686,
+      "lng": 121.2110163,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.977Z",
+      "address": "臺東縣池上鄉新興村104號"
+    },
+    {
+      "id": 1209038901,
+      "name": "萬安禾鴨生態池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0893733,
+      "lng": 121.2204864,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.978Z"
+    },
+    {
+      "id": 1214695800,
+      "name": "中正路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1235214,
+      "lng": 121.2217747,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:37:10.979Z"
+    }
+  ]
+}

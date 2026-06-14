@@ -1,0 +1,58 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:38:43.692Z",
+  "items": [
+    {
+      "id": 9667343712,
+      "name": "萬巒豬腳街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5739792,
+      "lng": 120.5687704,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:43.685Z"
+    },
+    {
+      "id": 199010890,
+      "name": "萬金聖母聖殿",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5950772,
+      "lng": 120.6112683,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:43.688Z",
+      "address": "屏東縣萬巒鄉萬興路24號"
+    },
+    {
+      "id": 301026068,
+      "name": "萬巒吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5878636,
+      "lng": 120.5729475,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:43.689Z"
+    },
+    {
+      "id": 1112711343,
+      "name": "萬巒吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5878662,
+      "lng": 120.5729405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:43.691Z"
+    },
+    {
+      "id": 14884368,
+      "name": "萬巒吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5878662,
+      "lng": 120.5729405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:43.692Z"
+    }
+  ]
+}

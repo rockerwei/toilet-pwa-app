@@ -1,0 +1,1229 @@
+{
+  "city": "雲林縣",
+  "district": "斗六市",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 72,
+  "items": [
+    {
+      "id": 268936504,
+      "name": "斗六",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7118077,
+      "lng": 120.5411553
+    },
+    {
+      "id": 3803089587,
+      "name": "斗六站",
+      "type": "bus_station",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7106272,
+      "lng": 120.5419082,
+      "routes": [
+        "7011",
+        "7012"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078173,
+      "name": "大潭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6946082,
+      "lng": 120.5382014,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078177,
+      "name": "鎮西國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7077,
+      "lng": 120.53954,
+      "routes": [
+        "101",
+        "701",
+        "7124",
+        "7124A",
+        "7124B",
+        "7126"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078182,
+      "name": "柴裡",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.66298,
+      "lng": 120.53959,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078186,
+      "name": "國立雲林科技大學（南側門）",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.690955,
+      "lng": 120.538398,
+      "routes": [
+        "7126",
+        "Y01"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078187,
+      "name": "崙峰",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.68008,
+      "lng": 120.53842,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078191,
+      "name": "社口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.69921,
+      "lng": 120.53816,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078217,
+      "name": "溝壩",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.67364,
+      "lng": 120.53716,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451912,
+      "name": "行啟紀念館",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.707233,
+      "lng": 120.5413361
+    },
+    {
+      "id": 5793451915,
+      "name": "鎮西國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.70754,
+      "lng": 120.53786,
+      "routes": [
+        "101",
+        "701",
+        "7124",
+        "7124A",
+        "7124B",
+        "7126"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451917,
+      "name": "稅務局(雲林縣政府)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.697128,
+      "lng": 120.527954,
+      "routes": [
+        "101",
+        "201",
+        "7120"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451921,
+      "name": "斗六家商",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7071722,
+      "lng": 120.5485199
+    },
+    {
+      "id": 5793451926,
+      "name": "崙仔集會所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7192,
+      "lng": 120.511,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451931,
+      "name": "雲林科技大學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.69602,
+      "lng": 120.533793,
+      "routes": [
+        "101",
+        "201",
+        "7120"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451933,
+      "name": "台電大樓",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.712058,
+      "lng": 120.535231,
+      "routes": [
+        "102",
+        "201",
+        "7011",
+        "7012",
+        "7123",
+        "7123A",
+        "7123B",
+        "7132A",
+        "7133"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.315Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451934,
+      "name": "虎溪里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7225,
+      "lng": 120.5231,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.315Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451939,
+      "name": "育英北街路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7171,
+      "lng": 120.5513
+    },
+    {
+      "id": 5793451942,
+      "name": "斗六火車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7118183,
+      "lng": 120.5403861,
+      "routes": [
+        "101",
+        "102",
+        "201",
+        "701",
+        "7000D",
+        "7120",
+        "7121",
+        "7122",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7124B",
+        "7125",
+        "7125A",
+        "7126",
+        "7127",
+        "7128",
+        "7129",
+        "7130",
+        "7131",
+        "7131A",
+        "7132",
+        "7132A",
+        "7133",
+        "7133A",
+        "7700",
+        "Y01",
+        "Y02"
+      ],
+      "routeCount": 30,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.315Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451944,
+      "name": "縣政府",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.69856,
+      "lng": 120.52493,
+      "routes": [
+        "7011",
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.315Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451946,
+      "name": "虎溪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7248407,
+      "lng": 120.5242008
+    },
+    {
+      "id": 5793451948,
+      "name": "雲林溪(環球中華影城)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7058248,
+      "lng": 120.535473,
+      "routes": [
+        "101",
+        "201",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451952,
+      "name": "電力公司",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.712,
+      "lng": 120.53551
+    },
+    {
+      "id": 5793452555,
+      "name": "鎮東國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7115919,
+      "lng": 120.5519322,
+      "routes": [
+        "7127",
+        "7130",
+        "7132A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452557,
+      "name": "鎮北路",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.725,
+      "lng": 120.5383,
+      "routes": [
+        "7132",
+        "7133A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452559,
+      "name": "文化中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.69448,
+      "lng": 120.52444
+    },
+    {
+      "id": 5793452562,
+      "name": "慈濟斗六分院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7021675,
+      "lng": 120.5299607,
+      "routes": [
+        "101",
+        "201",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452566,
+      "name": "正心中學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7157161,
+      "lng": 120.5299865,
+      "routes": [
+        "201",
+        "7000D",
+        "7011",
+        "7012",
+        "7123",
+        "7123A",
+        "7123B",
+        "7132A",
+        "7133"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452568,
+      "name": "永安路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.71038,
+      "lng": 120.54799
+    },
+    {
+      "id": 5793452571,
+      "name": "明德北路一段路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.718186,
+      "lng": 120.543095,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452573,
+      "name": "服務中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7215,
+      "lng": 120.5057
+    },
+    {
+      "id": 5793452574,
+      "name": "正心中學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.717716,
+      "lng": 120.528352
+    },
+    {
+      "id": 5793452576,
+      "name": "雲林監理站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7010607,
+      "lng": 120.5282175,
+      "routes": [
+        "101",
+        "7011",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452585,
+      "name": "二吉軒",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7049067,
+      "lng": 120.5518063,
+      "routes": [
+        "7120",
+        "7121",
+        "7125",
+        "7125A",
+        "7129",
+        "7131",
+        "7131A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452588,
+      "name": "雲科工業區路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7264,
+      "lng": 120.5203
+    },
+    {
+      "id": 5846484496,
+      "name": "大埔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7270032,
+      "lng": 120.5886653,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846484498,
+      "name": "斗六交流道",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7293531,
+      "lng": 120.5910551,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.316Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846506994,
+      "name": "八德",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.713954,
+      "lng": 120.5605155,
+      "routes": [
+        "7127",
+        "7130"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846507025,
+      "name": "斗六工業區",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7198538,
+      "lng": 120.5769441,
+      "routes": [
+        "7127",
+        "7130"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846507026,
+      "name": "石榴",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7223389,
+      "lng": 120.5828838,
+      "routes": [
+        "7127",
+        "7130"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846517777,
+      "name": "洪揚醫院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7112109,
+      "lng": 120.5496713,
+      "routes": [
+        "102",
+        "7011",
+        "7012",
+        "7127",
+        "7130",
+        "7132A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6449358905,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.728388,
+      "lng": 120.5217013
+    },
+    {
+      "id": 6449366146,
+      "name": "大竹圍",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7170973,
+      "lng": 120.5683932,
+      "routes": [
+        "7127",
+        "7130"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451006096,
+      "name": "久安",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6913716,
+      "lng": 120.5083171,
+      "routes": [
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451006106,
+      "name": "久安1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6955273,
+      "lng": 120.519357,
+      "routes": [
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7708853165,
+      "name": "虎尾溪里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7207391,
+      "lng": 120.5265105,
+      "routes": [
+        "7011",
+        "7012"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.174Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7708853172,
+      "name": "虎尾溪里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7217913,
+      "lng": 120.5257407,
+      "routes": [
+        "7011",
+        "7012",
+        "7123",
+        "7123A",
+        "7123B",
+        "7132A",
+        "7133"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7709325976,
+      "name": "斗六棒球場",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7159432,
+      "lng": 120.5369362,
+      "routes": [
+        "101",
+        "7122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711015417,
+      "name": "萬年庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7297778,
+      "lng": 120.5516803,
+      "routes": [
+        "102",
+        "7128"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711135660,
+      "name": "菜公庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6942106,
+      "lng": 120.5608719,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129",
+        "7131",
+        "7131A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711148330,
+      "name": "番子溝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7002212,
+      "lng": 120.5559231,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129",
+        "7131",
+        "7131A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076624,
+      "name": "育英北街路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7177865,
+      "lng": 120.5502924,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076632,
+      "name": "萬年路173巷口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7233335,
+      "lng": 120.5458436,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076634,
+      "name": "台電公司雲林區處",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7123799,
+      "lng": 120.5321163,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076637,
+      "name": "紅厝社區",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.720898,
+      "lng": 120.5176217,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076642,
+      "name": "水岸藝術公園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7009576,
+      "lng": 120.5412599,
+      "routes": [
+        "701",
+        "7011"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076643,
+      "name": "鎮南國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6985555,
+      "lng": 120.5419982,
+      "routes": [
+        "101",
+        "7011"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076649,
+      "name": "受天宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7037222,
+      "lng": 120.5499803,
+      "routes": [
+        "101",
+        "701"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076653,
+      "name": "斗六高中(文化路)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7109821,
+      "lng": 120.5456769,
+      "routes": [
+        "102",
+        "7011",
+        "7012"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076657,
+      "name": "斗六國中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7132593,
+      "lng": 120.5513699,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.317Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076671,
+      "name": "虎溪豐泰",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7249561,
+      "lng": 120.5241619,
+      "routes": [
+        "102",
+        "7011",
+        "7012",
+        "7123",
+        "7123A",
+        "7123B",
+        "7132A",
+        "7133"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076676,
+      "name": "雲林科技大學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6909698,
+      "lng": 120.5382991,
+      "routes": [
+        "7126",
+        "Y01"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076679,
+      "name": "雲中街",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7077681,
+      "lng": 120.5393958,
+      "routes": [
+        "Y01"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076695,
+      "name": "雲科工業區服務中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.735498,
+      "lng": 120.545711,
+      "routes": [
+        "102"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076699,
+      "name": "環球科技大學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.680557,
+      "lng": 120.5581266
+    },
+    {
+      "id": 10143105843,
+      "name": "勞工育樂中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6807,
+      "lng": 120.5521,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076703,
+      "name": "成大醫院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.70294,
+      "lng": 120.544568,
+      "routes": [
+        "101",
+        "701",
+        "7120",
+        "7125"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076705,
+      "name": "社口遊客中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.700044,
+      "lng": 120.543999,
+      "routes": [
+        "101",
+        "Y01"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076710,
+      "name": "鎮北里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.717383,
+      "lng": 120.542738,
+      "routes": [
+        "101",
+        "7122",
+        "7128",
+        "7132",
+        "7133A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105830,
+      "name": "環球科技大學側門",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.6812943,
+      "lng": 120.5551827,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105842,
+      "name": "雲林溪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.705944,
+      "lng": 120.535534,
+      "routes": [
+        "101",
+        "201",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361334,
+      "name": "斗六家商",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗六市",
+      "lat": 23.7078035,
+      "lng": 120.5478187,
+      "routes": [
+        "7120",
+        "7121",
+        "7125",
+        "7125A",
+        "7129",
+        "7131",
+        "7131A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.318Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

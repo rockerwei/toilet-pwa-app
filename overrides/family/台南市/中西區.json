@@ -1,0 +1,309 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:53:03.287Z",
+  "items": [
+    {
+      "id": 2722873849,
+      "name": "全臺吳姓大宗祠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9964615,
+      "lng": 120.2057786,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.265Z"
+    },
+    {
+      "id": 2833032591,
+      "name": "台南市地圖資訊",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9944076,
+      "lng": 120.2053793,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.268Z"
+    },
+    {
+      "id": 3093514494,
+      "name": "興南客運服務處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9973115,
+      "lng": 120.2106702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.270Z"
+    },
+    {
+      "id": 3287525224,
+      "name": "問路站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9962992,
+      "lng": 120.2020205,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.271Z"
+    },
+    {
+      "id": 5341782821,
+      "name": "孔廟商圈",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9901154,
+      "lng": 120.2056286,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.273Z"
+    },
+    {
+      "id": 5418292623,
+      "name": "御贔屭碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9973752,
+      "lng": 120.2025325,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.274Z"
+    },
+    {
+      "id": 5419792853,
+      "name": "小碑林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9974892,
+      "lng": 120.2024069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.276Z"
+    },
+    {
+      "id": 6440009892,
+      "name": "蝸牛巷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9930603,
+      "lng": 120.2005795,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.276Z",
+      "address": "臺南市中西區永福路二段97巷1號"
+    },
+    {
+      "id": 10062718892,
+      "name": "南埕衖事",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9930142,
+      "lng": 120.2026341,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.277Z",
+      "address": "臺南市中西區忠義路二段99號"
+    },
+    {
+      "id": 11301359189,
+      "name": "以成書院",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9906985,
+      "lng": 120.2041878,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.278Z"
+    },
+    {
+      "id": 12805230235,
+      "name": "魁星筆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9976253,
+      "lng": 120.2026799,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.279Z"
+    },
+    {
+      "id": 13423453856,
+      "name": "臺南市美術館二館(友愛)",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 22.99093,
+      "lng": 120.20199,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.279Z"
+    },
+    {
+      "id": 13649596169,
+      "name": "西門淺草",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9941673,
+      "lng": 120.1978033,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.280Z"
+    },
+    {
+      "id": 13650002582,
+      "name": "歷史解說牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9934123,
+      "lng": 120.1984754,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.280Z"
+    },
+    {
+      "id": 13650002583,
+      "name": "打卡牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9934979,
+      "lng": 120.1982641,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.281Z"
+    },
+    {
+      "id": 159143986,
+      "name": "神農街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9977246,
+      "lng": 120.1960089,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.281Z"
+    },
+    {
+      "id": 161023095,
+      "name": "原臺南公會堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9944547,
+      "lng": 120.2061036,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.281Z",
+      "address": "臺南市"
+    },
+    {
+      "id": 161023099,
+      "name": "吳園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9946383,
+      "lng": 120.2061847,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.282Z"
+    },
+    {
+      "id": 161025892,
+      "name": "國立臺灣文學館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.9917466,
+      "lng": 120.204388,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.282Z",
+      "address": "臺南市中西區永華里15鄰中正路1號"
+    },
+    {
+      "id": 203986619,
+      "name": "葉石濤文學紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 22.9909439,
+      "lng": 120.2036181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.283Z",
+      "address": "臺南市中西區永華里15鄰中正路5巷1號"
+    },
+    {
+      "id": 203987699,
+      "name": "武德殿",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.9905958,
+      "lng": 120.2034398,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.283Z",
+      "address": "臺南市中西區永華里15鄰忠義路二段2號"
+    },
+    {
+      "id": 208031299,
+      "name": "永樂市場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9971934,
+      "lng": 120.1986214,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.284Z",
+      "address": "臺南市中西區國華路三段123號"
+    },
+    {
+      "id": 276533296,
+      "name": "東菜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9908996,
+      "lng": 120.2096626,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.284Z",
+      "address": "700台南市東區青年路164巷26號一樓"
+    },
+    {
+      "id": 278181898,
+      "name": "武聖夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.004136,
+      "lng": 120.1906305,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.285Z"
+    },
+    {
+      "id": 481053323,
+      "name": "台灣首廟天壇",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9937041,
+      "lng": 120.2040962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.285Z",
+      "address": "70050臺南市中西區赤嵌里忠義路二段84巷16號"
+    },
+    {
+      "id": 509197075,
+      "name": "兌悅門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0007079,
+      "lng": 120.1944116,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.286Z"
+    },
+    {
+      "id": 526152932,
+      "name": "西大成坊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9900374,
+      "lng": 120.203781,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.286Z",
+      "address": "臺南市"
+    },
+    {
+      "id": 1499340133,
+      "name": "東大成坊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9900252,
+      "lng": 120.2045998,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.287Z",
+      "address": "臺南市"
+    },
+    {
+      "id": 3705175,
+      "name": "臺南孔子廟",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9904736,
+      "lng": 120.2040887,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:53:03.287Z",
+      "address": "700臺南市中西區南門路2號"
+    }
+  ]
+}

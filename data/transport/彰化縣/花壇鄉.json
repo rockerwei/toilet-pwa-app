@@ -1,0 +1,570 @@
+{
+  "city": "彰化縣",
+  "district": "花壇鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 31,
+  "items": [
+    {
+      "id": 879629981,
+      "name": "花壇",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0249917,
+      "lng": 120.537228
+    },
+    {
+      "id": 4642003023,
+      "name": "灣子口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.01658,
+      "lng": 120.5629832,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642003045,
+      "name": "北灣子口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0197089,
+      "lng": 120.5600412,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642103120,
+      "name": "三春",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0141553,
+      "lng": 120.568535,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642166109,
+      "name": "三家春",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0130491,
+      "lng": 120.5738833,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642177355,
+      "name": "長春",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0087138,
+      "lng": 120.5747036,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724075379,
+      "name": "新龍",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0040251,
+      "lng": 120.5559612,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724075384,
+      "name": "中庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.01337,
+      "lng": 120.5513099,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724075386,
+      "name": "金墩",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0163003,
+      "lng": 120.5502344,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724105472,
+      "name": "南口庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0340648,
+      "lng": 120.5364272
+    },
+    {
+      "id": 4724212620,
+      "name": "黃姓宗親會",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0385341,
+      "lng": 120.5476203,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724212622,
+      "name": "文德村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0405538,
+      "lng": 120.5472766,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724212631,
+      "name": "文德宮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0431591,
+      "lng": 120.5469498,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.272Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724212637,
+      "name": "北白沙坑",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0448566,
+      "lng": 120.5463027,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724212639,
+      "name": "國校前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0480936,
+      "lng": 120.545432
+    },
+    {
+      "id": 4724212651,
+      "name": "頂溪北",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0500714,
+      "lng": 120.545721,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.960Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252313,
+      "name": "內庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0223217,
+      "lng": 120.5568407,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252334,
+      "name": "橋子頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0246589,
+      "lng": 120.5526776,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252339,
+      "name": "赤塗崎",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0302096,
+      "lng": 120.5489458,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.272Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252340,
+      "name": "赤塗崎",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0288995,
+      "lng": 120.549086,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.272Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252357,
+      "name": "自強新城",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0332429,
+      "lng": 120.5486308,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724252362,
+      "name": "魚苗寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0359504,
+      "lng": 120.5481041,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724322954,
+      "name": "中草子埔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0540534,
+      "lng": 120.5748792,
+      "routes": [
+        "6911"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113566402,
+      "name": "花壇",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0266612,
+      "lng": 120.5392376,
+      "routes": [
+        "1829",
+        "1830",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113566406,
+      "name": "橋頭村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0231972,
+      "lng": 120.5419815,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113591442,
+      "name": "湳尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0518894,
+      "lng": 120.5334172,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113591444,
+      "name": "頂口庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0446024,
+      "lng": 120.5336612,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113591445,
+      "name": "頂口庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0457451,
+      "lng": 120.5337229,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113591446,
+      "name": "口庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0405877,
+      "lng": 120.5350667
+    },
+    {
+      "id": 5113591448,
+      "name": "監理站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0375233,
+      "lng": 120.5356327,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.961Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113615108,
+      "name": "花壇公所",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "花壇鄉",
+      "lat": 24.0299905,
+      "lng": 120.5377623,
+      "routes": [
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.962Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

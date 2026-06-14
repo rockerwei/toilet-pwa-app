@@ -1,0 +1,98 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:44:26.675Z",
+  "items": [
+    {
+      "id": 3428675863,
+      "name": "老街碗粿",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7081319,
+      "lng": 120.5414716,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.664Z"
+    },
+    {
+      "id": 4502748269,
+      "name": "湖山寺彌勒大佛",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.706217,
+      "lng": 120.6075955,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.668Z",
+      "address": "640雲林縣斗六市岩山路25號"
+    },
+    {
+      "id": 4667928870,
+      "name": "行啟紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.7058709,
+      "lng": 120.5419218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.670Z"
+    },
+    {
+      "id": 7095470214,
+      "name": "斗六社口旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.7003462,
+      "lng": 120.5440504,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.671Z"
+    },
+    {
+      "id": 11491185476,
+      "name": "老街花店",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7071027,
+      "lng": 120.5408222,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.672Z"
+    },
+    {
+      "id": 12636016539,
+      "name": "福天吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.701247,
+      "lng": 120.597766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.673Z"
+    },
+    {
+      "id": 388839533,
+      "name": "行啟紀念公民會館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.705746,
+      "lng": 120.5419633,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.673Z"
+    },
+    {
+      "id": 424166924,
+      "name": "福天吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7009673,
+      "lng": 120.5972465,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.674Z"
+    },
+    {
+      "id": 7022756,
+      "name": "雲林湖本八色鳥野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.7345683,
+      "lng": 120.6319546,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:44:26.675Z"
+    }
+  ]
+}

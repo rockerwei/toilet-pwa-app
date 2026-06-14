@@ -1,0 +1,48 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:34:33.776Z",
+  "items": [
+    {
+      "id": 2723012947,
+      "name": "光之穹頂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6314912,
+      "lng": 120.3019472,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:34:33.769Z",
+      "address": "80049高雄市新興區中山一路115號"
+    },
+    {
+      "id": 6380097885,
+      "name": "南華觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6290657,
+      "lng": 120.3027243,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:34:33.772Z"
+    },
+    {
+      "id": 6380097985,
+      "name": "南華觀光購物街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6312092,
+      "lng": 120.3029119,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:34:33.774Z"
+    },
+    {
+      "id": 93584687,
+      "name": "六合夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.632427,
+      "lng": 120.3000415,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:34:33.776Z"
+    }
+  ]
+}

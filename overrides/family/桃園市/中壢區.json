@@ -1,0 +1,471 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:08:30.572Z",
+  "items": [
+    {
+      "id": 4048491269,
+      "name": "赤崁",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.014528,
+      "lng": 121.221171,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.541Z"
+    },
+    {
+      "id": 5666104821,
+      "name": "南方莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.967284,
+      "lng": 121.177906,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.544Z"
+    },
+    {
+      "id": 6149651287,
+      "name": "台灣高鐵探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0118149,
+      "lng": 121.2137198,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.545Z",
+      "address": "320桃園市中壢區高鐵北路一段2號"
+    },
+    {
+      "id": 8220864097,
+      "name": "老街溪環河步道(環北路)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9661,
+      "lng": 121.219325,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.547Z"
+    },
+    {
+      "id": 8826478862,
+      "name": "中壢老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9549657,
+      "lng": 121.2216278,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.548Z"
+    },
+    {
+      "id": 9225875336,
+      "name": "老街溪河岸廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.960272,
+      "lng": 121.2191,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.550Z"
+    },
+    {
+      "id": 9366651370,
+      "name": "壢小故事森林",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.953759,
+      "lng": 121.2204041,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.551Z",
+      "address": "桃園市中壢區博愛路52號"
+    },
+    {
+      "id": 9548623548,
+      "name": "水圳生態池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9612029,
+      "lng": 121.2185448,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.552Z"
+    },
+    {
+      "id": 11416192016,
+      "name": "捷運老街溪站(A22)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9582635,
+      "lng": 121.2193014,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.552Z"
+    },
+    {
+      "id": 11425382927,
+      "name": "捷運老街溪站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9583788,
+      "lng": 121.219201,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.553Z"
+    },
+    {
+      "id": 105152715,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.007737,
+      "lng": 121.2094077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.554Z"
+    },
+    {
+      "id": 105152745,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0076381,
+      "lng": 121.2096263,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.555Z"
+    },
+    {
+      "id": 110975371,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9967502,
+      "lng": 121.207908,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.555Z"
+    },
+    {
+      "id": 202689623,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9564455,
+      "lng": 121.216556,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.556Z"
+    },
+    {
+      "id": 207320374,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9649688,
+      "lng": 121.219363,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.557Z"
+    },
+    {
+      "id": 207320375,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9657455,
+      "lng": 121.2194071,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.557Z"
+    },
+    {
+      "id": 307694519,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9644924,
+      "lng": 121.2195272,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.558Z"
+    },
+    {
+      "id": 307694521,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9635762,
+      "lng": 121.2187484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.558Z"
+    },
+    {
+      "id": 335389995,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0078105,
+      "lng": 121.2092766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.559Z"
+    },
+    {
+      "id": 344672297,
+      "name": "耘夢莊園2",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9408345,
+      "lng": 121.2278152,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.559Z"
+    },
+    {
+      "id": 344672841,
+      "name": "耘夢莊園2",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9386941,
+      "lng": 121.2269212,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.559Z"
+    },
+    {
+      "id": 446038658,
+      "name": "華泰名品城大道",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0180054,
+      "lng": 121.2157913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.560Z"
+    },
+    {
+      "id": 446038663,
+      "name": "華泰名品城大道",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0142247,
+      "lng": 121.212485,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.560Z"
+    },
+    {
+      "id": 464640299,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9553231,
+      "lng": 121.2170032,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.561Z"
+    },
+    {
+      "id": 620778124,
+      "name": "華泰名品城大道",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0142851,
+      "lng": 121.2124122,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.561Z"
+    },
+    {
+      "id": 620778129,
+      "name": "華泰名品城大道",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.017978,
+      "lng": 121.2158264,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.562Z"
+    },
+    {
+      "id": 966135080,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9716291,
+      "lng": 121.2174612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.563Z"
+    },
+    {
+      "id": 966135083,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.96673,
+      "lng": 121.218874,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.563Z"
+    },
+    {
+      "id": 966135084,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9708467,
+      "lng": 121.2187158,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.563Z"
+    },
+    {
+      "id": 1025166758,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9666592,
+      "lng": 121.2188277,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.564Z"
+    },
+    {
+      "id": 1028830966,
+      "name": "南方莊園度假酒店",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9679631,
+      "lng": 121.1782978,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.565Z",
+      "address": "桃園市中壢區樹籽路8號"
+    },
+    {
+      "id": 1030283405,
+      "name": "桃園光影電影館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9354654,
+      "lng": 121.2377988,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.565Z",
+      "address": "桃園市中壢區龍清街116巷31號"
+    },
+    {
+      "id": 1064895017,
+      "name": "桃園捷運老街溪站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9591541,
+      "lng": 121.219487,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.566Z"
+    },
+    {
+      "id": 1192574069,
+      "name": "老街溪站1號出口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9583565,
+      "lng": 121.2195294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.566Z"
+    },
+    {
+      "id": 1192574089,
+      "name": "老街溪站2號出口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9594912,
+      "lng": 121.2193051,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.566Z"
+    },
+    {
+      "id": 1200607891,
+      "name": "老街溪站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9615655,
+      "lng": 121.2189434,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.567Z"
+    },
+    {
+      "id": 1256929718,
+      "name": "世外桃源",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0171689,
+      "lng": 121.2146651,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.567Z"
+    },
+    {
+      "id": 1256929721,
+      "name": "漫步叢林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0165681,
+      "lng": 121.2139441,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.568Z"
+    },
+    {
+      "id": 1358503119,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0076997,
+      "lng": 121.2094766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.568Z"
+    },
+    {
+      "id": 1358503122,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9852965,
+      "lng": 121.2133657,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.569Z"
+    },
+    {
+      "id": 1427697883,
+      "name": "服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9595154,
+      "lng": 121.2251077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.569Z"
+    },
+    {
+      "id": 1456813906,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9763206,
+      "lng": 121.2177241,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.570Z"
+    },
+    {
+      "id": 1503252723,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9806643,
+      "lng": 121.2154015,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.570Z"
+    },
+    {
+      "id": 1503252724,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9930888,
+      "lng": 121.2146458,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.571Z"
+    },
+    {
+      "id": 1503252725,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9857484,
+      "lng": 121.2140299,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.571Z"
+    },
+    {
+      "id": 12530062,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0075396,
+      "lng": 121.1960702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:08:30.571Z"
+    }
+  ]
+}

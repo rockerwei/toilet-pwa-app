@@ -1,0 +1,109 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:19:36.172Z",
+  "items": [
+    {
+      "id": 5058490421,
+      "name": "蘑菇村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.018429,
+      "lng": 121.1582656,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.160Z"
+    },
+    {
+      "id": 5058492321,
+      "name": "白千層綠色隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0174107,
+      "lng": 121.157468,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.162Z"
+    },
+    {
+      "id": 6309965085,
+      "name": "青林農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9953803,
+      "lng": 121.1330695,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.164Z"
+    },
+    {
+      "id": 544362193,
+      "name": "觀音遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9995541,
+      "lng": 121.1222605,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.165Z"
+    },
+    {
+      "id": 1011948924,
+      "name": "草漯沙丘地景展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0466389,
+      "lng": 121.0760028,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.166Z",
+      "address": "桃園市觀音區中興路469號"
+    },
+    {
+      "id": 1251533196,
+      "name": "客家工藝館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0018919,
+      "lng": 121.1637664,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.168Z",
+      "address": "桃園市觀音區崙坪里16鄰學府路350巷120號"
+    },
+    {
+      "id": 1291192405,
+      "name": "台灣海洋大學觀音校區藻礁暨海洋生態館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 25.0358034,
+      "lng": 121.0710864,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.169Z"
+    },
+    {
+      "id": 7015020,
+      "name": "桃園觀新藻礁生態系野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.014623,
+      "lng": 121.0271101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.169Z"
+    },
+    {
+      "id": 7077692,
+      "name": "永續利用區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0122956,
+      "lng": 121.0259449,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.170Z"
+    },
+    {
+      "id": 7077693,
+      "name": "桃園市政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0129735,
+      "lng": 121.0260489,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:19:36.172Z"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:45:00.858Z",
+  "items": [
+    {
+      "id": 2379177113,
+      "name": "五福臨門神木",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2638249,
+      "lng": 120.7864681,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.842Z"
+    },
+    {
+      "id": 2690718431,
+      "name": "0蛋月臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2763606,
+      "lng": 120.7779666,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.846Z"
+    },
+    {
+      "id": 2989645756,
+      "name": "石岡遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2759737,
+      "lng": 120.7788681,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.848Z"
+    },
+    {
+      "id": 9847826616,
+      "name": "石岡車站斷層月臺簡介",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2768374,
+      "lng": 120.7769394,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.849Z"
+    },
+    {
+      "id": 9852707970,
+      "name": "五福臨門神木簡介牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2637382,
+      "lng": 120.7864367,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.851Z"
+    },
+    {
+      "id": 9853233639,
+      "name": "石岡車站斷層月臺(地震遺址)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2768428,
+      "lng": 120.7768298,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.852Z"
+    },
+    {
+      "id": 262393712,
+      "name": "臺中市石岡旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2759726,
+      "lng": 120.778797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.854Z",
+      "address": "422臺中市石岡區石城街1號"
+    },
+    {
+      "id": 264255247,
+      "name": "石岡車站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2769656,
+      "lng": 120.7766672,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.855Z"
+    },
+    {
+      "id": 294106586,
+      "name": "石莊園藝社",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.2781791,
+      "lng": 120.7763049,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.856Z"
+    },
+    {
+      "id": 19276521,
+      "name": "土牛客家文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2652214,
+      "lng": 120.8095168,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:45:00.858Z",
+      "address": "422臺中市石岡區土牛里4鄰豐勢路德成巷10號"
+    }
+  ]
+}

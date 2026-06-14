@@ -1,0 +1,2713 @@
+{
+  "city": "桃園市",
+  "district": "龍潭區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 148,
+  "items": [
+    {
+      "id": 2938450959,
+      "name": "龍潭交流道",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8661631,
+      "lng": 121.2223939
+    },
+    {
+      "id": 2938450961,
+      "name": "龍潭加油站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.867539,
+      "lng": 121.2170787,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "5053",
+        "5053A",
+        "5646",
+        "5671"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.024Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2938450962,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8680482,
+      "lng": 121.2154604
+    },
+    {
+      "id": 2938451298,
+      "name": "亞聯客運五福站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8671523,
+      "lng": 121.2216903
+    },
+    {
+      "id": 3131696750,
+      "name": "龍潭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8649658,
+      "lng": 121.2110701,
+      "routes": [
+        "0552",
+        "701",
+        "701A",
+        "5050A",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5646",
+        "5647",
+        "5648",
+        "5649",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.025Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194440252,
+      "name": "中興里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8765212,
+      "lng": 121.2412576,
+      "routes": [
+        "212",
+        "212A",
+        "712",
+        "5053",
+        "5053A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.025Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194440255,
+      "name": "九座寮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8795247,
+      "lng": 121.2481256,
+      "routes": [
+        "212",
+        "212A",
+        "712",
+        "5053",
+        "5053A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.976Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194440256,
+      "name": "國軍醫院(中興路)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8746057,
+      "lng": 121.2360903,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "1821",
+        "5053",
+        "5053A",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.025Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194442368,
+      "name": "郡國社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8774505,
+      "lng": 121.2438181,
+      "routes": [
+        "212",
+        "212A",
+        "712",
+        "5053",
+        "5053A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.025Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194442370,
+      "name": "郵局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8736513,
+      "lng": 121.2329848
+    },
+    {
+      "id": 3194442371,
+      "name": "郵局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8740531,
+      "lng": 121.2343298,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194507448,
+      "name": "龍興駕訓班",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8722507,
+      "lng": 121.2283024,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194507450,
+      "name": "桃客龍潭站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8674333,
+      "lng": 121.2157265,
+      "routes": [
+        "L723"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194507451,
+      "name": "美屋家園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8698012,
+      "lng": 121.2217347
+    },
+    {
+      "id": 3194507452,
+      "name": "聯合社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8730007,
+      "lng": 121.230771,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194507454,
+      "name": "龍潭運動公園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8684046,
+      "lng": 121.2185575,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "709",
+        "709A",
+        "709B",
+        "712",
+        "1667",
+        "1728",
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5053",
+        "5053A",
+        "5350",
+        "5646",
+        "5671",
+        "L721",
+        "L722"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3194507456,
+      "name": "黃泥塘",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8714451,
+      "lng": 121.2256385,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5645",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204075659,
+      "name": "佳安",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.859161,
+      "lng": 121.2508352,
+      "routes": [
+        "725",
+        "5044",
+        "5050",
+        "5056"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204075661,
+      "name": "十一份",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.841739,
+      "lng": 121.2407741,
+      "routes": [
+        "503",
+        "5044",
+        "5048",
+        "5050",
+        "5050A",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204075663,
+      "name": "懷恩中學",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.848097,
+      "lng": 121.2443343
+    },
+    {
+      "id": 3204075665,
+      "name": "淮子埔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8541175,
+      "lng": 121.2508893,
+      "routes": [
+        "5044",
+        "5050",
+        "5056"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.977Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204075671,
+      "name": "石管局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8367151,
+      "lng": 121.2406786
+    },
+    {
+      "id": 3204075672,
+      "name": "石門國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8404387,
+      "lng": 121.2405068,
+      "routes": [
+        "5044",
+        "5048",
+        "5050",
+        "5050A",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204218545,
+      "name": "三坑",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8417126,
+      "lng": 121.2443933
+    },
+    {
+      "id": 3204218547,
+      "name": "大坪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8301248,
+      "lng": 121.2434651,
+      "routes": [
+        "5048",
+        "5050",
+        "5050A",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204218548,
+      "name": "崎腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8348452,
+      "lng": 121.2457684
+    },
+    {
+      "id": 3204218550,
+      "name": "新村路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8320272,
+      "lng": 121.2443905,
+      "routes": [
+        "5048",
+        "5050",
+        "5050A",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3204218552,
+      "name": "永興",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8375828,
+      "lng": 121.2460254,
+      "routes": [
+        "5048",
+        "5050",
+        "5050A",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209419651,
+      "name": "鴻濱",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8273277,
+      "lng": 121.2400954,
+      "routes": [
+        "5048",
+        "5050",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.978Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209419652,
+      "name": "民治七街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.822708,
+      "lng": 121.2360237,
+      "routes": [
+        "5048",
+        "5050",
+        "5051",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209419653,
+      "name": "石門山登山口1(已撤站)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8203057,
+      "lng": 121.237502
+    },
+    {
+      "id": 3209419654,
+      "name": "收費站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8153899,
+      "lng": 121.2410397,
+      "routes": [
+        "5048",
+        "5050",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.978Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209419656,
+      "name": "依山閣",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.811368,
+      "lng": 121.2401911,
+      "routes": [
+        "5048",
+        "5050",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.978Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213587199,
+      "name": "龍潭大池",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8625567,
+      "lng": 121.2078211,
+      "routes": [
+        "0552",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213587201,
+      "name": "凌雲國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8590925,
+      "lng": 121.2027953,
+      "routes": [
+        "0552",
+        "5350",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213587203,
+      "name": "南四方林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8555984,
+      "lng": 121.2028306,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213587205,
+      "name": "高原",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8302228,
+      "lng": 121.1927927,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213588146,
+      "name": "建龍新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8897665,
+      "lng": 121.2125184,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213588661,
+      "name": "忠恕家園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8877061,
+      "lng": 121.212588,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213588663,
+      "name": "烏樹林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8852745,
+      "lng": 121.2120919,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213588665,
+      "name": "大漢新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8834885,
+      "lng": 121.2119009,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213588683,
+      "name": "潛龍國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8816693,
+      "lng": 121.2116603,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213589876,
+      "name": "百年大鎮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.877757,
+      "lng": 121.2117998,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213589878,
+      "name": "敏盛醫院",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8752833,
+      "lng": 121.2132233,
+      "routes": [
+        "701",
+        "701A",
+        "709",
+        "709B",
+        "725",
+        "5055",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213589881,
+      "name": "東龍中豐路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8684148,
+      "lng": 121.2137276,
+      "routes": [
+        "701",
+        "701A",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213589883,
+      "name": "上伯公",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8667226,
+      "lng": 121.2135117,
+      "routes": [
+        "701",
+        "701A",
+        "5616",
+        "5616A",
+        "5616B",
+        "5616C",
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653",
+        "5671"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213592775,
+      "name": "小人國",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8312434,
+      "lng": 121.1871528,
+      "routes": [
+        "5350",
+        "5653"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213593043,
+      "name": "橫岡下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8268513,
+      "lng": 121.1873878,
+      "routes": [
+        "5350",
+        "5653"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213593326,
+      "name": "台全",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.827267,
+      "lng": 121.1883466,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.979Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213593328,
+      "name": "福源路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8276308,
+      "lng": 121.1902142
+    },
+    {
+      "id": 3217502058,
+      "name": "龍潭大池",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8640534,
+      "lng": 121.2114139
+    },
+    {
+      "id": 3217522465,
+      "name": "桃園市客家文物館",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8456906,
+      "lng": 121.2345203,
+      "routes": [
+        "503",
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3217522477,
+      "name": "文化路活魚街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8424613,
+      "lng": 121.2409504
+    },
+    {
+      "id": 3217522479,
+      "name": "石門大草坪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8366645,
+      "lng": 121.2407957
+    },
+    {
+      "id": 3217524874,
+      "name": "三坑老街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8417951,
+      "lng": 121.2443491
+    },
+    {
+      "id": 3341067574,
+      "name": "三水",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8441683,
+      "lng": 121.1524269,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3421241710,
+      "name": "台聯客運龍潭站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8640129,
+      "lng": 121.2225441
+    },
+    {
+      "id": 3856904962,
+      "name": "歐萊德",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8410294,
+      "lng": 121.2112878,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3856904963,
+      "name": "艾客爾公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8410474,
+      "lng": 121.2110579
+    },
+    {
+      "id": 4513231294,
+      "name": "龍潭區公所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8734416,
+      "lng": 121.2019952
+    },
+    {
+      "id": 4515049689,
+      "name": "慈惠宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8738342,
+      "lng": 121.2019926,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4524864044,
+      "name": "龍潭中正路",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8682509,
+      "lng": 121.2154781,
+      "routes": [
+        "709",
+        "709A",
+        "709B",
+        "725",
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5350"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747091009,
+      "name": "中正北龍路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.867546,
+      "lng": 121.2158332,
+      "routes": [
+        "212",
+        "212A",
+        "239",
+        "503",
+        "712",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5053",
+        "5053A",
+        "5055"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.033Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5805814760,
+      "name": "民有路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8258971,
+      "lng": 121.2376901
+    },
+    {
+      "id": 6572746356,
+      "name": "龍潭站(中正路口)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8680505,
+      "lng": 121.215586,
+      "routes": [
+        "709",
+        "709A",
+        "709B",
+        "725",
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5350"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.033Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839352571,
+      "name": "大昌健行路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8659842,
+      "lng": 121.2224472,
+      "routes": [
+        "709",
+        "709A",
+        "709B",
+        "1728",
+        "1820",
+        "1820A",
+        "1820B",
+        "L716",
+        "L721",
+        "L722",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.033Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847981559,
+      "name": "新生醫專",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8331877,
+      "lng": 121.2065832,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.033Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847981566,
+      "name": "龍源",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.828116,
+      "lng": 121.2060106,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847981573,
+      "name": "高平",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8238279,
+      "lng": 121.2016855,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6848171740,
+      "name": "龍潭大池",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8636098,
+      "lng": 121.2093703
+    },
+    {
+      "id": 6848250525,
+      "name": "天下社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8437797,
+      "lng": 121.2112422,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634",
+        "5653"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6848250548,
+      "name": "高楊路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8379854,
+      "lng": 121.209079,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6848250562,
+      "name": "銅鑼圈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8350693,
+      "lng": 121.2069668,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6852321989,
+      "name": "龍潭行政園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8701382,
+      "lng": 121.222195,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5671",
+        "5672",
+        "L716",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698440130,
+      "name": "春源",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8768471,
+      "lng": 121.1999595,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698440131,
+      "name": "德龍國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8796697,
+      "lng": 121.199187,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698440137,
+      "name": "八張犁",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8827891,
+      "lng": 121.1987478,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698440147,
+      "name": "大庄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8877163,
+      "lng": 121.1976233,
+      "routes": [
+        "5647",
+        "5648",
+        "5649",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698465095,
+      "name": "信義路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8654792,
+      "lng": 121.2090884,
+      "routes": [
+        "5647",
+        "5648",
+        "5649",
+        "L716"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698465097,
+      "name": "南龍潭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8678398,
+      "lng": 121.2067991,
+      "routes": [
+        "5647",
+        "5648",
+        "5649",
+        "L716"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698465101,
+      "name": "龍聖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.869761,
+      "lng": 121.2046983,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.035Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698465106,
+      "name": "凌雲岡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8714559,
+      "lng": 121.2036744,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698489647,
+      "name": "桃客龍潭新站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8668923,
+      "lng": 121.210451,
+      "routes": [
+        "212",
+        "212A",
+        "239",
+        "712",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5053",
+        "5053A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.035Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699777464,
+      "name": "龍潭國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8576217,
+      "lng": 121.2192938,
+      "routes": [
+        "5044",
+        "5048",
+        "5055"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699777468,
+      "name": "大同社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.859669,
+      "lng": 121.2183058,
+      "routes": [
+        "239",
+        "701",
+        "701A",
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.035Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699777473,
+      "name": "龍星國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8629306,
+      "lng": 121.2174717,
+      "routes": [
+        "239",
+        "5044",
+        "5048",
+        "5055"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699777474,
+      "name": "佳佳商場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8617254,
+      "lng": 121.2178981,
+      "routes": [
+        "239",
+        "701",
+        "701A",
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5051",
+        "5055",
+        "L727",
+        "L728"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.035Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699777477,
+      "name": "第二市場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8647753,
+      "lng": 121.2169366,
+      "routes": [
+        "239",
+        "701",
+        "701A",
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.035Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699816524,
+      "name": "逸園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8409793,
+      "lng": 121.235759,
+      "routes": [
+        "239",
+        "5049"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699816529,
+      "name": "三角林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8487693,
+      "lng": 121.2308116,
+      "routes": [
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699816531,
+      "name": "龍吟街口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8504864,
+      "lng": 121.2277868,
+      "routes": [
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699816536,
+      "name": "上華",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.852981,
+      "lng": 121.2229957,
+      "routes": [
+        "503",
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5050A",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699816539,
+      "name": "雙連街口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8541517,
+      "lng": 121.2204207,
+      "routes": [
+        "725",
+        "5044",
+        "5048",
+        "5049",
+        "5051",
+        "5055"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699850167,
+      "name": "澹園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8277131,
+      "lng": 121.2308425,
+      "routes": [
+        "239",
+        "5049"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699850169,
+      "name": "里界",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8309677,
+      "lng": 121.2337849,
+      "routes": [
+        "239",
+        "5049"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699850171,
+      "name": "民族龍門街口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8333995,
+      "lng": 121.2333584,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699850172,
+      "name": "金山社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8355306,
+      "lng": 121.2335233,
+      "routes": [
+        "239",
+        "5049"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699850177,
+      "name": "民族路311巷口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8380073,
+      "lng": 121.2346056,
+      "routes": [
+        "239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699868270,
+      "name": "亞洲工業",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8372187,
+      "lng": 121.2098193,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699868273,
+      "name": "富鑽工業城",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8329857,
+      "lng": 121.2142852,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699868275,
+      "name": "高平水廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8253372,
+      "lng": 121.2160474,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699868279,
+      "name": "十股",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8214446,
+      "lng": 121.2156638,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966418,
+      "name": "福源路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.828699,
+      "lng": 121.1925714,
+      "routes": [
+        "5350",
+        "5653"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966428,
+      "name": "渴望園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8330952,
+      "lng": 121.1937435,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966436,
+      "name": "三元宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8366272,
+      "lng": 121.1946031,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966441,
+      "name": "白宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8382532,
+      "lng": 121.1952361,
+      "routes": [
+        "5350",
+        "5653"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966450,
+      "name": "雄獅文具",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8421891,
+      "lng": 121.1966953,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966452,
+      "name": "水塔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.843473,
+      "lng": 121.1974651,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966456,
+      "name": "新科廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8456003,
+      "lng": 121.198833,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966460,
+      "name": "茶工廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8418775,
+      "lng": 121.2032479,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966466,
+      "name": "羅馬磁磚公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8399936,
+      "lng": 121.2061474,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7699966468,
+      "name": "車頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8379161,
+      "lng": 121.2085399,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802675,
+      "name": "下陳屋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8448576,
+      "lng": 121.1587121,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802677,
+      "name": "雞籠坑",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8452491,
+      "lng": 121.1615342,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802679,
+      "name": "三和",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8475782,
+      "lng": 121.1678282,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802681,
+      "name": "上伯公",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8500866,
+      "lng": 121.1747652,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802683,
+      "name": "陳屋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8520509,
+      "lng": 121.1801855,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802685,
+      "name": "直坑尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8537906,
+      "lng": 121.1842824,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802687,
+      "name": "南蛇崎",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8600532,
+      "lng": 121.1931803,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802689,
+      "name": "竹窩子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8601698,
+      "lng": 121.1995791,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7934506690,
+      "name": "中豐新龍路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8541042,
+      "lng": 121.2035952,
+      "routes": [
+        "L727",
+        "L728"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7934947460,
+      "name": "東興里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8756743,
+      "lng": 121.2385118,
+      "routes": [
+        "212",
+        "212A",
+        "712",
+        "5053",
+        "5053A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.036Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8825568865,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8876611,
+      "lng": 121.2230297
+    },
+    {
+      "id": 10845323215,
+      "name": "龍潭五福休息站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8660871,
+      "lng": 121.2224151
+    },
+    {
+      "id": 10848072788,
+      "name": "九龍村(國軍桃園八〇四醫院)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8746201,
+      "lng": 121.2361393
+    },
+    {
+      "id": 10855583774,
+      "name": "臺灣客家茶文化館",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.831454,
+      "lng": 121.1901649
+    },
+    {
+      "id": 10855583776,
+      "name": "渴望路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8332498,
+      "lng": 121.1937792,
+      "routes": [
+        "5350",
+        "L727",
+        "L728"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.037Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10855583778,
+      "name": "中原楊銅路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8475946,
+      "lng": 121.1992406,
+      "routes": [
+        "5350"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.037Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10855583780,
+      "name": "龍潭新站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8663186,
+      "lng": 121.2105232,
+      "routes": [
+        "5350"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.037Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12737778768,
+      "name": "台大山莊[樂活巴](已撤站)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8228139,
+      "lng": 121.2336552
+    },
+    {
+      "id": 12737778770,
+      "name": "高線收費站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8177975,
+      "lng": 121.2396488,
+      "routes": [
+        "5048",
+        "5050",
+        "5055",
+        "5056"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12737778772,
+      "name": "二坪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8258807,
+      "lng": 121.2450142,
+      "routes": [
+        "5048",
+        "5050",
+        "5050A",
+        "5055"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12737778776,
+      "name": "天堂鳥社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8213863,
+      "lng": 121.2394695
+    },
+    {
+      "id": 12824980470,
+      "name": "第二市場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.866758,
+      "lng": 121.2153126,
+      "routes": [
+        "5050A",
+        "5646",
+        "5671"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12824980471,
+      "name": "國軍桃園總醫院",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8776024,
+      "lng": 121.2363449,
+      "routes": [
+        "212A",
+        "701",
+        "701A",
+        "5053A",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336320,
+      "name": "劉屋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8878455,
+      "lng": 121.2230787,
+      "routes": [
+        "503",
+        "5646"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336322,
+      "name": "龍平路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8855084,
+      "lng": 121.2217979,
+      "routes": [
+        "5646"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336324,
+      "name": "上燈潭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8806001,
+      "lng": 121.2197769,
+      "routes": [
+        "5646"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336326,
+      "name": "龍心悅社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8753324,
+      "lng": 121.2182454,
+      "routes": [
+        "5646"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336328,
+      "name": "大昌路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8718975,
+      "lng": 121.2185571,
+      "routes": [
+        "5646"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336330,
+      "name": "龍潭派出所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8703935,
+      "lng": 121.2201512,
+      "routes": [
+        "5646",
+        "L716"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336338,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8845467,
+      "lng": 121.2299006,
+      "routes": [
+        "5645",
+        "5672",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336340,
+      "name": "叉路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8792954,
+      "lng": 121.2288058,
+      "routes": [
+        "5645",
+        "5672"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336342,
+      "name": "龍安街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8775695,
+      "lng": 121.228691,
+      "routes": [
+        "5645",
+        "5672"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336344,
+      "name": "茶工廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8757261,
+      "lng": 121.2278777,
+      "routes": [
+        "5645",
+        "5672",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336346,
+      "name": "成功新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8729999,
+      "lng": 121.2256111,
+      "routes": [
+        "5645",
+        "5672",
+        "L723",
+        "L725"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12825336348,
+      "name": "黃泥塘(成功路)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8716172,
+      "lng": 121.2251834,
+      "routes": [
+        "212",
+        "212A",
+        "701",
+        "701A",
+        "712",
+        "5053",
+        "5053A",
+        "5645",
+        "5671",
+        "5672"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13653956601,
+      "name": "龍潭區衛生所",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "龍潭區",
+      "lat": 24.8638525,
+      "lng": 121.2165374,
+      "routes": [
+        "L716",
+        "L721",
+        "L722",
+        "L723",
+        "L725",
+        "L727",
+        "L728"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.039Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

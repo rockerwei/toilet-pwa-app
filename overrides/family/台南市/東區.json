@@ -1,0 +1,69 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:55:10.357Z",
+  "items": [
+    {
+      "id": 2619366837,
+      "name": "旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9968906,
+      "lng": 120.2124753,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.345Z"
+    },
+    {
+      "id": 4490159933,
+      "name": "巽方砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9842802,
+      "lng": 120.2196601,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.349Z"
+    },
+    {
+      "id": 7633728285,
+      "name": "台糖黑版樹林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9677147,
+      "lng": 120.222025,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.350Z"
+    },
+    {
+      "id": 10754890410,
+      "name": "巴克禮博士奉獻事蹟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9734526,
+      "lng": 120.2220818,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.352Z"
+    },
+    {
+      "id": 170492306,
+      "name": "原臺南縣知事官邸",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9925772,
+      "lng": 120.2133387,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.354Z",
+      "address": "701台南市東區衛民街1號"
+    },
+    {
+      "id": 555897894,
+      "name": "歷史文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 22.9999632,
+      "lng": 120.2178952,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:10.357Z",
+      "address": "臺南市"
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "city": "高雄市",
+  "district": "杉林區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 46,
+  "items": [
+    {
+      "id": 8198199961,
+      "name": "旗山水廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0425995,
+      "lng": 120.5500386,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199963,
+      "name": "八張犁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0381613,
+      "lng": 120.5528873,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199965,
+      "name": "官埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0326819,
+      "lng": 120.5617811,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199967,
+      "name": "頂埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0280071,
+      "lng": 120.562833,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199969,
+      "name": "新頂埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0234222,
+      "lng": 120.5619728,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199971,
+      "name": "十張犁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.022548,
+      "lng": 120.5629851,
+      "routes": [
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199973,
+      "name": "下十張犁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0197483,
+      "lng": 120.5674042,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199975,
+      "name": "火山坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0181243,
+      "lng": 120.5721085,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199977,
+      "name": "火山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0100818,
+      "lng": 120.5780986,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199979,
+      "name": "新厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0036916,
+      "lng": 120.5753337,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199982,
+      "name": "小份尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9992533,
+      "lng": 120.57323,
+      "routes": [
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199985,
+      "name": "山尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9973395,
+      "lng": 120.5715521,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199987,
+      "name": "茶亭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.993443,
+      "lng": 120.5689042,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199989,
+      "name": "新庄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9895692,
+      "lng": 120.5662225,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199991,
+      "name": "中街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9886278,
+      "lng": 120.5647858,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199993,
+      "name": "益榮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9879736,
+      "lng": 120.5635067,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199995,
+      "name": "新庄國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9873308,
+      "lng": 120.5617703,
+      "routes": [
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199997,
+      "name": "新隘丁寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9845519,
+      "lng": 120.5574479,
+      "routes": [
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.258Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198199999,
+      "name": "隘丁寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9828396,
+      "lng": 120.5557702,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200001,
+      "name": "湖底橋(杉林)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9814417,
+      "lng": 120.5534626,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200003,
+      "name": "南河",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9778442,
+      "lng": 120.5444835,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200005,
+      "name": "上平里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9763218,
+      "lng": 120.5428303,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(上平里-旗山)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200007,
+      "name": "杉林派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9746145,
+      "lng": 120.5416053
+    },
+    {
+      "id": 8198200009,
+      "name": "杉林區公所(衛生所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9720277,
+      "lng": 120.5398843,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(上平里-旗山)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200011,
+      "name": "杉林國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9706698,
+      "lng": 120.5387881,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200013,
+      "name": "電力公司(杉林)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9700582,
+      "lng": 120.535924,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198200015,
+      "name": "月眉",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9673757,
+      "lng": 120.5335574,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198201117,
+      "name": "杉林農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9643831,
+      "lng": 120.5320156,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(上平里-旗山)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198201119,
+      "name": "刺仔寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9614074,
+      "lng": 120.5285645,
+      "routes": [
+        "8026",
+        "E32高旗甲仙快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12104077378,
+      "name": "大愛里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9672728,
+      "lng": 120.5435117,
+      "routes": [
+        "8026",
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(上平里-旗山)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)",
+        "T517B",
+        "T518B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222474013,
+      "name": "杉林里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9988619,
+      "lng": 120.5499258,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222474015,
+      "name": "紫竹寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9990096,
+      "lng": 120.5516991,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222474017,
+      "name": "真福山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0018913,
+      "lng": 120.565703,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222474020,
+      "name": "杉林角",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9990305,
+      "lng": 120.557829,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222474021,
+      "name": "小木屋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0092034,
+      "lng": 120.5685406,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222496044,
+      "name": "木梓",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0211194,
+      "lng": 120.5438293,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222496053,
+      "name": "紅毛山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.018802,
+      "lng": 120.548488,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222496073,
+      "name": "木梓國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0194092,
+      "lng": 120.5462623,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222508904,
+      "name": "茄苳巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0283662,
+      "lng": 120.5399954,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222508935,
+      "name": "白水泉",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0171226,
+      "lng": 120.5545564,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12222559011,
+      "name": "玄龍宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 23.0335084,
+      "lng": 120.5373977,
+      "routes": [
+        "8026"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12877169362,
+      "name": "文化中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9653201,
+      "lng": 120.5447273
+    },
+    {
+      "id": 12878658076,
+      "name": "大愛C區停車場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9628992,
+      "lng": 120.5395858,
+      "routes": [
+        "T517B",
+        "T518B",
+        "T522"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12878658078,
+      "name": "巴楠花部落小學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9648363,
+      "lng": 120.5399517,
+      "routes": [
+        "JOY H21(週一、三、五行駛)",
+        "JOY H21區間(甲仙站-旗山)",
+        "JOY H22(週二、四行駛)",
+        "T512(周一至周六行駛)",
+        "T512(周日行駛)",
+        "T517B",
+        "T518B",
+        "T522"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12878658079,
+      "name": "喜樂廣場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9655104,
+      "lng": 120.5432043,
+      "routes": [
+        "T517B",
+        "T518B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12923057721,
+      "name": "永齡農場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "杉林區",
+      "lat": 22.9760086,
+      "lng": 120.5480136,
+      "routes": [
+        "T512(周一至周六行駛)",
+        "T512(周日行駛)",
+        "T522"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.458Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

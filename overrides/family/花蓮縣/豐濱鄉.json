@@ -1,0 +1,189 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:22:22.845Z",
+  "items": [
+    {
+      "id": 2484633966,
+      "name": "芭崎瞭望台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7311094,
+      "lng": 121.5585614,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.825Z"
+    },
+    {
+      "id": 2493430347,
+      "name": "風之谷",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6571711,
+      "lng": 121.5367751,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.827Z"
+    },
+    {
+      "id": 3872475360,
+      "name": "大灣休憩區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5323062,
+      "lng": 121.5070811,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.830Z"
+    },
+    {
+      "id": 5152204682,
+      "name": "親不知子海上古道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6747877,
+      "lng": 121.5453968,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.831Z"
+    },
+    {
+      "id": 6595948808,
+      "name": "人臉岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4719282,
+      "lng": 121.505369,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.833Z"
+    },
+    {
+      "id": 7765572162,
+      "name": "豐濱新社懸崖水稻田",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6649986,
+      "lng": 121.5430417,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.835Z"
+    },
+    {
+      "id": 7765572163,
+      "name": "豐濱天空步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6712713,
+      "lng": 121.5446677,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.836Z"
+    },
+    {
+      "id": 8072376340,
+      "name": "新社岩棺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.65051,
+      "lng": 121.5360235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.838Z"
+    },
+    {
+      "id": 8073419570,
+      "name": "剩2.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.5514273,
+      "lng": 121.4937146,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.839Z"
+    },
+    {
+      "id": 11418926471,
+      "name": "0.3k",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6978016,
+      "lng": 121.5515765,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.840Z"
+    },
+    {
+      "id": 11418991969,
+      "name": "0.4k",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6981748,
+      "lng": 121.5520894,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.841Z"
+    },
+    {
+      "id": 518136016,
+      "name": "石梯坪遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4831573,
+      "lng": 121.5115588,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.841Z",
+      "address": "花蓮縣豐濱鄉石梯坪52號"
+    },
+    {
+      "id": 519244101,
+      "name": "奚卜蘭遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4660715,
+      "lng": 121.4884258,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.842Z",
+      "address": "977花蓮縣豐濱鄉靜浦8-1號"
+    },
+    {
+      "id": 619373573,
+      "name": "北回歸線",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4513593,
+      "lng": 121.4962483,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.843Z"
+    },
+    {
+      "id": 667695390,
+      "name": "月洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4800719,
+      "lng": 121.5076883,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.843Z"
+    },
+    {
+      "id": 7075258,
+      "name": "水璉南自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.7523976,
+      "lng": 121.563541,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.844Z"
+    },
+    {
+      "id": 7075259,
+      "name": "石梯、靜浦自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.491049,
+      "lng": 121.5008386,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.845Z"
+    },
+    {
+      "id": 7075261,
+      "name": "花東沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3605493,
+      "lng": 121.3802612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:22.845Z"
+    }
+  ]
+}

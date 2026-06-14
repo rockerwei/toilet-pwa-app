@@ -1,0 +1,118 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:22:55.341Z",
+  "items": [
+    {
+      "id": 3264590638,
+      "name": "奇美原住民文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.49196,
+      "lng": 121.4462358,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.327Z"
+    },
+    {
+      "id": 7078002837,
+      "name": "舞鶴遺址導覽",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4708156,
+      "lng": 121.3591587,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.330Z"
+    },
+    {
+      "id": 7780505137,
+      "name": "向上泛舟",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4879584,
+      "lng": 121.4019461,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.332Z"
+    },
+    {
+      "id": 9945100200,
+      "name": "反射板",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5083909,
+      "lng": 121.3464895,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.334Z"
+    },
+    {
+      "id": 10767840611,
+      "name": "花蓮",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4962,
+      "lng": 121.3495,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.335Z"
+    },
+    {
+      "id": 463584378,
+      "name": "掃叭石柱",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4705383,
+      "lng": 121.3592436,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.337Z"
+    },
+    {
+      "id": 519249246,
+      "name": "秀姑巒溪遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4877499,
+      "lng": 121.401133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.338Z"
+    },
+    {
+      "id": 714947969,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4833389,
+      "lng": 121.3984919,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.339Z"
+    },
+    {
+      "id": 722867766,
+      "name": "花東縱谷風景管理處暨鶴岡遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.5241307,
+      "lng": 121.3908878,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.339Z",
+      "address": "花蓮縣瑞穗鄉興鶴路二段168號"
+    },
+    {
+      "id": 7012287,
+      "name": "富源國家森林遊樂區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.588132,
+      "lng": 121.335402,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.340Z"
+    },
+    {
+      "id": 7075261,
+      "name": "花東沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3605493,
+      "lng": 121.3802612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:22:55.341Z"
+    }
+  ]
+}

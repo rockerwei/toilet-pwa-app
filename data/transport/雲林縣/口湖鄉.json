@@ -1,0 +1,121 @@
+{
+  "city": "雲林縣",
+  "district": "口湖鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 7,
+  "items": [
+    {
+      "id": 4621838290,
+      "name": "宜梧",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.5459779,
+      "lng": 120.1907955,
+      "routes": [
+        "1650D",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622734294,
+      "name": "文光國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.5415789,
+      "lng": 120.189902,
+      "routes": [
+        "7224"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640048066,
+      "name": "梧北村",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.549422,
+      "lng": 120.1903368,
+      "routes": [
+        "1650D"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643934511,
+      "name": "成龍",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.5574743,
+      "lng": 120.1678401
+    },
+    {
+      "id": 7643934512,
+      "name": "公魚池",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.5500366,
+      "lng": 120.1795185,
+      "routes": [
+        "7223",
+        "7223A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643934513,
+      "name": "宜梧1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.5485441,
+      "lng": 120.1942357,
+      "routes": [
+        "7223",
+        "7223A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076647,
+      "name": "口湖遊客中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "口湖鄉",
+      "lat": 23.54834,
+      "lng": 120.1822114,
+      "routes": [
+        "Y02",
+        "Y03"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.167Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

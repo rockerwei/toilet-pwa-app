@@ -1,0 +1,2201 @@
+{
+  "city": "新竹縣",
+  "district": "關西鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 136,
+  "items": [
+    {
+      "id": 1422775965,
+      "name": "店子岡",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8009176,
+      "lng": 121.1675216,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1484615258,
+      "name": "六福村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8227717,
+      "lng": 121.1838633
+    },
+    {
+      "id": 3213592776,
+      "name": "六福村門口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8253474,
+      "lng": 121.1805437,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3213592778,
+      "name": "六福村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8217621,
+      "lng": 121.1847692,
+      "routes": [
+        "5653"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.720Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311848911,
+      "name": "石光",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.812777,
+      "lng": 121.1293565,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341081546,
+      "name": "六曲窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7624363,
+      "lng": 121.2442003,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341086321,
+      "name": "金鳥樂園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7744916,
+      "lng": 121.2636039,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341090133,
+      "name": "玉山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7581348,
+      "lng": 121.2088155,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659811598,
+      "name": "關西站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.800847,
+      "lng": 121.1676433,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.720Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6449155712,
+      "name": "李屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7797019,
+      "lng": 121.2546883,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772299,
+      "name": "迎風館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7885937,
+      "lng": 121.1840273
+    },
+    {
+      "id": 6505772300,
+      "name": "十六張張金勇番茄",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7873394,
+      "lng": 121.1798666
+    },
+    {
+      "id": 6505772301,
+      "name": "下三屯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7864141,
+      "lng": 121.1786006,
+      "routes": [
+        "153",
+        "5634",
+        "5634A",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772302,
+      "name": "關西衛生所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7917814,
+      "lng": 121.1723653
+    },
+    {
+      "id": 6505772303,
+      "name": "四鄰土地公",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7971331,
+      "lng": 121.1604767
+    },
+    {
+      "id": 6505772304,
+      "name": "南山里杜家路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7992718,
+      "lng": 121.1579356,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772305,
+      "name": "彭榮煥門口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7984957,
+      "lng": 121.1512676
+    },
+    {
+      "id": 6505772306,
+      "name": "上林里元和宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8018858,
+      "lng": 121.1393163
+    },
+    {
+      "id": 6505772307,
+      "name": "坪林天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8031821,
+      "lng": 121.1337982,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772308,
+      "name": "南和里范家涼亭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8057245,
+      "lng": 121.1280123
+    },
+    {
+      "id": 6505772309,
+      "name": "南和國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.809306,
+      "lng": 121.1208232
+    },
+    {
+      "id": 6505772310,
+      "name": "南和里9鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8099237,
+      "lng": 121.1148708
+    },
+    {
+      "id": 6846860401,
+      "name": "新城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7651235,
+      "lng": 121.1731106,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846860403,
+      "name": "太平橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7592562,
+      "lng": 121.1713806,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846860405,
+      "name": "瓦窟坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7563906,
+      "lng": 121.1726868,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846860417,
+      "name": "蛙子窟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7531913,
+      "lng": 121.1721021,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021727,
+      "name": "關西站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7925288,
+      "lng": 121.1767093,
+      "routes": [
+        "5617",
+        "5617A",
+        "5619",
+        "5620",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021729,
+      "name": "新街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.790991,
+      "lng": 121.1780727,
+      "routes": [
+        "153",
+        "5634",
+        "5634A",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021731,
+      "name": "石爺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.788388,
+      "lng": 121.1771621,
+      "routes": [
+        "153",
+        "5634",
+        "5634A",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021735,
+      "name": "潮音寺前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7848619,
+      "lng": 121.1787647,
+      "routes": [
+        "153",
+        "5634",
+        "5634A",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.710Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021737,
+      "name": "十六張",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7814088,
+      "lng": 121.1785609,
+      "routes": [
+        "153",
+        "5634",
+        "5634A",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021739,
+      "name": "石灰窯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7788421,
+      "lng": 121.1768711,
+      "routes": [
+        "153",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021747,
+      "name": "東光",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7760939,
+      "lng": 121.17645,
+      "routes": [
+        "153",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847021749,
+      "name": "苧子園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7732348,
+      "lng": 121.1745,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847067414,
+      "name": "明德路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.792883,
+      "lng": 121.1783718,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847901162,
+      "name": "張屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.803123,
+      "lng": 121.1905128,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847901164,
+      "name": "牛欄河",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8013529,
+      "lng": 121.1867765,
+      "routes": [
+        "5617",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847901166,
+      "name": "永安橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7990933,
+      "lng": 121.1848707,
+      "routes": [
+        "5617",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847901172,
+      "name": "圳頭牌",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7946788,
+      "lng": 121.1816347,
+      "routes": [
+        "5617",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847964522,
+      "name": "水倉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8175373,
+      "lng": 121.2017056,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847964536,
+      "name": "仁安魏屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.809071,
+      "lng": 121.1966336,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847964538,
+      "name": "仁安",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.812303,
+      "lng": 121.1993507,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6847964542,
+      "name": "黃岡口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8065401,
+      "lng": 121.1953796,
+      "routes": [
+        "5617",
+        "5617A",
+        "5620",
+        "5634"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224001,
+      "name": "亞森農場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8161034,
+      "lng": 121.1140269,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224004,
+      "name": "崁下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8156676,
+      "lng": 121.1169639,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224006,
+      "name": "水尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8145574,
+      "lng": 121.1243105,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224008,
+      "name": "上石崗",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8118745,
+      "lng": 121.1315793,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.721Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224010,
+      "name": "圳頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8111368,
+      "lng": 121.1336875,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224012,
+      "name": "旱圳",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8098148,
+      "lng": 121.1373058,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224014,
+      "name": "聖母山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.80706,
+      "lng": 121.1440609,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224016,
+      "name": "水坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8054543,
+      "lng": 121.1472675,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.721Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224018,
+      "name": "茅子埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8042939,
+      "lng": 121.1536058,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224020,
+      "name": "深坑子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8039471,
+      "lng": 121.1576396,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224022,
+      "name": "雙口塘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8038619,
+      "lng": 121.1616147,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224024,
+      "name": "陳屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8022209,
+      "lng": 121.1641507,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224026,
+      "name": "中學前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7969884,
+      "lng": 121.1723998,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224029,
+      "name": "聖母院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7955737,
+      "lng": 121.1744544,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6849224031,
+      "name": "北門口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7938741,
+      "lng": 121.1762005,
+      "routes": [
+        "5619",
+        "5620"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7742455537,
+      "name": "關西老街(關西國中)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7972992,
+      "lng": 121.1723507,
+      "routes": [
+        "觀光2號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.711Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7742494284,
+      "name": "関西小熊博物館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7889554,
+      "lng": 121.1838659
+    },
+    {
+      "id": 7746281737,
+      "name": "關西營區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8215385,
+      "lng": 121.1081946
+    },
+    {
+      "id": 7746281738,
+      "name": "東安派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7899107,
+      "lng": 121.1823584,
+      "routes": [
+        "5617A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746281740,
+      "name": "關西高中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7885205,
+      "lng": 121.1850681,
+      "routes": [
+        "5617A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746281742,
+      "name": "玉豐新城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7933486,
+      "lng": 121.1880302,
+      "routes": [
+        "5617A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173013,
+      "name": "西坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.785662,
+      "lng": 121.1168681
+    },
+    {
+      "id": 7748173015,
+      "name": "下橫坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7870158,
+      "lng": 121.1228373,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173017,
+      "name": "陳屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7893297,
+      "lng": 121.1261535,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173036,
+      "name": "新興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7916135,
+      "lng": 121.1281808,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173038,
+      "name": "集會所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7937057,
+      "lng": 121.1319867,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173054,
+      "name": "涼亭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7975444,
+      "lng": 121.1331176,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173065,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8029988,
+      "lng": 121.1338591,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173067,
+      "name": "坪林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8019425,
+      "lng": 121.1393936,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173095,
+      "name": "福基",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8016889,
+      "lng": 121.1431486,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173097,
+      "name": "隧道口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8008586,
+      "lng": 121.1454109,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173099,
+      "name": "中興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7990145,
+      "lng": 121.1536607,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173101,
+      "name": "南山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7992297,
+      "lng": 121.1580338,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173108,
+      "name": "福德",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7970119,
+      "lng": 121.1606786,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173110,
+      "name": "龍眼樹下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7930848,
+      "lng": 121.1655342,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173112,
+      "name": "崎下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7920274,
+      "lng": 121.1715109,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173114,
+      "name": "國校前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7919983,
+      "lng": 121.1734991,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748173116,
+      "name": "紅茶公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7913727,
+      "lng": 121.1757761,
+      "routes": [
+        "關下線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748179058,
+      "name": "富光國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7793875,
+      "lng": 121.1791609,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748179066,
+      "name": "黃屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7746746,
+      "lng": 121.1809047,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748179068,
+      "name": "暗潭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7709361,
+      "lng": 121.1849905,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748179075,
+      "name": "彭屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7700399,
+      "lng": 121.1883118,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204892,
+      "name": "高坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7698875,
+      "lng": 121.1933371,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204894,
+      "name": "柑仔樹下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7741496,
+      "lng": 121.1976473,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204897,
+      "name": "湳湖",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7781762,
+      "lng": 121.2047025,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204899,
+      "name": "湖美",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7755863,
+      "lng": 121.2069639,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204901,
+      "name": "德光",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7738771,
+      "lng": 121.2088128,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204903,
+      "name": "三十八份橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7738596,
+      "lng": 121.2107888,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204905,
+      "name": "統一健康世界",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7681398,
+      "lng": 121.2173082,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204907,
+      "name": "興業公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.767625,
+      "lng": 121.2200311,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204909,
+      "name": "金山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7677778,
+      "lng": 121.2229286,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204911,
+      "name": "蝙蝠洞入口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7679675,
+      "lng": 121.2241934,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204913,
+      "name": "國校前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7691371,
+      "lng": 121.2249949,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204915,
+      "name": "錦山橋頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7710857,
+      "lng": 121.2286332,
+      "routes": [
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204917,
+      "name": "農林公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7704964,
+      "lng": 121.2293976,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204919,
+      "name": "蔗蔀",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.768301,
+      "lng": 121.2341412,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204921,
+      "name": "邱厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7671439,
+      "lng": 121.23878,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204923,
+      "name": "塘寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7651504,
+      "lng": 121.2428768,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204925,
+      "name": "田莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7639253,
+      "lng": 121.2438657,
+      "routes": [
+        "關六線",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.712Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204939,
+      "name": "錦山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7713007,
+      "lng": 121.2296504,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204941,
+      "name": "派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7716679,
+      "lng": 121.231671,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204943,
+      "name": "由根山居",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7719675,
+      "lng": 121.2331325,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204945,
+      "name": "而完窩口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7743583,
+      "lng": 121.2367078,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204947,
+      "name": "李樹下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7769997,
+      "lng": 121.2409267,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204949,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.778221,
+      "lng": 121.2463931,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204951,
+      "name": "鄭統領",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7796671,
+      "lng": 121.2516794,
+      "routes": [
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204954,
+      "name": "西浪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7792131,
+      "lng": 121.2589829,
+      "routes": [
+        "5109",
+        "5109A",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204956,
+      "name": "鳥嘴下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.776011,
+      "lng": 121.2629611,
+      "routes": [
+        "5109",
+        "5109A",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204961,
+      "name": "南華廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7713986,
+      "lng": 121.1782031,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204963,
+      "name": "老社寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7696943,
+      "lng": 121.1781446,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204965,
+      "name": "庄尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7669484,
+      "lng": 121.1783326,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204976,
+      "name": "葉屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7624211,
+      "lng": 121.1770577,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204978,
+      "name": "大坡塘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7599404,
+      "lng": 121.1795247,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204988,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7586403,
+      "lng": 121.1842935,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.722Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204990,
+      "name": "新富",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7547038,
+      "lng": 121.1860201,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748204992,
+      "name": "培靈關西醫院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7562159,
+      "lng": 121.1893368,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748205001,
+      "name": "大橋頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7592632,
+      "lng": 121.1937755,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748205003,
+      "name": "瑞福",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7615755,
+      "lng": 121.2006695,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7748205005,
+      "name": "廟前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7595049,
+      "lng": 121.2071221,
+      "routes": [
+        "153"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802672,
+      "name": "埤頭窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8425285,
+      "lng": 121.1456628,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802673,
+      "name": "皇德宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8430458,
+      "lng": 121.1484006,
+      "routes": [
+        "0552"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7775016695,
+      "name": "高遶頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7758804,
+      "lng": 121.2631012
+    },
+    {
+      "id": 7775016697,
+      "name": "市界",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7791872,
+      "lng": 121.2590129
+    },
+    {
+      "id": 8717728588,
+      "name": "猛獸區巴士站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.8235895,
+      "lng": 121.181553
+    },
+    {
+      "id": 10845726002,
+      "name": "關西鎮公所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7928101,
+      "lng": 121.1753307,
+      "routes": [
+        "1820A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.722Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11527573446,
+      "name": "關西下車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7923751,
+      "lng": 121.1769093,
+      "routes": [
+        "5617",
+        "5617A",
+        "5619",
+        "5620",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747535824,
+      "name": "人行廣場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7921719,
+      "lng": 121.1775696,
+      "routes": [
+        "153",
+        "關下線",
+        "關六線",
+        "關金線A",
+        "關金線B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.713Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12750026165,
+      "name": "長壽會館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7924685,
+      "lng": 121.1723874
+    },
+    {
+      "id": 12750026167,
+      "name": "東安古橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7911433,
+      "lng": 121.1788763
+    },
+    {
+      "id": 12750026169,
+      "name": "教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7903673,
+      "lng": 121.1812285
+    },
+    {
+      "id": 12750026171,
+      "name": "關西迎風館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7889346,
+      "lng": 121.1839502
+    },
+    {
+      "id": 12855660682,
+      "name": "關西",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7918048,
+      "lng": 121.1769404,
+      "routes": [
+        "5617",
+        "5617A",
+        "5619",
+        "5620",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.714Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 324469919,
+      "name": "新竹客運關西站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "關西鎮",
+      "lat": 24.7924818,
+      "lng": 121.176563,
+      "routes": [
+        "5617",
+        "5617A",
+        "5619",
+        "5620",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.714Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

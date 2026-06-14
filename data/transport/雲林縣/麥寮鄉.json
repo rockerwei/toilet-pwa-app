@@ -1,0 +1,276 @@
+{
+  "city": "雲林縣",
+  "district": "麥寮鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 15,
+  "items": [
+    {
+      "id": 6458564915,
+      "name": "麥寮站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7484255,
+      "lng": 120.2587965,
+      "routes": [
+        "7012"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458564917,
+      "name": "鎮東宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7497832,
+      "lng": 120.2604675,
+      "routes": [
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458564935,
+      "name": "霄仁厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7538733,
+      "lng": 120.2729371,
+      "routes": [
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458564937,
+      "name": "興化厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7584002,
+      "lng": 120.2885315,
+      "routes": [
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458789062,
+      "name": "麥寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7462626,
+      "lng": 120.2525201,
+      "routes": [
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7111",
+        "7111A",
+        "7112",
+        "7114",
+        "7701"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458789064,
+      "name": "麥寮衛生所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7468788,
+      "lng": 120.2567232
+    },
+    {
+      "id": 6458864485,
+      "name": "麥寮高中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7581498,
+      "lng": 120.2508733,
+      "routes": [
+        "7103",
+        "7104",
+        "7104A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458864487,
+      "name": "麥寮鄉公所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7541703,
+      "lng": 120.2520159,
+      "routes": [
+        "7103",
+        "7104",
+        "7104A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463735670,
+      "name": "楊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7760755,
+      "lng": 120.2464436
+    },
+    {
+      "id": 6463735672,
+      "name": "十八線",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7698346,
+      "lng": 120.2463403,
+      "routes": [
+        "7114"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463747556,
+      "name": "橋頭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7971892,
+      "lng": 120.2737981,
+      "routes": [
+        "6743",
+        "6743A",
+        "7011",
+        "7101",
+        "7112",
+        "7114",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463747558,
+      "name": "三盛",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7970468,
+      "lng": 120.2656093,
+      "routes": [
+        "7011",
+        "7101",
+        "7114"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463747561,
+      "name": "許厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7972603,
+      "lng": 120.2428991,
+      "routes": [
+        "7011",
+        "7101"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463747565,
+      "name": "六輕工業區",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7978309,
+      "lng": 120.2192299,
+      "routes": [
+        "7011",
+        "7101",
+        "7103",
+        "7104",
+        "7104A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076661,
+      "name": "麥寮拱範宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "麥寮鄉",
+      "lat": 23.7463092,
+      "lng": 120.2552426,
+      "routes": [
+        "Y02"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.187Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

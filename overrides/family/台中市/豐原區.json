@@ -1,0 +1,87 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:30:12.704Z",
+  "items": [
+    {
+      "id": 9857906515,
+      "name": "水井汲水器",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2605639,
+      "lng": 120.7648082,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.694Z"
+    },
+    {
+      "id": 9857909330,
+      "name": "椪柑洞洞屋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2604201,
+      "lng": 120.7648193,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.696Z"
+    },
+    {
+      "id": 9857909366,
+      "name": "旱溪源頭生態解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.260589,
+      "lng": 120.7680762,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.698Z"
+    },
+    {
+      "id": 9857909379,
+      "name": "公老龍泉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2610241,
+      "lng": 120.7661104,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.699Z"
+    },
+    {
+      "id": 9857909384,
+      "name": "公老坪骨董抽水機",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2608907,
+      "lng": 120.7661421,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.701Z"
+    },
+    {
+      "id": 1074779608,
+      "name": "公老坪糖廍",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.262263,
+      "lng": 120.7666004,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.703Z"
+    },
+    {
+      "id": 1074779613,
+      "name": "平臺與儲水池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2602507,
+      "lng": 120.7642947,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.704Z"
+    },
+    {
+      "id": 1462482017,
+      "name": "臺中營林出張所宿泊所",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2470503,
+      "lng": 120.7221987,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:30:12.704Z"
+    }
+  ]
+}

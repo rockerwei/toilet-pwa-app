@@ -1,0 +1,138 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:11:28.305Z",
+  "items": [
+    {
+      "id": 3393458390,
+      "name": "長埤湖風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 24.6422367,
+      "lng": 121.610753,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.289Z"
+    },
+    {
+      "id": 4772046824,
+      "name": "三星花海",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6673372,
+      "lng": 121.6588068,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.292Z"
+    },
+    {
+      "id": 4945886421,
+      "name": "龍泉步道入口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6547775,
+      "lng": 121.6538846,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.293Z"
+    },
+    {
+      "id": 8093704021,
+      "name": "三星落羽松",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6704292,
+      "lng": 121.6774352,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.295Z"
+    },
+    {
+      "id": 8127672640,
+      "name": "拳頭姆步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6566574,
+      "lng": 121.6148892,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.297Z"
+    },
+    {
+      "id": 11971799041,
+      "name": "沙湳秋水",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6586161,
+      "lng": 121.6136551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.298Z"
+    },
+    {
+      "id": 11971808218,
+      "name": "烏心石造林地",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6560844,
+      "lng": 121.6144256,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.300Z"
+    },
+    {
+      "id": 11971845932,
+      "name": "蘭陽溪上的圓夢橋",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6581105,
+      "lng": 121.6103259,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.301Z"
+    },
+    {
+      "id": 11971849044,
+      "name": "山間精靈的秘密花園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6571878,
+      "lng": 121.6104462,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.302Z"
+    },
+    {
+      "id": 222134943,
+      "name": "陳定南紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.6890746,
+      "lng": 121.7163667,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.303Z"
+    },
+    {
+      "id": 545689095,
+      "name": "天送埤文物室",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.6614998,
+      "lng": 121.6189913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.303Z"
+    },
+    {
+      "id": 1119299581,
+      "name": "張美阿嬤農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.6747769,
+      "lng": 121.676012,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.304Z"
+    },
+    {
+      "id": 1184779192,
+      "name": "蔥仔寮體驗農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.6694325,
+      "lng": 121.6249931,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:11:28.305Z",
+      "address": "宜蘭縣三星鄉東興路13號"
+    }
+  ]
+}

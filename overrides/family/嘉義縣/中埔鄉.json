@@ -1,0 +1,27 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:21:10.675Z",
+  "items": [
+    {
+      "id": 12640028878,
+      "name": "中埔遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.40087,
+      "lng": 120.5124,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:21:10.672Z"
+    },
+    {
+      "id": 243744952,
+      "name": "嘉義客家文化會館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4461895,
+      "lng": 120.4946092,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:21:10.674Z"
+    }
+  ]
+}

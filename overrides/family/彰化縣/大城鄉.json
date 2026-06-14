@@ -1,0 +1,27 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:28:33.782Z",
+  "items": [
+    {
+      "id": 4635237948,
+      "name": "全安宮牌樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8475827,
+      "lng": 120.2869563,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:28:33.779Z"
+    },
+    {
+      "id": 7073701,
+      "name": "彰雲嘉沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6406272,
+      "lng": 120.1598771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:28:33.782Z"
+    }
+  ]
+}

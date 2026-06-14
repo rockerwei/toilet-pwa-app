@@ -1,0 +1,68 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:16:20.537Z",
+  "items": [
+    {
+      "id": 2412801883,
+      "name": "管筏出租",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2177603,
+      "lng": 120.092388,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.529Z"
+    },
+    {
+      "id": 5519813524,
+      "name": "苓子寮木棉花道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2229259,
+      "lng": 120.1666744,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.531Z"
+    },
+    {
+      "id": 10069778099,
+      "name": "往東吉嶼登船處",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2117548,
+      "lng": 120.0878723,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.533Z"
+    },
+    {
+      "id": 158008187,
+      "name": "扇形鹽田",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1952388,
+      "lng": 120.0808467,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.534Z"
+    },
+    {
+      "id": 1000702346,
+      "name": "香雨書院",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.1922064,
+      "lng": 120.1570031,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.536Z",
+      "address": "台南市將軍區長榮里長榮182號"
+    },
+    {
+      "id": 7073699,
+      "name": "北門沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.283557,
+      "lng": 120.0709578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:16:20.537Z"
+    }
+  ]
+}

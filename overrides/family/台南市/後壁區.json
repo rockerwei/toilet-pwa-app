@@ -1,0 +1,109 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:21:09.450Z",
+  "items": [
+    {
+      "id": 4854838915,
+      "name": "菁寮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3789271,
+      "lng": 120.3359353,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.440Z"
+    },
+    {
+      "id": 11259400085,
+      "name": "無米樂旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.37871,
+      "lng": 120.33528,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.443Z"
+    },
+    {
+      "id": 13679015132,
+      "name": "福家碾米廠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.378684,
+      "lng": 120.3339786,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.444Z",
+      "address": "臺南市後壁區菁寮11之1號"
+    },
+    {
+      "id": 13680589472,
+      "name": "四隻小豬豬",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3798865,
+      "lng": 120.3344708,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.446Z"
+    },
+    {
+      "id": 316004905,
+      "name": "無米樂旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.3789915,
+      "lng": 120.3351689,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.447Z"
+    },
+    {
+      "id": 496183566,
+      "name": "昆蟲館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.3294048,
+      "lng": 120.3732512,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.447Z"
+    },
+    {
+      "id": 496183571,
+      "name": "地震館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.3287032,
+      "lng": 120.3727722,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.448Z"
+    },
+    {
+      "id": 496183902,
+      "name": "蘭花館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.3293346,
+      "lng": 120.374891,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.449Z"
+    },
+    {
+      "id": 537070753,
+      "name": "卡多利亞良食故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.3592743,
+      "lng": 120.3585841,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.449Z",
+      "address": "731台南市後壁區後壁里後壁42-27號"
+    },
+    {
+      "id": 914946822,
+      "name": "小南海風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.3874728,
+      "lng": 120.3925502,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:21:09.450Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:32:19.263Z",
+  "items": [
+    {
+      "id": 707548347,
+      "name": "屏東熱帶農業博覽會",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.7154035,
+      "lng": 120.5239619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:32:19.260Z"
+    },
+    {
+      "id": 986345033,
+      "name": "鐵道東巷1弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.7020238,
+      "lng": 120.5778899,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:32:19.262Z"
+    }
+  ]
+}

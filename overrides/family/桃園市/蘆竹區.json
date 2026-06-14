@@ -1,0 +1,118 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:11:35.968Z",
+  "items": [
+    {
+      "id": 3490652382,
+      "name": "陸海空眺望台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0525545,
+      "lng": 121.3179144,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.955Z"
+    },
+    {
+      "id": 4322299689,
+      "name": "卡司蒂拉樂園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0319182,
+      "lng": 121.2533553,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.957Z",
+      "address": "桃園市蘆竹區大竹北路90之66號"
+    },
+    {
+      "id": 5689377017,
+      "name": "大竹夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0218157,
+      "lng": 121.2641043,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.959Z"
+    },
+    {
+      "id": 5823960472,
+      "name": "五酒桶山風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 25.068716,
+      "lng": 121.3028867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.960Z"
+    },
+    {
+      "id": 6237703676,
+      "name": "獅仔頭暸望台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0745375,
+      "lng": 121.2934595,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.962Z"
+    },
+    {
+      "id": 6485225198,
+      "name": "坑口彩繪村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0908601,
+      "lng": 121.2664063,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.963Z"
+    },
+    {
+      "id": 9180754912,
+      "name": "坑子溪休閒農業區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0785894,
+      "lng": 121.3225867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.965Z"
+    },
+    {
+      "id": 9687912935,
+      "name": "德馨堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0788216,
+      "lng": 121.2860894,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.966Z"
+    },
+    {
+      "id": 12097262294,
+      "name": "舊長興車站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0735308,
+      "lng": 121.2828724,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.966Z"
+    },
+    {
+      "id": 12097276014,
+      "name": "舊海山車站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0909509,
+      "lng": 121.27424,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.967Z"
+    },
+    {
+      "id": 688269441,
+      "name": "張榮發文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0499691,
+      "lng": 121.3023606,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:11:35.968Z"
+    }
+  ]
+}

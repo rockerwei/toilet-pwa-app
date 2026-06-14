@@ -1,0 +1,787 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:09:11.035Z",
+  "items": [
+    {
+      "id": 3212342722,
+      "name": "蝙蝠洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8432432,
+      "lng": 121.2994237,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:10.995Z"
+    },
+    {
+      "id": 3212342723,
+      "name": "隧道口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8425517,
+      "lng": 121.2995495,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:10.998Z"
+    },
+    {
+      "id": 3212444482,
+      "name": "後慈湖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8454893,
+      "lng": 121.3021659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.000Z"
+    },
+    {
+      "id": 3426404334,
+      "name": "慈湖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8406532,
+      "lng": 121.2973755,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.001Z"
+    },
+    {
+      "id": 3478469569,
+      "name": "眺望點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9128952,
+      "lng": 121.3189697,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.002Z"
+    },
+    {
+      "id": 3493423492,
+      "name": "吊橋頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8536918,
+      "lng": 121.3578166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.003Z"
+    },
+    {
+      "id": 4079996829,
+      "name": "鳳飛飛老家",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8864999,
+      "lng": 121.2864602,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.004Z"
+    },
+    {
+      "id": 4079996853,
+      "name": "迷宮巷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8867445,
+      "lng": 121.2867282,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.005Z"
+    },
+    {
+      "id": 4616322089,
+      "name": "百米彩繪矮牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9200063,
+      "lng": 121.2938583,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.006Z"
+    },
+    {
+      "id": 4687971481,
+      "name": "環保公園岔",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8980317,
+      "lng": 121.3307206,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.007Z"
+    },
+    {
+      "id": 4811264422,
+      "name": "富桂園-翠鳥",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9125017,
+      "lng": 121.2982619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.007Z"
+    },
+    {
+      "id": 4874332424,
+      "name": "傳貴宏業生機",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8730485,
+      "lng": 121.308975,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.008Z"
+    },
+    {
+      "id": 5062899202,
+      "name": "石門水庫服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8115587,
+      "lng": 121.2475794,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.008Z"
+    },
+    {
+      "id": 5403186373,
+      "name": "大溪水中土地公",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8369509,
+      "lng": 121.2815863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.009Z"
+    },
+    {
+      "id": 5470679274,
+      "name": "廢棄鐵塔基座",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8236993,
+      "lng": 121.2758435,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.009Z"
+    },
+    {
+      "id": 5570089783,
+      "name": "大溪落羽松大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8712813,
+      "lng": 121.2558707,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.010Z"
+    },
+    {
+      "id": 5720771072,
+      "name": "大溪威斯汀",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8823713,
+      "lng": 121.3245195,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.010Z"
+    },
+    {
+      "id": 6124110985,
+      "name": "舊百吉隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8350844,
+      "lng": 121.3024503,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.011Z"
+    },
+    {
+      "id": 7444922760,
+      "name": "中庄調整池觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.907439,
+      "lng": 121.3003585,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.011Z"
+    },
+    {
+      "id": 9101516457,
+      "name": "四面佛岔",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8987862,
+      "lng": 121.3313681,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.011Z"
+    },
+    {
+      "id": 9101517848,
+      "name": "4.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.895655,
+      "lng": 121.3260338,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.012Z"
+    },
+    {
+      "id": 9657926017,
+      "name": "八二三砲戰故事館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9023113,
+      "lng": 121.2817402,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.012Z"
+    },
+    {
+      "id": 9657926183,
+      "name": "落羽松森林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8926967,
+      "lng": 121.2832758,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.013Z"
+    },
+    {
+      "id": 9894272808,
+      "name": "螢火蟲舞台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9046784,
+      "lng": 121.3047286,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.013Z"
+    },
+    {
+      "id": 11372560640,
+      "name": "北橫遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8492706,
+      "lng": 121.2852126,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.014Z"
+    },
+    {
+      "id": 11481596168,
+      "name": "史努比石",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8467827,
+      "lng": 121.3100664,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.014Z"
+    },
+    {
+      "id": 11491939817,
+      "name": "石臼",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8530371,
+      "lng": 121.3182636,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.015Z"
+    },
+    {
+      "id": 11497668229,
+      "name": "後慈湖景觀",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8475443,
+      "lng": 121.3040436,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.015Z"
+    },
+    {
+      "id": 11497668230,
+      "name": "莫內花園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8467602,
+      "lng": 121.3057818,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.015Z"
+    },
+    {
+      "id": 11503357444,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8410269,
+      "lng": 121.313814,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.016Z"
+    },
+    {
+      "id": 11503357445,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8454779,
+      "lng": 121.3170389,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.016Z"
+    },
+    {
+      "id": 11503357446,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8453779,
+      "lng": 121.3130241,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.017Z"
+    },
+    {
+      "id": 11503357447,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8474024,
+      "lng": 121.3089971,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.017Z"
+    },
+    {
+      "id": 11503357448,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8491031,
+      "lng": 121.3117132,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.018Z"
+    },
+    {
+      "id": 11503357449,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8497516,
+      "lng": 121.3147004,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.018Z"
+    },
+    {
+      "id": 11503357450,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8492774,
+      "lng": 121.3150242,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.019Z"
+    },
+    {
+      "id": 11503357451,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8528341,
+      "lng": 121.3182717,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.019Z"
+    },
+    {
+      "id": 11503357452,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8468561,
+      "lng": 121.3020378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.020Z"
+    },
+    {
+      "id": 11503357453,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8530561,
+      "lng": 121.2977596,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.020Z"
+    },
+    {
+      "id": 11504883054,
+      "name": "0.5k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8498793,
+      "lng": 121.3077605,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.020Z"
+    },
+    {
+      "id": 11504883059,
+      "name": "1k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8524189,
+      "lng": 121.3109926,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.021Z"
+    },
+    {
+      "id": 11504883064,
+      "name": "1.5k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8548686,
+      "lng": 121.3147962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.021Z"
+    },
+    {
+      "id": 11505069669,
+      "name": "2k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8552054,
+      "lng": 121.3177101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.022Z"
+    },
+    {
+      "id": 11505069671,
+      "name": "2.2k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8536771,
+      "lng": 121.3185879,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.022Z"
+    },
+    {
+      "id": 11508518989,
+      "name": "電塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8508935,
+      "lng": 121.3090673,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.023Z"
+    },
+    {
+      "id": 11510891631,
+      "name": "路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8534584,
+      "lng": 121.3189253,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.023Z"
+    },
+    {
+      "id": 13042195589,
+      "name": "石門水庫洩洪道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8131487,
+      "lng": 121.2455463,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.023Z"
+    },
+    {
+      "id": 13406669768,
+      "name": "大房豆干老街門市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8852913,
+      "lng": 121.2874588,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.024Z"
+    },
+    {
+      "id": 142782866,
+      "name": "前慈湖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8398484,
+      "lng": 121.2986226,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.024Z"
+    },
+    {
+      "id": 142782867,
+      "name": "後慈湖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8447179,
+      "lng": 121.3031745,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.025Z"
+    },
+    {
+      "id": 299039248,
+      "name": "慈湖遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8403423,
+      "lng": 121.2943379,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.025Z",
+      "address": "335桃園市大溪區復興路一段1097號"
+    },
+    {
+      "id": 335538322,
+      "name": "慈湖風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 24.8402926,
+      "lng": 121.2958766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.025Z"
+    },
+    {
+      "id": 335538326,
+      "name": "大溪花海農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.8442118,
+      "lng": 121.289918,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.026Z"
+    },
+    {
+      "id": 405959851,
+      "name": "壹號館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8834998,
+      "lng": 121.2855688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.026Z",
+      "address": "335桃園市大溪區中正路68號"
+    },
+    {
+      "id": 405959855,
+      "name": "大溪公會堂-蔣公行館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8818091,
+      "lng": 121.285056,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.027Z",
+      "address": "桃園市大溪區普濟路21-3號"
+    },
+    {
+      "id": 405959857,
+      "name": "武德殿",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.881027,
+      "lng": 121.286092,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.027Z",
+      "address": "桃園市大溪區普濟路35號"
+    },
+    {
+      "id": 406003642,
+      "name": "大溪和平老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.885387,
+      "lng": 121.287423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.027Z"
+    },
+    {
+      "id": 406005642,
+      "name": "六廿四故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8810057,
+      "lng": 121.2869144,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.028Z"
+    },
+    {
+      "id": 416631742,
+      "name": "大溪老茶廠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8307778,
+      "lng": 121.328187,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.028Z",
+      "address": "桃園市大溪區復興路二段732巷80號"
+    },
+    {
+      "id": 442179049,
+      "name": "經國紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.849008,
+      "lng": 121.28524,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.029Z"
+    },
+    {
+      "id": 443497305,
+      "name": "三層老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8589396,
+      "lng": 121.2959139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.029Z"
+    },
+    {
+      "id": 448777724,
+      "name": "吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8203141,
+      "lng": 121.2849775,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.029Z"
+    },
+    {
+      "id": 520416824,
+      "name": "石門水庫環境教育館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 24.8182476,
+      "lng": 121.2527869,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.030Z"
+    },
+    {
+      "id": 525916262,
+      "name": "寄暢園",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8825159,
+      "lng": 121.3244741,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.030Z"
+    },
+    {
+      "id": 559026685,
+      "name": "東興橋(百年糯米橋)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8466406,
+      "lng": 121.3110149,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.030Z"
+    },
+    {
+      "id": 612008240,
+      "name": "藝師館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.881048,
+      "lng": 121.2866179,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.031Z",
+      "address": "335桃園市大溪區普濟路52號"
+    },
+    {
+      "id": 612008241,
+      "name": "四連棟",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8806959,
+      "lng": 121.2866141,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.031Z"
+    },
+    {
+      "id": 612008242,
+      "name": "鳳飛飛故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8799349,
+      "lng": 121.2870843,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.032Z",
+      "address": "桃園市大溪區興和里20鄰普濟路5號"
+    },
+    {
+      "id": 671211218,
+      "name": "原住民文化會館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8960674,
+      "lng": 121.2822468,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.032Z",
+      "address": "桃園市大溪區員林路一段29巷101號"
+    },
+    {
+      "id": 780136287,
+      "name": "大溪南興落羽松",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9175543,
+      "lng": 121.2641358,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.032Z"
+    },
+    {
+      "id": 1051415453,
+      "name": "月眉休閒農業區遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8916944,
+      "lng": 121.2902778,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.033Z",
+      "address": "桃園市大溪區月湖路92號"
+    },
+    {
+      "id": 1054971342,
+      "name": "中庄吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9056075,
+      "lng": 121.3023221,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.033Z"
+    },
+    {
+      "id": 1212085618,
+      "name": "濟安橋(翹龜橋)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8518526,
+      "lng": 121.2980778,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.033Z"
+    },
+    {
+      "id": 1212085621,
+      "name": "太平橋(三拱橋)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8523037,
+      "lng": 121.2976484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.034Z"
+    },
+    {
+      "id": 1237826469,
+      "name": "木橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8486016,
+      "lng": 121.3113177,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.034Z"
+    },
+    {
+      "id": 1461665807,
+      "name": "工藝交流館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.8800703,
+      "lng": 121.2868612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.035Z"
+    },
+    {
+      "id": 1503306385,
+      "name": "百吉星墅莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.8324098,
+      "lng": 121.3068983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:09:11.035Z",
+      "address": "桃園市大溪區復興路二段15巷32號"
+    }
+  ]
+}

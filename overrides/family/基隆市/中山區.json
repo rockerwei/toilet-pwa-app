@@ -1,0 +1,97 @@
+{
+  "city": "基隆市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:19:09.605Z",
+  "items": [
+    {
+      "id": 3715564939,
+      "name": "一線天",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1447613,
+      "lng": 121.7484372,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.593Z"
+    },
+    {
+      "id": 5183655818,
+      "name": "外木山海岸",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1642521,
+      "lng": 121.7232852,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.596Z"
+    },
+    {
+      "id": 6544894533,
+      "name": "太平土地公廟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1335532,
+      "lng": 121.7386138,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.598Z"
+    },
+    {
+      "id": 11434492853,
+      "name": "木山砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.159285,
+      "lng": 121.7261714,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.599Z"
+    },
+    {
+      "id": 360260736,
+      "name": "KEELUNG地標",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.135142,
+      "lng": 121.7373537,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.600Z"
+    },
+    {
+      "id": 367653921,
+      "name": "仙洞巖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.145073,
+      "lng": 121.7482702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.602Z"
+    },
+    {
+      "id": 368549147,
+      "name": "基隆燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1553168,
+      "lng": 121.7476298,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.603Z"
+    },
+    {
+      "id": 765770921,
+      "name": "球子山燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1462239,
+      "lng": 121.743851,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.604Z"
+    },
+    {
+      "id": 1448618724,
+      "name": "仙洞巖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1450806,
+      "lng": 121.7484165,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:19:09.605Z"
+    }
+  ]
+}

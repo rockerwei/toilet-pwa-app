@@ -1,0 +1,57 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:40:22.514Z",
+  "items": [
+    {
+      "id": 154712935,
+      "name": "屏東龍泉觀光啤酒廠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6254076,
+      "lng": 120.5689235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:40:22.505Z"
+    },
+    {
+      "id": 199010150,
+      "name": "昌黎祠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6153023,
+      "lng": 120.5665634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:40:22.508Z"
+    },
+    {
+      "id": 603962703,
+      "name": "沙林生態教育館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 22.648971,
+      "lng": 120.6039022,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:40:22.510Z"
+    },
+    {
+      "id": 672443056,
+      "name": "遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6593189,
+      "lng": 120.5582087,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:40:22.512Z"
+    },
+    {
+      "id": 1383209012,
+      "name": "涼山遊憩區遊客資訊站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6862218,
+      "lng": 120.6379838,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:40:22.514Z"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:13:07.146Z",
+  "items": [
+    {
+      "id": 3494925617,
+      "name": "臺灣桃園國際機場旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0772607,
+      "lng": 121.2315256,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.126Z"
+    },
+    {
+      "id": 10050100699,
+      "name": "大園尖山考古展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0211545,
+      "lng": 121.2186942,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.129Z",
+      "address": "桃園市大園區大仁路100號B1樓"
+    },
+    {
+      "id": 13694613479,
+      "name": "遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0582563,
+      "lng": 121.1943208,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.130Z"
+    },
+    {
+      "id": 105152715,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.007737,
+      "lng": 121.2094077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.132Z"
+    },
+    {
+      "id": 105152745,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0076381,
+      "lng": 121.2096263,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.133Z"
+    },
+    {
+      "id": 110975371,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9967502,
+      "lng": 121.207908,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.134Z"
+    },
+    {
+      "id": 335389995,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0078105,
+      "lng": 121.2092766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.135Z"
+    },
+    {
+      "id": 535554133,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0647586,
+      "lng": 121.1957872,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.137Z"
+    },
+    {
+      "id": 535554134,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0705027,
+      "lng": 121.1866976,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.138Z"
+    },
+    {
+      "id": 781737594,
+      "name": "橫山書法藝術館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0209769,
+      "lng": 121.2184526,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.139Z",
+      "address": "桃園市大園區大仁路100號"
+    },
+    {
+      "id": 840167206,
+      "name": "海湖埤",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1041725,
+      "lng": 121.2249094,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.140Z"
+    },
+    {
+      "id": 851344508,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0687141,
+      "lng": 121.1932473,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.141Z"
+    },
+    {
+      "id": 851344509,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0688071,
+      "lng": 121.1932367,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.141Z"
+    },
+    {
+      "id": 925437025,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0809195,
+      "lng": 121.1757492,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.142Z"
+    },
+    {
+      "id": 1097609886,
+      "name": "國巨洋傘文創園區",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0679723,
+      "lng": 121.1875995,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.143Z",
+      "address": "桃園市大園區田心里2鄰國際路一段105巷18號"
+    },
+    {
+      "id": 1149832180,
+      "name": "溪海休閒農業區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0329743,
+      "lng": 121.1954823,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.143Z"
+    },
+    {
+      "id": 1256918530,
+      "name": "國際原住民族文化創意產業園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0235097,
+      "lng": 121.2187411,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.144Z"
+    },
+    {
+      "id": 1358503119,
+      "name": "老街溪橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0076997,
+      "lng": 121.2094766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.144Z"
+    },
+    {
+      "id": 1383676495,
+      "name": "竹圍海水浴場 沖沙區",
+      "facilityType": "water",
+      "facilityLabel": "💧 戲水親水",
+      "lat": 25.1147473,
+      "lng": 121.2396921,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.145Z"
+    },
+    {
+      "id": 1503252724,
+      "name": "老街溪河岸自行車步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9930888,
+      "lng": 121.2146458,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.145Z"
+    },
+    {
+      "id": 12530062,
+      "name": "老街溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0075396,
+      "lng": 121.1960702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:13:07.145Z"
+    }
+  ]
+}

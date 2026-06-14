@@ -1,0 +1,28 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:02:27.317Z",
+  "items": [
+    {
+      "id": 1393175261,
+      "name": "三條崙海洋教育中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.6594718,
+      "lng": 120.1555475,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:02:27.314Z",
+      "address": "雲林縣四湖鄉海清路150號"
+    },
+    {
+      "id": 7073701,
+      "name": "彰雲嘉沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6406272,
+      "lng": 120.1598771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:02:27.317Z"
+    }
+  ]
+}

@@ -1,0 +1,1745 @@
+{
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 127,
+  "items": [
+    {
+      "id": 418760121,
+      "name": "湖口",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9028021,
+      "lng": 121.043748
+    },
+    {
+      "id": 2016804222,
+      "name": "北湖",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9224913,
+      "lng": 121.0559002
+    },
+    {
+      "id": 3311424993,
+      "name": "湖口火車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.902489,
+      "lng": 121.0441704,
+      "routes": [
+        "0553",
+        "5607",
+        "5611",
+        "5611A",
+        "5612",
+        "5612A",
+        "5624"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311425038,
+      "name": "舊湖口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8790148,
+      "lng": 121.0548471,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311425040,
+      "name": "鳳山村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8586051,
+      "lng": 121.0207406,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311425042,
+      "name": "新竹工業區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8788481,
+      "lng": 121.0065535,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3334156553,
+      "name": "榮民講習所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8576796,
+      "lng": 121.0137983,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3662768627,
+      "name": "新豐後火車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8688038,
+      "lng": 120.9967729,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588546878,
+      "name": "唐榮工廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8752391,
+      "lng": 121.0027948,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.697Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588546879,
+      "name": "唐榮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8751243,
+      "lng": 121.002673,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.697Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588547602,
+      "name": "氰垵公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8837191,
+      "lng": 121.0124766
+    },
+    {
+      "id": 4588547603,
+      "name": "陸橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8858692,
+      "lng": 121.0148626
+    },
+    {
+      "id": 4588547605,
+      "name": "戴厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8871924,
+      "lng": 121.0165271
+    },
+    {
+      "id": 4588547607,
+      "name": "士林電機",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8883304,
+      "lng": 121.018883
+    },
+    {
+      "id": 4631910248,
+      "name": "水坡頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9258438,
+      "lng": 121.0390204,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910250,
+      "name": "和興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9194209,
+      "lng": 121.0415477,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910252,
+      "name": "奇力新",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9160524,
+      "lng": 121.0426299,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910254,
+      "name": "星電公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9120973,
+      "lng": 121.0442896,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910450,
+      "name": "工作站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9090265,
+      "lng": 121.0448714,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910452,
+      "name": "德盛",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9066272,
+      "lng": 121.0453746,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910454,
+      "name": "愛勢",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9051363,
+      "lng": 121.0455582,
+      "routes": [
+        "5611",
+        "5611A",
+        "5624"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137831,
+      "name": "南通廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9075299,
+      "lng": 121.048275,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137833,
+      "name": "愛勢橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9098536,
+      "lng": 121.0495575,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137851,
+      "name": "上和興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9122002,
+      "lng": 121.0507319,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137853,
+      "name": "九股埤",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9149256,
+      "lng": 121.0517935,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137855,
+      "name": "和興新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9180726,
+      "lng": 121.0535623,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632137998,
+      "name": "中國科技大學",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9195089,
+      "lng": 121.054928,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138000,
+      "name": "山葉機車",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9203732,
+      "lng": 121.0561111,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138002,
+      "name": "六股橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9210815,
+      "lng": 121.0574219,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138004,
+      "name": "山葉社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9233752,
+      "lng": 121.059026,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138012,
+      "name": "縣界",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9250799,
+      "lng": 121.0603329,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138024,
+      "name": "新湖國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9042414,
+      "lng": 121.048019,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138026,
+      "name": "貴州新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9046811,
+      "lng": 121.0526057,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138028,
+      "name": "圳頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9052694,
+      "lng": 121.0556581,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138086,
+      "name": "孝勢",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8997306,
+      "lng": 121.0427531
+    },
+    {
+      "id": 4632138088,
+      "name": "信勢國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8994168,
+      "lng": 121.0393559
+    },
+    {
+      "id": 4632138090,
+      "name": "泰安",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8973995,
+      "lng": 121.0370814
+    },
+    {
+      "id": 4632138092,
+      "name": "信勢",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.895203,
+      "lng": 121.0346212
+    },
+    {
+      "id": 4632138094,
+      "name": "信勢橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8936892,
+      "lng": 121.0311299
+    },
+    {
+      "id": 4632138096,
+      "name": "信勢尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8930389,
+      "lng": 121.0294917
+    },
+    {
+      "id": 4632138098,
+      "name": "中菱公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8910361,
+      "lng": 121.0247236
+    },
+    {
+      "id": 4632138100,
+      "name": "三元宮口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8899127,
+      "lng": 121.0212955
+    },
+    {
+      "id": 4632138102,
+      "name": "波羅汶",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8852192,
+      "lng": 121.0238421
+    },
+    {
+      "id": 4632138104,
+      "name": "勞宅",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8830653,
+      "lng": 121.0282399
+    },
+    {
+      "id": 4632138106,
+      "name": "張厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8819076,
+      "lng": 121.0310867
+    },
+    {
+      "id": 4632138108,
+      "name": "崩坡缺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8808164,
+      "lng": 121.0344403
+    },
+    {
+      "id": 4632138110,
+      "name": "湖南村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8789691,
+      "lng": 121.0399428
+    },
+    {
+      "id": 4632138112,
+      "name": "忠誠門",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8771502,
+      "lng": 121.0478864,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138114,
+      "name": "湖鏡村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8779373,
+      "lng": 121.0521445,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138116,
+      "name": "湖口老街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8787108,
+      "lng": 121.0585
+    },
+    {
+      "id": 4632138118,
+      "name": "戴家",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8797175,
+      "lng": 121.0648844
+    },
+    {
+      "id": 4632138120,
+      "name": "羊喜窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8836503,
+      "lng": 121.0731481
+    },
+    {
+      "id": 4632138122,
+      "name": "長嶺村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8867667,
+      "lng": 121.084111
+    },
+    {
+      "id": 4632138124,
+      "name": "長安",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8884467,
+      "lng": 121.0883639
+    },
+    {
+      "id": 4632138126,
+      "name": "畜試所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8953768,
+      "lng": 121.1085147,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138128,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8826022,
+      "lng": 121.054901,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138130,
+      "name": "磚窯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8838654,
+      "lng": 121.054297,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138132,
+      "name": "富國新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8850886,
+      "lng": 121.0532693,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138134,
+      "name": "美之城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.888124,
+      "lng": 121.0518881,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138136,
+      "name": "湖口高中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8911146,
+      "lng": 121.0507617,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138138,
+      "name": "富國",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8930975,
+      "lng": 121.0497887,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138140,
+      "name": "張厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8953615,
+      "lng": 121.0485602,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138142,
+      "name": "湖北橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8988368,
+      "lng": 121.0474867,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138144,
+      "name": "市場前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9015052,
+      "lng": 121.0467524,
+      "routes": [
+        "0553",
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138146,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8768935,
+      "lng": 121.0524028,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138148,
+      "name": "畚箕窩口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8759774,
+      "lng": 121.053235,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138151,
+      "name": "畚箕窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8727181,
+      "lng": 121.0581067,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138152,
+      "name": "電台",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8721625,
+      "lng": 121.0662294,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138154,
+      "name": "金獅寺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8726766,
+      "lng": 121.0705661,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138156,
+      "name": "綠藻",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8734683,
+      "lng": 121.0735086,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138158,
+      "name": "林口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8723089,
+      "lng": 121.08039,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138160,
+      "name": "崗頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8698397,
+      "lng": 121.0868284,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632138162,
+      "name": "羊喜窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8686317,
+      "lng": 121.0912376,
+      "routes": [
+        "0553"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217049,
+      "name": "三山新城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8756173,
+      "lng": 121.0448016,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217051,
+      "name": "湖南村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8744869,
+      "lng": 121.0434047,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217053,
+      "name": "永和磚廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8705083,
+      "lng": 121.036591,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217055,
+      "name": "中興村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8689151,
+      "lng": 121.0356357,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217057,
+      "name": "清泉堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8672534,
+      "lng": 121.0330154,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217059,
+      "name": "中正堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8658416,
+      "lng": 121.0304903,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217061,
+      "name": "運動場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8645781,
+      "lng": 121.0285159,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217063,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8628402,
+      "lng": 121.0259895,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217065,
+      "name": "鳳凰村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8618172,
+      "lng": 121.0244516,
+      "routes": [
+        "5612",
+        "5612A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217067,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8601255,
+      "lng": 121.0224152,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217069,
+      "name": "訓練中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8580204,
+      "lng": 121.0200363,
+      "routes": [
+        "5612",
+        "5612A",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217071,
+      "name": "鳳山頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8561456,
+      "lng": 121.0168453
+    },
+    {
+      "id": 4632217073,
+      "name": "新竹鄉城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8605101,
+      "lng": 121.007648,
+      "routes": [
+        "5612",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217075,
+      "name": "榮光路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8624382,
+      "lng": 121.0040464,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217077,
+      "name": "花王公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8644732,
+      "lng": 121.0045894,
+      "routes": [
+        "5612",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217079,
+      "name": "修車廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8695674,
+      "lng": 121.0078801,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217081,
+      "name": "華淵",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8707749,
+      "lng": 121.0087165,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217084,
+      "name": "管理中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8720389,
+      "lng": 121.0098376,
+      "routes": [
+        "5612",
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217086,
+      "name": "仁和路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8745263,
+      "lng": 121.0113636,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217088,
+      "name": "士林電機",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8774075,
+      "lng": 121.0104509,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217290,
+      "name": "榮光三民路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8657431,
+      "lng": 120.997811,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217291,
+      "name": "中華公園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8716143,
+      "lng": 121.0133283,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.698Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217296,
+      "name": "新工派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8721054,
+      "lng": 121.0171459
+    },
+    {
+      "id": 4632217298,
+      "name": "光復工業二路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.867907,
+      "lng": 121.0229801,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217300,
+      "name": "光復東路安宅七街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8694475,
+      "lng": 121.0276411,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632217303,
+      "name": "光復東路永順街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8706323,
+      "lng": 121.0339036,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838193241,
+      "name": "新普科技",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8856956,
+      "lng": 121.0800755
+    },
+    {
+      "id": 7287740934,
+      "name": "湖口站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9011683,
+      "lng": 121.0435536
+    },
+    {
+      "id": 13061055241,
+      "name": "天主教仁慈醫院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9006895,
+      "lng": 121.0455948
+    },
+    {
+      "id": 13061055243,
+      "name": "亞洲製刀廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9016089,
+      "lng": 121.0511229
+    },
+    {
+      "id": 13061055251,
+      "name": "信昌街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.899057,
+      "lng": 121.0570086
+    },
+    {
+      "id": 13061055253,
+      "name": "湖口好客文創園區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8973766,
+      "lng": 121.0627053
+    },
+    {
+      "id": 13061055255,
+      "name": "中平路二段路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8951176,
+      "lng": 121.0681403
+    },
+    {
+      "id": 13061055257,
+      "name": "長嶺村集會所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8912986,
+      "lng": 121.0732138
+    },
+    {
+      "id": 13061055259,
+      "name": "大伯公",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8910118,
+      "lng": 121.0782774
+    },
+    {
+      "id": 13061055262,
+      "name": "長安路103巷",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8870199,
+      "lng": 121.0910456
+    },
+    {
+      "id": 13061055264,
+      "name": "長安小城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8857286,
+      "lng": 121.0930832
+    },
+    {
+      "id": 13061055266,
+      "name": "長安社區活動中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8825887,
+      "lng": 121.0992838
+    },
+    {
+      "id": 13061055271,
+      "name": "北窩路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8810923,
+      "lng": 121.1041942
+    },
+    {
+      "id": 13061055272,
+      "name": "綠園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8924061,
+      "lng": 121.0547694
+    },
+    {
+      "id": 13061055274,
+      "name": "六和金屬",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8906532,
+      "lng": 121.059847
+    },
+    {
+      "id": 13061055297,
+      "name": "長富路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8883051,
+      "lng": 121.0643247
+    },
+    {
+      "id": 13061055299,
+      "name": "全家花園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8865395,
+      "lng": 121.0685418
+    },
+    {
+      "id": 13061082404,
+      "name": "運動公園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8974851,
+      "lng": 121.0426354
+    },
+    {
+      "id": 13061082406,
+      "name": "達生五路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8940407,
+      "lng": 121.0414181
+    },
+    {
+      "id": 13061082408,
+      "name": "中美西路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8890455,
+      "lng": 121.0400831
+    },
+    {
+      "id": 13061082410,
+      "name": "133巷口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8850979,
+      "lng": 121.0385022
+    },
+    {
+      "id": 13061082416,
+      "name": "候車亭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8834517,
+      "lng": 121.0278925
+    },
+    {
+      "id": 13061082418,
+      "name": "波羅村9鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8851747,
+      "lng": 121.0237698
+    },
+    {
+      "id": 13061082420,
+      "name": "仁和路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8729856,
+      "lng": 121.0143716
+    },
+    {
+      "id": 13061082441,
+      "name": "7-11昊恆門市",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8675941,
+      "lng": 121.0240626
+    },
+    {
+      "id": 13061082444,
+      "name": "萊爾富",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8697681,
+      "lng": 121.0285417
+    },
+    {
+      "id": 13061082446,
+      "name": "永順街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.8711536,
+      "lng": 121.0339242,
+      "routes": [
+        "快捷5號",
+        "快捷5號A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 324405896,
+      "name": "新竹客運湖口站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "湖口鄉",
+      "lat": 24.9009086,
+      "lng": 121.0436863
+    }
+  ]
+}

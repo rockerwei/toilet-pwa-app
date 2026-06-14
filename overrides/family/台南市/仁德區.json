@@ -1,0 +1,27 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:07:07.803Z",
+  "items": [
+    {
+      "id": 10585564606,
+      "name": "防空洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9462861,
+      "lng": 120.229675,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:07:07.800Z"
+    },
+    {
+      "id": 1079169164,
+      "name": "二仁溪故事館",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9186403,
+      "lng": 120.2316832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:07:07.803Z"
+    }
+  ]
+}

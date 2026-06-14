@@ -1,0 +1,474 @@
+{
+  "city": "雲林縣",
+  "district": "二崙鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 26,
+  "items": [
+    {
+      "id": 6152733758,
+      "name": "二崙電信局",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7717247,
+      "lng": 120.4160008,
+      "routes": [
+        "7012",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454310865,
+      "name": "湳仔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7500778,
+      "lng": 120.4140186,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454356407,
+      "name": "深坑",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7520983,
+      "lng": 120.3925958,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454356409,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.752156,
+      "lng": 120.3962584,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454356413,
+      "name": "十八張犁",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7521008,
+      "lng": 120.402402,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454356417,
+      "name": "三和國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7502546,
+      "lng": 120.4079582,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464001541,
+      "name": "打牛湳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7630202,
+      "lng": 120.3955248,
+      "routes": [
+        "7012"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464001550,
+      "name": "打牛湳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7641421,
+      "lng": 120.3985503,
+      "routes": [
+        "1636B",
+        "1637",
+        "7103",
+        "7112",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464001557,
+      "name": "二崙站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7691031,
+      "lng": 120.4109676,
+      "routes": [
+        "1636B",
+        "1637",
+        "7012",
+        "7103",
+        "7112",
+        "7118",
+        "7136",
+        "7136A",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465125221,
+      "name": "荷苞嶼",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7955866,
+      "lng": 120.3988749,
+      "routes": [
+        "7011",
+        "7114",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.297Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465125231,
+      "name": "田頭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7957044,
+      "lng": 120.406613,
+      "routes": [
+        "7011",
+        "7114"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465125233,
+      "name": "永定派出所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.796583,
+      "lng": 120.4161751
+    },
+    {
+      "id": 6465125234,
+      "name": "永定",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7962283,
+      "lng": 120.4170576,
+      "routes": [
+        "7011",
+        "7114",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465125236,
+      "name": "永定厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7961805,
+      "lng": 120.4244176,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465213046,
+      "name": "莿仔圍",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7810545,
+      "lng": 120.4010421,
+      "routes": [
+        "7118"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6465213049,
+      "name": "大義崙",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7862897,
+      "lng": 120.3990868,
+      "routes": [
+        "7118"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466002470,
+      "name": "二崙國中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7734423,
+      "lng": 120.4079133,
+      "routes": [
+        "7118"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466142688,
+      "name": "二崙",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7699451,
+      "lng": 120.4122537,
+      "routes": [
+        "1636B",
+        "1637",
+        "7012",
+        "7103",
+        "7112",
+        "7118",
+        "7136",
+        "7136A",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466308508,
+      "name": "湳仔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7499968,
+      "lng": 120.4167652,
+      "routes": [
+        "7103",
+        "7112",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466308510,
+      "name": "賜福宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7552726,
+      "lng": 120.4161429,
+      "routes": [
+        "7103",
+        "7112",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.160Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466308512,
+      "name": "田尾1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7574354,
+      "lng": 120.4195037,
+      "routes": [
+        "7103",
+        "7112",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466308514,
+      "name": "田尾",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7611865,
+      "lng": 120.4189163,
+      "routes": [
+        "7103",
+        "7112",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713196945,
+      "name": "油車",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7951411,
+      "lng": 120.3901952,
+      "routes": [
+        "7011",
+        "7114",
+        "7118"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713219697,
+      "name": "番社",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7899541,
+      "lng": 120.3723451,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.160Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713219699,
+      "name": "大同國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7943607,
+      "lng": 120.3766327,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713219702,
+      "name": "油車西站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "二崙鄉",
+      "lat": 23.7953387,
+      "lng": 120.3812098,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

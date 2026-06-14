@@ -1,0 +1,434 @@
+{
+  "city": "彰化縣",
+  "district": "二水鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 24,
+  "items": [
+    {
+      "id": 879629983,
+      "name": "二水",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.813291,
+      "lng": 120.6183999
+    },
+    {
+      "id": 3053061849,
+      "name": "源泉",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.7984833,
+      "lng": 120.6421333
+    },
+    {
+      "id": 3621857995,
+      "name": "員林客運",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8128614,
+      "lng": 120.6176623
+    },
+    {
+      "id": 4095356092,
+      "name": "製材所",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8094581,
+      "lng": 120.6196866,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095356136,
+      "name": "伍佰",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8174418,
+      "lng": 120.6121319,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095356156,
+      "name": "上豐",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8201581,
+      "lng": 120.6105722,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095356293,
+      "name": "十五庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8294377,
+      "lng": 120.6045616,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095356308,
+      "name": "頂十五庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.831376,
+      "lng": 120.6035557,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095356311,
+      "name": "大彎",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8364057,
+      "lng": 120.6008575,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649299135,
+      "name": "合和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8225972,
+      "lng": 120.6087166,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525022,
+      "name": "國校前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8117082,
+      "lng": 120.6164591
+    },
+    {
+      "id": 4663525023,
+      "name": "市場前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8102469,
+      "lng": 120.6156189,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525025,
+      "name": "頂埔仔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8073124,
+      "lng": 120.6260612,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525027,
+      "name": "惠民",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8054461,
+      "lng": 120.6325937,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525039,
+      "name": "大丘園",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.803105,
+      "lng": 120.6358419,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525043,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8010374,
+      "lng": 120.6388875,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525622,
+      "name": "頂厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.7992895,
+      "lng": 120.6488838,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525624,
+      "name": "源泉派出所",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8002159,
+      "lng": 120.6548128,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525629,
+      "name": "水門",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8008528,
+      "lng": 120.6576962,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525631,
+      "name": "龍仔頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8035032,
+      "lng": 120.6612018,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525633,
+      "name": "下坑口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8114651,
+      "lng": 120.6698311,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663525635,
+      "name": "坑口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8144269,
+      "lng": 120.6717255,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12167820648,
+      "name": "源泉",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.7996875,
+      "lng": 120.6438625,
+      "routes": [
+        "6701",
+        "6701A",
+        "6702"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.869Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12643053843,
+      "name": "光化村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "二水鄉",
+      "lat": 23.8143267,
+      "lng": 120.614723,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

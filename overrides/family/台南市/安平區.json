@@ -1,0 +1,316 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:57:35.859Z",
+  "items": [
+    {
+      "id": 1271039688,
+      "name": "安平燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9908343,
+      "lng": 120.1470566,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.836Z"
+    },
+    {
+      "id": 2255272735,
+      "name": "劍獅",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0022555,
+      "lng": 120.1617005,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.839Z"
+    },
+    {
+      "id": 2782965086,
+      "name": "安平港國家歷史風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 22.9987704,
+      "lng": 120.1684654,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.841Z"
+    },
+    {
+      "id": 3285370709,
+      "name": "安平旅遊資訊中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0003605,
+      "lng": 120.161524,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.842Z"
+    },
+    {
+      "id": 3285370718,
+      "name": "熱富古堡伴手禮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0003539,
+      "lng": 120.1638834,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.844Z"
+    },
+    {
+      "id": 4646555391,
+      "name": "安平蚵灰窯文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0022299,
+      "lng": 120.1651274,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.845Z",
+      "address": "708台南市安平區安北路110-1號"
+    },
+    {
+      "id": 5255064479,
+      "name": "安平古堡石碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0015631,
+      "lng": 120.1605537,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.847Z"
+    },
+    {
+      "id": 5263454894,
+      "name": "小砲台藝文廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0001074,
+      "lng": 120.1598276,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.848Z"
+    },
+    {
+      "id": 9198709165,
+      "name": "安平港觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.997924,
+      "lng": 120.1610599,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.848Z"
+    },
+    {
+      "id": 9765788079,
+      "name": "台南風帆基地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9836802,
+      "lng": 120.1514554,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.849Z"
+    },
+    {
+      "id": 11068345390,
+      "name": "虱目魚主題館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.983094,
+      "lng": 120.1558759,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.849Z",
+      "address": "臺南市安平區漁光里2鄰漁光路128號之2"
+    },
+    {
+      "id": 42451233,
+      "name": "古堡街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9995834,
+      "lng": 120.1615676,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.850Z"
+    },
+    {
+      "id": 159557431,
+      "name": "安平古堡文物陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0015993,
+      "lng": 120.160949,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.850Z"
+    },
+    {
+      "id": 159633242,
+      "name": "原英商德記洋行",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.003452,
+      "lng": 120.1597961,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.851Z",
+      "address": "708台南市安平區古堡街108號"
+    },
+    {
+      "id": 216166952,
+      "name": "劍獅",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0022258,
+      "lng": 120.1617052,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.851Z"
+    },
+    {
+      "id": 217843511,
+      "name": "夕遊出張所",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0025038,
+      "lng": 120.1562325,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.852Z",
+      "address": "708台南市安平區古堡街196號"
+    },
+    {
+      "id": 273445903,
+      "name": "古堡街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0015504,
+      "lng": 120.1613383,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.852Z"
+    },
+    {
+      "id": 303616626,
+      "name": "德商東興洋行",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0017781,
+      "lng": 120.158984,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.853Z"
+    },
+    {
+      "id": 490360850,
+      "name": "觀夕平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.989776,
+      "lng": 120.1469392,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.853Z"
+    },
+    {
+      "id": 498039297,
+      "name": "安平樹屋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0039762,
+      "lng": 120.1597799,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.854Z",
+      "address": "708台南市安平區安北路194號"
+    },
+    {
+      "id": 498039302,
+      "name": "朱玖瑩故居",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.0034991,
+      "lng": 120.1600024,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.854Z",
+      "address": "臺南市安平區古堡街108號"
+    },
+    {
+      "id": 498330059,
+      "name": "安平小砲台(免費)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9986788,
+      "lng": 120.158627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.855Z"
+    },
+    {
+      "id": 592952994,
+      "name": "海山館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0013828,
+      "lng": 120.1625811,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.855Z"
+    },
+    {
+      "id": 619109597,
+      "name": "安平老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0006073,
+      "lng": 120.1632455,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.856Z"
+    },
+    {
+      "id": 692390177,
+      "name": "札哈木原住民文化會館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.995438,
+      "lng": 120.1641239,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.856Z",
+      "address": "台南市安平區安億路472號"
+    },
+    {
+      "id": 892104951,
+      "name": "古堡街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0030727,
+      "lng": 120.1593766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.857Z"
+    },
+    {
+      "id": 968122979,
+      "name": "安平航海城",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.998357,
+      "lng": 120.1569994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.857Z",
+      "address": "臺南市安平區金城里3鄰湖內一街99巷33號"
+    },
+    {
+      "id": 1072266800,
+      "name": "中華電信安平古堡會館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9990815,
+      "lng": 120.1543396,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.858Z"
+    },
+    {
+      "id": 1248733360,
+      "name": "安平古堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0015785,
+      "lng": 120.1606318,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.858Z",
+      "address": "708台南市安平區國勝路82號"
+    },
+    {
+      "id": 2138696,
+      "name": "億載金城",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9875914,
+      "lng": 120.158879,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:57:35.859Z"
+    }
+  ]
+}

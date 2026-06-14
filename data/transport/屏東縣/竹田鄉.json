@@ -1,0 +1,230 @@
+{
+  "city": "屏東縣",
+  "district": "竹田鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 13,
+  "items": [
+    {
+      "id": 1021638300,
+      "name": "西勢",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.6162442,
+      "lng": 120.5265105
+    },
+    {
+      "id": 1741147824,
+      "name": "竹田",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.5865768,
+      "lng": 120.5397507
+    },
+    {
+      "id": 5071926063,
+      "name": "下竹田",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.5778864,
+      "lng": 120.5461898,
+      "routes": [
+        "1773",
+        "1780",
+        "8237",
+        "8239",
+        "8240"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071926072,
+      "name": "竹南",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.5741417,
+      "lng": 120.5444813,
+      "routes": [
+        "1773",
+        "1780",
+        "8237",
+        "8239",
+        "8240"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071926074,
+      "name": "田埔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.569634,
+      "lng": 120.5411446,
+      "routes": [
+        "1780"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5098248148,
+      "name": "竹田",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.589952,
+      "lng": 120.5541855,
+      "routes": [
+        "8237",
+        "8239",
+        "8240"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5098494767,
+      "name": "運動公園",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.6385111,
+      "lng": 120.5374995
+    },
+    {
+      "id": 5098558274,
+      "name": "麟洛國中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.6405992,
+      "lng": 120.5356528,
+      "routes": [
+        "1773",
+        "1780",
+        "8230",
+        "8231",
+        "8231A",
+        "8232",
+        "8232A",
+        "8233",
+        "8236",
+        "8236A",
+        "8237",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8239"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9441147468,
+      "name": "客家文物館",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.617476,
+      "lng": 120.5232068,
+      "routes": [
+        "517"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964509,
+      "name": "大湖仔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.57677,
+      "lng": 120.51371,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964510,
+      "name": "港尾",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.568522,
+      "lng": 120.523528,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964514,
+      "name": "溝仔墘",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.57395,
+      "lng": 120.5172,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13740141152,
+      "name": "竹田鄉公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "竹田鄉",
+      "lat": 22.58492,
+      "lng": 120.544317,
+      "routes": [
+        "8237",
+        "小黃公車732",
+        "小黃公車732A",
+        "小黃公車733",
+        "小黃公車733A",
+        "小黃公車733B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.845Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

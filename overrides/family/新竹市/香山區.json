@@ -1,0 +1,168 @@
+{
+  "city": "新竹市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:26:09.874Z",
+  "items": [
+    {
+      "id": 1363070471,
+      "name": "風情海岸",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7788009,
+      "lng": 120.9144482,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.855Z"
+    },
+    {
+      "id": 3114916373,
+      "name": "海之聲",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7378916,
+      "lng": 120.8834712,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.857Z"
+    },
+    {
+      "id": 3208483213,
+      "name": "藝文中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.7596351,
+      "lng": 120.9533703,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.859Z",
+      "address": "30012新竹市香山區五福路二段707號七樓"
+    },
+    {
+      "id": 3313932617,
+      "name": "南港賞鳥區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7430068,
+      "lng": 120.8935233,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.861Z"
+    },
+    {
+      "id": 4643207391,
+      "name": "青青草原（溜滑梯）",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7722171,
+      "lng": 120.9253916,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.863Z"
+    },
+    {
+      "id": 4782164621,
+      "name": "金城湖賞鳥區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8114401,
+      "lng": 120.9097513,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.864Z"
+    },
+    {
+      "id": 5442014521,
+      "name": "香山溼地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7860909,
+      "lng": 120.9154992,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.865Z"
+    },
+    {
+      "id": 9769652868,
+      "name": "竹苗交界標線",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7339004,
+      "lng": 120.8802683,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.867Z"
+    },
+    {
+      "id": 293947653,
+      "name": "豎琴橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7489338,
+      "lng": 120.9040796,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.868Z"
+    },
+    {
+      "id": 368102511,
+      "name": "頂雅吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8003002,
+      "lng": 120.9547829,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.870Z"
+    },
+    {
+      "id": 368102512,
+      "name": "竹香吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8015937,
+      "lng": 120.936159,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.871Z"
+    },
+    {
+      "id": 542185530,
+      "name": "琉森莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.7657131,
+      "lng": 120.9285948,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.871Z"
+    },
+    {
+      "id": 756953548,
+      "name": "香山濕地生態館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 24.78362,
+      "lng": 120.9149797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.872Z"
+    },
+    {
+      "id": 7015019,
+      "name": "新竹市濱海野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7781366,
+      "lng": 120.8984155,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.873Z"
+    },
+    {
+      "id": 7080090,
+      "name": "新竹市政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.78284,
+      "lng": 120.9011689,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.874Z"
+    },
+    {
+      "id": 7080091,
+      "name": "新竹市政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7781366,
+      "lng": 120.8966196,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:26:09.874Z"
+    }
+  ]
+}

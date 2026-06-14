@@ -1,0 +1,27 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:17:48.338Z",
+  "items": [
+    {
+      "id": 5475204839,
+      "name": "桐花廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9708215,
+      "lng": 120.6375166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:17:48.335Z"
+    },
+    {
+      "id": 8042090321,
+      "name": "龍鳳湧泉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9637431,
+      "lng": 120.6303139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:17:48.338Z"
+    }
+  ]
+}

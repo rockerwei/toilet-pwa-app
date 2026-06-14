@@ -1,0 +1,308 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:58:14.184Z",
+  "items": [
+    {
+      "id": 3101723644,
+      "name": "台鹼宿舍(臺南貓村)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0354181,
+      "lng": 120.1249072,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.160Z"
+    },
+    {
+      "id": 4157961562,
+      "name": "古鹿耳門港",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0732805,
+      "lng": 120.1007303,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.163Z"
+    },
+    {
+      "id": 4158081895,
+      "name": "竹筏港溪(溪筏港溪)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0329185,
+      "lng": 120.1167985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.164Z"
+    },
+    {
+      "id": 4158102991,
+      "name": "城西濕地景觀區(鹿耳門溪舊出海口)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0246138,
+      "lng": 120.1047546,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.166Z"
+    },
+    {
+      "id": 4672171689,
+      "name": "竹筏綠色隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0209016,
+      "lng": 120.1348184,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.167Z"
+    },
+    {
+      "id": 4737983922,
+      "name": "A2:北汕尾水鳥保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.022341,
+      "lng": 120.145378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.169Z"
+    },
+    {
+      "id": 4737983923,
+      "name": "A1:高蹺鴴繁殖區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0484559,
+      "lng": 120.140702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.170Z"
+    },
+    {
+      "id": 4737983924,
+      "name": "A3:竹筏港水鳥保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0283895,
+      "lng": 120.1051557,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.172Z"
+    },
+    {
+      "id": 11045974075,
+      "name": "台江國家公園遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.00254,
+      "lng": 120.13935,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.172Z"
+    },
+    {
+      "id": 13310673746,
+      "name": "The Egret Community in the Mangrove Forest",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0070372,
+      "lng": 120.1397255,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.173Z"
+    },
+    {
+      "id": 13310682311,
+      "name": "A Diversity of Birds",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0147974,
+      "lng": 120.1375135,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.173Z"
+    },
+    {
+      "id": 13310683742,
+      "name": "Coastal Mangrove Forest",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0164578,
+      "lng": 120.1366906,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.174Z"
+    },
+    {
+      "id": 13310684962,
+      "name": "Busy Visitors - Migratory Birds",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0104197,
+      "lng": 120.1382276,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.174Z"
+    },
+    {
+      "id": 490343367,
+      "name": "抹香鯨陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0198128,
+      "lng": 120.135565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.176Z"
+    },
+    {
+      "id": 490346546,
+      "name": "海堡吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0203175,
+      "lng": 120.135226,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.176Z"
+    },
+    {
+      "id": 490354254,
+      "name": "台江鯨豚館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0259646,
+      "lng": 120.1432461,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.177Z"
+    },
+    {
+      "id": 490354260,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0257895,
+      "lng": 120.1411741,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.177Z"
+    },
+    {
+      "id": 490837793,
+      "name": "鹽田",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0255307,
+      "lng": 120.1402427,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.178Z"
+    },
+    {
+      "id": 490848359,
+      "name": "台江魚類標本生態館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 23.0260951,
+      "lng": 120.1415502,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.178Z"
+    },
+    {
+      "id": 651740555,
+      "name": "傳達室",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0640658,
+      "lng": 120.2217147,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.179Z"
+    },
+    {
+      "id": 901238761,
+      "name": "鹽田生態文化村",
+      "facilityType": "theme_park",
+      "facilityLabel": "🎡 遊樂場",
+      "lat": 23.0262556,
+      "lng": 120.1412497,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.180Z"
+    },
+    {
+      "id": 901238762,
+      "name": "安順鹽田文化資料館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0261479,
+      "lng": 120.1412282,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.180Z"
+    },
+    {
+      "id": 7015496,
+      "name": "鷸鴴科濕地景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0464069,
+      "lng": 120.136869,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.181Z"
+    },
+    {
+      "id": 7106289,
+      "name": "七股重要野鳥棲地區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0722702,
+      "lng": 120.0545857,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.181Z"
+    },
+    {
+      "id": 7144205,
+      "name": "北汕尾水鳥保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0219094,
+      "lng": 120.1452454,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.182Z"
+    },
+    {
+      "id": 7144207,
+      "name": "城西濕地景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0317694,
+      "lng": 120.1003525,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.182Z"
+    },
+    {
+      "id": 7144208,
+      "name": "北汕尾濕地景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0137701,
+      "lng": 120.1401582,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.182Z"
+    },
+    {
+      "id": 7144210,
+      "name": "鷸鴴科保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0477176,
+      "lng": 120.1407443,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.183Z"
+    },
+    {
+      "id": 7144212,
+      "name": "海域一般管制區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.0966969,
+      "lng": 119.9050004,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.183Z"
+    },
+    {
+      "id": 7295544,
+      "name": "台江國家公園遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0026357,
+      "lng": 120.1387739,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:58:14.184Z",
+      "address": "臺南市安南區四草大道118號"
+    }
+  ]
+}

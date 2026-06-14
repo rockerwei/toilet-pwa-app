@@ -1,0 +1,47 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:40:09.207Z",
+  "items": [
+    {
+      "id": 10698857603,
+      "name": "神岡浮圳",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2588433,
+      "lng": 120.687665,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:40:09.200Z"
+    },
+    {
+      "id": 10698873988,
+      "name": "神岡浮圳暗渠題字",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2737284,
+      "lng": 120.6645983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:40:09.204Z"
+    },
+    {
+      "id": 11415852836,
+      "name": "岸裡文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.2491408,
+      "lng": 120.6977251,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:40:09.205Z"
+    },
+    {
+      "id": 1305708680,
+      "name": "新庄仔360度觀景平臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2810852,
+      "lng": 120.65962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:40:09.207Z"
+    }
+  ]
+}

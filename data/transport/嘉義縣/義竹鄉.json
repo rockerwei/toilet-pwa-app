@@ -1,0 +1,590 @@
+{
+  "city": "嘉義縣",
+  "district": "義竹鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 30,
+  "items": [
+    {
+      "id": 4019357906,
+      "name": "厚生橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3343109,
+      "lng": 120.2488812,
+      "routes": [
+        "166",
+        "7207",
+        "7208",
+        "7208B",
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里",
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357913,
+      "name": "義竹國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.336525,
+      "lng": 120.2465215,
+      "routes": [
+        "7207",
+        "7208",
+        "7208B",
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里",
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357914,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3379741,
+      "lng": 120.2476448,
+      "routes": [
+        "166",
+        "7207",
+        "7208",
+        "7208B",
+        "幸福義竹1路",
+        "幸福義竹2路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357916,
+      "name": "義竹加油站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3396325,
+      "lng": 120.2501014,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357917,
+      "name": "義竹國中",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.340306,
+      "lng": 120.2508682,
+      "routes": [
+        "166",
+        "7207",
+        "7208",
+        "7208B",
+        "幸福義竹1路",
+        "幸福義竹2路",
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357919,
+      "name": "角帶圍",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3482148,
+      "lng": 120.2555549,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357934,
+      "name": "新庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.362138,
+      "lng": 120.2515608,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357935,
+      "name": "農場口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3694008,
+      "lng": 120.2491128,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357937,
+      "name": "東後寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3777538,
+      "lng": 120.2468443,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357938,
+      "name": "南溪洲",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3905335,
+      "lng": 120.2456378,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4019357944,
+      "name": "溪洲",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3938559,
+      "lng": 120.2451277,
+      "routes": [
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6744150575,
+      "name": "五間厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3556448,
+      "lng": 120.2715021,
+      "routes": [
+        "166",
+        "7207",
+        "7208",
+        "7208B",
+        "幸福義竹2路"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6744150577,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3388499,
+      "lng": 120.2486899,
+      "routes": [
+        "166",
+        "7207",
+        "7208",
+        "7208B",
+        "幸福義竹1路",
+        "幸福義竹2路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6744150579,
+      "name": "義竹",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3373599,
+      "lng": 120.2439371,
+      "routes": [
+        "166",
+        "幸福義竹1路",
+        "幸福義竹2路",
+        "棕4 朴子→鹽水→新營",
+        "棕4 新營→鹽水→朴子",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里",
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906505,
+      "name": "義竹仁里",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3361952,
+      "lng": 120.2407953,
+      "routes": [
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906506,
+      "name": "頭竹圍",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3314956,
+      "lng": 120.2320308,
+      "routes": [
+        "幸福義竹1路",
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906507,
+      "name": "新富村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3182721,
+      "lng": 120.2233183,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906508,
+      "name": "東過路仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3051757,
+      "lng": 120.2099184,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906509,
+      "name": "過路仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3049377,
+      "lng": 120.2048012,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906510,
+      "name": "東竿仔寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3051236,
+      "lng": 120.1888866,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906511,
+      "name": "中竿仔寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3057223,
+      "lng": 120.1864883,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8445906512,
+      "name": "西竿仔寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.305852,
+      "lng": 120.1845994,
+      "routes": [
+        "幸福義竹2路",
+        "棕5 好美里→鹽水→新營",
+        "棕5 新營→鹽水→好美里"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883500,
+      "name": "松子腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3431748,
+      "lng": 120.2418221,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883501,
+      "name": "竹圍仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3465236,
+      "lng": 120.2408519,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883502,
+      "name": "四十九公廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3522079,
+      "lng": 120.2315417,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883503,
+      "name": "埤仔頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3558312,
+      "lng": 120.22482,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883504,
+      "name": "安溪寮仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3582425,
+      "lng": 120.2199866,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883505,
+      "name": "磚廠",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3597676,
+      "lng": 120.2169337,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883506,
+      "name": "東後鎮仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.3636184,
+      "lng": 120.209265,
+      "routes": [
+        "幸福義竹1路",
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8448883507,
+      "name": "後鎮仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "義竹鄉",
+      "lat": 23.364894,
+      "lng": 120.2066822,
+      "routes": [
+        "棕6 布袋→鹽水→新營",
+        "棕6 布袋→鹽水→新營(延布袋商港)",
+        "棕6 新營→鹽水→布袋",
+        "棕6 新營→鹽水→布袋(延布袋商港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.487Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

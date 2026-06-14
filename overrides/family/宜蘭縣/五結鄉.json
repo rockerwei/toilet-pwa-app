@@ -1,0 +1,108 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:10:53.013Z",
+  "items": [
+    {
+      "id": 2703839052,
+      "name": "遊客服務站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6861336,
+      "lng": 121.8236745,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:52.998Z"
+    },
+    {
+      "id": 3607460703,
+      "name": "老爺行旅住宿區入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.6882516,
+      "lng": 121.8231968,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.000Z"
+    },
+    {
+      "id": 10203155278,
+      "name": "利澤國際偶戲藝術村",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.6677565,
+      "lng": 121.8233994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.002Z",
+      "address": "宜蘭縣五結鄉利澤東路73號"
+    },
+    {
+      "id": 557849520,
+      "name": "玉兔鉛筆學校",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.692823,
+      "lng": 121.7648874,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.003Z"
+    },
+    {
+      "id": 562934231,
+      "name": "中興文化創意園區 服務中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.6940866,
+      "lng": 121.7713033,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.005Z"
+    },
+    {
+      "id": 1119346504,
+      "name": "水豚區",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.7016252,
+      "lng": 121.8206062,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.008Z"
+    },
+    {
+      "id": 1185674351,
+      "name": "鴨寮故事館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6787189,
+      "lng": 121.8133461,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.009Z"
+    },
+    {
+      "id": 7018089,
+      "name": "蘭陽溪口水鳥保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7114909,
+      "lng": 121.828399,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.011Z"
+    },
+    {
+      "id": 7072131,
+      "name": "蘭陽海岸保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7601351,
+      "lng": 121.8044814,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.012Z"
+    },
+    {
+      "id": 14968811,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.7020567,
+      "lng": 121.8203137,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:10:53.013Z"
+    }
+  ]
+}

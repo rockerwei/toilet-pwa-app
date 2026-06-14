@@ -1,0 +1,162 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:28:21.149Z",
+  "items": [
+    {
+      "id": 3351424217,
+      "name": "三層景觀台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7319308,
+      "lng": 121.082889,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.135Z"
+    },
+    {
+      "id": 4483647791,
+      "name": "竹東夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7372743,
+      "lng": 121.0969772,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.137Z",
+      "address": "新竹縣竹東鎮鷄林里11鄰沿河街439號"
+    },
+    {
+      "id": 4644256889,
+      "name": "軟橋彩繪村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6948325,
+      "lng": 121.0977199,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.139Z"
+    },
+    {
+      "id": 4865452122,
+      "name": "蕭如松園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.7395755,
+      "lng": 121.087604,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.140Z"
+    },
+    {
+      "id": 5441563721,
+      "name": "下隴西堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.739664,
+      "lng": 121.0847059,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.141Z"
+    },
+    {
+      "id": 5441565822,
+      "name": "上隴西堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7383415,
+      "lng": 121.085721,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.142Z",
+      "address": "310新竹縣竹東鎮康寧街135巷8號"
+    },
+    {
+      "id": 5441566121,
+      "name": "蘇宅武功堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7422743,
+      "lng": 121.0844885,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.144Z",
+      "address": "310新竹縣竹東鎮長春路三段103號"
+    },
+    {
+      "id": 5441566122,
+      "name": "千人奇幻彩繪屋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6939012,
+      "lng": 121.0981737,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.145Z"
+    },
+    {
+      "id": 10607800126,
+      "name": "藎草",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.732467,
+      "lng": 121.0847614,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.146Z"
+    },
+    {
+      "id": 10607919748,
+      "name": "普照宮",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.7332561,
+      "lng": 121.0841516,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.146Z"
+    },
+    {
+      "id": 11391442063,
+      "name": "泥磚豬寮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6944363,
+      "lng": 121.0985017,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.147Z"
+    },
+    {
+      "id": 11391442064,
+      "name": "洗衫坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.6948088,
+      "lng": 121.0982573,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.147Z"
+    },
+    {
+      "id": 397632413,
+      "name": "Wah ! 幾散竹東",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7387216,
+      "lng": 121.0940173,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.148Z"
+    },
+    {
+      "id": 732230672,
+      "name": "樹杞林文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.7354072,
+      "lng": 121.0947957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.148Z",
+      "address": "新竹縣竹東鎮新生路377號"
+    },
+    {
+      "id": 1113595136,
+      "name": "竹東林業展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.7372183,
+      "lng": 121.0928922,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:28:21.149Z",
+      "address": "新竹縣竹東鎮東林路141號"
+    }
+  ]
+}

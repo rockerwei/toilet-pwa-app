@@ -1,0 +1,28 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:08:45.392Z",
+  "items": [
+    {
+      "id": 4057149543,
+      "name": "松腳老榕樹",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.957469,
+      "lng": 120.3356677,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:08:45.389Z"
+    },
+    {
+      "id": 6888005156,
+      "name": "偕老巷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9676746,
+      "lng": 120.3289192,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:08:45.392Z",
+      "address": "718台南市關廟區忠孝街297號"
+    }
+  ]
+}

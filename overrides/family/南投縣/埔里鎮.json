@@ -1,0 +1,465 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:32:19.771Z",
+  "items": [
+    {
+      "id": 2895107530,
+      "name": "彩蝶瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9933136,
+      "lng": 121.047351,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.738Z"
+    },
+    {
+      "id": 2903039766,
+      "name": "水上平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9319629,
+      "lng": 120.9150584,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.740Z"
+    },
+    {
+      "id": 2903039767,
+      "name": "水上瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.932918,
+      "lng": 120.9147132,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.742Z"
+    },
+    {
+      "id": 2927195011,
+      "name": "紙教堂見學園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.942278,
+      "lng": 120.9275194,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.743Z",
+      "address": "545南投縣埔里鎮桃米巷52-12號"
+    },
+    {
+      "id": 2960521930,
+      "name": "感受地震搖船",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9416993,
+      "lng": 120.9272479,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.745Z"
+    },
+    {
+      "id": 2960531105,
+      "name": "愛與互助雕塑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9415068,
+      "lng": 120.9274567,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.747Z"
+    },
+    {
+      "id": 2965498270,
+      "name": "平安鈴",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9414711,
+      "lng": 120.9272066,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.748Z"
+    },
+    {
+      "id": 3643544793,
+      "name": "中坑瀑布生態區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9212702,
+      "lng": 121.0102273,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.750Z"
+    },
+    {
+      "id": 3678468961,
+      "name": "玉門關瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9639232,
+      "lng": 120.8890413,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.750Z"
+    },
+    {
+      "id": 4155356590,
+      "name": "埔里市景色",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9663848,
+      "lng": 120.9896994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.751Z"
+    },
+    {
+      "id": 4178268506,
+      "name": "赤崁",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9915,
+      "lng": 120.9344,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.751Z"
+    },
+    {
+      "id": 4317959035,
+      "name": "廣興紙寮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9755914,
+      "lng": 120.9386423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.752Z",
+      "address": "545南投縣埔里鎮鐵山路310號"
+    },
+    {
+      "id": 4839345621,
+      "name": "觀音瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9896327,
+      "lng": 121.0359204,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.753Z"
+    },
+    {
+      "id": 4839345622,
+      "name": "觀音瀑布觀景",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9903234,
+      "lng": 121.0360959,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.753Z"
+    },
+    {
+      "id": 6266977587,
+      "name": "妮娜巧克力夢想城堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9438814,
+      "lng": 120.9297947,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.754Z",
+      "address": "南投縣埔里鎮桃米路32號"
+    },
+    {
+      "id": 6401692528,
+      "name": "能高圳瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0263363,
+      "lng": 120.9777528,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.755Z"
+    },
+    {
+      "id": 6615527231,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9601783,
+      "lng": 120.9951264,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.756Z"
+    },
+    {
+      "id": 6615527265,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.929382,
+      "lng": 120.9154003,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.756Z"
+    },
+    {
+      "id": 6615527298,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9326056,
+      "lng": 120.9153196,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.757Z"
+    },
+    {
+      "id": 6615527329,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9298618,
+      "lng": 120.9175808,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.757Z"
+    },
+    {
+      "id": 8128548925,
+      "name": "水上瀑布步道地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9363577,
+      "lng": 120.9158094,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.758Z"
+    },
+    {
+      "id": 8170142355,
+      "name": "飛行傘報到處",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.966883,
+      "lng": 120.9893659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.758Z"
+    },
+    {
+      "id": 9420464252,
+      "name": "往玉門關",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.963448,
+      "lng": 120.8899867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.759Z"
+    },
+    {
+      "id": 9420464254,
+      "name": "玉門關",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.963989,
+      "lng": 120.8910292,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.759Z"
+    },
+    {
+      "id": 10292754001,
+      "name": "觀雲坪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0284307,
+      "lng": 120.9827167,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.760Z"
+    },
+    {
+      "id": 10740469506,
+      "name": "鐵橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9312102,
+      "lng": 120.9149343,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.760Z"
+    },
+    {
+      "id": 10740479905,
+      "name": "澀水森林步道0k+300",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9282795,
+      "lng": 120.9144363,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.761Z"
+    },
+    {
+      "id": 10740492505,
+      "name": "澀水森林步道0k+600",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9298291,
+      "lng": 120.9152201,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.761Z"
+    },
+    {
+      "id": 10740492506,
+      "name": "澀水五號橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9316298,
+      "lng": 120.9149967,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.762Z"
+    },
+    {
+      "id": 10740503207,
+      "name": "澀水森林步道1k+100",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9323769,
+      "lng": 120.9159544,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.762Z"
+    },
+    {
+      "id": 10740543805,
+      "name": "澀水森林步道1k+400",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9304147,
+      "lng": 120.9172683,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.763Z"
+    },
+    {
+      "id": 10740543806,
+      "name": "澀水森林步道1k+700",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9283911,
+      "lng": 120.9174825,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.764Z"
+    },
+    {
+      "id": 10767840580,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9589109,
+      "lng": 120.9976655,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.764Z"
+    },
+    {
+      "id": 10767840688,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9603,
+      "lng": 120.99488,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.765Z"
+    },
+    {
+      "id": 11738293023,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9636342,
+      "lng": 120.9891848,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.766Z"
+    },
+    {
+      "id": 287893827,
+      "name": "木雕分館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.0108357,
+      "lng": 120.9450705,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.766Z",
+      "address": "54544南投縣埔里鎮中台路8號"
+    },
+    {
+      "id": 292497466,
+      "name": "桃米921紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.9428768,
+      "lng": 120.9313018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.767Z"
+    },
+    {
+      "id": 292986752,
+      "name": "桃米源射箭場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9429015,
+      "lng": 120.9288983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.767Z",
+      "address": "南投縣埔里鎮桃米路33-1號"
+    },
+    {
+      "id": 725230511,
+      "name": "魚市場夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9623956,
+      "lng": 120.9677413,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.768Z",
+      "address": "南投縣埔里鎮南盛街88號"
+    },
+    {
+      "id": 938726153,
+      "name": "埔里遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.969611,
+      "lng": 120.9299532,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.768Z"
+    },
+    {
+      "id": 961525430,
+      "name": "埔里福興溫泉區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0096961,
+      "lng": 120.9668223,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.769Z"
+    },
+    {
+      "id": 1051415689,
+      "name": "彩虹莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.9406323,
+      "lng": 120.9563752,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.769Z",
+      "address": "545南投縣埔里鎮下湳巷20-1號"
+    },
+    {
+      "id": 1051416168,
+      "name": "彩虹莊園 Rainbow House",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.9407522,
+      "lng": 120.9562688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.770Z"
+    },
+    {
+      "id": 1392645859,
+      "name": "往瀑布700m",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0273182,
+      "lng": 120.9830539,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.770Z"
+    },
+    {
+      "id": 1444729412,
+      "name": "楓樺台一渡假村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9786642,
+      "lng": 121.0051983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:19.771Z",
+      "address": "南投縣埔里鎮中山路一段176號"
+    }
+  ]
+}

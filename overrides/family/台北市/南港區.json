@@ -1,0 +1,297 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:33:34.766Z",
+  "items": [
+    {
+      "id": 2073499885,
+      "name": "中央研究院",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0438048,
+      "lng": 121.6159084,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.746Z"
+    },
+    {
+      "id": 2128925587,
+      "name": "南港公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0421404,
+      "lng": 121.590776,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.749Z"
+    },
+    {
+      "id": 2128925669,
+      "name": "後山埤避難配置圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0418488,
+      "lng": 121.5908296,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.750Z"
+    },
+    {
+      "id": 3233734394,
+      "name": "台北親山拓印13號打印台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0277699,
+      "lng": 121.6347142,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.752Z"
+    },
+    {
+      "id": 3233734396,
+      "name": "台北親山拓印15號打印台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0325505,
+      "lng": 121.5945594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.753Z"
+    },
+    {
+      "id": 3750108327,
+      "name": "歷史文物陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0395231,
+      "lng": 121.6163726,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.755Z"
+    },
+    {
+      "id": 3751062776,
+      "name": "中央研究院公告欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0427657,
+      "lng": 121.6165561,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.755Z"
+    },
+    {
+      "id": 3999392701,
+      "name": "小孩的童玩&松鼠的最愛",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0336762,
+      "lng": 121.5900902,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.756Z"
+    },
+    {
+      "id": 3999392704,
+      "name": "從一棵植物閱讀",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0339722,
+      "lng": 121.5898694,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.756Z"
+    },
+    {
+      "id": 3999393568,
+      "name": "觀葉植物",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0341365,
+      "lng": 121.5895974,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.757Z"
+    },
+    {
+      "id": 5275080620,
+      "name": "臺北大縱走第六段路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0330774,
+      "lng": 121.6097931,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.758Z"
+    },
+    {
+      "id": 6027620693,
+      "name": "台北大縱走 \"壯\" 拓印台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0262047,
+      "lng": 121.5865309,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.758Z"
+    },
+    {
+      "id": 10224632354,
+      "name": "麝香貓生態保護區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0499577,
+      "lng": 121.6117989,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.759Z"
+    },
+    {
+      "id": 10224632362,
+      "name": "彌補東北角生態濕地",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0494009,
+      "lng": 121.6124262,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.759Z"
+    },
+    {
+      "id": 10224632372,
+      "name": "曉風生態展示館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 25.0476122,
+      "lng": 121.6107977,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.760Z"
+    },
+    {
+      "id": 11198519193,
+      "name": "台北大縱走寶石牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0262035,
+      "lng": 121.5865303,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.760Z"
+    },
+    {
+      "id": 11462578179,
+      "name": "臺北大縱走第六段路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0315439,
+      "lng": 121.5925935,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.761Z"
+    },
+    {
+      "id": 11462578281,
+      "name": "峭壁危險請勿攀爬",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0286033,
+      "lng": 121.5884842,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.761Z"
+    },
+    {
+      "id": 11489059369,
+      "name": "峭壁危險請勿攀爬",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0247993,
+      "lng": 121.5855802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.761Z"
+    },
+    {
+      "id": 12157755715,
+      "name": "中國信託金融園區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0583972,
+      "lng": 121.6145935,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.762Z"
+    },
+    {
+      "id": 12587403215,
+      "name": "本站電梯位置圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0518814,
+      "lng": 121.6065264,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.762Z"
+    },
+    {
+      "id": 12843353116,
+      "name": "虎山親山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0193874,
+      "lng": 121.5964596,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.763Z"
+    },
+    {
+      "id": 12997238896,
+      "name": "LaLaport 南港 西3出口",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0598828,
+      "lng": 121.6175396,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.763Z"
+    },
+    {
+      "id": 475183665,
+      "name": "桂花吊橋步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0253292,
+      "lng": 121.6617581,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.764Z"
+    },
+    {
+      "id": 753505369,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0291622,
+      "lng": 121.6250166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.765Z"
+    },
+    {
+      "id": 1240356198,
+      "name": "桂花吊橋步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0252109,
+      "lng": 121.6621961,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.765Z"
+    },
+    {
+      "id": 1320372814,
+      "name": "南港展覽館站旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0546344,
+      "lng": 121.6183188,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.765Z"
+    },
+    {
+      "id": 1476512415,
+      "name": "桂花吊橋步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0258443,
+      "lng": 121.6614863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.766Z"
+    },
+    {
+      "id": 1476512416,
+      "name": "桂花吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0257205,
+      "lng": 121.6617694,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:33:34.766Z"
+    }
+  ]
+}

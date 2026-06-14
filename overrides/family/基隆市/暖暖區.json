@@ -1,0 +1,108 @@
+{
+  "city": "基隆市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:21:25.288Z",
+  "items": [
+    {
+      "id": 1741248270,
+      "name": "暖東峽谷",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0767768,
+      "lng": 121.7547723,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.275Z"
+    },
+    {
+      "id": 9877766034,
+      "name": "暖暖砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0824895,
+      "lng": 121.7269133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.277Z"
+    },
+    {
+      "id": 10817176298,
+      "name": "暖東自然步道登山口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0931211,
+      "lng": 121.7405574,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.278Z"
+    },
+    {
+      "id": 10817209572,
+      "name": "暖東自然步道登山口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0925344,
+      "lng": 121.7414095,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.280Z"
+    },
+    {
+      "id": 12014981975,
+      "name": "八南秘境",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0994818,
+      "lng": 121.7243945,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.281Z"
+    },
+    {
+      "id": 224210541,
+      "name": "碇內吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.099735,
+      "lng": 121.7502133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.283Z"
+    },
+    {
+      "id": 332080689,
+      "name": "暖暖吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0944996,
+      "lng": 121.7410513,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.284Z"
+    },
+    {
+      "id": 344092454,
+      "name": "暖東苗圃遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0939927,
+      "lng": 121.7414199,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.285Z"
+    },
+    {
+      "id": 504144224,
+      "name": "暖東苗圃遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0938369,
+      "lng": 121.741466,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.287Z"
+    },
+    {
+      "id": 1076581491,
+      "name": "黃蠟石文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.1046492,
+      "lng": 121.7386753,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:21:25.288Z",
+      "address": "基隆市暖暖區過港路52號"
+    }
+  ]
+}

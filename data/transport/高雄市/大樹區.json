@@ -1,0 +1,1709 @@
+{
+  "city": "高雄市",
+  "district": "大樹區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 101,
+  "items": [
+    {
+      "id": 280074470,
+      "name": "九曲堂",
+      "type": "train",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6559651,
+      "lng": 120.4212016
+    },
+    {
+      "id": 3444377630,
+      "name": "關帝廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.694311,
+      "lng": 120.3933224,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3868724981,
+      "name": "佛光山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7492671,
+      "lng": 120.4469118,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "大樹祈福線",
+        "橘7B(假日停駛)",
+        "E02哈佛快線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3868724983,
+      "name": "佛陀紀念館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7548012,
+      "lng": 120.446495,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "大樹祈福線",
+        "橘7B(假日停駛)",
+        "E02哈佛快線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3868724984,
+      "name": "統嶺坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7560111,
+      "lng": 120.4475803,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3868724986,
+      "name": "麻竹圍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7463204,
+      "lng": 120.4471341
+    },
+    {
+      "id": 3951280282,
+      "name": "九曲堂火車站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6564228,
+      "lng": 120.4207902,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3951280283,
+      "name": "久堂里(九曲堂火車站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6574406,
+      "lng": 120.4175521,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3951280286,
+      "name": "義大世界站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7297484,
+      "lng": 120.4068273,
+      "routes": [
+        "96",
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "8506",
+        "大樹線",
+        "綠2",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.396Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5440410153,
+      "name": "舊鐵橋溼地(三和瓦窯)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.662401,
+      "lng": 120.4265607,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "大樹祈福線",
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5440410155,
+      "name": "農友種苗",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6605585,
+      "lng": 120.4258958,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448967,
+      "name": "五腳松",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7740842,
+      "lng": 120.43193,
+      "routes": [
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468134,
+      "name": "購物廣場站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7301295,
+      "lng": 120.4019244,
+      "routes": [
+        "96",
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "8506",
+        "綠2",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468135,
+      "name": "購物廣場站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7297012,
+      "lng": 120.4029076,
+      "routes": [
+        "96",
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "8506",
+        "綠2",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468137,
+      "name": "義守大學站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7254232,
+      "lng": 120.4071981,
+      "routes": [
+        "96"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468142,
+      "name": "興田",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7421615,
+      "lng": 120.4481618,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468144,
+      "name": "新興(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7374043,
+      "lng": 120.4476168,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468146,
+      "name": "溪埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7320967,
+      "lng": 120.4473807,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468148,
+      "name": "溪埔派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.727688,
+      "lng": 120.4444953,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468150,
+      "name": "溪埔國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7226114,
+      "lng": 120.4432829,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468152,
+      "name": "溪埔國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7186176,
+      "lng": 120.4429518,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468153,
+      "name": "大坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7176907,
+      "lng": 120.4432959,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468155,
+      "name": "洲仔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7139922,
+      "lng": 120.4413345,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468158,
+      "name": "姑山倉庫(大坑路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7103151,
+      "lng": 120.4393705,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "大樹祈福線",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468162,
+      "name": "姑山國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7086851,
+      "lng": 120.4382954,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468164,
+      "name": "姑婆寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7049687,
+      "lng": 120.434338,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468166,
+      "name": "崑明寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7000645,
+      "lng": 120.4333062,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468168,
+      "name": "大樹活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6969688,
+      "lng": 120.4334477,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468170,
+      "name": "中正一路(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6933494,
+      "lng": 120.434464,
+      "routes": [
+        "大樹祈福線",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13373335336,
+      "name": "中興北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6954561,
+      "lng": 120.4331097,
+      "routes": [
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468172,
+      "name": "中興東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.691579,
+      "lng": 120.4343502,
+      "routes": [
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468173,
+      "name": "大樹",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6920816,
+      "lng": 120.4323785,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468175,
+      "name": "大樹農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6909977,
+      "lng": 120.432289,
+      "routes": [
+        "8009",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468177,
+      "name": "大樹分駐所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6903563,
+      "lng": 120.4330493,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468179,
+      "name": "鳳山寺(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6904726,
+      "lng": 120.4317808
+    },
+    {
+      "id": 8377468180,
+      "name": "市立圖書館(大樹分館)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6911852,
+      "lng": 120.4307563,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468182,
+      "name": "實踐街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6886797,
+      "lng": 120.4307238,
+      "routes": [
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468184,
+      "name": "大樹市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6881508,
+      "lng": 120.432285,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468186,
+      "name": "保安宮(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6872693,
+      "lng": 120.429496,
+      "routes": [
+        "大樹線",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468188,
+      "name": "新吉庄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6865829,
+      "lng": 120.4301587,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468190,
+      "name": "大樹里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6868867,
+      "lng": 120.427012,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468192,
+      "name": "大樹路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6872168,
+      "lng": 120.4246093,
+      "routes": [
+        "大樹線",
+        "橘7C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468194,
+      "name": "龍目",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6854576,
+      "lng": 120.4162467,
+      "routes": [
+        "大樹線",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468196,
+      "name": "大樹區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6850563,
+      "lng": 120.4143278,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468199,
+      "name": "小坪國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6819993,
+      "lng": 120.4111733,
+      "routes": [
+        "大樹線",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468201,
+      "name": "小坪頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6808514,
+      "lng": 120.4089654,
+      "routes": [
+        "大樹線",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468203,
+      "name": "崇聖殿",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.674064,
+      "lng": 120.4078227,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468205,
+      "name": "井腳里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6714482,
+      "lng": 120.4088278,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468207,
+      "name": "井仔腳",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6686886,
+      "lng": 120.4093729,
+      "routes": [
+        "大樹線",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468209,
+      "name": "水寮中山路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6671374,
+      "lng": 120.4090119,
+      "routes": [
+        "大樹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468211,
+      "name": "水寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6655959,
+      "lng": 120.4095604,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468213,
+      "name": "水安里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6627938,
+      "lng": 120.4109195,
+      "routes": [
+        "大樹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468215,
+      "name": "湖底橋(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6586362,
+      "lng": 120.4147524,
+      "routes": [
+        "大樹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468418,
+      "name": "大樹圖書館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6580875,
+      "lng": 120.4181819,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468420,
+      "name": "久堂里(永豐餘造紙)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6589562,
+      "lng": 120.4199232,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468422,
+      "name": "九大加油站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6585317,
+      "lng": 120.4247507,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468424,
+      "name": "九曲路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6541027,
+      "lng": 120.4237668,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.398Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468426,
+      "name": "大樹國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6566051,
+      "lng": 120.4224374,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "大樹祈福線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468428,
+      "name": "庄內(九曲北極殿)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.650852,
+      "lng": 120.4222808,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468430,
+      "name": "九曲里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.648526,
+      "lng": 120.4213965,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468432,
+      "name": "九曲路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.647781,
+      "lng": 120.4204568,
+      "routes": [
+        "8010",
+        "8010區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468436,
+      "name": "水寮中華路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6649988,
+      "lng": 120.4057617,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468440,
+      "name": "北極殿(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6937371,
+      "lng": 120.426137,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468442,
+      "name": "興山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6940866,
+      "lng": 120.4254252,
+      "routes": [
+        "8009"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468444,
+      "name": "和山里口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6967888,
+      "lng": 120.4208977,
+      "routes": [
+        "8009"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468446,
+      "name": "和山社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6973134,
+      "lng": 120.4195646,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468447,
+      "name": "山頂崎腳",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6965563,
+      "lng": 120.4096296,
+      "routes": [
+        "8009"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468449,
+      "name": "五叉路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6996712,
+      "lng": 120.4051207,
+      "routes": [
+        "8009"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468451,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7017967,
+      "lng": 120.3966762,
+      "routes": [
+        "8009"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468453,
+      "name": "龍安宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6878446,
+      "lng": 120.4120247
+    },
+    {
+      "id": 8377468454,
+      "name": "龍目井(龍目國小)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6890151,
+      "lng": 120.4093238
+    },
+    {
+      "id": 8377468455,
+      "name": "農情覓藝棧(假日停靠)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6907494,
+      "lng": 120.4031821
+    },
+    {
+      "id": 12223950305,
+      "name": "竹仔寮抽水站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6683934,
+      "lng": 120.4261245,
+      "routes": [
+        "大樹祈福線",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13349845317,
+      "name": "天悅飯店門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7308836,
+      "lng": 120.4013119
+    },
+    {
+      "id": 13349845318,
+      "name": "皇家酒店門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7296744,
+      "lng": 120.4024125
+    },
+    {
+      "id": 13354623075,
+      "name": "台灣故事館門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7300349,
+      "lng": 120.4075543
+    },
+    {
+      "id": 13354623077,
+      "name": "購物廣場C區門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7297023,
+      "lng": 120.4067517
+    },
+    {
+      "id": 13354623078,
+      "name": "購物廣場A區門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7301186,
+      "lng": 120.4019868,
+      "routes": [
+        "96",
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "8506",
+        "綠2",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358652075,
+      "name": "仙峰宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7274577,
+      "lng": 120.4231355,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358652077,
+      "name": "三和里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7246781,
+      "lng": 120.4294816,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358652079,
+      "name": "平安橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7198347,
+      "lng": 120.4369825,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358652082,
+      "name": "興山活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6944246,
+      "lng": 120.4236404,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358652096,
+      "name": "水寮公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6616312,
+      "lng": 120.4113989,
+      "routes": [
+        "大樹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13360688481,
+      "name": "中正一路(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6924937,
+      "lng": 120.4349592,
+      "routes": [
+        "大樹祈福線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13360688482,
+      "name": "大樹區果菜市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7291816,
+      "lng": 120.4451375,
+      "routes": [
+        "大樹祈福線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13360688484,
+      "name": "興田國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7401177,
+      "lng": 120.4469884,
+      "routes": [
+        "大樹祈福線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13366150209,
+      "name": "坊崁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7615322,
+      "lng": 120.4469676,
+      "routes": [
+        "8009",
+        "8010",
+        "8010區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803135,
+      "name": "營房(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6793759,
+      "lng": 120.4257253,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803137,
+      "name": "公館(大樹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6772295,
+      "lng": 120.4252641,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.399Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803139,
+      "name": "綠陽山莊",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6739262,
+      "lng": 120.4260161,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803141,
+      "name": "竹寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6719729,
+      "lng": 120.4261597,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803143,
+      "name": "雄獅大地",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6695216,
+      "lng": 120.4260215,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13373335307,
+      "name": "水寮國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.6666249,
+      "lng": 120.4074119,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘7C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13373335313,
+      "name": "和山寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.705698,
+      "lng": 120.4172255,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13373335322,
+      "name": "大樹國小(和山分校)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7036501,
+      "lng": 120.4171128,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13373335323,
+      "name": "和山路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7015469,
+      "lng": 120.4173395,
+      "routes": [
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13375173685,
+      "name": "不二門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.748381,
+      "lng": 120.4449094
+    },
+    {
+      "id": 13375173707,
+      "name": "藍毗尼園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.751481,
+      "lng": 120.4461369
+    },
+    {
+      "id": 13377045775,
+      "name": "問道堂停車場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7536508,
+      "lng": 120.4479903
+    },
+    {
+      "id": 13377045778,
+      "name": "麻竹園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7504572,
+      "lng": 120.4459935
+    },
+    {
+      "id": 13377045779,
+      "name": "滿香園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大樹區",
+      "lat": 22.7492823,
+      "lng": 120.4474898
+    }
+  ]
+}

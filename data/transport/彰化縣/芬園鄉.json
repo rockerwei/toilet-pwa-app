@@ -1,0 +1,887 @@
+{
+  "city": "彰化縣",
+  "district": "芬園鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 43,
+  "items": [
+    {
+      "id": 3615456224,
+      "name": "下茄荖",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0100986,
+      "lng": 120.6485516,
+      "routes": [
+        "1806"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3615456236,
+      "name": "社口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0154059,
+      "lng": 120.6298988,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "1806",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4421732581,
+      "name": "下樟空",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.976389,
+      "lng": 120.6200494,
+      "routes": [
+        "6923",
+        "6924",
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4421732584,
+      "name": "溪頭村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.972127,
+      "lng": 120.6421307,
+      "routes": [
+        "6924"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4421732586,
+      "name": "玖誠",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9749969,
+      "lng": 120.6391575,
+      "routes": [
+        "6924"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4421732588,
+      "name": "碧山",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9703036,
+      "lng": 120.6446453,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A",
+        "6924"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4421734758,
+      "name": "龜崙",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9770825,
+      "lng": 120.6326424,
+      "routes": [
+        "6924"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712705674,
+      "name": "頂樟空",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9728421,
+      "lng": 120.6229449,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712705678,
+      "name": "大松腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9675832,
+      "lng": 120.6250189,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712705682,
+      "name": "東寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9642983,
+      "lng": 120.628385,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712707789,
+      "name": "大竹圍",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9595703,
+      "lng": 120.6298612,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712707793,
+      "name": "南化宮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9566179,
+      "lng": 120.6310692,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712707833,
+      "name": "縣界",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9534828,
+      "lng": 120.6348495,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712707835,
+      "name": "崙興庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.955149,
+      "lng": 120.6326417,
+      "routes": [
+        "6925",
+        "6925A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712720805,
+      "name": "同安寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9931701,
+      "lng": 120.6120618,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712720814,
+      "name": "豆周寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9879854,
+      "lng": 120.6147998,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712720823,
+      "name": "中崙",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.983064,
+      "lng": 120.6178163,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756930,
+      "name": "清水溝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0136585,
+      "lng": 120.6317986,
+      "routes": [
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6923"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756934,
+      "name": "社口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0134628,
+      "lng": 120.6287358,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A",
+        "6923"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756936,
+      "name": "電信局",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0101142,
+      "lng": 120.6285336,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A",
+        "6923"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756947,
+      "name": "芬園",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0068366,
+      "lng": 120.6283453,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A",
+        "6923"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756950,
+      "name": "枋子腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0039061,
+      "lng": 120.6269063,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756966,
+      "name": "祥光寺",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9999198,
+      "lng": 120.6228313,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4712756968,
+      "name": "食水坑",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9950369,
+      "lng": 120.6159404,
+      "routes": [
+        "6923"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274174,
+      "name": "芬園農會",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0184224,
+      "lng": 120.6275256,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274176,
+      "name": "竹林",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0214432,
+      "lng": 120.6254992,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274179,
+      "name": "上舊社",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0242508,
+      "lng": 120.6240615,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274181,
+      "name": "舊社",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0263919,
+      "lng": 120.6245859,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274183,
+      "name": "北勢頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0288969,
+      "lng": 120.6240676,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274238,
+      "name": "觀光果園",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0389638,
+      "lng": 120.6230309,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713274240,
+      "name": "新厝子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0454477,
+      "lng": 120.6222477,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713333280,
+      "name": "縣界",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0087088,
+      "lng": 120.6484627,
+      "routes": [
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6923"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713333284,
+      "name": "下茄荖",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0107473,
+      "lng": 120.6455974,
+      "routes": [
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6923"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4713334692,
+      "name": "茄荖國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0126266,
+      "lng": 120.6435435,
+      "routes": [
+        "6916",
+        "6916A",
+        "6917",
+        "6917A",
+        "6917B",
+        "6918",
+        "6918A",
+        "6923"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270946,
+      "name": "靈安宮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9731328,
+      "lng": 120.6449515,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270948,
+      "name": "寶山國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9861534,
+      "lng": 120.6407284,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.958Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270950,
+      "name": "派出所前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9879484,
+      "lng": 120.6379415,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270952,
+      "name": "謝厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.991003,
+      "lng": 120.6355275,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270954,
+      "name": "縣庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9924083,
+      "lng": 120.6351667,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270956,
+      "name": "縣安路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9944251,
+      "lng": 120.6338337,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270958,
+      "name": "猴坑口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 23.9977429,
+      "lng": 120.6314546,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270960,
+      "name": "下山腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0002128,
+      "lng": 120.6308404,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11133270962,
+      "name": "寶藏寺",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "芬園鄉",
+      "lat": 24.0030429,
+      "lng": 120.629974,
+      "routes": [
+        "17路",
+        "17路A",
+        "17路B",
+        "6919",
+        "6919A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.959Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

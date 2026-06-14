@@ -1,0 +1,364 @@
+{
+  "city": "雲林縣",
+  "district": "元長鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 19,
+  "items": [
+    {
+      "id": 4107227092,
+      "name": "溝皂",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6115411,
+      "lng": 120.3075428,
+      "routes": [
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4107227138,
+      "name": "西庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6180384,
+      "lng": 120.3090395,
+      "routes": [
+        "1633B",
+        "1633C",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4107227140,
+      "name": "西庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6194994,
+      "lng": 120.309297,
+      "routes": [
+        "1633B",
+        "1633C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.161Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594384045,
+      "name": "蔥仔寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6720144,
+      "lng": 120.3128413,
+      "routes": [
+        "7107",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594432292,
+      "name": "山仔內",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6850143,
+      "lng": 120.3133037,
+      "routes": [
+        "7107",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594432305,
+      "name": "白花墓",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6299476,
+      "lng": 120.3111009,
+      "routes": [
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.161Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594432307,
+      "name": "元長1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6474683,
+      "lng": 120.3131709,
+      "routes": [
+        "202",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594432309,
+      "name": "統聯客運元長代售處",
+      "type": "bus_station",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6487361,
+      "lng": 120.3135886,
+      "routes": [
+        "202",
+        "1633B",
+        "1633C",
+        "7107",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A",
+        "9015"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594432317,
+      "name": "元長",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6513678,
+      "lng": 120.3133335,
+      "routes": [
+        "202",
+        "7107",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A",
+        "9015"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451914,
+      "name": "客子厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.628315,
+      "lng": 120.335264,
+      "routes": [
+        "301",
+        "9015A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451918,
+      "name": "瓦瑤",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.640262,
+      "lng": 120.358819
+    },
+    {
+      "id": 5793451923,
+      "name": "卓運厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6432869,
+      "lng": 120.3505826,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451930,
+      "name": "東庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.61797,
+      "lng": 120.33408
+    },
+    {
+      "id": 5793451935,
+      "name": "鹿北",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.647822,
+      "lng": 120.377624,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451938,
+      "name": "鹿寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.640001,
+      "lng": 120.370483,
+      "routes": [
+        "301",
+        "7219"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451943,
+      "name": "湖子內",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.609104,
+      "lng": 120.332904,
+      "routes": [
+        "301",
+        "7219"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464048140,
+      "name": "元長鄉溪底",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6876504,
+      "lng": 120.3125614,
+      "routes": [
+        "202",
+        "7107",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.299Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8347269438,
+      "name": "頂西庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6232543,
+      "lng": 120.3097263,
+      "routes": [
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.162Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076635,
+      "name": "山內國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "元長鄉",
+      "lat": 23.6788363,
+      "lng": 120.313046,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.162Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "city": "南投縣",
+  "district": "信義鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 37,
+  "items": [
+    {
+      "id": 2984126133,
+      "name": "豐榮客運",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.7887228,
+      "lng": 120.9482305
+    },
+    {
+      "id": 3439361904,
+      "name": "九層坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.688806,
+      "lng": 120.861679
+    },
+    {
+      "id": 3439361906,
+      "name": "十八重溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6625012,
+      "lng": 120.8767475,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439361908,
+      "name": "卡拉米斯",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6904457,
+      "lng": 120.8590913,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439361911,
+      "name": "懷恩診所",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6955279,
+      "lng": 120.8551752,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439361913,
+      "name": "新開巷",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6942491,
+      "lng": 120.8570298,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439362238,
+      "name": "菓菜市場",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6694876,
+      "lng": 120.8725007,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439362240,
+      "name": "豐丘",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6661645,
+      "lng": 120.8738249,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439370256,
+      "name": "上筆石",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6423869,
+      "lng": 120.8836082
+    },
+    {
+      "id": 3439370258,
+      "name": "下筆石",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6388615,
+      "lng": 120.8844274
+    },
+    {
+      "id": 3439370260,
+      "name": "倉庫坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6276905,
+      "lng": 120.8893162,
+      "routes": [
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439370262,
+      "name": "楊診所",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.633987,
+      "lng": 120.88575,
+      "routes": [
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439370265,
+      "name": "筆石",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6469511,
+      "lng": 120.8820525,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.646Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439370268,
+      "name": "頂筆石",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6356896,
+      "lng": 120.8852502,
+      "routes": [
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439660873,
+      "name": "信義",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6974619,
+      "lng": 120.8538429,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6730",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439660875,
+      "name": "加油站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.7075204,
+      "lng": 120.8533125,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6730",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439660889,
+      "name": "檢查站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.7025013,
+      "lng": 120.8535455,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6730",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439662301,
+      "name": "郡坑溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.7171608,
+      "lng": 120.8565664,
+      "routes": [
+        "6727",
+        "6728",
+        "6728A",
+        "6730",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237586368,
+      "name": "塔塔加警察隊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.4816711,
+      "lng": 120.886901
+    },
+    {
+      "id": 4237586369,
+      "name": "玉山登山口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.4758648,
+      "lng": 120.8999259
+    },
+    {
+      "id": 4656803158,
+      "name": "神木村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5464024,
+      "lng": 120.8648372,
+      "routes": [
+        "6733",
+        "6739"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4656803161,
+      "name": "草坪頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.557222,
+      "lng": 120.8752495,
+      "routes": [
+        "6733",
+        "6739"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657105083,
+      "name": "玉泉橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5550138,
+      "lng": 120.8644035,
+      "routes": [
+        "6733"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657192954,
+      "name": "隆華國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.575231,
+      "lng": 120.8768536,
+      "routes": [
+        "6733"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657192973,
+      "name": "豐池",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5691879,
+      "lng": 120.8718424,
+      "routes": [
+        "6733"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657192975,
+      "name": "半路店",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5638026,
+      "lng": 120.8673993,
+      "routes": [
+        "6733"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657192977,
+      "name": "新興",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5595861,
+      "lng": 120.8673201,
+      "routes": [
+        "6733"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657343916,
+      "name": "同富國中",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5946068,
+      "lng": 120.8886227,
+      "routes": [
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657343918,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5934948,
+      "lng": 120.8885616
+    },
+    {
+      "id": 4657343920,
+      "name": "和社",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.5922649,
+      "lng": 120.8890999,
+      "routes": [
+        "6731",
+        "6732",
+        "6733",
+        "6734",
+        "6739"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657373203,
+      "name": "望鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6181193,
+      "lng": 120.8935035
+    },
+    {
+      "id": 4657373205,
+      "name": "頂望鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6074679,
+      "lng": 120.8918204
+    },
+    {
+      "id": 4657382077,
+      "name": "阿里不動",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6138782,
+      "lng": 120.8932188,
+      "routes": [
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4657382079,
+      "name": "吊橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.6264323,
+      "lng": 120.8928745,
+      "routes": [
+        "6728",
+        "6728A",
+        "6731",
+        "6732",
+        "6733",
+        "6734"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7670901340,
+      "name": "祝山站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.510267,
+      "lng": 120.823447
+    },
+    {
+      "id": 8005334685,
+      "name": "塔塔加",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.4872132,
+      "lng": 120.8894921
+    },
+    {
+      "id": 8008448285,
+      "name": "上東埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "信義鄉",
+      "lat": 23.4810879,
+      "lng": 120.8857987,
+      "routes": [
+        "6739"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.389Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

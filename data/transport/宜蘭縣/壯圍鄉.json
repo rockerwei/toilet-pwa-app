@@ -1,0 +1,926 @@
+{
+  "city": "宜蘭縣",
+  "district": "壯圍鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 60,
+  "items": [
+    {
+      "id": 2237390811,
+      "name": "壯圍",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7694902,
+      "lng": 121.7788404,
+      "routes": [
+        "1571",
+        "1571A",
+        "1878",
+        "1878A",
+        "1878B",
+        "1878C",
+        "1916",
+        "1916A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3307881888,
+      "name": "壯圍鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7462999,
+      "lng": 121.7856836,
+      "routes": [
+        "791",
+        "1787",
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3307904199,
+      "name": "壯圍國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7449781,
+      "lng": 121.7889315,
+      "routes": [
+        "791",
+        "1787",
+        "1788"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606521912,
+      "name": "大福派出所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7997909,
+      "lng": 121.8165001,
+      "routes": [
+        "1788"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606521916,
+      "name": "大福",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.8028934,
+      "lng": 121.8169878
+    },
+    {
+      "id": 5606522329,
+      "name": "大福社區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.805537,
+      "lng": 121.8173048,
+      "routes": [
+        "191",
+        "1790"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606542972,
+      "name": "社頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7803787,
+      "lng": 121.8140405,
+      "routes": [
+        "793",
+        "1788"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606542976,
+      "name": "幸福",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7959632,
+      "lng": 121.8155721,
+      "routes": [
+        "1788"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606542977,
+      "name": "新社",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.78517,
+      "lng": 121.8145193,
+      "routes": [
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606542981,
+      "name": "上大福",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7928636,
+      "lng": 121.8154246,
+      "routes": [
+        "1788"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606579135,
+      "name": "鼻頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7578093,
+      "lng": 121.8156794
+    },
+    {
+      "id": 5606579137,
+      "name": "過嶺路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7602304,
+      "lng": 121.8157759
+    },
+    {
+      "id": 5606579143,
+      "name": "過嶺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7641931,
+      "lng": 121.8158966,
+      "routes": [
+        "793",
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606579175,
+      "name": "壯濱路四段",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7720816,
+      "lng": 121.8154299,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606579177,
+      "name": "永鎮廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.77497,
+      "lng": 121.8154661,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616253,
+      "name": "廓後",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7266776,
+      "lng": 121.8210009,
+      "routes": [
+        "791",
+        "1787"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616254,
+      "name": "南庵寺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7288677,
+      "lng": 121.8198904,
+      "routes": [
+        "791",
+        "1787"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616260,
+      "name": "公館",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7353334,
+      "lng": 121.818198,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616267,
+      "name": "復興村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7388803,
+      "lng": 121.817168,
+      "routes": [
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616275,
+      "name": "後埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7466011,
+      "lng": 121.8162024,
+      "routes": [
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616280,
+      "name": "公路頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7492635,
+      "lng": 121.815906,
+      "routes": [
+        "1788"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606616283,
+      "name": "漁寮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.754308,
+      "lng": 121.8158363,
+      "routes": [
+        "1788"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796657694,
+      "name": "五間",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.769824,
+      "lng": 121.7745289,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185537,
+      "name": "土圍路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7953897,
+      "lng": 121.7947065,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185538,
+      "name": "車路頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.794613,
+      "lng": 121.8060844,
+      "routes": [
+        "191",
+        "1790"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185539,
+      "name": "大福國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7986254,
+      "lng": 121.8133843,
+      "routes": [
+        "191",
+        "1790"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185541,
+      "name": "大福路一段",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7955354,
+      "lng": 121.8080633,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317720,
+      "name": "青果市場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7377634,
+      "lng": 121.7771454
+    },
+    {
+      "id": 8428317729,
+      "name": "美福協天廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7269626,
+      "lng": 121.7875457
+    },
+    {
+      "id": 8428317733,
+      "name": "土圍",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.778478,
+      "lng": 121.7893669,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317737,
+      "name": "福德廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.785008,
+      "lng": 121.7954381,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317768,
+      "name": "順和路2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7643928,
+      "lng": 121.809124,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317826,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7680948,
+      "lng": 121.8156915,
+      "routes": [
+        "793",
+        "1788"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317852,
+      "name": "過嶺國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.759166,
+      "lng": 121.8154648
+    },
+    {
+      "id": 8428317854,
+      "name": "壯六南北五路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.749445,
+      "lng": 121.8113288
+    },
+    {
+      "id": 8428317856,
+      "name": "順和路3",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7642613,
+      "lng": 121.8053555,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317858,
+      "name": "順和路1",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7643003,
+      "lng": 121.8019733,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317860,
+      "name": "中央路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7660441,
+      "lng": 121.7960054,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317865,
+      "name": "古亭國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7710478,
+      "lng": 121.7973116,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317867,
+      "name": "美城活動中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.777963,
+      "lng": 121.789092,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317890,
+      "name": "大福路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7757615,
+      "lng": 121.7835841
+    },
+    {
+      "id": 8428317906,
+      "name": "美功路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7708688,
+      "lng": 121.7819238,
+      "routes": [
+        "793"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317943,
+      "name": "漁師廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7265094,
+      "lng": 121.822511,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317944,
+      "name": "慶安宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7213639,
+      "lng": 121.8254118,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317945,
+      "name": "東港鎮安宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7210082,
+      "lng": 121.8208855,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317946,
+      "name": "古結路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7242193,
+      "lng": 121.8128067
+    },
+    {
+      "id": 8428317947,
+      "name": "東津路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7247821,
+      "lng": 121.7758714,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317950,
+      "name": "美福鎮安宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7248503,
+      "lng": 121.7799396,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317952,
+      "name": "中央新南路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7239038,
+      "lng": 121.7879292,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317955,
+      "name": "美福路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7230754,
+      "lng": 121.7936692,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317957,
+      "name": "新南國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7228671,
+      "lng": 121.7995566,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317959,
+      "name": "新南休閒農業區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7193953,
+      "lng": 121.8073243,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317988,
+      "name": "榕樹公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7171293,
+      "lng": 121.8270037,
+      "routes": [
+        "791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317994,
+      "name": "公館同安廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7339386,
+      "lng": 121.8185319
+    },
+    {
+      "id": 8428317996,
+      "name": "壯圍沙丘旅遊服務園區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7380435,
+      "lng": 121.8194439
+    },
+    {
+      "id": 8428318050,
+      "name": "公館",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7355185,
+      "lng": 121.8161702,
+      "routes": [
+        "791",
+        "1787",
+        "1788"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428318052,
+      "name": "壯圍大橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7357146,
+      "lng": 121.8097088,
+      "routes": [
+        "791",
+        "1787",
+        "1788"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428318054,
+      "name": "下壯五",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7359107,
+      "lng": 121.8007529,
+      "routes": [
+        "791",
+        "1787",
+        "1788"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428318056,
+      "name": "吉祥路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7432359,
+      "lng": 121.7934721,
+      "routes": [
+        "791",
+        "1787",
+        "1788"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11202129475,
+      "name": "保安宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "壯圍鄉",
+      "lat": 24.7569849,
+      "lng": 121.8154742,
+      "routes": [
+        "1788",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.742Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

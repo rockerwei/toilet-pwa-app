@@ -1,0 +1,930 @@
+{
+  "city": "嘉義縣",
+  "district": "新港鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 47,
+  "items": [
+    {
+      "id": 4437555188,
+      "name": "崙陽路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5600469,
+      "lng": 120.3058903,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4437564866,
+      "name": "安和路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5605728,
+      "lng": 120.3091602,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4437614070,
+      "name": "板頭路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5610013,
+      "lng": 120.3150289,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4437614074,
+      "name": "水仙宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5612527,
+      "lng": 120.3118371,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4439094561,
+      "name": "南壇",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5600561,
+      "lng": 120.3244319,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4439094563,
+      "name": "南港派出所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5607345,
+      "lng": 120.3178003,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4439094837,
+      "name": "老塗獅",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5599027,
+      "lng": 120.3267704,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4439094839,
+      "name": "頂菜園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5597729,
+      "lng": 120.3293517,
+      "routes": [
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866060,
+      "name": "後庄路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.55843,
+      "lng": 120.336872,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866062,
+      "name": "新港",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5556764,
+      "lng": 120.3465555,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866066,
+      "name": "新港國中",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5569869,
+      "lng": 120.3429473,
+      "routes": [
+        "1650D",
+        "1651",
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866068,
+      "name": "新港國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5559126,
+      "lng": 120.3454618,
+      "routes": [
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866070,
+      "name": "新港鄉公所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5519107,
+      "lng": 120.3474587,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A",
+        "幸福溪口1路"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4445866072,
+      "name": "新港奉天宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5554748,
+      "lng": 120.3477404,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436410,
+      "name": "建昌社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5443898,
+      "lng": 120.3488241,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436412,
+      "name": "新興社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5275396,
+      "lng": 120.3517785,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436414,
+      "name": "月眉國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5208441,
+      "lng": 120.3526583,
+      "routes": [
+        "1650D",
+        "1651",
+        "7201",
+        "7201A",
+        "7217",
+        "7217B",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436416,
+      "name": "月眉派出所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5232205,
+      "lng": 120.3514647,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436422,
+      "name": "水利會",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5184653,
+      "lng": 120.3546928,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4450436467,
+      "name": "菜公村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5402526,
+      "lng": 120.3498701,
+      "routes": [
+        "7201",
+        "7201A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5709144252,
+      "name": "大潭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5563623,
+      "lng": 120.3726234,
+      "routes": [
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5709144254,
+      "name": "三王公廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.555211,
+      "lng": 120.3626195,
+      "routes": [
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5709146603,
+      "name": "西庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.557151,
+      "lng": 120.3805876,
+      "routes": [
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7540643640,
+      "name": "東頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5557249,
+      "lng": 120.34982,
+      "routes": [
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7540643642,
+      "name": "宮前",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5558724,
+      "lng": 120.3546439,
+      "routes": [
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7540643643,
+      "name": "三王公廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5552209,
+      "lng": 120.3440916
+    },
+    {
+      "id": 7541695537,
+      "name": "高橋1站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5136977,
+      "lng": 120.3266859,
+      "routes": [
+        "7235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.918Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7541695539,
+      "name": "高橋2站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.531936,
+      "lng": 120.3276005,
+      "routes": [
+        "7235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.918Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7541695541,
+      "name": "高橋3站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5454065,
+      "lng": 120.3286305,
+      "routes": [
+        "7235"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.918Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7541695547,
+      "name": "舊南港",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5604972,
+      "lng": 120.3220122,
+      "routes": [
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7541695550,
+      "name": "南洋紡織公司",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5312438,
+      "lng": 120.3523144,
+      "routes": [
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643773598,
+      "name": "崙子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5920337,
+      "lng": 120.3555022,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643773600,
+      "name": "北崙",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.592588,
+      "lng": 120.3578585,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643787436,
+      "name": "埤子頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5875748,
+      "lng": 120.3680375,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643787440,
+      "name": "埤子頭 (1)",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5870082,
+      "lng": 120.3659146,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643811879,
+      "name": "古民",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5673627,
+      "lng": 120.3493881,
+      "routes": [
+        "7307",
+        "7307A",
+        "幸福溪口1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643837770,
+      "name": "新港市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5570907,
+      "lng": 120.3466322,
+      "routes": [
+        "7307",
+        "7307A",
+        "幸福溪口1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643837772,
+      "name": "水利工作站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5601603,
+      "lng": 120.3473791,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643837774,
+      "name": "教會前",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5619564,
+      "lng": 120.3478552,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822618909,
+      "name": "三間厝1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5211353,
+      "lng": 120.3902538,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822618911,
+      "name": "三間厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5212261,
+      "lng": 120.3872367,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822618913,
+      "name": "中洋子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5258059,
+      "lng": 120.3714262,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822618915,
+      "name": "月眉潭1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5225997,
+      "lng": 120.3526323,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822622717,
+      "name": "溪北1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5138805,
+      "lng": 120.3347495,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822622719,
+      "name": "溪北",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5135218,
+      "lng": 120.3384729,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822622721,
+      "name": "安和村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.513528,
+      "lng": 120.3138699,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822622723,
+      "name": "安和村1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "新港鄉",
+      "lat": 23.5133683,
+      "lng": 120.3117105,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.422Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

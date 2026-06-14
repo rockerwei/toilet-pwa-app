@@ -1,0 +1,757 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:00:16.349Z",
+  "items": [
+    {
+      "id": 2637866964,
+      "name": "金字碑古道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0821759,
+      "lng": 121.8434046,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.309Z"
+    },
+    {
+      "id": 2962405234,
+      "name": "虎豹潭風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 24.9728762,
+      "lng": 121.827678,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.311Z"
+    },
+    {
+      "id": 3608091717,
+      "name": "雙溪荷花園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0266894,
+      "lng": 121.8239733,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.313Z"
+    },
+    {
+      "id": 4201277365,
+      "name": "觀瀑平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9402502,
+      "lng": 121.7995151,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.314Z"
+    },
+    {
+      "id": 4398691279,
+      "name": "礦場事務所遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0877352,
+      "lng": 121.8568661,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.315Z"
+    },
+    {
+      "id": 4398691284,
+      "name": "貂山古道碑記",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0847363,
+      "lng": 121.8559383,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.316Z"
+    },
+    {
+      "id": 4432506591,
+      "name": "大樟嶺(辭職嶺)古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9987297,
+      "lng": 121.8458631,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.318Z"
+    },
+    {
+      "id": 4433556189,
+      "name": "丁蘭谷生態園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.998884,
+      "lng": 121.8654428,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.319Z"
+    },
+    {
+      "id": 5278190956,
+      "name": "牡丹坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0485122,
+      "lng": 121.860632,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.320Z"
+    },
+    {
+      "id": 5278190957,
+      "name": "牡丹坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0541419,
+      "lng": 121.8577971,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.321Z"
+    },
+    {
+      "id": 6475572812,
+      "name": "淡蘭古道三貂古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0809293,
+      "lng": 121.8450492,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.322Z"
+    },
+    {
+      "id": 6475572814,
+      "name": "淡蘭古道三貂古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0811507,
+      "lng": 121.844891,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.323Z"
+    },
+    {
+      "id": 6475572831,
+      "name": "淡蘭古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0740138,
+      "lng": 121.8514056,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.324Z"
+    },
+    {
+      "id": 6475572835,
+      "name": "淡蘭古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0815943,
+      "lng": 121.8579638,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.324Z"
+    },
+    {
+      "id": 6481720948,
+      "name": "21公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0881091,
+      "lng": 121.8466157,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.325Z"
+    },
+    {
+      "id": 6482212560,
+      "name": "貂山古道解說碑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0958024,
+      "lng": 121.8550356,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.325Z"
+    },
+    {
+      "id": 6482212580,
+      "name": "無緣之墓解說碑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0890008,
+      "lng": 121.8571691,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.326Z"
+    },
+    {
+      "id": 6496561000,
+      "name": "28公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0563756,
+      "lng": 121.8506702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.326Z"
+    },
+    {
+      "id": 6496561001,
+      "name": "27.5公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0598709,
+      "lng": 121.8499867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.326Z"
+    },
+    {
+      "id": 6496561002,
+      "name": "27公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0632029,
+      "lng": 121.8494689,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.327Z"
+    },
+    {
+      "id": 6496561003,
+      "name": "23公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0809136,
+      "lng": 121.8448173,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.327Z"
+    },
+    {
+      "id": 6496935797,
+      "name": "不厭天下景觀",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0889053,
+      "lng": 121.850451,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.327Z"
+    },
+    {
+      "id": 6643314630,
+      "name": "雙溪自來水取水口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0813502,
+      "lng": 121.8589577,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.328Z"
+    },
+    {
+      "id": 6643314631,
+      "name": "日本帝國牡丹水庫取水井",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.081233,
+      "lng": 121.8583339,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.328Z"
+    },
+    {
+      "id": 6643314638,
+      "name": "牡丹水壩解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0842913,
+      "lng": 121.8645151,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.329Z"
+    },
+    {
+      "id": 6707062436,
+      "name": "野豬出沒注意",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0878243,
+      "lng": 121.8709476,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.329Z"
+    },
+    {
+      "id": 6707062437,
+      "name": "吊橋遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0881513,
+      "lng": 121.8708468,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.330Z"
+    },
+    {
+      "id": 6707062438,
+      "name": "燦光寮鋪跡解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0881658,
+      "lng": 121.8700529,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.330Z"
+    },
+    {
+      "id": 6707062439,
+      "name": "柑仔店遺址解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.088036,
+      "lng": 121.8640688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.330Z"
+    },
+    {
+      "id": 6707231289,
+      "name": "淡蘭古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0924454,
+      "lng": 121.8609452,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.331Z"
+    },
+    {
+      "id": 6715267496,
+      "name": "淡蘭古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0825711,
+      "lng": 121.873246,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.331Z"
+    },
+    {
+      "id": 6810465792,
+      "name": "過坪溪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9143279,
+      "lng": 121.8395758,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.332Z"
+    },
+    {
+      "id": 6815507788,
+      "name": "雙溪鄉自來水取水口告示",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0814071,
+      "lng": 121.8621295,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.332Z"
+    },
+    {
+      "id": 6819777912,
+      "name": "21.5公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.084701,
+      "lng": 121.8452162,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.333Z"
+    },
+    {
+      "id": 6819777913,
+      "name": "22公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0829449,
+      "lng": 121.8441269,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.333Z"
+    },
+    {
+      "id": 8356489389,
+      "name": "青蛙石",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9932213,
+      "lng": 121.7901877,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.334Z"
+    },
+    {
+      "id": 8847312417,
+      "name": "三層巷入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9648711,
+      "lng": 121.8020006,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.334Z"
+    },
+    {
+      "id": 9556229208,
+      "name": "汽車通車終點",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0482741,
+      "lng": 121.8360947,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.334Z"
+    },
+    {
+      "id": 9556249646,
+      "name": "觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9947008,
+      "lng": 121.7646363,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.335Z"
+    },
+    {
+      "id": 9556267530,
+      "name": "廢棄水泥路底",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0470242,
+      "lng": 121.8351515,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.335Z"
+    },
+    {
+      "id": 9589894190,
+      "name": "觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0160686,
+      "lng": 121.8161449,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.336Z"
+    },
+    {
+      "id": 9717057983,
+      "name": "大夯瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9882395,
+      "lng": 121.7902077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.336Z"
+    },
+    {
+      "id": 9870184208,
+      "name": "往隆美煤礦遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0581368,
+      "lng": 121.8466107,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.336Z"
+    },
+    {
+      "id": 9870184214,
+      "name": "舊三貂嶺隧道自行車道起點",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0591262,
+      "lng": 121.8507351,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.337Z"
+    },
+    {
+      "id": 9880080731,
+      "name": "舊三貂嶺自行車道沿革",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.056714,
+      "lng": 121.8431202,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.337Z"
+    },
+    {
+      "id": 11011690747,
+      "name": "絹絲瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0124472,
+      "lng": 121.7905638,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.338Z"
+    },
+    {
+      "id": 11146492548,
+      "name": "樹中竹",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9303797,
+      "lng": 121.7885458,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.338Z"
+    },
+    {
+      "id": 11332234769,
+      "name": "隧道口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0563649,
+      "lng": 121.8414857,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.338Z"
+    },
+    {
+      "id": 11672684027,
+      "name": "遊客止步",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0814456,
+      "lng": 121.8549645,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.339Z"
+    },
+    {
+      "id": 11672684028,
+      "name": "遊客止步",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0813469,
+      "lng": 121.8552874,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.339Z"
+    },
+    {
+      "id": 11672684029,
+      "name": "前方為溪谷水路不建議通行",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.084703,
+      "lng": 121.855134,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.340Z"
+    },
+    {
+      "id": 11954186865,
+      "name": "丁子蘭坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9945191,
+      "lng": 121.8601642,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.340Z"
+    },
+    {
+      "id": 11989469814,
+      "name": "雙溪口合流瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9734207,
+      "lng": 121.8505794,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.340Z"
+    },
+    {
+      "id": 12037259994,
+      "name": "遊客止步",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.971112,
+      "lng": 121.8285997,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.341Z"
+    },
+    {
+      "id": 12043517245,
+      "name": "苕谷瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.022416,
+      "lng": 121.8590364,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.341Z"
+    },
+    {
+      "id": 12115227042,
+      "name": "120度牡丹站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0552702,
+      "lng": 121.8525668,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.341Z"
+    },
+    {
+      "id": 12141958361,
+      "name": "庚子寮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0678729,
+      "lng": 121.8713603,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.342Z"
+    },
+    {
+      "id": 12141958362,
+      "name": "庚子寮西南峰",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0671746,
+      "lng": 121.870768,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.342Z"
+    },
+    {
+      "id": 12141958363,
+      "name": "石笋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0637675,
+      "lng": 121.8635462,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.342Z"
+    },
+    {
+      "id": 12214086373,
+      "name": "瀑布觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9579749,
+      "lng": 121.8271602,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.343Z"
+    },
+    {
+      "id": 12214086380,
+      "name": "小湖尾瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9580366,
+      "lng": 121.8273598,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.343Z"
+    },
+    {
+      "id": 12387429668,
+      "name": "石龜山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9289772,
+      "lng": 121.8371555,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.344Z"
+    },
+    {
+      "id": 12390472541,
+      "name": "三層瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9310651,
+      "lng": 121.8117982,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.344Z"
+    },
+    {
+      "id": 12390472543,
+      "name": "石流瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9380297,
+      "lng": 121.8083507,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.344Z"
+    },
+    {
+      "id": 12392608763,
+      "name": "竹林隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9361992,
+      "lng": 121.8089581,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.345Z"
+    },
+    {
+      "id": 12395883949,
+      "name": "巨岩石",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9539763,
+      "lng": 121.8101669,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.345Z"
+    },
+    {
+      "id": 12424523069,
+      "name": "灣潭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9442114,
+      "lng": 121.8003759,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.345Z"
+    },
+    {
+      "id": 12441645053,
+      "name": "灣潭崙",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9241422,
+      "lng": 121.8114105,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.346Z"
+    },
+    {
+      "id": 12508935741,
+      "name": "觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0263848,
+      "lng": 121.8625469,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.346Z"
+    },
+    {
+      "id": 12537550509,
+      "name": "往豎旗山100~120分鐘",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.96191,
+      "lng": 121.8121902,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.347Z"
+    },
+    {
+      "id": 13063119217,
+      "name": "鹿空瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9485817,
+      "lng": 121.802725,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.347Z"
+    },
+    {
+      "id": 13931439473,
+      "name": "南勢坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9261069,
+      "lng": 121.80863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.347Z"
+    },
+    {
+      "id": 1234497445,
+      "name": "石拱橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9916648,
+      "lng": 121.790753,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.348Z"
+    },
+    {
+      "id": 1491706227,
+      "name": "鐵吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0354488,
+      "lng": 121.8146886,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.348Z"
+    },
+    {
+      "id": 7072030,
+      "name": "東北角沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0028358,
+      "lng": 121.9180042,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:00:16.348Z"
+    }
+  ]
+}

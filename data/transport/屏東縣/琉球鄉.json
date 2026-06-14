@@ -1,0 +1,251 @@
+{
+  "city": "屏東縣",
+  "district": "琉球鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 19,
+  "items": [
+    {
+      "id": 5287677636,
+      "name": "望海亭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3531835,
+      "lng": 120.3731978,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5287679111,
+      "name": "生態廊道",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3445547,
+      "lng": 120.362731
+    },
+    {
+      "id": 6317897503,
+      "name": "觀音石",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3228431,
+      "lng": 120.3616724,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6734690341,
+      "name": "全德國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3496392,
+      "lng": 120.3679195
+    },
+    {
+      "id": 6734690342,
+      "name": "沙瑪基",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3518272,
+      "lng": 120.3705762
+    },
+    {
+      "id": 6734690343,
+      "name": "美人洞",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3544914,
+      "lng": 120.3754324,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6734690344,
+      "name": "花瓶岩 (遊客中心)",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3540846,
+      "lng": 120.3810154
+    },
+    {
+      "id": 6734690345,
+      "name": "觀光碼頭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3511872,
+      "lng": 120.3850856,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822194205,
+      "name": "蛤板灣",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3357948,
+      "lng": 120.3617075,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822194206,
+      "name": "山豬溝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3386206,
+      "lng": 120.3624652,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822194207,
+      "name": "杉福漁港",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3407406,
+      "lng": 120.3639954,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822220899,
+      "name": "龍蝦洞",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3454455,
+      "lng": 120.3872636
+    },
+    {
+      "id": 6822220901,
+      "name": "旭日亭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3401166,
+      "lng": 120.3818656
+    },
+    {
+      "id": 6822220902,
+      "name": "大福亭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3318972,
+      "lng": 120.3713201
+    },
+    {
+      "id": 6822220903,
+      "name": "厚石砲臺",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3260039,
+      "lng": 120.3658926
+    },
+    {
+      "id": 6822220904,
+      "name": "公車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3252937,
+      "lng": 120.353803
+    },
+    {
+      "id": 6822220905,
+      "name": "落日亭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3251672,
+      "lng": 120.3534597,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822220906,
+      "name": "烏鬼洞",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3303813,
+      "lng": 120.3559086,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6822220907,
+      "name": "長春亭 (番子厝)",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "琉球鄉",
+      "lat": 22.3318488,
+      "lng": 120.3588563,
+      "routes": [
+        "601"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.196Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

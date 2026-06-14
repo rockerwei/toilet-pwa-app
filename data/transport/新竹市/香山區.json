@@ -1,0 +1,2172 @@
+{
+  "city": "新竹市",
+  "district": "香山區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 148,
+  "items": [
+    {
+      "id": 2149511862,
+      "name": "香山轉運站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7560181,
+      "lng": 120.9531685,
+      "routes": [
+        "1866A",
+        "2011B",
+        "2011C",
+        "綠線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.653Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341732763,
+      "name": "元培科技大學",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7780651,
+      "lng": 120.9401972,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341732764,
+      "name": "玄奘大學",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7745995,
+      "lng": 120.9443276,
+      "routes": [
+        "23",
+        "23支A",
+        "1866A",
+        "2011B",
+        "2011C",
+        "綠線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3357186104,
+      "name": "瓦厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8100396,
+      "lng": 120.9243167,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3357186105,
+      "name": "金元寶",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8084326,
+      "lng": 120.9225132,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3357186106,
+      "name": "海埔地",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8177537,
+      "lng": 120.9289672,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3367722039,
+      "name": "南隘",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7294924,
+      "lng": 120.9357911,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3664245682,
+      "name": "聖公宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7850288,
+      "lng": 120.9180609,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4329493559,
+      "name": "香山",
+      "type": "train",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7629187,
+      "lng": 120.9140702
+    },
+    {
+      "id": 4450762389,
+      "name": "三姓橋",
+      "type": "train",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7872315,
+      "lng": 120.9282199
+    },
+    {
+      "id": 5739217423,
+      "name": "茄苳湖",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7576959,
+      "lng": 120.948122,
+      "routes": [
+        "綠線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217424,
+      "name": "東香南街口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7620792,
+      "lng": 120.949791,
+      "routes": [
+        "綠線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217425,
+      "name": "韭菜坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7697703,
+      "lng": 120.9471664,
+      "routes": [
+        "綠線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217426,
+      "name": "榕樹下",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.77227,
+      "lng": 120.94481,
+      "routes": [
+        "綠線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217428,
+      "name": "獅頭橋",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.77628,
+      "lng": 120.94333,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217429,
+      "name": "香山坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7783369,
+      "lng": 120.9381639,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217430,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7793556,
+      "lng": 120.9359572,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217431,
+      "name": "隘口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7826399,
+      "lng": 120.9328249,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217432,
+      "name": "香山高中",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7848539,
+      "lng": 120.9307027,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217433,
+      "name": "三姓橋火車站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.786359,
+      "lng": 120.9294915,
+      "routes": [
+        "23",
+        "23支A",
+        "綠線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217434,
+      "name": "金正順診所",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.78971,
+      "lng": 120.93179,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823",
+        "綠線"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217435,
+      "name": "金山園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7905,
+      "lng": 120.93392,
+      "routes": [
+        "23",
+        "綠線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217436,
+      "name": "台灣玻璃",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.79111,
+      "lng": 120.9374,
+      "routes": [
+        "23",
+        "綠線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217437,
+      "name": "牛埔口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7920167,
+      "lng": 120.9406904
+    },
+    {
+      "id": 5739217438,
+      "name": "中埔口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7938,
+      "lng": 120.94534,
+      "routes": [
+        "23",
+        "綠線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.654Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217439,
+      "name": "中埔",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7955623,
+      "lng": 120.9495229,
+      "routes": [
+        "23",
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823",
+        "世博5號",
+        "綠線"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5739217440,
+      "name": "農會",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.79668,
+      "lng": 120.95457
+    },
+    {
+      "id": 5739227877,
+      "name": "牛埔口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7920526,
+      "lng": 120.9417422,
+      "routes": [
+        "23",
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823",
+        "綠線"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505488466,
+      "name": "全家便利商店",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7315306,
+      "lng": 120.9158783
+    },
+    {
+      "id": 6836308834,
+      "name": "亞歷山大",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7205989,
+      "lng": 120.9189016,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836308795,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7350971,
+      "lng": 120.9129819,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836308818,
+      "name": "五分碑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7313076,
+      "lng": 120.9156387
+    },
+    {
+      "id": 6836308829,
+      "name": "中隘",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7286509,
+      "lng": 120.9171206,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836308832,
+      "name": "集乳站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7220924,
+      "lng": 120.919037,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836308839,
+      "name": "邱厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7199447,
+      "lng": 120.9168765,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836378666,
+      "name": "內湖",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7425514,
+      "lng": 120.9084557,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836378668,
+      "name": "汐止坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7401093,
+      "lng": 120.9095554,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.655Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836440414,
+      "name": "海山罟",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7526797,
+      "lng": 120.9100503,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836440418,
+      "name": "佳勝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7504753,
+      "lng": 120.9087789,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836440421,
+      "name": "鹽水港",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7471967,
+      "lng": 120.9066761,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836699863,
+      "name": "汫水港",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7598334,
+      "lng": 120.9115469,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836703952,
+      "name": "頂寮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7733505,
+      "lng": 120.9176577,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836703962,
+      "name": "朝山",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7678866,
+      "lng": 120.9158465,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836762424,
+      "name": "三姓橋",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7881956,
+      "lng": 120.9280774,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836762429,
+      "name": "美山村",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7842653,
+      "lng": 120.9199825,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836762437,
+      "name": "大庄",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7815671,
+      "lng": 120.9194326,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6836762439,
+      "name": "西濱路口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7788616,
+      "lng": 120.9185877,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858487903,
+      "name": "內湖國小",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7427134,
+      "lng": 120.9060752,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961209,
+      "name": "美之城",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7676769,
+      "lng": 120.9631915
+    },
+    {
+      "id": 7760961211,
+      "name": "太子宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7665572,
+      "lng": 120.9633555
+    },
+    {
+      "id": 7760961220,
+      "name": "茶亭",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7648448,
+      "lng": 120.9634975
+    },
+    {
+      "id": 7760961223,
+      "name": "中坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7599223,
+      "lng": 120.9592852
+    },
+    {
+      "id": 7760961225,
+      "name": "古車路",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7544055,
+      "lng": 120.955492
+    },
+    {
+      "id": 7760961227,
+      "name": "柯仔楠",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7547055,
+      "lng": 120.9540901
+    },
+    {
+      "id": 7760961229,
+      "name": "中華大學",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7565941,
+      "lng": 120.9525953
+    },
+    {
+      "id": 7760961232,
+      "name": "中華大學宿舍",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7589512,
+      "lng": 120.9505927
+    },
+    {
+      "id": 7760961233,
+      "name": "張厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7577791,
+      "lng": 120.9504067
+    },
+    {
+      "id": 7760961235,
+      "name": "香山坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7589232,
+      "lng": 120.9438799
+    },
+    {
+      "id": 7760961237,
+      "name": "廖厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7560327,
+      "lng": 120.9428646
+    },
+    {
+      "id": 7760961239,
+      "name": "米粉寮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7549969,
+      "lng": 120.9404356
+    },
+    {
+      "id": 7760961241,
+      "name": "草螺",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7537523,
+      "lng": 120.9397047
+    },
+    {
+      "id": 7760961253,
+      "name": "周厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7507221,
+      "lng": 120.9379504
+    },
+    {
+      "id": 7760961262,
+      "name": "馬厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7483665,
+      "lng": 120.9376352
+    },
+    {
+      "id": 7760961264,
+      "name": "菜瓜寮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.746051,
+      "lng": 120.9357076
+    },
+    {
+      "id": 7760961266,
+      "name": "大湖國校",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7452982,
+      "lng": 120.9326655
+    },
+    {
+      "id": 7760961268,
+      "name": "阿三坑",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7451515,
+      "lng": 120.9305759
+    },
+    {
+      "id": 7760961270,
+      "name": "埤埔",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.745664,
+      "lng": 120.9278302
+    },
+    {
+      "id": 7760961272,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7453931,
+      "lng": 120.9264677
+    },
+    {
+      "id": 7760961274,
+      "name": "大湖村",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7454444,
+      "lng": 120.9226795
+    },
+    {
+      "id": 7760961276,
+      "name": "虎尾寮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7453773,
+      "lng": 120.9209787
+    },
+    {
+      "id": 7760961278,
+      "name": "八股",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7444599,
+      "lng": 120.9164366
+    },
+    {
+      "id": 7760961280,
+      "name": "慈鳳宮(內湖)",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7428856,
+      "lng": 120.9118767
+    },
+    {
+      "id": 7764649145,
+      "name": "頂埔社區",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7994378,
+      "lng": 120.9526266,
+      "routes": [
+        "23支A",
+        "50A",
+        "51A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.656Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649147,
+      "name": "埔羌園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7999441,
+      "lng": 120.9508251
+    },
+    {
+      "id": 7764649149,
+      "name": "新東藥廠",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8000429,
+      "lng": 120.9466652,
+      "routes": [
+        "23支A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649151,
+      "name": "明月香榭",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7988592,
+      "lng": 120.9448482,
+      "routes": [
+        "23支A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649153,
+      "name": "重義橋",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7978612,
+      "lng": 120.9435747,
+      "routes": [
+        "23支A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649155,
+      "name": "牛埔",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7969839,
+      "lng": 120.9421145,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649157,
+      "name": "店子口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7961235,
+      "lng": 120.9406493,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649159,
+      "name": "埔前",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7964976,
+      "lng": 120.9375916,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649161,
+      "name": "德和",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7957483,
+      "lng": 120.9345017,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649163,
+      "name": "吉悌",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7942364,
+      "lng": 120.9325647,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649165,
+      "name": "綜合運動場",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7923192,
+      "lng": 120.9300639,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649167,
+      "name": "大庄里",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7913528,
+      "lng": 120.9268286,
+      "routes": [
+        "23支A",
+        "世博5號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649169,
+      "name": "大同磁器",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7903542,
+      "lng": 120.927246,
+      "routes": [
+        "23支A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.678Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649171,
+      "name": "三姓橋一站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7890663,
+      "lng": 120.9283482,
+      "routes": [
+        "23支A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649173,
+      "name": "大庄里活動中心",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7928779,
+      "lng": 120.9209452,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649175,
+      "name": "明烈宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7928355,
+      "lng": 120.9230272,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649176,
+      "name": "瑞光街口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7930897,
+      "lng": 120.9233165,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649178,
+      "name": "美森街口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.792275,
+      "lng": 120.9254599,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649180,
+      "name": "香山區公所(牛埔)",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7969418,
+      "lng": 120.9420796,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649182,
+      "name": "中埔里",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7976087,
+      "lng": 120.9448282,
+      "routes": [
+        "世博5號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764649184,
+      "name": "東華路",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7944275,
+      "lng": 120.9452427,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823",
+        "世博5號"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764655388,
+      "name": "香山行政大樓",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7941268,
+      "lng": 120.9430057,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764655390,
+      "name": "香山國小",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7962412,
+      "lng": 120.9443717,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764655391,
+      "name": "香山國小",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7968453,
+      "lng": 120.9454731,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764655392,
+      "name": "聖德宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7975712,
+      "lng": 120.9478077,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7764655394,
+      "name": "信義幼稚園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7987778,
+      "lng": 120.9549673,
+      "routes": [
+        "50A",
+        "51A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131748,
+      "name": "虎林新村",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8051031,
+      "lng": 120.9424028,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131750,
+      "name": "虎林國小",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8051115,
+      "lng": 120.9405783,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131752,
+      "name": "小南勢",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8052269,
+      "lng": 120.9383065,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.679Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131754,
+      "name": "虎山",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8075329,
+      "lng": 120.9349766,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131756,
+      "name": "中庄",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8068289,
+      "lng": 120.9318162,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131758,
+      "name": "金廈園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8060517,
+      "lng": 120.9290706,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131763,
+      "name": "香雅橋",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8040078,
+      "lng": 120.9258645,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131765,
+      "name": "罟寮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8059598,
+      "lng": 120.9218826,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131767,
+      "name": "罟寮一站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8066877,
+      "lng": 120.9215072,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131771,
+      "name": "營房口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8136975,
+      "lng": 120.9283321,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131773,
+      "name": "海口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8154582,
+      "lng": 120.928966,
+      "routes": [
+        "11",
+        "11甲"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765131776,
+      "name": "順天宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8185685,
+      "lng": 120.9275822,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765159193,
+      "name": "冠軍廠",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8242502,
+      "lng": 120.9270943,
+      "routes": [
+        "11甲"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765159195,
+      "name": "港南",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8221785,
+      "lng": 120.9270173,
+      "routes": [
+        "11甲"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7765159197,
+      "name": "南油車港",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8204894,
+      "lng": 120.9277986,
+      "routes": [
+        "11甲"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7768927072,
+      "name": "富群街口",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7674574,
+      "lng": 120.9606347,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7768927073,
+      "name": "富群花園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7687026,
+      "lng": 120.9581812,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7768927074,
+      "name": "日月光飯店",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7691243,
+      "lng": 120.9569077,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7768927077,
+      "name": "陽明清境",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7794739,
+      "lng": 120.9595506,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.657Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771933247,
+      "name": "東華路",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7934942,
+      "lng": 120.9454082,
+      "routes": [
+        "5801",
+        "5801A",
+        "5803",
+        "5803A",
+        "5807",
+        "5807A",
+        "5823",
+        "世博5號"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771933248,
+      "name": "香山農會",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7966981,
+      "lng": 120.954483
+    },
+    {
+      "id": 7772363448,
+      "name": "埔羌園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7994674,
+      "lng": 120.952571
+    },
+    {
+      "id": 7772363450,
+      "name": "浸水庄",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7986993,
+      "lng": 120.9448723
+    },
+    {
+      "id": 7772363452,
+      "name": "華淵電機",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7903808,
+      "lng": 120.9306352
+    },
+    {
+      "id": 7772363454,
+      "name": "崁仔腳",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7379956,
+      "lng": 120.9111074,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A",
+        "5823"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.680Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363455,
+      "name": "乾坤宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7315853,
+      "lng": 120.9177211,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363457,
+      "name": "蔡厝",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7279295,
+      "lng": 120.924749,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363459,
+      "name": "大院",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7284934,
+      "lng": 120.92726,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363461,
+      "name": "南隘國小",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7275678,
+      "lng": 120.9319066,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12740594366,
+      "name": "三姓橋火車站",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7871827,
+      "lng": 120.928704
+    },
+    {
+      "id": 12740594367,
+      "name": "浸水街34巷",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.798192,
+      "lng": 120.9365796
+    },
+    {
+      "id": 12740594368,
+      "name": "靈安宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7994599,
+      "lng": 120.9346382
+    },
+    {
+      "id": 12740594369,
+      "name": "福樹街",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8023522,
+      "lng": 120.9338284
+    },
+    {
+      "id": 12740594370,
+      "name": "南寧宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.802801,
+      "lng": 120.9289531
+    },
+    {
+      "id": 12740594371,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8013824,
+      "lng": 120.926426
+    },
+    {
+      "id": 12740594372,
+      "name": "南靈宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.797995,
+      "lng": 120.9240422
+    },
+    {
+      "id": 12740594373,
+      "name": "鳳和宮",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7969514,
+      "lng": 120.9308684
+    },
+    {
+      "id": 12740594375,
+      "name": "坤大科技",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.783183,
+      "lng": 120.9325916
+    },
+    {
+      "id": 12740594376,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.777521,
+      "lng": 120.9321274
+    },
+    {
+      "id": 12740594377,
+      "name": "紀伊國社區",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7745361,
+      "lng": 120.9343094
+    },
+    {
+      "id": 12740594378,
+      "name": "香村路361號",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7731116,
+      "lng": 120.9336984
+    },
+    {
+      "id": 12740594379,
+      "name": "晶園社區",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7694028,
+      "lng": 120.9379131
+    },
+    {
+      "id": 12740594380,
+      "name": "香村路801巷",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7639846,
+      "lng": 120.9425173
+    },
+    {
+      "id": 12740594381,
+      "name": "草漯街",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7595518,
+      "lng": 120.9429943
+    },
+    {
+      "id": 13335496739,
+      "name": "新香街",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.774831,
+      "lng": 120.960474,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.658Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13710604944,
+      "name": "港南運河公園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.8223095,
+      "lng": 120.9105201
+    },
+    {
+      "id": 13710604971,
+      "name": "香山濕地",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7815979,
+      "lng": 120.9149503
+    },
+    {
+      "id": 13710604972,
+      "name": "海山漁港",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7636589,
+      "lng": 120.9070344
+    },
+    {
+      "id": 13710604976,
+      "name": "南港賞鳥公園",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7424576,
+      "lng": 120.8947064
+    },
+    {
+      "id": 13710604999,
+      "name": "海之聲",
+      "type": "bus",
+      "city": "新竹市",
+      "district": "香山區",
+      "lat": 24.7383361,
+      "lng": 120.8893424
+    }
+  ]
+}

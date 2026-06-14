@@ -1,0 +1,37 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:12:33.349Z",
+  "items": [
+    {
+      "id": 2274915941,
+      "name": "線西工業區水鳥觀察區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1253391,
+      "lng": 120.4111339,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:12:33.345Z"
+    },
+    {
+      "id": 2274915944,
+      "name": "肉粽角海灘",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 24.1251256,
+      "lng": 120.4042118,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:12:33.348Z"
+    },
+    {
+      "id": 7015018,
+      "name": "大肚溪口野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.1842441,
+      "lng": 120.4706709,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:12:33.349Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:49:07.451Z",
+  "items": [
+    {
+      "id": 2352242824,
+      "name": "北港天空之橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5723681,
+      "lng": 120.3048338,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:49:07.447Z"
+    },
+    {
+      "id": 12636016600,
+      "name": "Moovo北港遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.5691,
+      "lng": 120.305156,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:49:07.448Z"
+    },
+    {
+      "id": 12852200945,
+      "name": "北港春休閒園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5914521,
+      "lng": 120.2928396,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:49:07.449Z"
+    },
+    {
+      "id": 13473539274,
+      "name": "北港溪鐵橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5722907,
+      "lng": 120.3049183,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:49:07.450Z"
+    },
+    {
+      "id": 1274037920,
+      "name": "北港老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5660902,
+      "lng": 120.3043324,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:49:07.450Z"
+    }
+  ]
+}

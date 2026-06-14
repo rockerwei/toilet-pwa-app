@@ -1,0 +1,48 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:37:47.414Z",
+  "items": [
+    {
+      "id": 2131734811,
+      "name": "真愛碼頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6177033,
+      "lng": 120.2885447,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:37:47.408Z"
+    },
+    {
+      "id": 4577075189,
+      "name": "中正橋碼頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.625743,
+      "lng": 120.2882898,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:37:47.410Z"
+    },
+    {
+      "id": 755347283,
+      "name": "駁二塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6186831,
+      "lng": 120.2830886,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:37:47.412Z"
+    },
+    {
+      "id": 1153233820,
+      "name": "高雄港牌樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6217262,
+      "lng": 120.2796985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:37:47.413Z",
+      "address": "高雄市鹽埕區七賢三路"
+    }
+  ]
+}

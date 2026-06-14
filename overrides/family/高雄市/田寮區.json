@@ -1,0 +1,189 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:51:35.560Z",
+  "items": [
+    {
+      "id": 2475281251,
+      "name": "天靈洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8511155,
+      "lng": 120.3442171,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.544Z"
+    },
+    {
+      "id": 3311656929,
+      "name": "弦月眺景台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.888052,
+      "lng": 120.3884919,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.546Z"
+    },
+    {
+      "id": 5444813733,
+      "name": "蓮花亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8178963,
+      "lng": 120.4230525,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.547Z",
+      "address": "中寮二路"
+    },
+    {
+      "id": 9797731424,
+      "name": "橫路月世界秘境",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8173755,
+      "lng": 120.4138008,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.549Z"
+    },
+    {
+      "id": 10934162917,
+      "name": "小滾水泥火山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8782697,
+      "lng": 120.3899518,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.550Z"
+    },
+    {
+      "id": 11799496528,
+      "name": "月世界地景公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.88573,
+      "lng": 120.3895255,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.552Z"
+    },
+    {
+      "id": 11799496540,
+      "name": "月世界 全台泥岩分布解說",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8860239,
+      "lng": 120.3888033,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.553Z"
+    },
+    {
+      "id": 11799539929,
+      "name": "月世界地景公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8901383,
+      "lng": 120.3872278,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.554Z"
+    },
+    {
+      "id": 11799539935,
+      "name": "月世界 後山老井(溢洪井)解說",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8902892,
+      "lng": 120.3873062,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.555Z"
+    },
+    {
+      "id": 11799539982,
+      "name": "月世界地景公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8904466,
+      "lng": 120.3882087,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.556Z"
+    },
+    {
+      "id": 11799539997,
+      "name": "月世界地景公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8894003,
+      "lng": 120.3891948,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.556Z"
+    },
+    {
+      "id": 11799707743,
+      "name": "月世界地景公園全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8860923,
+      "lng": 120.3890139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.557Z"
+    },
+    {
+      "id": 11799707744,
+      "name": "田寮惡地遊憩系統",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8861776,
+      "lng": 120.3901094,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.558Z"
+    },
+    {
+      "id": 11799723713,
+      "name": "小滾水泥火山",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8782962,
+      "lng": 120.3899263,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.558Z"
+    },
+    {
+      "id": 11801028152,
+      "name": "軍事管制區域",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8731981,
+      "lng": 120.3574636,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.559Z"
+    },
+    {
+      "id": 11813245538,
+      "name": "石母乳與一線天",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8500254,
+      "lng": 120.3552245,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.559Z"
+    },
+    {
+      "id": 1176932406,
+      "name": "田寮月世界遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8858281,
+      "lng": 120.3898423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.560Z",
+      "address": "高雄市田寮區月球路36號"
+    },
+    {
+      "id": 1270610167,
+      "name": "弦月眺景台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.8880685,
+      "lng": 120.3885314,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:51:35.560Z"
+    }
+  ]
+}

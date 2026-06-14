@@ -1,0 +1,1084 @@
+{
+  "city": "台南市",
+  "district": "七股區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 67,
+  "items": [
+    {
+      "id": 2787645613,
+      "name": "十份",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0897388,
+      "lng": 120.1056973,
+      "routes": [
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3024869193,
+      "name": "光復實小",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1498854,
+      "lng": 120.1079253,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557392,
+      "name": "三股",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0987722,
+      "lng": 120.1175803,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557394,
+      "name": "九塊厝",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0911094,
+      "lng": 120.0889202,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557395,
+      "name": "十份里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0954278,
+      "lng": 120.1060631,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557397,
+      "name": "東三股",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0953975,
+      "lng": 120.1227576,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557399,
+      "name": "東九塊厝",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0907429,
+      "lng": 120.091746,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557401,
+      "name": "永吉",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0928238,
+      "lng": 120.1283612,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101557403,
+      "name": "金德興",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0900555,
+      "lng": 120.0988867,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍23 九塊厝→安平工業區",
+        "藍23 安平工業區→九塊厝"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101798738,
+      "name": "篤加國小",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1597241,
+      "lng": 120.1359626
+    },
+    {
+      "id": 3101809629,
+      "name": "七股",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1370983,
+      "lng": 120.1346336
+    },
+    {
+      "id": 3101809631,
+      "name": "七股區公所",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1399919,
+      "lng": 120.1383186,
+      "routes": [
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809632,
+      "name": "七股區公所",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1408371,
+      "lng": 120.1390575,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809633,
+      "name": "七股寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1346245,
+      "lng": 120.1300775,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809635,
+      "name": "東七股寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1338835,
+      "lng": 120.1326504,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809637,
+      "name": "五股",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1385516,
+      "lng": 120.1364539,
+      "routes": [
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809638,
+      "name": "五股",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1393769,
+      "lng": 120.137252,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101809639,
+      "name": "篤加里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1598856,
+      "lng": 120.1280722
+    },
+    {
+      "id": 3101809640,
+      "name": "玉成",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1359206,
+      "lng": 120.1344567,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3101823531,
+      "name": "永吉路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0960127,
+      "lng": 120.1315883
+    },
+    {
+      "id": 3101823533,
+      "name": "靈母宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1093895,
+      "lng": 120.131693
+    },
+    {
+      "id": 3103178473,
+      "name": "後港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1852225,
+      "lng": 120.1479163,
+      "routes": [
+        "藍15 佳里站→漚汪"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534403,
+      "name": "城子內",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1792924,
+      "lng": 120.143501,
+      "routes": [
+        "藍11 佳里→城子內→青鯤鯓",
+        "藍11 青鯤鯓→城子內→佳里",
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534405,
+      "name": "大潭",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1879251,
+      "lng": 120.1310737,
+      "routes": [
+        "藍11 佳里→城子內→青鯤鯓",
+        "藍11 青鯤鯓→城子內→佳里",
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534408,
+      "name": "後港西",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.183089,
+      "lng": 120.1400015,
+      "routes": [
+        "藍11 佳里→城子內→青鯤鯓",
+        "藍11 青鯤鯓→城子內→佳里",
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534411,
+      "name": "西寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1697562,
+      "lng": 120.0974933,
+      "routes": [
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮",
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534413,
+      "name": "謝子寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1875496,
+      "lng": 120.1342601,
+      "routes": [
+        "藍11 佳里→城子內→青鯤鯓",
+        "藍11 青鯤鯓→城子內→佳里",
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮",
+        "藍15 佳里站→漚汪",
+        "藍15 漚汪→佳里站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3103534420,
+      "name": "頂山子",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.181739,
+      "lng": 120.1126176,
+      "routes": [
+        "藍11 佳里→城子內→青鯤鯓",
+        "藍11 青鯤鯓→城子內→佳里",
+        "藍13 西寮→佳里",
+        "藍13 佳里→西寮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105328413,
+      "name": "林投內",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.117868,
+      "lng": 120.1609601,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361838,
+      "name": "七十二份",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1018642,
+      "lng": 120.1616347,
+      "routes": [
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361840,
+      "name": "下看坪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1224395,
+      "lng": 120.1484936,
+      "routes": [
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361842,
+      "name": "下義合",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1006598,
+      "lng": 120.1438091,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361844,
+      "name": "春園休閒農場",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1193405,
+      "lng": 120.1518955,
+      "routes": [
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361846,
+      "name": "槺榔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0963272,
+      "lng": 120.1449021,
+      "routes": [
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361848,
+      "name": "槺榔口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0974935,
+      "lng": 120.1432662,
+      "routes": [
+        "藍21 佳里→義合→九塊厝"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.647Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361850,
+      "name": "樹子腳",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1152366,
+      "lng": 120.1610267,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361852,
+      "name": "樹林",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1122694,
+      "lng": 120.1562877,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361854,
+      "name": "看坪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1274252,
+      "lng": 120.1478619,
+      "routes": [
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361856,
+      "name": "竹橋",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1040718,
+      "lng": 120.1643857,
+      "routes": [
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝",
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105361858,
+      "name": "義合",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1077935,
+      "lng": 120.1492903,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105379070,
+      "name": "佳里榮民之家",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.104513,
+      "lng": 120.1240456,
+      "routes": [
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105388664,
+      "name": "黑面琵鷺生態展示館",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0820728,
+      "lng": 120.0622498
+    },
+    {
+      "id": 3105388666,
+      "name": "黑面琵鷺賞鳥亭",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0794792,
+      "lng": 120.0536243
+    },
+    {
+      "id": 3106744672,
+      "name": "七股農會",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1430194,
+      "lng": 120.1420279,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106744674,
+      "name": "三合",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1459719,
+      "lng": 120.1457425,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106744680,
+      "name": "大寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1488774,
+      "lng": 120.1498406,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799832,
+      "name": "中寮子",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1523943,
+      "lng": 120.1067025,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799834,
+      "name": "台區",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1524072,
+      "lng": 120.0889861,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799835,
+      "name": "新山子寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1524315,
+      "lng": 120.0914589,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799837,
+      "name": "東龍山里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1371868,
+      "lng": 120.1171552,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799839,
+      "name": "沙崙寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1466795,
+      "lng": 120.1091885,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799841,
+      "name": "七股鹽山",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1526143,
+      "lng": 120.0988792,
+      "routes": [
+        "98路 七股鹽山→臺南轉運站",
+        "98路 臺南轉運站→七股鹽山",
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3106799842,
+      "name": "七股遊客中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1528444,
+      "lng": 120.1032344,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3121912458,
+      "name": "臺灣鹽博物館",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1547012,
+      "lng": 120.1048816,
+      "routes": [
+        "98路 七股鹽山→臺南轉運站",
+        "98路 臺南轉運站→七股鹽山"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3121912459,
+      "name": "龍山里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.138369,
+      "lng": 120.1135701,
+      "routes": [
+        "98路 七股鹽山→臺南轉運站",
+        "98路 臺南轉運站→七股鹽山",
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3121933705,
+      "name": "六孔管理站",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1228385,
+      "lng": 120.0779069
+    },
+    {
+      "id": 3121933706,
+      "name": "海寮紅樹林驛站",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1189046,
+      "lng": 120.0879733
+    },
+    {
+      "id": 5351076058,
+      "name": "海寮碼頭",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.119458,
+      "lng": 120.1034617
+    },
+    {
+      "id": 8405263629,
+      "name": "十份橋",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.097282,
+      "lng": 120.1115545,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.855Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8411430551,
+      "name": "飲水思源池",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1603495,
+      "lng": 120.1315381
+    },
+    {
+      "id": 9591579208,
+      "name": "七股里活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1352675,
+      "lng": 120.1275962,
+      "routes": [
+        "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+        "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.855Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9623948806,
+      "name": "三百廿萬",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1023908,
+      "lng": 120.1277679,
+      "routes": [
+        "藍28 佳里站→佳里榮民之家",
+        "藍28 佳里榮民之家→佳里站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.855Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9624296662,
+      "name": "大寮龍安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1480529,
+      "lng": 120.1537222
+    },
+    {
+      "id": 9624305879,
+      "name": "十一分文昌殿",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1234078,
+      "lng": 120.1395797
+    },
+    {
+      "id": 9624305892,
+      "name": "溪南里寶龍宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.127292,
+      "lng": 120.1196383
+    },
+    {
+      "id": 12265551676,
+      "name": "國聖港燈塔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.0977799,
+      "lng": 120.0360424
+    },
+    {
+      "id": 12473097005,
+      "name": "竹港德安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "七股區",
+      "lat": 23.1103118,
+      "lng": 120.171332,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.855Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:18:39.229Z",
+  "items": [
+    {
+      "id": 1686649720,
+      "name": "井仔腳鹽田",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2593581,
+      "lng": 120.1076596,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.216Z"
+    },
+    {
+      "id": 4924633321,
+      "name": "愛莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.3054653,
+      "lng": 120.1124594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.218Z"
+    },
+    {
+      "id": 9918854918,
+      "name": "彈塗魚籠竹隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2612038,
+      "lng": 120.1121798,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.220Z"
+    },
+    {
+      "id": 11059311531,
+      "name": "北門遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.26591,
+      "lng": 120.1236,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.221Z"
+    },
+    {
+      "id": 13651215269,
+      "name": "北門鹽田體驗區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2677672,
+      "lng": 120.1208867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.222Z"
+    },
+    {
+      "id": 147303082,
+      "name": "南鯤鯓代天府",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2859536,
+      "lng": 120.1434015,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.224Z",
+      "address": "臺南市北門區蚵寮里6鄰蚵寮976號"
+    },
+    {
+      "id": 184262373,
+      "name": "北門遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.2671974,
+      "lng": 120.1239245,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.225Z"
+    },
+    {
+      "id": 308548623,
+      "name": "水晶教堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2640002,
+      "lng": 120.1227138,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.225Z",
+      "address": "台南市北門區北門里北門200號"
+    },
+    {
+      "id": 362722944,
+      "name": "台灣烏腳病醫療紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.2696093,
+      "lng": 120.123649,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.226Z",
+      "address": "台南市北門區永隆里北門27號"
+    },
+    {
+      "id": 362722950,
+      "name": "烏腳病收容中心(小白宮)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2700433,
+      "lng": 120.1237564,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.226Z"
+    },
+    {
+      "id": 490750626,
+      "name": "文史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.288385,
+      "lng": 120.1426029,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.227Z"
+    },
+    {
+      "id": 490750627,
+      "name": "貝殼館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.2880956,
+      "lng": 120.1430704,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.228Z"
+    },
+    {
+      "id": 7073699,
+      "name": "北門沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.283557,
+      "lng": 120.0709578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.228Z"
+    },
+    {
+      "id": 7073700,
+      "name": "好美寮自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3547125,
+      "lng": 120.1404098,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.229Z"
+    },
+    {
+      "id": 7073701,
+      "name": "彰雲嘉沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6406272,
+      "lng": 120.1598771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.229Z"
+    },
+    {
+      "id": 7073702,
+      "name": "新北港自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.2669098,
+      "lng": 120.0992184,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:18:39.229Z"
+    }
+  ]
+}

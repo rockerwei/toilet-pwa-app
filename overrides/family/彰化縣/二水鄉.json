@@ -1,0 +1,128 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:23:55.366Z",
+  "items": [
+    {
+      "id": 5404458841,
+      "name": "蒸汽火車陳列場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8144461,
+      "lng": 120.6161326,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.355Z"
+    },
+    {
+      "id": 5404471380,
+      "name": "飛機",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8140736,
+      "lng": 120.6164871,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.358Z"
+    },
+    {
+      "id": 9385795027,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8287677,
+      "lng": 120.6147143,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.359Z"
+    },
+    {
+      "id": 10188253486,
+      "name": "源泉文具行-源泉故事屋",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.7994399,
+      "lng": 120.6442011,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.361Z",
+      "address": "彰化縣二水鄉員集路二段259號"
+    },
+    {
+      "id": 11740881876,
+      "name": "二水自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8129952,
+      "lng": 120.6182293,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.362Z"
+    },
+    {
+      "id": 11740881881,
+      "name": "二水自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8098961,
+      "lng": 120.6236643,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.363Z"
+    },
+    {
+      "id": 11740881883,
+      "name": "二水自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8097609,
+      "lng": 120.6238497,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.364Z"
+    },
+    {
+      "id": 11740881884,
+      "name": "二水自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8096883,
+      "lng": 120.6239639,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.364Z"
+    },
+    {
+      "id": 11740881891,
+      "name": "二水自行車觀光園道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.7993803,
+      "lng": 120.6393617,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.365Z"
+    },
+    {
+      "id": 11740881893,
+      "name": "二水自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.7987319,
+      "lng": 120.6405382,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.365Z"
+    },
+    {
+      "id": 11740881911,
+      "name": "卦山三鐵自行車路線",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.7984638,
+      "lng": 120.6421046,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.366Z"
+    },
+    {
+      "id": 1315626419,
+      "name": "二水生態教育館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 23.8127132,
+      "lng": 120.6703707,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:23:55.366Z"
+    }
+  ]
+}

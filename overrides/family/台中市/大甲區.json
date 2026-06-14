@@ -1,0 +1,80 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:48:29.492Z",
+  "items": [
+    {
+      "id": 276406203,
+      "name": "鐵砧山碉堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3566855,
+      "lng": 120.6398837,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.482Z"
+    },
+    {
+      "id": 2365740788,
+      "name": "觀甲天地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3603253,
+      "lng": 120.6449462,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.485Z"
+    },
+    {
+      "id": 5636331867,
+      "name": "橫圳櫻花牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3586035,
+      "lng": 120.6134122,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.486Z"
+    },
+    {
+      "id": 5939983223,
+      "name": "觀海樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3591682,
+      "lng": 120.6457477,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.488Z"
+    },
+    {
+      "id": 1108977931,
+      "name": "永信醫藥文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.3608143,
+      "lng": 120.6477661,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.489Z",
+      "address": "臺中市大甲區成功路321號"
+    },
+    {
+      "id": 1108977932,
+      "name": "臺中市鄭成功紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.3591147,
+      "lng": 120.6474291,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.490Z",
+      "address": "臺中市大甲區成功路302號"
+    },
+    {
+      "id": 1136216295,
+      "name": "鐵砧山旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.3591808,
+      "lng": 120.6500343,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:48:29.491Z",
+      "address": "437臺中市大甲區成功路221號"
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "city": "苗栗縣",
+  "district": "銅鑼鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 64,
+  "items": [
+    {
+      "id": 290976119,
+      "name": "銅鑼",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4863255,
+      "lng": 120.7860071
+    },
+    {
+      "id": 3663098125,
+      "name": "新雞隆",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4303928,
+      "lng": 120.8091187,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588561,
+      "name": "上竹圍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4539924,
+      "lng": 120.7807732,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588563,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.449899,
+      "lng": 120.7799497,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588565,
+      "name": "下竹圍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4398559,
+      "lng": 120.7770503,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588567,
+      "name": "長潭坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4379329,
+      "lng": 120.7767673,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588570,
+      "name": "竹圍庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4355765,
+      "lng": 120.7766224,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202795655,
+      "name": "河底",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.469819,
+      "lng": 120.7839999,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202795656,
+      "name": "下樟樹林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4666722,
+      "lng": 120.7833481,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202795657,
+      "name": "文峰國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4624571,
+      "lng": 120.7824951,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202795658,
+      "name": "水井",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4589646,
+      "lng": 120.7817924,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665455,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4884276,
+      "lng": 120.7872802,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665456,
+      "name": "銅鑼",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4897829,
+      "lng": 120.7880191,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C",
+        "5814"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665457,
+      "name": "銅鑼天主堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4913567,
+      "lng": 120.7881144,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C",
+        "5814"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665458,
+      "name": "銅鑼火車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4869069,
+      "lng": 120.7872078,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C",
+        "5814"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665459,
+      "name": "九湖口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4802673,
+      "lng": 120.7863173,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665461,
+      "name": "樟樹口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4768937,
+      "lng": 120.7856454,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212665462,
+      "name": "棟頂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4732868,
+      "lng": 120.7847173,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.126Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212728476,
+      "name": "五谷宮口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5039827,
+      "lng": 120.7845363,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212728478,
+      "name": "下銅鑼",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5021222,
+      "lng": 120.7846708,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212728479,
+      "name": "竹森口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.499548,
+      "lng": 120.7852779,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5212728481,
+      "name": "老街",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.496112,
+      "lng": 120.7860564,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6787296054,
+      "name": "冀善堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5150456,
+      "lng": 120.7874975,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6787296074,
+      "name": "朝陽口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5095912,
+      "lng": 120.7851425,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.126Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6787296075,
+      "name": "三座厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5069334,
+      "lng": 120.784252,
+      "routes": [
+        "5658",
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C",
+        "5814"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6871021998,
+      "name": "法尊堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4948447,
+      "lng": 120.7792497,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.126Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6871022005,
+      "name": "竹森口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4984936,
+      "lng": 120.7763475,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6871034203,
+      "name": "銅鑼車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.486149,
+      "lng": 120.7868162,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.126Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236829400,
+      "name": "聯合診所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4843248,
+      "lng": 120.786729,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236829402,
+      "name": "銅鑼工業區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4824913,
+      "lng": 120.7865782,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875351,
+      "name": "圖書館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4860017,
+      "lng": 120.7884128,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875353,
+      "name": "黃泥崎",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4854481,
+      "lng": 120.7924756,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875361,
+      "name": "工業社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4835248,
+      "lng": 120.7948742,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875363,
+      "name": "雙峰口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4801233,
+      "lng": 120.7964115,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875365,
+      "name": "七十份",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4729465,
+      "lng": 120.8041835,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875367,
+      "name": "河底",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4661093,
+      "lng": 120.806954,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875369,
+      "name": "老雞隆",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4650114,
+      "lng": 120.811292,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875371,
+      "name": "興隆國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4631365,
+      "lng": 120.8123059,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875373,
+      "name": "廖屋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4607521,
+      "lng": 120.8139723,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.127Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875375,
+      "name": "汴頭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4573984,
+      "lng": 120.8139134,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875377,
+      "name": "圓墩",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4545545,
+      "lng": 120.8152219,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875379,
+      "name": "社寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4503071,
+      "lng": 120.8152035,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875381,
+      "name": "高橋坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4485678,
+      "lng": 120.8132021,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875383,
+      "name": "盛隆口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4459272,
+      "lng": 120.8109605,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875385,
+      "name": "盛隆",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4437325,
+      "lng": 120.8106601,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875387,
+      "name": "彭屋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4409441,
+      "lng": 120.8124876,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875389,
+      "name": "茄苳坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4386191,
+      "lng": 120.8122621,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875392,
+      "name": "福德",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.434548,
+      "lng": 120.8104326,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875394,
+      "name": "辦事處",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.432775,
+      "lng": 120.8096003,
+      "routes": [
+        "5658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875445,
+      "name": "張厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5209437,
+      "lng": 120.8097486
+    },
+    {
+      "id": 8236875447,
+      "name": "葉厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5225373,
+      "lng": 120.810984
+    },
+    {
+      "id": 8236875449,
+      "name": "和平",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5184639,
+      "lng": 120.8083996
+    },
+    {
+      "id": 8236875451,
+      "name": "友全陶瓷",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5164086,
+      "lng": 120.8079993
+    },
+    {
+      "id": 8236875453,
+      "name": "復安",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5143148,
+      "lng": 120.8075791
+    },
+    {
+      "id": 8236875455,
+      "name": "東岡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5093697,
+      "lng": 120.8093286
+    },
+    {
+      "id": 8236875457,
+      "name": "中興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5036658,
+      "lng": 120.8096008
+    },
+    {
+      "id": 8236875460,
+      "name": "下中興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.5000879,
+      "lng": 120.8089388
+    },
+    {
+      "id": 8236875462,
+      "name": "中興國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4984431,
+      "lng": 120.8090129
+    },
+    {
+      "id": 8236875464,
+      "name": "中平",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4956047,
+      "lng": 120.8086975
+    },
+    {
+      "id": 8236875466,
+      "name": "天神宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4913204,
+      "lng": 120.8092211
+    },
+    {
+      "id": 8236875470,
+      "name": "南爺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.487016,
+      "lng": 120.8101466
+    },
+    {
+      "id": 8236875472,
+      "name": "水頭伯公",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4841301,
+      "lng": 120.8098033
+    },
+    {
+      "id": 8236875482,
+      "name": "七十份",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.482673,
+      "lng": 120.8100787
+    },
+    {
+      "id": 8236875484,
+      "name": "堤防",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "銅鑼鄉",
+      "lat": 24.4768554,
+      "lng": 120.8095959
+    }
+  ]
+}

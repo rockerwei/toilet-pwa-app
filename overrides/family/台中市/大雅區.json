@@ -1,0 +1,38 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:41:51.300Z",
+  "items": [
+    {
+      "id": 5168889622,
+      "name": "赤腳丫生態農莊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.216447,
+      "lng": 120.6702527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:41:51.296Z",
+      "address": "428台中市大雅區雅潭路三段500號"
+    },
+    {
+      "id": 10219441730,
+      "name": "大雅區十四張圳水岸公園沿革",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2168378,
+      "lng": 120.6549851,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:41:51.298Z"
+    },
+    {
+      "id": 393003477,
+      "name": "大雅觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.220459,
+      "lng": 120.6545051,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:41:51.300Z"
+    }
+  ]
+}

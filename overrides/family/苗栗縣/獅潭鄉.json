@@ -1,0 +1,87 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:00:34.057Z",
+  "items": [
+    {
+      "id": 4170625216,
+      "name": "苗栗縣地理中心碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.4887961,
+      "lng": 120.9015412,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.045Z"
+    },
+    {
+      "id": 5175570666,
+      "name": "情人谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5430812,
+      "lng": 120.9111483,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.048Z"
+    },
+    {
+      "id": 8336600717,
+      "name": "仙洞門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5427711,
+      "lng": 120.9496423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.049Z"
+    },
+    {
+      "id": 9151054828,
+      "name": "馬偕拔牙處",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5426084,
+      "lng": 120.9229357,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.051Z"
+    },
+    {
+      "id": 13464083103,
+      "name": "鳴鳳古道500公尺",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.5461175,
+      "lng": 120.9097218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.052Z"
+    },
+    {
+      "id": 13464084601,
+      "name": "鳴鳳古道 900 M",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.5441145,
+      "lng": 120.9110833,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.054Z"
+    },
+    {
+      "id": 13464085001,
+      "name": "鳴鳳古道700公尺",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.5453469,
+      "lng": 120.9109304,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.055Z"
+    },
+    {
+      "id": 13464085201,
+      "name": "鳴鳳古道 300 公尺",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.5468857,
+      "lng": 120.907985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:00:34.056Z"
+    }
+  ]
+}

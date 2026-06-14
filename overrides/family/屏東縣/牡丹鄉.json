@@ -1,0 +1,481 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:00:24.766Z",
+  "items": [
+    {
+      "id": 2548306069,
+      "name": "展望台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.0783084,
+      "lng": 120.8018787,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.730Z"
+    },
+    {
+      "id": 4116866561,
+      "name": "旭海草原遊樂區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.2046787,
+      "lng": 120.8852217,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.733Z"
+    },
+    {
+      "id": 4116866950,
+      "name": "觀海平台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.2048305,
+      "lng": 120.8918243,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.735Z"
+    },
+    {
+      "id": 5440341722,
+      "name": "牡丹灣",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1943007,
+      "lng": 120.8885663,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.736Z",
+      "address": "旭海路"
+    },
+    {
+      "id": 6067648541,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1329948,
+      "lng": 120.814193,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.738Z"
+    },
+    {
+      "id": 6067648542,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1304983,
+      "lng": 120.8032906,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.739Z"
+    },
+    {
+      "id": 6067648543,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.129092,
+      "lng": 120.7980966,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.741Z"
+    },
+    {
+      "id": 6067648544,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1307978,
+      "lng": 120.7970957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.743Z"
+    },
+    {
+      "id": 6067648545,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1316993,
+      "lng": 120.7957955,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.744Z"
+    },
+    {
+      "id": 6630557691,
+      "name": "佳德谷有機植物園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1456107,
+      "lng": 120.8075999,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.745Z",
+      "address": "945屏東縣牡丹鄉中間路66號"
+    },
+    {
+      "id": 7034662585,
+      "name": "灣灣公園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1177338,
+      "lng": 120.8469313,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.745Z"
+    },
+    {
+      "id": 7886381386,
+      "name": "東源國家重要濕地 野薑花",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1994243,
+      "lng": 120.8489857,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.746Z"
+    },
+    {
+      "id": 9662259917,
+      "name": "生態步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.2019189,
+      "lng": 120.89153,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.747Z"
+    },
+    {
+      "id": 9662259918,
+      "name": "草原步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.2062745,
+      "lng": 120.8906897,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.747Z"
+    },
+    {
+      "id": 9662260217,
+      "name": "牡丹鼻山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.2050211,
+      "lng": 120.8900831,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.748Z"
+    },
+    {
+      "id": 9780184878,
+      "name": "四林格山遊樂區步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.0756045,
+      "lng": 120.8012211,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.749Z"
+    },
+    {
+      "id": 10007549990,
+      "name": "高士佛試驗地公告",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1223329,
+      "lng": 120.8166634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.750Z"
+    },
+    {
+      "id": 10040857356,
+      "name": "部落生活區域遊客請勿進入",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1228556,
+      "lng": 120.8396571,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.750Z"
+    },
+    {
+      "id": 10098097799,
+      "name": "部落生活區域遊客請勿進入",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1220895,
+      "lng": 120.8378093,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.751Z"
+    },
+    {
+      "id": 10098117219,
+      "name": "高士部落歷史穀道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1215072,
+      "lng": 120.8464611,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.751Z"
+    },
+    {
+      "id": 10098227374,
+      "name": "高士佛入口意象",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1164072,
+      "lng": 120.8394133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.752Z"
+    },
+    {
+      "id": 10114448757,
+      "name": "Cacevakan 石板屋遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.108674,
+      "lng": 120.8033713,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.752Z"
+    },
+    {
+      "id": 10114448758,
+      "name": "Cacevakan 石板屋遺址步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1085887,
+      "lng": 120.8033393,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.753Z"
+    },
+    {
+      "id": 10114448766,
+      "name": "Cacevakan 石板屋遺址步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1071097,
+      "lng": 120.8040023,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.754Z"
+    },
+    {
+      "id": 10114448768,
+      "name": "Cacevakan 石板屋遺址步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1053658,
+      "lng": 120.8035417,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.754Z"
+    },
+    {
+      "id": 10114448769,
+      "name": "Cacevakan 石板屋遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1053477,
+      "lng": 120.8035079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.755Z"
+    },
+    {
+      "id": 10114448770,
+      "name": "部落遺址路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1048888,
+      "lng": 120.8034735,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.755Z"
+    },
+    {
+      "id": 10114448771,
+      "name": "石板屋遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1047388,
+      "lng": 120.8031695,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.756Z"
+    },
+    {
+      "id": 10114448772,
+      "name": "頭目家屋",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1046326,
+      "lng": 120.8031523,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.756Z"
+    },
+    {
+      "id": 10134665957,
+      "name": "高士石板屋遺址區導覽解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1454372,
+      "lng": 120.8502153,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.757Z"
+    },
+    {
+      "id": 11615110496,
+      "name": "石門古戰場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.1124127,
+      "lng": 120.7613862,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.757Z"
+    },
+    {
+      "id": 11661380203,
+      "name": "石門山景觀解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1141139,
+      "lng": 120.7571903,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.758Z"
+    },
+    {
+      "id": 11672950838,
+      "name": "指示牌 (往石門山登山口↑)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.112654,
+      "lng": 120.754291,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.758Z"
+    },
+    {
+      "id": 11672950890,
+      "name": "指示牌 (←石門山,登山口→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1140411,
+      "lng": 120.7566063,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.759Z"
+    },
+    {
+      "id": 11672950936,
+      "name": "指示牌 (↓石門山,登山口↑)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1139165,
+      "lng": 120.7582543,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.760Z"
+    },
+    {
+      "id": 11672950984,
+      "name": "指示牌 (↓石門山,登山口→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1137197,
+      "lng": 120.760984,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.760Z"
+    },
+    {
+      "id": 11672951011,
+      "name": "石門山步道步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1127298,
+      "lng": 120.7616131,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.761Z"
+    },
+    {
+      "id": 11672951017,
+      "name": "指示牌 (↖石門山)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1126511,
+      "lng": 120.7616667,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.761Z"
+    },
+    {
+      "id": 11672971521,
+      "name": "石門古戰場導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1122817,
+      "lng": 120.7616559,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.762Z"
+    },
+    {
+      "id": 11672971522,
+      "name": "屏東縣牡丹鄉旅遊地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1123385,
+      "lng": 120.7614535,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.762Z"
+    },
+    {
+      "id": 307144913,
+      "name": "東源湖(哭泣湖)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.2057972,
+      "lng": 120.8550785,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.763Z"
+    },
+    {
+      "id": 760905591,
+      "name": "高士佛遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1220624,
+      "lng": 120.8381316,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.763Z"
+    },
+    {
+      "id": 1212762782,
+      "name": "牡丹社事件故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.1291038,
+      "lng": 120.7853336,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.764Z",
+      "address": "945屏東縣牡丹鄉茄芝路3-15號"
+    },
+    {
+      "id": 1212762783,
+      "name": "牡丹鄉遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.1289339,
+      "lng": 120.7851522,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.764Z",
+      "address": "945屏東縣牡丹鄉茄芝路3-15號"
+    },
+    {
+      "id": 7001409,
+      "name": "旭海-觀音鼻自然保留區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.2267328,
+      "lng": 120.8830294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.765Z"
+    },
+    {
+      "id": 7011234,
+      "name": "雙流國家森林遊樂區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.2268283,
+      "lng": 120.8263994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.765Z"
+    },
+    {
+      "id": 7074764,
+      "name": "尖山沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.0892767,
+      "lng": 120.7130887,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:00:24.766Z"
+    }
+  ]
+}

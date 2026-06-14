@@ -1,0 +1,78 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:28:40.030Z",
+  "items": [
+    {
+      "id": 2598388026,
+      "name": "哈魚壹號",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1480252,
+      "lng": 120.622058,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.021Z"
+    },
+    {
+      "id": 12076509923,
+      "name": "麻糍埔公園平面導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.124129,
+      "lng": 120.637009,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.023Z"
+    },
+    {
+      "id": 12076741412,
+      "name": "麻糍埔遺址介紹",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1235408,
+      "lng": 120.637572,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.025Z"
+    },
+    {
+      "id": 12076741413,
+      "name": "人本健康新綠邑導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1199048,
+      "lng": 120.6438579,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.026Z"
+    },
+    {
+      "id": 654379395,
+      "name": "南屯麻芛文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.137588,
+      "lng": 120.6395199,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.027Z"
+    },
+    {
+      "id": 1221218727,
+      "name": "臺中監獄矯正教育館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.1424596,
+      "lng": 120.5995446,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.029Z",
+      "address": "臺中市南屯區培德路7號"
+    },
+    {
+      "id": 1304959829,
+      "name": "舊南屯溪文化景觀",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1265952,
+      "lng": 120.6365779,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:28:40.030Z"
+    }
+  ]
+}

@@ -1,0 +1,1692 @@
+{
+  "city": "嘉義縣",
+  "district": "番路鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 90,
+  "items": [
+    {
+      "id": 2681677056,
+      "name": "觸口派出所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4394693,
+      "lng": 120.6015753,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7318A",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4261537648,
+      "name": "半天岩",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4618383,
+      "lng": 120.5955498,
+      "routes": [
+        "7308",
+        "7311A",
+        "7317"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4414801356,
+      "name": "龍美",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4065019,
+      "lng": 120.6503938,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A",
+        "幸福阿里山1路"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4414801357,
+      "name": "五虎寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4530592,
+      "lng": 120.5584458,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220849,
+      "name": "永興",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.3577551,
+      "lng": 120.5917928,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241887,
+      "name": "公田底",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.3650706,
+      "lng": 120.6110966,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241889,
+      "name": "葫蘆谷",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.3708248,
+      "lng": 120.6104368,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241891,
+      "name": "總興",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.3794174,
+      "lng": 120.6121024,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241893,
+      "name": "水井仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.3763104,
+      "lng": 120.6111717,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7512234908,
+      "name": "清水坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4685964,
+      "lng": 120.5691927,
+      "routes": [
+        "7319",
+        "7319A",
+        "7319C",
+        "7319E",
+        "7319F",
+        "7319H"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7512234910,
+      "name": "番路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4645441,
+      "lng": 120.5679646,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A",
+        "7319",
+        "7319A",
+        "7319C",
+        "7319E",
+        "7319F",
+        "7319H"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.465Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581129,
+      "name": "黎明國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4390913,
+      "lng": 120.6030393,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7318A",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581131,
+      "name": "阿里山工務段",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4412446,
+      "lng": 120.598911,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7318A",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581132,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4457354,
+      "lng": 120.6030642,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581133,
+      "name": "農產品集貨場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.447526,
+      "lng": 120.601752,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581134,
+      "name": "石頭橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.448436,
+      "lng": 120.6003976,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581135,
+      "name": "埔尾中站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4510928,
+      "lng": 120.5982146,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581136,
+      "name": "埔尾農場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4519583,
+      "lng": 120.5962851,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581137,
+      "name": "公山路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4550231,
+      "lng": 120.5918132,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581138,
+      "name": "頂客庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4561352,
+      "lng": 120.5895478,
+      "routes": [
+        "7311",
+        "7311A",
+        "7318A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581139,
+      "name": "客庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.45853,
+      "lng": 120.58479,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581140,
+      "name": "天主教堂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.45841,
+      "lng": 120.58369,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581141,
+      "name": "下客庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4581703,
+      "lng": 120.58007,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581142,
+      "name": "義興宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.45924,
+      "lng": 120.57779,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581143,
+      "name": "沈厝子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4610074,
+      "lng": 120.5756054,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.466Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581144,
+      "name": "頂番路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.46265,
+      "lng": 120.57291,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7513581145,
+      "name": "民和商城",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.46416,
+      "lng": 120.57018,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984436,
+      "name": "逐鹿社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4467961,
+      "lng": 120.5810618,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984458,
+      "name": "公館仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4519032,
+      "lng": 120.5659405,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984461,
+      "name": "觸口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4386004,
+      "lng": 120.6066573,
+      "routes": [
+        "7216",
+        "7216A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984465,
+      "name": "雙連橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4500045,
+      "lng": 120.5715256,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984466,
+      "name": "觸口遊客中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4460067,
+      "lng": 120.5839787,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7561984472,
+      "name": "牛埔農場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4481721,
+      "lng": 120.5767882,
+      "routes": [
+        "7216",
+        "7216A",
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793374,
+      "name": "愛情大草原",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4437403,
+      "lng": 120.5912388,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793377,
+      "name": "公田路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.43683,
+      "lng": 120.6173,
+      "routes": [
+        "7302",
+        "7322"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793378,
+      "name": "潮州湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.43908,
+      "lng": 120.66622,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793379,
+      "name": "仁愛橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4299779,
+      "lng": 120.6119495,
+      "routes": [
+        "7302",
+        "7322"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563793382,
+      "name": "巃頭坪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4433596,
+      "lng": 120.6726466,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803086,
+      "name": "下路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4362583,
+      "lng": 120.626787,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803087,
+      "name": "下東竹湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4135599,
+      "lng": 120.6458765,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803089,
+      "name": "五越子頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.432606,
+      "lng": 120.6426962,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803090,
+      "name": "麻竹湖口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4084648,
+      "lng": 120.6495602,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.467Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803092,
+      "name": "東隙頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.430501,
+      "lng": 120.6626375,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803093,
+      "name": "三號橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4320638,
+      "lng": 120.618814,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803095,
+      "name": "巃頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4461037,
+      "lng": 120.6745173,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803101,
+      "name": "東下寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4353317,
+      "lng": 120.638135,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803102,
+      "name": "文化城",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4192237,
+      "lng": 120.6433623,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803105,
+      "name": "鞍腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4213407,
+      "lng": 120.6431518,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803114,
+      "name": "林厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4250914,
+      "lng": 120.6582696,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803117,
+      "name": "竹湖路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.41666,
+      "lng": 120.64466
+    },
+    {
+      "id": 7563803118,
+      "name": "中寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4268463,
+      "lng": 120.6424534,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803122,
+      "name": "鞍頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4174178,
+      "lng": 120.6507432
+    },
+    {
+      "id": 7563803128,
+      "name": "隙頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.429473,
+      "lng": 120.6603065,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A",
+        "7322C",
+        "7322D",
+        "7329",
+        "7329A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803139,
+      "name": "下寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.434096,
+      "lng": 120.6333579,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7563803142,
+      "name": "石鼓盤",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.43278,
+      "lng": 120.62298,
+      "routes": [
+        "7302",
+        "7314",
+        "7322",
+        "7322A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469480,
+      "name": "大籠",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4599426,
+      "lng": 120.6046484,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469481,
+      "name": "平園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4768903,
+      "lng": 120.5207771,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469483,
+      "name": "鹿堀",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4448427,
+      "lng": 120.6136849
+    },
+    {
+      "id": 7598469484,
+      "name": "石腳桶",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4528395,
+      "lng": 120.6090569
+    },
+    {
+      "id": 7598469485,
+      "name": "下火燒寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4835802,
+      "lng": 120.6249915,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.468Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469489,
+      "name": "頂下坪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4765043,
+      "lng": 120.6207735,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469490,
+      "name": "北園商城",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4641143,
+      "lng": 120.5572805,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469491,
+      "name": "三橋子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4801848,
+      "lng": 120.5044642,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469492,
+      "name": "茶科路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4818295,
+      "lng": 120.6258729,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469494,
+      "name": "柳枝橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4705844,
+      "lng": 120.5410761,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469495,
+      "name": "大湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4757979,
+      "lng": 120.6270783,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469497,
+      "name": "崎子頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4752457,
+      "lng": 120.531681,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469498,
+      "name": "果菜市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4646926,
+      "lng": 120.5515128,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469499,
+      "name": "下坪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4739232,
+      "lng": 120.6196926,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469501,
+      "name": "土地公崎",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4773887,
+      "lng": 120.5141033,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469503,
+      "name": "紅筆子壽",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4553523,
+      "lng": 120.6081505
+    },
+    {
+      "id": 7598469504,
+      "name": "江西寮店仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4767557,
+      "lng": 120.5282631,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469509,
+      "name": "五百因",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4803112,
+      "lng": 120.6209989,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469512,
+      "name": "南埤子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4759259,
+      "lng": 120.5101422,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469518,
+      "name": "香蕉市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4727471,
+      "lng": 120.5368761,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.469Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469519,
+      "name": "頂坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.467333,
+      "lng": 120.546723,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469524,
+      "name": "江西寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4762094,
+      "lng": 120.5246185,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469526,
+      "name": "凍子嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4499972,
+      "lng": 120.6129935
+    },
+    {
+      "id": 7598469531,
+      "name": "小半天",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4597981,
+      "lng": 120.590878,
+      "routes": [
+        "7308",
+        "7311A",
+        "7317"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469532,
+      "name": "大湖國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4753333,
+      "lng": 120.6202004,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469539,
+      "name": "菜公店",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.464255,
+      "lng": 120.5542572,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A",
+        "幸福番路1路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469540,
+      "name": "何厝",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.477688,
+      "lng": 120.6252181,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469546,
+      "name": "興化湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4651041,
+      "lng": 120.6137755,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469554,
+      "name": "民和活動中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4589244,
+      "lng": 120.5865252,
+      "routes": [
+        "7308",
+        "7311A",
+        "7317"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469555,
+      "name": "橫路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.46894,
+      "lng": 120.6142,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469556,
+      "name": "石頭埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4636401,
+      "lng": 120.5624777,
+      "routes": [
+        "7308",
+        "7311",
+        "7311A",
+        "7317",
+        "7318",
+        "7318A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469562,
+      "name": "頂紅筆子壽",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4599214,
+      "lng": 120.6069899
+    },
+    {
+      "id": 7598469569,
+      "name": "下坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4718435,
+      "lng": 120.5383207,
+      "routes": [
+        "7308",
+        "7311",
+        "7317",
+        "7318"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.959Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469573,
+      "name": "岩子腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4605798,
+      "lng": 120.5901871,
+      "routes": [
+        "7308",
+        "7311A",
+        "7317"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7598469574,
+      "name": "火燒寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "番路鄉",
+      "lat": 23.4832122,
+      "lng": 120.6238049,
+      "routes": [
+        "7317",
+        "7318"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.470Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

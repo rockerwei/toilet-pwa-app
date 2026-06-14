@@ -1,0 +1,1193 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:14:48.533Z",
+  "items": [
+    {
+      "id": 2270755534,
+      "name": "四獸山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0275062,
+      "lng": 121.5713953,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.461Z"
+    },
+    {
+      "id": 2281097789,
+      "name": "台北親山拓印17號拓印台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0283986,
+      "lng": 121.5768891,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.463Z"
+    },
+    {
+      "id": 2281097855,
+      "name": "象山登山步道入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0306428,
+      "lng": 121.5755294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.464Z"
+    },
+    {
+      "id": 2414650404,
+      "name": "親山步道拓印亭(14號)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0267499,
+      "lng": 121.5865666,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.466Z"
+    },
+    {
+      "id": 2672482483,
+      "name": "警告牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0353654,
+      "lng": 121.5789056,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.468Z"
+    },
+    {
+      "id": 2672567406,
+      "name": "南港、信義親山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0361545,
+      "lng": 121.5792019,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.469Z"
+    },
+    {
+      "id": 2672572337,
+      "name": "虎山稜線步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0377901,
+      "lng": 121.585153,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.469Z"
+    },
+    {
+      "id": 2682109998,
+      "name": "象山指標及路燈",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0284072,
+      "lng": 121.5699253,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.470Z"
+    },
+    {
+      "id": 3233734397,
+      "name": "台北親山拓印16號打印台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0294324,
+      "lng": 121.5860635,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.471Z"
+    },
+    {
+      "id": 3259507066,
+      "name": "一線天",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0282361,
+      "lng": 121.5764559,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.472Z"
+    },
+    {
+      "id": 3261360868,
+      "name": "四獸山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0233095,
+      "lng": 121.5822782,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.472Z"
+    },
+    {
+      "id": 3655111511,
+      "name": "石油展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0394556,
+      "lng": 121.5696281,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.475Z",
+      "address": "110台北市信義區松仁路3號"
+    },
+    {
+      "id": 3954827271,
+      "name": "納莉風災與駁坎",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0273936,
+      "lng": 121.572057,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.477Z"
+    },
+    {
+      "id": 3954827273,
+      "name": "\"石\"在有看頭--飛來六巨石",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0268759,
+      "lng": 121.5741902,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.477Z"
+    },
+    {
+      "id": 3954827288,
+      "name": "四獸山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.026662,
+      "lng": 121.5758835,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.478Z"
+    },
+    {
+      "id": 3954827291,
+      "name": "四獸山環繞永春陂",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0286183,
+      "lng": 121.5771259,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.479Z"
+    },
+    {
+      "id": 3954827293,
+      "name": "永春崗平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0290014,
+      "lng": 121.5769931,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.479Z"
+    },
+    {
+      "id": 3997514463,
+      "name": "巨石園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0288457,
+      "lng": 121.577365,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.480Z"
+    },
+    {
+      "id": 3997541427,
+      "name": "一副畫兩樣情 寧波公墓見",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0288013,
+      "lng": 121.5768612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.481Z"
+    },
+    {
+      "id": 3997541431,
+      "name": "楠楠相望 香楠與大葉楠",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0271311,
+      "lng": 121.57353,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.482Z"
+    },
+    {
+      "id": 3997541442,
+      "name": "顏子廟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0322176,
+      "lng": 121.5764092,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.483Z"
+    },
+    {
+      "id": 3999392689,
+      "name": "「潮濕地」的指標植物",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0347762,
+      "lng": 121.5878997,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.484Z"
+    },
+    {
+      "id": 3999392693,
+      "name": "九五峰下樂逍遙",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0341006,
+      "lng": 121.5872216,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.485Z"
+    },
+    {
+      "id": 3999392694,
+      "name": "千面女郎",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0356342,
+      "lng": 121.5881775,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.485Z"
+    },
+    {
+      "id": 3999392697,
+      "name": "南港山系虎山生態步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0334761,
+      "lng": 121.5900879,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.486Z"
+    },
+    {
+      "id": 3999392700,
+      "name": "如何與自然共處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0363549,
+      "lng": 121.5876099,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.487Z"
+    },
+    {
+      "id": 3999392702,
+      "name": "山之谷水的廊道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0305681,
+      "lng": 121.5792559,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.487Z"
+    },
+    {
+      "id": 3999392703,
+      "name": "山棕～早期生活小幫手&賽夏族傳說",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0340879,
+      "lng": 121.5874606,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.488Z"
+    },
+    {
+      "id": 3999392709,
+      "name": "森林的演替與消長",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0343257,
+      "lng": 121.5878884,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.489Z"
+    },
+    {
+      "id": 3999392710,
+      "name": "植物界的刺蝟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0324485,
+      "lng": 121.5895674,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.489Z"
+    },
+    {
+      "id": 3999392712,
+      "name": "水土保持防災工程及環境設施配置圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0305537,
+      "lng": 121.5792872,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.491Z"
+    },
+    {
+      "id": 3999392715,
+      "name": "看盡滄桑榕樹王",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.031883,
+      "lng": 121.5890344,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.491Z"
+    },
+    {
+      "id": 3999392716,
+      "name": "碩變的虎山溪",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0333694,
+      "lng": 121.5868581,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.492Z"
+    },
+    {
+      "id": 3999392756,
+      "name": "紅燒豬腳掛枝頭&我也會痛請好好愛我",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.033806,
+      "lng": 121.5868623,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.493Z"
+    },
+    {
+      "id": 3999393557,
+      "name": "繁華落盡的松山一坑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0339419,
+      "lng": 121.5877434,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.493Z"
+    },
+    {
+      "id": 3999393559,
+      "name": "能救命的樹和薪柴",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0333851,
+      "lng": 121.5903598,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.494Z"
+    },
+    {
+      "id": 3999393560,
+      "name": "虎山溪之美",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0344458,
+      "lng": 121.5879108,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.495Z"
+    },
+    {
+      "id": 3999393561,
+      "name": "虎山溪之美",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0359675,
+      "lng": 121.5877719,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.495Z"
+    },
+    {
+      "id": 3999393562,
+      "name": "虎山溪景觀野溪整治工程",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0362001,
+      "lng": 121.5876148,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.496Z"
+    },
+    {
+      "id": 3999393563,
+      "name": "虎山親山步道支線導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0317899,
+      "lng": 121.5823732,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.497Z"
+    },
+    {
+      "id": 3999393564,
+      "name": "被遺忘的傳統編織材料",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0341743,
+      "lng": 121.5874851,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.498Z"
+    },
+    {
+      "id": 3999393565,
+      "name": "親山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0304693,
+      "lng": 121.5782934,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.498Z"
+    },
+    {
+      "id": 3999393566,
+      "name": "親山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0309361,
+      "lng": 121.5795145,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.499Z"
+    },
+    {
+      "id": 3999393567,
+      "name": "觀景臺",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0330414,
+      "lng": 121.5903432,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.499Z"
+    },
+    {
+      "id": 3999393570,
+      "name": "迎風翻騰",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0336522,
+      "lng": 121.5868993,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.500Z"
+    },
+    {
+      "id": 4208433982,
+      "name": "南港山縱走登山口告示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0282383,
+      "lng": 121.5794011,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.501Z"
+    },
+    {
+      "id": 4449907129,
+      "name": "象山步道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0307815,
+      "lng": 121.576844,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.502Z"
+    },
+    {
+      "id": 4837986356,
+      "name": "臺北市市民廣場",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0390657,
+      "lng": 121.5634819,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.502Z"
+    },
+    {
+      "id": 5110348523,
+      "name": "旅遊資訊",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0481527,
+      "lng": 121.5787984,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.503Z"
+    },
+    {
+      "id": 5162506699,
+      "name": "台北探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0374227,
+      "lng": 121.5641067,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.503Z",
+      "address": "11008臺北市信義區市府路1號"
+    },
+    {
+      "id": 5169010923,
+      "name": "象山北星寶宮步道0.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0259737,
+      "lng": 121.5775527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.504Z"
+    },
+    {
+      "id": 5340349879,
+      "name": "福壽岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0307748,
+      "lng": 121.591688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.504Z"
+    },
+    {
+      "id": 5340349880,
+      "name": "基隆河城市景觀大景",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0286073,
+      "lng": 121.5883718,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.505Z"
+    },
+    {
+      "id": 5593526975,
+      "name": "虎山親山步道瑤池宮登山口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0292583,
+      "lng": 121.5837578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.505Z"
+    },
+    {
+      "id": 6200330712,
+      "name": "幾米月亮公車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0326896,
+      "lng": 121.565655,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.506Z"
+    },
+    {
+      "id": 6570135233,
+      "name": "勝利崗",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0231494,
+      "lng": 121.584736,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.506Z"
+    },
+    {
+      "id": 6579754932,
+      "name": "南港山登山路線地圖(笑傲台版終南山秘笈)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0236313,
+      "lng": 121.5840439,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.507Z"
+    },
+    {
+      "id": 6579754938,
+      "name": "永懷蔣公自強年(1975年歷史遺跡)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0222257,
+      "lng": 121.5847947,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.507Z"
+    },
+    {
+      "id": 8530996518,
+      "name": "奧氏虎皮楠-一樹一世界",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0313377,
+      "lng": 121.5873833,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.508Z"
+    },
+    {
+      "id": 8531014217,
+      "name": "會散步的鳶尾",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0314074,
+      "lng": 121.5878304,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.508Z"
+    },
+    {
+      "id": 8531014317,
+      "name": "烏心石-臺灣闊葉一級木",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0312559,
+      "lng": 121.587333,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.508Z"
+    },
+    {
+      "id": 8531014417,
+      "name": "森氏紅淡比-日本人敬神的樹",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0312986,
+      "lng": 121.5869224,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.509Z"
+    },
+    {
+      "id": 8531014517,
+      "name": "幹生果(損壞的解説牌)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0311269,
+      "lng": 121.5868193,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.509Z"
+    },
+    {
+      "id": 8531024917,
+      "name": "森林的演替與消長",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0310157,
+      "lng": 121.5868216,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.510Z"
+    },
+    {
+      "id": 8678026417,
+      "name": "枯木是大飯店",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0331909,
+      "lng": 121.5904556,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.510Z"
+    },
+    {
+      "id": 8678026517,
+      "name": "蕨類植物-比恐龍還古老的植物",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0333177,
+      "lng": 121.5903565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.511Z"
+    },
+    {
+      "id": 8695521317,
+      "name": "養分的循環",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0321385,
+      "lng": 121.5910355,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.511Z"
+    },
+    {
+      "id": 8695530892,
+      "name": "有隱花果的板根植物",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0310109,
+      "lng": 121.5894139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.511Z"
+    },
+    {
+      "id": 8751670217,
+      "name": "親近山林與健康",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.022196,
+      "lng": 121.582996,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.512Z"
+    },
+    {
+      "id": 8751677817,
+      "name": "各有一片天",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0233168,
+      "lng": 121.5822736,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.512Z"
+    },
+    {
+      "id": 8759221217,
+      "name": "無字天書就從步道旁的植物讀起",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0319466,
+      "lng": 121.5769352,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.513Z"
+    },
+    {
+      "id": 8759239117,
+      "name": "佇足、凝望、顏子的呼喚-顏子廟",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0322879,
+      "lng": 121.5763627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.513Z"
+    },
+    {
+      "id": 11198519194,
+      "name": "台北大縱走寶石牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0202825,
+      "lng": 121.5837655,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.514Z"
+    },
+    {
+      "id": 11398965033,
+      "name": "101、102賞景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0314805,
+      "lng": 121.5769749,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.514Z"
+    },
+    {
+      "id": 11462578310,
+      "name": "峭壁危險請勿攀爬",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0268011,
+      "lng": 121.5866158,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.514Z"
+    },
+    {
+      "id": 11489059373,
+      "name": "峭壁危險請勿攀爬",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0236676,
+      "lng": 121.5850546,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.515Z"
+    },
+    {
+      "id": 11490971456,
+      "name": "臺北大縱走第六段路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.020274,
+      "lng": 121.5837753,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.515Z"
+    },
+    {
+      "id": 11492211937,
+      "name": "懸崖危險請勿靠近",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.026559,
+      "lng": 121.5752671,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.516Z"
+    },
+    {
+      "id": 11492211966,
+      "name": "大象長鼻入盆地",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0269217,
+      "lng": 121.5741719,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.516Z"
+    },
+    {
+      "id": 11492286370,
+      "name": "大自然的扇子--蒲葵",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.027087,
+      "lng": 121.5731431,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.516Z"
+    },
+    {
+      "id": 11492286375,
+      "name": "雀榕的神奇更衣術",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0270263,
+      "lng": 121.5725455,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.517Z"
+    },
+    {
+      "id": 11492286381,
+      "name": "烏桕的四季風情",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.027264,
+      "lng": 121.5719218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.517Z"
+    },
+    {
+      "id": 11502912695,
+      "name": "四獸山 象山",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0274856,
+      "lng": 121.5714199,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.518Z"
+    },
+    {
+      "id": 11502912717,
+      "name": "火金姑娶親 螢火蟲的樂園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.02763,
+      "lng": 121.5733747,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.518Z"
+    },
+    {
+      "id": 11503802456,
+      "name": "自製擋土牆 大葉楠的板根",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0272932,
+      "lng": 121.5737884,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.519Z"
+    },
+    {
+      "id": 11503825770,
+      "name": "大自然的彩繪巧手 大岩壁",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0273441,
+      "lng": 121.5757797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.519Z"
+    },
+    {
+      "id": 11503825780,
+      "name": "與自然的親密接觸 側身走過一線天",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0281484,
+      "lng": 121.5764665,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.519Z"
+    },
+    {
+      "id": 11503825794,
+      "name": "象山環狀路線步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0289826,
+      "lng": 121.5770183,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.520Z"
+    },
+    {
+      "id": 11504273884,
+      "name": "不可一日無此君",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0243399,
+      "lng": 121.5816913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.520Z"
+    },
+    {
+      "id": 11504273885,
+      "name": "原始的觀音座蓮",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0236563,
+      "lng": 121.5820102,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.521Z"
+    },
+    {
+      "id": 11518826356,
+      "name": "臺北大縱走第六段路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0154428,
+      "lng": 121.5768101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.521Z"
+    },
+    {
+      "id": 11520080153,
+      "name": "糶米古道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0157804,
+      "lng": 121.5730762,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.521Z"
+    },
+    {
+      "id": 11520080157,
+      "name": "糶米古道的緣起",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0154272,
+      "lng": 121.572984,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.522Z"
+    },
+    {
+      "id": 11520080161,
+      "name": "糶米古道 遙想挑米年代",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0153259,
+      "lng": 121.5731653,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.522Z"
+    },
+    {
+      "id": 11520080162,
+      "name": "糶米古道的自然生態",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0153941,
+      "lng": 121.5730967,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.523Z"
+    },
+    {
+      "id": 11520080163,
+      "name": "德興礦坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0153771,
+      "lng": 121.5732155,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.523Z"
+    },
+    {
+      "id": 11520107486,
+      "name": "糶米古道全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0144545,
+      "lng": 121.5739051,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.524Z"
+    },
+    {
+      "id": 11520107489,
+      "name": "別有洞天 - 潺潺流水的石洞",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0144217,
+      "lng": 121.5739938,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.524Z"
+    },
+    {
+      "id": 11520107499,
+      "name": "糶米公廟找福德",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0139994,
+      "lng": 121.5744447,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.524Z"
+    },
+    {
+      "id": 11889064275,
+      "name": "藝能科公告欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0445194,
+      "lng": 121.5655634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.525Z"
+    },
+    {
+      "id": 12254777779,
+      "name": "綜合公告欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0443411,
+      "lng": 121.5653466,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.525Z"
+    },
+    {
+      "id": 12278806049,
+      "name": "升學資訊公布欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0434756,
+      "lng": 121.5653384,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.526Z"
+    },
+    {
+      "id": 12430207599,
+      "name": "象牙岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0287306,
+      "lng": 121.5774493,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.526Z"
+    },
+    {
+      "id": 12430207602,
+      "name": "一線天",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0256772,
+      "lng": 121.5756914,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.527Z"
+    },
+    {
+      "id": 12632640601,
+      "name": "Do not use, not safe! Only getting worse higher up. (Written by someone with mountaineering experience...)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0248722,
+      "lng": 121.5855298,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.527Z"
+    },
+    {
+      "id": 50212660,
+      "name": "和平東路三段435巷39弄",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 25.0197056,
+      "lng": 121.5599582,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.528Z"
+    },
+    {
+      "id": 219434518,
+      "name": "攝影平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0268897,
+      "lng": 121.5744438,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.528Z"
+    },
+    {
+      "id": 248210267,
+      "name": "台北101",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0338865,
+      "lng": 121.5644607,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.529Z",
+      "address": "台北市信義區信義路五段7號"
+    },
+    {
+      "id": 274647896,
+      "name": "新光三越A8館",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0382738,
+      "lng": 121.5667976,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.529Z",
+      "address": "110臺北市信義區松高路12號"
+    },
+    {
+      "id": 298953639,
+      "name": "五分埔商圈",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0467782,
+      "lng": 121.579248,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.529Z"
+    },
+    {
+      "id": 391309615,
+      "name": "新光三越A11館",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 25.0366062,
+      "lng": 121.5672518,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.530Z",
+      "address": "110臺北市信義區松壽路11號"
+    },
+    {
+      "id": 396909003,
+      "name": "服務導覽站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0340819,
+      "lng": 121.5806261,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.530Z"
+    },
+    {
+      "id": 420742724,
+      "name": "攝手平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0271342,
+      "lng": 121.5731227,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.531Z"
+    },
+    {
+      "id": 420742727,
+      "name": "101煙火攝影平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0288374,
+      "lng": 121.5727438,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.531Z"
+    },
+    {
+      "id": 421575019,
+      "name": "永春崗平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0290017,
+      "lng": 121.577,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.532Z"
+    },
+    {
+      "id": 1159328965,
+      "name": "台北101",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0339453,
+      "lng": 121.5645469,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.532Z",
+      "address": "台北市信義區信義路五段7號"
+    },
+    {
+      "id": 1238414564,
+      "name": "馬蹄形平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0202377,
+      "lng": 121.5837316,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.532Z"
+    },
+    {
+      "id": 1381702201,
+      "name": "和興炭坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0226068,
+      "lng": 121.5809145,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:48.533Z"
+    }
+  ]
+}

@@ -1,0 +1,2143 @@
+{
+  "city": "台中市",
+  "district": "霧峰區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 158,
+  "items": [
+    {
+      "id": 1431245655,
+      "name": "省議會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0552192,
+      "lng": 120.6968318
+    },
+    {
+      "id": 1431245668,
+      "name": "台影文化城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0766947,
+      "lng": 120.7152774,
+      "routes": [
+        "132",
+        "133",
+        "151",
+        "151延",
+        "249",
+        "281延",
+        "291"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1431245670,
+      "name": "中正吉峰路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0759853,
+      "lng": 120.6995738
+    },
+    {
+      "id": 1619840965,
+      "name": "交叉點",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0782735,
+      "lng": 120.7179986,
+      "routes": [
+        "131",
+        "158",
+        "282",
+        "282副",
+        "282繞",
+        "291",
+        "黃6"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1619846650,
+      "name": "吉峰里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0759165,
+      "lng": 120.7147262
+    },
+    {
+      "id": 1619846655,
+      "name": "吉峰國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0800048,
+      "lng": 120.7186118,
+      "routes": [
+        "131",
+        "158",
+        "291"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1619871117,
+      "name": "吉峰社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.076995,
+      "lng": 120.7110733,
+      "routes": [
+        "132",
+        "133",
+        "151",
+        "151A",
+        "291"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620253195,
+      "name": "桐林里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0784046,
+      "lng": 120.7197122,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620254347,
+      "name": "吊橋頭(民生路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0769548,
+      "lng": 120.7241081,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620254355,
+      "name": "吉峰東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0754169,
+      "lng": 120.7144252
+    },
+    {
+      "id": 1620265541,
+      "name": "桐林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0622217,
+      "lng": 120.7383425,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620265543,
+      "name": "番石榴園(606巷)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0690301,
+      "lng": 120.7335386,
+      "routes": [
+        "282",
+        "282副",
+        "282繞",
+        "黃6"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620265546,
+      "name": "桐林國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0660936,
+      "lng": 120.7354578,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620265549,
+      "name": "暗坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0712562,
+      "lng": 120.7326,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620265573,
+      "name": "土地公廟(民生路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0723067,
+      "lng": 120.7306393,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1620265578,
+      "name": "廣興社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0754194,
+      "lng": 120.7257093,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1624845043,
+      "name": "僑榮國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0705075,
+      "lng": 120.7029896,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1624845060,
+      "name": "中興社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0739705,
+      "lng": 120.7073672,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1624845063,
+      "name": "教育部國教署",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0591006,
+      "lng": 120.6978675
+    },
+    {
+      "id": 1624917629,
+      "name": "八德橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0503845,
+      "lng": 120.6942043
+    },
+    {
+      "id": 1624917657,
+      "name": "甲寅村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0681258,
+      "lng": 120.7021261
+    },
+    {
+      "id": 1625046679,
+      "name": "市場口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0673678,
+      "lng": 120.6999956
+    },
+    {
+      "id": 1629241739,
+      "name": "霧峰分局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0758252,
+      "lng": 120.7006957
+    },
+    {
+      "id": 1879457853,
+      "name": "朝陽科技大學",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0698271,
+      "lng": 120.7155543
+    },
+    {
+      "id": 3607353570,
+      "name": "坑口里(光復新村)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0451931,
+      "lng": 120.6921308,
+      "routes": [
+        "17",
+        "50",
+        "59",
+        "107",
+        "107延",
+        "151",
+        "151延",
+        "200",
+        "6268",
+        "6742",
+        "6742A",
+        "6899",
+        "黃7"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3607353808,
+      "name": "福德宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0606158,
+      "lng": 120.696608,
+      "routes": [
+        "281",
+        "281副",
+        "282",
+        "282副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3607353820,
+      "name": "樹仁育仁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0636172,
+      "lng": 120.6971322,
+      "routes": [
+        "281",
+        "281副",
+        "282",
+        "282副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3621405549,
+      "name": "中正草湖路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0681314,
+      "lng": 120.6990701
+    },
+    {
+      "id": 3678586050,
+      "name": "公車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0331994,
+      "lng": 120.6836246
+    },
+    {
+      "id": 3732011927,
+      "name": "亞洲大學安藤館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0468712,
+      "lng": 120.6873419,
+      "routes": [
+        "108",
+        "151",
+        "151延",
+        "200",
+        "243",
+        "282",
+        "282副",
+        "282繞",
+        "6322"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011929,
+      "name": "光復國中小(柳豐路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0429235,
+      "lng": 120.6899992,
+      "routes": [
+        "17",
+        "108",
+        "151",
+        "151延",
+        "200",
+        "282",
+        "282副",
+        "282繞",
+        "6322"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011945,
+      "name": "羅厝站(新厝路550巷口)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0491912,
+      "lng": 120.686544,
+      "routes": [
+        "108",
+        "151",
+        "151延",
+        "200",
+        "243"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011948,
+      "name": "林森育賢路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0613964,
+      "lng": 120.6954101
+    },
+    {
+      "id": 3732011950,
+      "name": "王厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0437145,
+      "lng": 120.6885591,
+      "routes": [
+        "108",
+        "108區",
+        "151",
+        "201"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011952,
+      "name": "甲寅(中正路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0696233,
+      "lng": 120.6993777
+    },
+    {
+      "id": 3732011957,
+      "name": "柳豐福新路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0506039,
+      "lng": 120.6847874
+    },
+    {
+      "id": 3732012050,
+      "name": "霧峰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0637248,
+      "lng": 120.6986514
+    },
+    {
+      "id": 3732012052,
+      "name": "霧峰國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0573605,
+      "lng": 120.6976466
+    },
+    {
+      "id": 3732012054,
+      "name": "霧峰農工",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0727795,
+      "lng": 120.6998074
+    },
+    {
+      "id": 3732012056,
+      "name": "霧峰農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0646205,
+      "lng": 120.6977377
+    },
+    {
+      "id": 3732012058,
+      "name": "霧峰郵局(明台高中)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0618034,
+      "lng": 120.6984222
+    },
+    {
+      "id": 4256858996,
+      "name": "朝陽三宿接駁車",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.07826,
+      "lng": 120.7179607
+    },
+    {
+      "id": 4428433628,
+      "name": "全家福社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0243923,
+      "lng": 120.6967231
+    },
+    {
+      "id": 4428433630,
+      "name": "六股(中正路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0415378,
+      "lng": 120.6920449,
+      "routes": [
+        "17",
+        "50",
+        "59",
+        "107",
+        "107延",
+        "108",
+        "282",
+        "282副",
+        "282繞",
+        "6268",
+        "6322",
+        "6742",
+        "6742A",
+        "6899",
+        "黃7"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.237Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428433632,
+      "name": "味全工廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0349488,
+      "lng": 120.6938898,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428433634,
+      "name": "山腳巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0383624,
+      "lng": 120.6930196,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428434170,
+      "name": "舊正(烏溪橋頭)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0143481,
+      "lng": 120.695865,
+      "routes": [
+        "6870",
+        "6871"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428434172,
+      "name": "萬豐",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0257979,
+      "lng": 120.6966547,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428434174,
+      "name": "豐營",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0216794,
+      "lng": 120.6964686,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428434176,
+      "name": "農試所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0287085,
+      "lng": 120.6969959,
+      "routes": [
+        "59",
+        "107",
+        "107延",
+        "108",
+        "6268",
+        "6322",
+        "6742",
+        "6742A",
+        "6899",
+        "黃7"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.237Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4428434178,
+      "name": "農試所宿舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0184987,
+      "lng": 120.6961456,
+      "routes": [
+        "59",
+        "107",
+        "107延",
+        "108",
+        "6322",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.237Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4598397769,
+      "name": "吉峰東自強路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0739375,
+      "lng": 120.7152638
+    },
+    {
+      "id": 4598487609,
+      "name": "全陽社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0765233,
+      "lng": 120.707164
+    },
+    {
+      "id": 5550353397,
+      "name": "草湖林森路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0706817,
+      "lng": 120.6964633,
+      "routes": [
+        "59"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.238Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5550353399,
+      "name": "甲寅福德正神廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0726409,
+      "lng": 120.6948566,
+      "routes": [
+        "59",
+        "59延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5554028721,
+      "name": "霧峰國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0660212,
+      "lng": 120.6915227
+    },
+    {
+      "id": 5554028724,
+      "name": "聖賢宮(四德路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0659074,
+      "lng": 120.6951624
+    },
+    {
+      "id": 5554069902,
+      "name": "北柳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0648628,
+      "lng": 120.6793991
+    },
+    {
+      "id": 5554069904,
+      "name": "領鮮超市",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0652951,
+      "lng": 120.6827196,
+      "routes": [
+        "281",
+        "281延",
+        "281副",
+        "282",
+        "282副",
+        "282繞",
+        "283"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.238Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5554069906,
+      "name": "頂北柳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0656441,
+      "lng": 120.68611
+    },
+    {
+      "id": 5554069912,
+      "name": "佳興新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0658878,
+      "lng": 120.6886956
+    },
+    {
+      "id": 5570990172,
+      "name": "水牛城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0634766,
+      "lng": 120.6748098,
+      "routes": [
+        "283"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.239Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5570990173,
+      "name": "新厝(四德路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0643084,
+      "lng": 120.6765683
+    },
+    {
+      "id": 5570990174,
+      "name": "新厝(四德路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.064591,
+      "lng": 120.6776141
+    },
+    {
+      "id": 5603824691,
+      "name": "四德國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0605524,
+      "lng": 120.6674297,
+      "routes": [
+        "283"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617876993,
+      "name": "四德",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0598862,
+      "lng": 120.664372,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6320180869,
+      "name": "亞大醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0532667,
+      "lng": 120.6862214
+    },
+    {
+      "id": 7041861067,
+      "name": "林森中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0555952,
+      "lng": 120.6959322
+    },
+    {
+      "id": 9608313635,
+      "name": "錦州吉峰西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0780618,
+      "lng": 120.7087307
+    },
+    {
+      "id": 9646439660,
+      "name": "921地震教育園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0403337,
+      "lng": 120.698491
+    },
+    {
+      "id": 9646439662,
+      "name": "六股(乾溪路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0424289,
+      "lng": 120.6929281
+    },
+    {
+      "id": 9646439664,
+      "name": "光復新村圓環",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0445151,
+      "lng": 120.6943275,
+      "routes": [
+        "50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9648237556,
+      "name": "舊正社區停車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0230788,
+      "lng": 120.6853052
+    },
+    {
+      "id": 9648237558,
+      "name": "北岸路36巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0163244,
+      "lng": 120.6854676
+    },
+    {
+      "id": 9648237560,
+      "name": "北岸新豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0138768,
+      "lng": 120.6912385
+    },
+    {
+      "id": 9648237562,
+      "name": "聖賢宮(林森路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0660102,
+      "lng": 120.6961944
+    },
+    {
+      "id": 9959913218,
+      "name": "復興八街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0385246,
+      "lng": 120.7299378
+    },
+    {
+      "id": 9959913220,
+      "name": "復興六街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0381101,
+      "lng": 120.7270135
+    },
+    {
+      "id": 9959913222,
+      "name": "大臺中山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0379455,
+      "lng": 120.7236872
+    },
+    {
+      "id": 9959913223,
+      "name": "福天宮（復興二街）",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0394096,
+      "lng": 120.7207213
+    },
+    {
+      "id": 9959913225,
+      "name": "峰谷里11鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.035587,
+      "lng": 120.7362254
+    },
+    {
+      "id": 9959913226,
+      "name": "牛城福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0343634,
+      "lng": 120.7327513
+    },
+    {
+      "id": 9959913228,
+      "name": "牛城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0339668,
+      "lng": 120.7290462
+    },
+    {
+      "id": 9959913230,
+      "name": "峰谷國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0355701,
+      "lng": 120.724766
+    },
+    {
+      "id": 9959913232,
+      "name": "峰谷里六鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0360553,
+      "lng": 120.722657
+    },
+    {
+      "id": 9959913234,
+      "name": "峰谷里公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0372198,
+      "lng": 120.7210817
+    },
+    {
+      "id": 9959913237,
+      "name": "峰谷里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0391775,
+      "lng": 120.7193723
+    },
+    {
+      "id": 9959913239,
+      "name": "瑪利亞霧峰家園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0399201,
+      "lng": 120.7173696
+    },
+    {
+      "id": 9959913241,
+      "name": "新峰橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0400256,
+      "lng": 120.714212
+    },
+    {
+      "id": 9959913243,
+      "name": "仙峰宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0383042,
+      "lng": 120.713653
+    },
+    {
+      "id": 9959913245,
+      "name": "峰谷里三鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0385573,
+      "lng": 120.7097077
+    },
+    {
+      "id": 9959913247,
+      "name": "峰谷社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0414854,
+      "lng": 120.7066401
+    },
+    {
+      "id": 9959913249,
+      "name": "坑口橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0399876,
+      "lng": 120.701757
+    },
+    {
+      "id": 9959913251,
+      "name": "峰谷里一鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0394897,
+      "lng": 120.6997982
+    },
+    {
+      "id": 9959913253,
+      "name": "山腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0403673,
+      "lng": 120.6962987
+    },
+    {
+      "id": 9959913255,
+      "name": "六股里新活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0407639,
+      "lng": 120.6940512
+    },
+    {
+      "id": 9959913257,
+      "name": "六股(峰谷路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0412871,
+      "lng": 120.6927853,
+      "routes": [
+        "17"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539291,
+      "name": "中投東四德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0586722,
+      "lng": 120.6630144
+    },
+    {
+      "id": 10259539292,
+      "name": "中投東北豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0477505,
+      "lng": 120.6647912,
+      "routes": [
+        "282副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539293,
+      "name": "下丁台",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0456999,
+      "lng": 120.6731127,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539294,
+      "name": "丁台",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0492174,
+      "lng": 120.6753539,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539297,
+      "name": "中投西北豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0465421,
+      "lng": 120.6648341,
+      "routes": [
+        "282副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539298,
+      "name": "中投西四德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0591688,
+      "lng": 120.6621662,
+      "routes": [
+        "245",
+        "245繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10268538785,
+      "name": "中投北岸路36巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0210443,
+      "lng": 120.684383,
+      "routes": [
+        "59",
+        "107延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.240Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123544,
+      "name": "國立臺灣交響樂團",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0591588,
+      "lng": 120.6990858,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123546,
+      "name": "明台高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0620486,
+      "lng": 120.7030646,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123548,
+      "name": "萊園土地公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0611233,
+      "lng": 120.7050376,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123550,
+      "name": "山多綠社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0628983,
+      "lng": 120.7084205,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123560,
+      "name": "新埔福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0780254,
+      "lng": 120.6702497
+    },
+    {
+      "id": 10270123562,
+      "name": "五福國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0727244,
+      "lng": 120.66544
+    },
+    {
+      "id": 10270123564,
+      "name": "五福活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0714096,
+      "lng": 120.6662594
+    },
+    {
+      "id": 10270123566,
+      "name": "四德北路85巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.069537,
+      "lng": 120.6659879
+    },
+    {
+      "id": 10270123568,
+      "name": "五福里1鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0662611,
+      "lng": 120.6650085
+    },
+    {
+      "id": 10270123570,
+      "name": "四德厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0613293,
+      "lng": 120.6643054
+    },
+    {
+      "id": 10270123572,
+      "name": "下桐林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0643375,
+      "lng": 120.73696
+    },
+    {
+      "id": 10270123582,
+      "name": "民生路198巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0742295,
+      "lng": 120.7107297,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123585,
+      "name": "民生自強路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0724698,
+      "lng": 120.7050667,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123588,
+      "name": "甲寅(民生路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0671376,
+      "lng": 120.701377,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123592,
+      "name": "丁台霧工五路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0620022,
+      "lng": 120.6764994,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123594,
+      "name": "丁台路296巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0565987,
+      "lng": 120.6755418,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123596,
+      "name": "曾厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0556712,
+      "lng": 120.674686,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123598,
+      "name": "二林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0529528,
+      "lng": 120.6745503,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123600,
+      "name": "二媽廟前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0521115,
+      "lng": 120.6747636,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123602,
+      "name": "丁台活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0504822,
+      "lng": 120.6756073
+    },
+    {
+      "id": 10270123604,
+      "name": "北勢社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0414585,
+      "lng": 120.6696436
+    },
+    {
+      "id": 10270123606,
+      "name": "合作農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0402187,
+      "lng": 120.6684315,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123608,
+      "name": "北勢里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0378719,
+      "lng": 120.6662982,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126110,
+      "name": "板橋中投東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0362197,
+      "lng": 120.667702
+    },
+    {
+      "id": 10270126111,
+      "name": "光正國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0364098,
+      "lng": 120.6677682,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126112,
+      "name": "豐正路538巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0352652,
+      "lng": 120.6699863
+    },
+    {
+      "id": 10270126114,
+      "name": "邑興社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0345222,
+      "lng": 120.6719868,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126116,
+      "name": "三久公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.031706,
+      "lng": 120.6724361
+    },
+    {
+      "id": 10270126117,
+      "name": "光明峰東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0299415,
+      "lng": 120.6706673
+    },
+    {
+      "id": 10270126118,
+      "name": "南勢(豐正路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0324317,
+      "lng": 120.6752264,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126120,
+      "name": "煙間",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0311359,
+      "lng": 120.6788207,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126122,
+      "name": "船板橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0300473,
+      "lng": 120.6819326,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126124,
+      "name": "豐正中投東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0295312,
+      "lng": 120.6842524,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126126,
+      "name": "板橋中投東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0340989,
+      "lng": 120.6844297,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126128,
+      "name": "板橋福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0355589,
+      "lng": 120.6859999,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126130,
+      "name": "六股庄福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0379431,
+      "lng": 120.6881706,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126132,
+      "name": "六股庄(六股路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0376494,
+      "lng": 120.6909137,
+      "routes": [
+        "282",
+        "282副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126170,
+      "name": "林森福新路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.058759,
+      "lng": 120.6951673
+    },
+    {
+      "id": 10270221134,
+      "name": "丁台路北岸路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0365247,
+      "lng": 120.6644803,
+      "routes": [
+        "黃8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221136,
+      "name": "光明西路豐正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0326731,
+      "lng": 120.676521,
+      "routes": [
+        "黃8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221138,
+      "name": "六股路南阡巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0396795,
+      "lng": 120.6825254,
+      "routes": [
+        "黃8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221140,
+      "name": "花東新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.079392,
+      "lng": 120.7050348,
+      "routes": [
+        "黃8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221142,
+      "name": "象鼻橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0151025,
+      "lng": 120.7154967,
+      "routes": [
+        "黃7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221144,
+      "name": "象鼻中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0132264,
+      "lng": 120.6973104,
+      "routes": [
+        "黃7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221146,
+      "name": "水利署水利規劃試驗所舊正辦公區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0187884,
+      "lng": 120.6799329,
+      "routes": [
+        "黃7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221148,
+      "name": "霧峰幼兒園舊正分班",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0263826,
+      "lng": 120.6893351,
+      "routes": [
+        "黃7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221150,
+      "name": "霧峰慈玉宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0261633,
+      "lng": 120.6912989,
+      "routes": [
+        "黃7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221152,
+      "name": "青桐林生態產業園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0508816,
+      "lng": 120.7806066,
+      "routes": [
+        "黃6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221154,
+      "name": "普願自然生態園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0571648,
+      "lng": 120.7748721,
+      "routes": [
+        "黃6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270221156,
+      "name": "靈隱寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0688676,
+      "lng": 120.7574314,
+      "routes": [
+        "黃6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089239721,
+      "name": "朝陽科技大學第二宿舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0605739,
+      "lng": 120.7274781,
+      "routes": [
+        "281延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089239722,
+      "name": "朝陽科技大學運動場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0666633,
+      "lng": 120.7163337,
+      "routes": [
+        "281延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.241Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12117284936,
+      "name": "柳豐路(亞大醫院)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0507361,
+      "lng": 120.6846493
+    },
+    {
+      "id": 12132184607,
+      "name": "洗衣潭（丁台路）",
+      "type": "bus",
+      "city": "台中市",
+      "district": "霧峰區",
+      "lat": 24.0471136,
+      "lng": 120.6742787,
+      "routes": [
+        "245",
+        "245繞",
+        "282",
+        "282副",
+        "282繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.242Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:47:22.518Z",
+  "items": [
+    {
+      "id": 3311573277,
+      "name": "攀根坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7345525,
+      "lng": 120.3790618,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.510Z"
+    },
+    {
+      "id": 7557964574,
+      "name": "翠屏岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7294365,
+      "lng": 120.369766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.512Z"
+    },
+    {
+      "id": 7557972790,
+      "name": "石筆初開",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7287118,
+      "lng": 120.3763712,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.514Z"
+    },
+    {
+      "id": 7557972794,
+      "name": "虛空雲門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7344148,
+      "lng": 120.3784145,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.515Z"
+    },
+    {
+      "id": 9854666385,
+      "name": "高雄市政府觀光局",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7254167,
+      "lng": 120.3707994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.516Z"
+    },
+    {
+      "id": 9854691960,
+      "name": "高雄市政府觀光局",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7287871,
+      "lng": 120.3764603,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:47:22.517Z"
+    }
+  ]
+}

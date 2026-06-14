@@ -1,0 +1,27 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:32:33.560Z",
+  "items": [
+    {
+      "id": 4283508324,
+      "name": "新豐紅樹林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9084253,
+      "lng": 120.9716959,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:32:33.557Z"
+    },
+    {
+      "id": 430376992,
+      "name": "新豐國家濕地遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9071461,
+      "lng": 120.9719245,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:32:33.560Z"
+    }
+  ]
+}

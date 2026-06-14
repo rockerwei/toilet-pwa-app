@@ -1,0 +1,67 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:35:48.492Z",
+  "items": [
+    {
+      "id": 1169738162,
+      "name": "南堤頭燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2901667,
+      "lng": 120.5006111,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.483Z"
+    },
+    {
+      "id": 1169738473,
+      "name": "南內堤燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2851223,
+      "lng": 120.5118075,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.486Z"
+    },
+    {
+      "id": 5922373048,
+      "name": "梧棲漁寮文化園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2590888,
+      "lng": 120.5306793,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.487Z"
+    },
+    {
+      "id": 6124770736,
+      "name": "媽祖行海",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2609177,
+      "lng": 120.5223517,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.489Z"
+    },
+    {
+      "id": 6124820902,
+      "name": "臺中之星摩天輪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2596715,
+      "lng": 120.5173786,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.490Z"
+    },
+    {
+      "id": 526982233,
+      "name": "梧棲文化出張所",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2565444,
+      "lng": 120.5298894,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:35:48.492Z"
+    }
+  ]
+}

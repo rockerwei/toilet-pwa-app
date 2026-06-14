@@ -1,0 +1,367 @@
+{
+  "city": "彰化縣",
+  "district": "北斗鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 22,
+  "items": [
+    {
+      "id": 2083339791,
+      "name": "北斗",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8729738,
+      "lng": 120.523466,
+      "routes": [
+        "8路",
+        "15路",
+        "6707",
+        "6709",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2083389398,
+      "name": "北斗國中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8756699,
+      "lng": 120.5214911,
+      "routes": [
+        "6707",
+        "6716",
+        "6716A",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4395921289,
+      "name": "大橋組",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.867598,
+      "lng": 120.512163,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4403803889,
+      "name": "大道里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8783065,
+      "lng": 120.5209133,
+      "routes": [
+        "6707",
+        "6716",
+        "6716A",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4405402391,
+      "name": "卓綜合",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8719197,
+      "lng": 120.5156428,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238569,
+      "name": "中寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8771543,
+      "lng": 120.5113733
+    },
+    {
+      "id": 4410238570,
+      "name": "中寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8774217,
+      "lng": 120.5103138,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238571,
+      "name": "交流道",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8822067,
+      "lng": 120.5002596,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238577,
+      "name": "北勢寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8736258,
+      "lng": 120.5167093,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238579,
+      "name": "外中寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8798976,
+      "lng": 120.505557,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238580,
+      "name": "外中寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8802091,
+      "lng": 120.504417,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416440993,
+      "name": "北斗分局",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8747008,
+      "lng": 120.5240599,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441065,
+      "name": "菓菜市場",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8812898,
+      "lng": 120.5222573,
+      "routes": [
+        "6707",
+        "6716",
+        "6716A",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5286013002,
+      "name": "螺青國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8709502,
+      "lng": 120.5340233
+    },
+    {
+      "id": 5286013003,
+      "name": "螺青國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8707859,
+      "lng": 120.5328572,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5286013004,
+      "name": "東光里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8719951,
+      "lng": 120.5288923,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304900499,
+      "name": "改良場",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8697557,
+      "lng": 120.5547247,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304900501,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8704842,
+      "lng": 120.5487058
+    },
+    {
+      "id": 5304900505,
+      "name": "中圳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8707491,
+      "lng": 120.5451559,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.219Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5397826893,
+      "name": "居仁里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8729738,
+      "lng": 120.5275324,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5397826899,
+      "name": "復興路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8736237,
+      "lng": 120.5283907,
+      "routes": [
+        "6881",
+        "6882"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464176143,
+      "name": "北勢寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "北斗鎮",
+      "lat": 23.8828702,
+      "lng": 120.522632,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.872Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

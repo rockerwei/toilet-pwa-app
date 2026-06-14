@@ -1,0 +1,958 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:55:59.475Z",
+  "items": [
+    {
+      "id": 2299246674,
+      "name": "南大武山展望點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6123808,
+      "lng": 120.7444277,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.415Z"
+    },
+    {
+      "id": 2299246709,
+      "name": "喜多麗斷崖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6147845,
+      "lng": 120.7385206,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.418Z"
+    },
+    {
+      "id": 2299246825,
+      "name": "大武山舊登山口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6243716,
+      "lng": 120.7145461,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.420Z"
+    },
+    {
+      "id": 4593966892,
+      "name": "沙拉灣瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6580386,
+      "lng": 120.7210033,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.422Z"
+    },
+    {
+      "id": 5346057453,
+      "name": "排雲瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6569742,
+      "lng": 120.723887,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.423Z"
+    },
+    {
+      "id": 6067659433,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6244998,
+      "lng": 120.7144968,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.424Z"
+    },
+    {
+      "id": 6373268586,
+      "name": "大武山之門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5892153,
+      "lng": 120.6645535,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.426Z"
+    },
+    {
+      "id": 7063481795,
+      "name": "武潭瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5852712,
+      "lng": 120.6418627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.427Z"
+    },
+    {
+      "id": 9152363500,
+      "name": "北大武動植物資源",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6243998,
+      "lng": 120.7148847,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.429Z"
+    },
+    {
+      "id": 9152438089,
+      "name": "0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6244032,
+      "lng": 120.7146093,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.430Z"
+    },
+    {
+      "id": 9152438906,
+      "name": "10",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6178196,
+      "lng": 120.7293183,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.430Z"
+    },
+    {
+      "id": 9152446791,
+      "name": "雙鬼湖野生動物重要棲息環境",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6243691,
+      "lng": 120.7145565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.431Z"
+    },
+    {
+      "id": 9152447077,
+      "name": "北大武山國家步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6243729,
+      "lng": 120.7145888,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.432Z"
+    },
+    {
+      "id": 9152447419,
+      "name": "6",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6223554,
+      "lng": 120.7192049,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.432Z"
+    },
+    {
+      "id": 9152447981,
+      "name": "8",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6162381,
+      "lng": 120.7264071,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.433Z"
+    },
+    {
+      "id": 9152448115,
+      "name": "9",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6176159,
+      "lng": 120.7288479,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.434Z"
+    },
+    {
+      "id": 9152448670,
+      "name": "13",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6168635,
+      "lng": 120.7329639,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.435Z"
+    },
+    {
+      "id": 9152448671,
+      "name": "22",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6146978,
+      "lng": 120.7388879,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.435Z"
+    },
+    {
+      "id": 9152448897,
+      "name": "12",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6174671,
+      "lng": 120.7322875,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.436Z"
+    },
+    {
+      "id": 9152451494,
+      "name": "35",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6175869,
+      "lng": 120.7527044,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.436Z"
+    },
+    {
+      "id": 9152453755,
+      "name": "4",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6240963,
+      "lng": 120.7167127,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.437Z"
+    },
+    {
+      "id": 9152453756,
+      "name": "15",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6163241,
+      "lng": 120.7337281,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.437Z"
+    },
+    {
+      "id": 9152453757,
+      "name": "23",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6146875,
+      "lng": 120.7398863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.438Z"
+    },
+    {
+      "id": 9152454684,
+      "name": "5",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6238108,
+      "lng": 120.7169474,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.439Z"
+    },
+    {
+      "id": 9152455782,
+      "name": "17",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6164496,
+      "lng": 120.7343631,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.439Z"
+    },
+    {
+      "id": 9152455783,
+      "name": "1819",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6151239,
+      "lng": 120.7373759,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.440Z"
+    },
+    {
+      "id": 9152459728,
+      "name": "20",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6149543,
+      "lng": 120.7382971,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.440Z"
+    },
+    {
+      "id": 9152460015,
+      "name": "14",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6164795,
+      "lng": 120.7333364,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.441Z"
+    },
+    {
+      "id": 9152460090,
+      "name": "北大武山鳥類資源",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.615066,
+      "lng": 120.7249812,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.442Z"
+    },
+    {
+      "id": 9152461024,
+      "name": "11",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.617896,
+      "lng": 120.7307491,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.443Z"
+    },
+    {
+      "id": 9152462224,
+      "name": "排灣族五年祭",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6152519,
+      "lng": 120.7421609,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.443Z"
+    },
+    {
+      "id": 9152481178,
+      "name": "指示牌 (↑日湯真山,舊登山口→,新登山口↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6219634,
+      "lng": 120.7036407,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.444Z"
+    },
+    {
+      "id": 9152481212,
+      "name": "36",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6176173,
+      "lng": 120.7526567,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.444Z"
+    },
+    {
+      "id": 9152481213,
+      "name": "38",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6169259,
+      "lng": 120.7545711,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.445Z"
+    },
+    {
+      "id": 9152481517,
+      "name": "眺望雲海夕陽與夜景",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6147799,
+      "lng": 120.7385432,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.445Z"
+    },
+    {
+      "id": 9152505836,
+      "name": "27,28,29",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6123992,
+      "lng": 120.744293,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.446Z"
+    },
+    {
+      "id": 9152505837,
+      "name": "34",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6157807,
+      "lng": 120.751999,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.447Z"
+    },
+    {
+      "id": 9152508956,
+      "name": "33",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6147112,
+      "lng": 120.7486811,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.447Z"
+    },
+    {
+      "id": 9152521324,
+      "name": "39",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6192462,
+      "lng": 120.7561088,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.448Z"
+    },
+    {
+      "id": 9152523964,
+      "name": "30",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6125001,
+      "lng": 120.7455311,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.448Z"
+    },
+    {
+      "id": 9152524490,
+      "name": "31",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6137625,
+      "lng": 120.7471804,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.449Z"
+    },
+    {
+      "id": 9152524497,
+      "name": "37",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.618532,
+      "lng": 120.7557125,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.449Z"
+    },
+    {
+      "id": 9152524498,
+      "name": "43,44",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6210445,
+      "lng": 120.7569949,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.450Z"
+    },
+    {
+      "id": 9152525131,
+      "name": "紅檜巨木",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6141353,
+      "lng": 120.7477899,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.450Z"
+    },
+    {
+      "id": 9152530556,
+      "name": "大武遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.621057,
+      "lng": 120.7569688,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.451Z"
+    },
+    {
+      "id": 9152541217,
+      "name": "高砂義勇軍紀念碑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6208653,
+      "lng": 120.7568702,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.451Z"
+    },
+    {
+      "id": 9467515333,
+      "name": "屏東咖啡園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6040055,
+      "lng": 120.6114819,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.452Z"
+    },
+    {
+      "id": 9880846636,
+      "name": "神秘谷瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5939619,
+      "lng": 120.709759,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.452Z"
+    },
+    {
+      "id": 10875082953,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.621162,
+      "lng": 120.75697,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.453Z"
+    },
+    {
+      "id": 10875082954,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.617841,
+      "lng": 120.7551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.453Z"
+    },
+    {
+      "id": 10875082955,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.617483,
+      "lng": 120.75333,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.454Z"
+    },
+    {
+      "id": 10875082956,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.614869,
+      "lng": 120.75055,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.454Z"
+    },
+    {
+      "id": 10875082957,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.614737,
+      "lng": 120.74786,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.455Z"
+    },
+    {
+      "id": 10875082958,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.612553,
+      "lng": 120.7455,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.455Z"
+    },
+    {
+      "id": 10875082959,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.613722,
+      "lng": 120.74268,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.456Z"
+    },
+    {
+      "id": 10875082960,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.615348,
+      "lng": 120.73732,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.456Z"
+    },
+    {
+      "id": 10875082961,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.616517,
+      "lng": 120.73434,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.457Z"
+    },
+    {
+      "id": 10875082962,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.61785,
+      "lng": 120.73105,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.457Z"
+    },
+    {
+      "id": 10875082963,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.616346,
+      "lng": 120.72656,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.458Z"
+    },
+    {
+      "id": 10875082964,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.619255,
+      "lng": 120.72069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.458Z"
+    },
+    {
+      "id": 10875082965,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.623894,
+      "lng": 120.71692,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.458Z"
+    },
+    {
+      "id": 10875082966,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.624211,
+      "lng": 120.71131,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.459Z"
+    },
+    {
+      "id": 10875082967,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.622533,
+      "lng": 120.70512,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.459Z"
+    },
+    {
+      "id": 10875082968,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.615049,
+      "lng": 120.70222,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.460Z"
+    },
+    {
+      "id": 10875082975,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.652392,
+      "lng": 120.74012,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.460Z"
+    },
+    {
+      "id": 10875082991,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.57078,
+      "lng": 120.73957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.461Z"
+    },
+    {
+      "id": 10875082992,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.572315,
+      "lng": 120.72693,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.461Z"
+    },
+    {
+      "id": 10875082993,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.574031,
+      "lng": 120.72456,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.462Z"
+    },
+    {
+      "id": 10875082994,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.57632,
+      "lng": 120.72137,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.462Z"
+    },
+    {
+      "id": 10875082995,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.578876,
+      "lng": 120.71824,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.463Z"
+    },
+    {
+      "id": 10875082996,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.579193,
+      "lng": 120.71744,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.463Z"
+    },
+    {
+      "id": 10875082997,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.580268,
+      "lng": 120.71566,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.464Z"
+    },
+    {
+      "id": 10875082998,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.580736,
+      "lng": 120.71185,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.464Z"
+    },
+    {
+      "id": 10875082999,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.576657,
+      "lng": 120.70961,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.465Z"
+    },
+    {
+      "id": 10875083000,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.574553,
+      "lng": 120.70505,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.465Z"
+    },
+    {
+      "id": 10875083001,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.5742,
+      "lng": 120.70338,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.466Z"
+    },
+    {
+      "id": 10875083002,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.571252,
+      "lng": 120.70116,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.466Z"
+    },
+    {
+      "id": 10875083003,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.570305,
+      "lng": 120.69706,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.467Z"
+    },
+    {
+      "id": 10875083004,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.567914,
+      "lng": 120.69202,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.467Z"
+    },
+    {
+      "id": 10875083005,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.56984,
+      "lng": 120.69371,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.468Z"
+    },
+    {
+      "id": 10875083006,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.570194,
+      "lng": 120.69356,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.468Z"
+    },
+    {
+      "id": 10875083007,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.571184,
+      "lng": 120.69008,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.469Z"
+    },
+    {
+      "id": 10875083008,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.57372,
+      "lng": 120.69527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.469Z"
+    },
+    {
+      "id": 10875083009,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.574041,
+      "lng": 120.6936,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.470Z"
+    },
+    {
+      "id": 10875083010,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.574803,
+      "lng": 120.69049,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.470Z"
+    },
+    {
+      "id": 10875083011,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.573424,
+      "lng": 120.68633,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.471Z"
+    },
+    {
+      "id": 10875083012,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.576693,
+      "lng": 120.68385,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.471Z"
+    },
+    {
+      "id": 10875083013,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.578607,
+      "lng": 120.68322,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.472Z"
+    },
+    {
+      "id": 10875083014,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.578503,
+      "lng": 120.68118,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.472Z"
+    },
+    {
+      "id": 10875085736,
+      "name": "屏東林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.616723,
+      "lng": 120.72391,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.473Z"
+    },
+    {
+      "id": 13628991766,
+      "name": "區域封閉暫勿進入",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6162509,
+      "lng": 120.7263751,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.473Z"
+    },
+    {
+      "id": 13628991767,
+      "name": "區域封閉暫勿進入",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6163274,
+      "lng": 120.7260294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.474Z"
+    },
+    {
+      "id": 1026885662,
+      "name": "泰武有機咖啡產業發展館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.6046022,
+      "lng": 120.610364,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.474Z",
+      "address": "屏東縣泰武鄉大武山一街40號"
+    },
+    {
+      "id": 7001875,
+      "name": "大武山自然保留區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.6080799,
+      "lng": 120.85725,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.475Z"
+    },
+    {
+      "id": 7033434,
+      "name": "雙鬼湖野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.7965797,
+      "lng": 120.850848,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:55:59.475Z"
+    }
+  ]
+}

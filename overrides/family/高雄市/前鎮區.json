@@ -1,0 +1,37 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:40:29.435Z",
+  "items": [
+    {
+      "id": 5555560425,
+      "name": "西臨港線自行車道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5918109,
+      "lng": 120.3053307,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:40:29.431Z"
+    },
+    {
+      "id": 5786377212,
+      "name": "高雄市漁業文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.5722341,
+      "lng": 120.3167673,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:40:29.434Z"
+    },
+    {
+      "id": 11764020632,
+      "name": "流金歲月高雄港台灣機械造船廠",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6019894,
+      "lng": 120.2980547,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:40:29.435Z"
+    }
+  ]
+}

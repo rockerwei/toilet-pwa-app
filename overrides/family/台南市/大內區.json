@@ -1,0 +1,87 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:29:53.918Z",
+  "items": [
+    {
+      "id": 4292277089,
+      "name": "大內龍貓彩繪村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1232714,
+      "lng": 120.3544831,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.909Z"
+    },
+    {
+      "id": 12056409971,
+      "name": "芒果 (台灣土芒果)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.1363632,
+      "lng": 120.4268433,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.911Z"
+    },
+    {
+      "id": 12056409977,
+      "name": "芒果 (台灣土芒果)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.136405,
+      "lng": 120.4267156,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.913Z"
+    },
+    {
+      "id": 12056631352,
+      "name": "走馬瀨農場石碑",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.1351938,
+      "lng": 120.427885,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.914Z"
+    },
+    {
+      "id": 13369690004,
+      "name": "大內風之谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1468546,
+      "lng": 120.4041518,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.915Z"
+    },
+    {
+      "id": 343441614,
+      "name": "陳進士紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.122372,
+      "lng": 120.3926874,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.917Z"
+    },
+    {
+      "id": 360847925,
+      "name": "可愛動物區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1325718,
+      "lng": 120.4326097,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.918Z"
+    },
+    {
+      "id": 364820786,
+      "name": "天文展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.117424,
+      "lng": 120.3917008,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:29:53.918Z"
+    }
+  ]
+}

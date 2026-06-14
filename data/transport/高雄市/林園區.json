@@ -1,0 +1,754 @@
+{
+  "city": "高雄市",
+  "district": "林園區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 39,
+  "items": [
+    {
+      "id": 2766207530,
+      "name": "新金潭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5237217,
+      "lng": 120.3968813,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835081899,
+      "name": "介壽路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.52039,
+      "lng": 120.3964023,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437435,
+      "name": "中芸",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4899812,
+      "lng": 120.3975031,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437436,
+      "name": "中芸國小(側門)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4882717,
+      "lng": 120.395878,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437437,
+      "name": "國泰人壽",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5015414,
+      "lng": 120.3979754,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線",
+        "橘11A區間車"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437439,
+      "name": "汕尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4816061,
+      "lng": 120.4092016,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437440,
+      "name": "漁港公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4856697,
+      "lng": 120.4000669,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437441,
+      "name": "西溪路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4903532,
+      "lng": 120.3931352,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437442,
+      "name": "鳳芸站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4869489,
+      "lng": 120.3975959,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437521,
+      "name": "中門7-11",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5049687,
+      "lng": 120.3715247,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437523,
+      "name": "大安森林",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5086413,
+      "lng": 120.3662692,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437525,
+      "name": "新光人壽",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4999086,
+      "lng": 120.3924957,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437527,
+      "name": "海墘路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5068024,
+      "lng": 120.368748,
+      "routes": [
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437529,
+      "name": "港埔派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5040358,
+      "lng": 120.3763319,
+      "routes": [
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437531,
+      "name": "田厝路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4999655,
+      "lng": 120.38694,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437532,
+      "name": "田厝路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5005863,
+      "lng": 120.3861518,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437533,
+      "name": "過溝巷口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5013112,
+      "lng": 120.3841375,
+      "routes": [
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437535,
+      "name": "頂厝路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5034072,
+      "lng": 120.3797864,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446243,
+      "name": "分局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5092909,
+      "lng": 120.3946849,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446244,
+      "name": "林園高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5134859,
+      "lng": 120.3957649,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446245,
+      "name": "東林東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5042896,
+      "lng": 120.397734,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446247,
+      "name": "東林西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5030952,
+      "lng": 120.3910945,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446249,
+      "name": "林園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5037983,
+      "lng": 120.3948385,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446251,
+      "name": "林園區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.507644,
+      "lng": 120.3950149,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446253,
+      "name": "高雄客運林園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5019128,
+      "lng": 120.3879379,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877446256,
+      "name": "清水寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5130123,
+      "lng": 120.4024243
+    },
+    {
+      "id": 3877448957,
+      "name": "清水岩路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.516723,
+      "lng": 120.3955776,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877448959,
+      "name": "鳳林路一段",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5064442,
+      "lng": 120.3965632,
+      "routes": [
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418702,
+      "name": "中厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.529377,
+      "lng": 120.3988186,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418714,
+      "name": "林內",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5316665,
+      "lng": 120.3994939,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418716,
+      "name": "林內橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5340803,
+      "lng": 120.40086,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418718,
+      "name": "潭頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5261667,
+      "lng": 120.3970538,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4892723470,
+      "name": "中門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5056462,
+      "lng": 120.370312
+    },
+    {
+      "id": 4893452903,
+      "name": "林園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5006629,
+      "lng": 120.3958802,
+      "routes": [
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893457335,
+      "name": "林園工業區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.4995354,
+      "lng": 120.4059854,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4894218034,
+      "name": "林園麥當勞",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5002939,
+      "lng": 120.3929318,
+      "routes": [
+        "520",
+        "9117",
+        "9117A",
+        "9117B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375760725,
+      "name": "幸福公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5005652,
+      "lng": 120.3950441,
+      "routes": [
+        "紅3",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11818013440,
+      "name": "林園區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.5081791,
+      "lng": 120.3961614,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅3",
+        "紅3中芸接駁線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11818013441,
+      "name": "五塊厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "林園區",
+      "lat": 22.503711,
+      "lng": 120.4013072
+    }
+  ]
+}

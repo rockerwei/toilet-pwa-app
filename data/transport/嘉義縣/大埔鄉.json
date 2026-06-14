@@ -1,0 +1,666 @@
+{
+  "city": "嘉義縣",
+  "district": "大埔鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 38,
+  "items": [
+    {
+      "id": 3128715854,
+      "name": "壩頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.25049,
+      "lng": 120.5363223,
+      "routes": [
+        "綠24 玉井→曾文管理局→觀景樓",
+        "綠24 觀景樓→曾文管理局→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128715864,
+      "name": "曾文遊樂區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2408796,
+      "lng": 120.5402954,
+      "routes": [
+        "綠24 玉井→曾文管理局→觀景樓",
+        "綠24 觀景樓→曾文管理局→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128715874,
+      "name": "觀景樓",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2409939,
+      "lng": 120.5438652,
+      "routes": [
+        "綠24 玉井→曾文管理局→觀景樓",
+        "綠24 觀景樓→曾文管理局→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764924,
+      "name": "嘉義農場口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2489639,
+      "lng": 120.5650518,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764926,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2984456,
+      "lng": 120.5919175,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路",
+        "幸福大埔2路",
+        "幸福大埔2路A",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764928,
+      "name": "大埔(嘉義)",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2991525,
+      "lng": 120.5936358,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路",
+        "幸福大埔2路",
+        "幸福大埔2路A",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764930,
+      "name": "大埔路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2948834,
+      "lng": 120.5956092,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764933,
+      "name": "大埔鄉公所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2955454,
+      "lng": 120.5932265,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路",
+        "幸福大埔2路",
+        "幸福大埔2路A",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764934,
+      "name": "大茅埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2723981,
+      "lng": 120.5907523,
+      "routes": [
+        "幸福大埔2路",
+        "幸福大埔2路A",
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764936,
+      "name": "枋樹林",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2874174,
+      "lng": 120.5914818,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764938,
+      "name": "泰山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2781331,
+      "lng": 120.5869856,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764940,
+      "name": "第一莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2261391,
+      "lng": 120.55256,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764942,
+      "name": "第三莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2373854,
+      "lng": 120.5658014,
+      "routes": [
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.900Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764944,
+      "name": "第二莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2318496,
+      "lng": 120.5571599,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764946,
+      "name": "第八莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2571926,
+      "lng": 120.5724488,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764948,
+      "name": "第六莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2491032,
+      "lng": 120.5699669,
+      "routes": [
+        "幸福大埔2路",
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764950,
+      "name": "第十莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2707658,
+      "lng": 120.5875519,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764952,
+      "name": "第四莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2382698,
+      "lng": 120.5689821,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764956,
+      "name": "草嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2505505,
+      "lng": 120.5732406,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764958,
+      "name": "過山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2675825,
+      "lng": 120.5803714,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764960,
+      "name": "長枝坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2693043,
+      "lng": 120.5901416,
+      "routes": [
+        "幸福大埔2路",
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3128764962,
+      "name": "風吹嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2251681,
+      "lng": 120.5471989,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4327970250,
+      "name": "萬靈山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2532611,
+      "lng": 120.573292,
+      "routes": [
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.900Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4596606936,
+      "name": "楓康",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2834869,
+      "lng": 120.5878975,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5327076625,
+      "name": "順福旅社",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2998183,
+      "lng": 120.5950691,
+      "routes": [
+        "7301",
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454198326,
+      "name": "和平",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3031821,
+      "lng": 120.621509,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454198327,
+      "name": "大埔橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3031205,
+      "lng": 120.6296146,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454198329,
+      "name": "大埔頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3033299,
+      "lng": 120.6319213,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454198330,
+      "name": "水寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3078773,
+      "lng": 120.6303924,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454198332,
+      "name": "鳥埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3174223,
+      "lng": 120.6068802,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454220111,
+      "name": "南寮路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3620297,
+      "lng": 120.5786741,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241884,
+      "name": "沙崙橋",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3302645,
+      "lng": 120.6138539,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454241886,
+      "name": "富山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3365768,
+      "lng": 120.6159568,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.900Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454252049,
+      "name": "上雙溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3076359,
+      "lng": 120.6016606,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454252051,
+      "name": "上外埤",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3076186,
+      "lng": 120.6101847,
+      "routes": [
+        "7301",
+        "7301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5454252053,
+      "name": "外埤",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3065274,
+      "lng": 120.6153426
+    },
+    {
+      "id": 9290790530,
+      "name": "風吹嶺二",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.2244513,
+      "lng": 120.5500828,
+      "routes": [
+        "綠25 大埔→玉井",
+        "綠25 玉井→大埔"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9981759140,
+      "name": "分水嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大埔鄉",
+      "lat": 23.3616844,
+      "lng": 120.5807997,
+      "routes": [
+        "7301",
+        "7301A",
+        "幸福大埔1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.386Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

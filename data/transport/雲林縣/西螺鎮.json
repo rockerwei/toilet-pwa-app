@@ -1,0 +1,425 @@
+{
+  "city": "雲林縣",
+  "district": "西螺鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 21,
+  "items": [
+    {
+      "id": 792747643,
+      "name": "西螺轉運站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.8002341,
+      "lng": 120.4620875,
+      "routes": [
+        "1636B",
+        "1637",
+        "1839A",
+        "1862A",
+        "6715",
+        "6715A",
+        "6880",
+        "6880A",
+        "6881",
+        "6882",
+        "7114",
+        "7116",
+        "7117",
+        "7118",
+        "7132",
+        "7132A",
+        "7133",
+        "7133A",
+        "7134",
+        "7136",
+        "7136A",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 23,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6454310877,
+      "name": "吳厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7453419,
+      "lng": 120.4214886,
+      "routes": [
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7112",
+        "7117",
+        "7118",
+        "7701"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463928327,
+      "name": "埔心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7980972,
+      "lng": 120.4417862,
+      "routes": [
+        "7011",
+        "7114",
+        "7118",
+        "7136",
+        "7136A",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463928351,
+      "name": "文昌國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.8001169,
+      "lng": 120.4516822,
+      "routes": [
+        "7114",
+        "7118",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463933697,
+      "name": "下茄塘",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7830401,
+      "lng": 120.4270408,
+      "routes": [
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199449,
+      "name": "溝仔墘",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7965069,
+      "lng": 120.4291302,
+      "routes": [
+        "7114",
+        "7118"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199451,
+      "name": "安定國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.797788,
+      "lng": 120.439961,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199453,
+      "name": "埔心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7984064,
+      "lng": 120.4431689,
+      "routes": [
+        "7011",
+        "7114",
+        "7118",
+        "7136",
+        "7136A",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199455,
+      "name": "南港輪胎",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7993783,
+      "lng": 120.4476213,
+      "routes": [
+        "7011"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199459,
+      "name": "西螺水利會",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7997267,
+      "lng": 120.4653749,
+      "routes": [
+        "6715",
+        "6715A",
+        "6880",
+        "6880A",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199461,
+      "name": "西螺農工",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7948454,
+      "lng": 120.4673222,
+      "routes": [
+        "6880",
+        "6880A",
+        "7011",
+        "7012",
+        "7114",
+        "7116",
+        "7133",
+        "7133A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464199463,
+      "name": "西農西側門",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.795432,
+      "lng": 120.4686177
+    },
+    {
+      "id": 6468236622,
+      "name": "埤源",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7735215,
+      "lng": 120.4795906,
+      "routes": [
+        "6880",
+        "6880A",
+        "7011",
+        "7012",
+        "7133",
+        "7133A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6468236651,
+      "name": "埤源加油站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7753845,
+      "lng": 120.4785499,
+      "routes": [
+        "7011",
+        "7012"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.185Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6468236659,
+      "name": "西螺站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7843753,
+      "lng": 120.4740036,
+      "routes": [
+        "7011",
+        "7012"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6468236661,
+      "name": "小茄苳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7886695,
+      "lng": 120.4715476,
+      "routes": [
+        "6880",
+        "6880A",
+        "7011",
+        "7012",
+        "7133",
+        "7133A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6468236670,
+      "name": "西螺農工",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7942245,
+      "lng": 120.4684219,
+      "routes": [
+        "6880",
+        "6880A",
+        "7011",
+        "7012",
+        "7114",
+        "7116",
+        "7133",
+        "7133A",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7707481304,
+      "name": "四塊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.780836,
+      "lng": 120.4755512,
+      "routes": [
+        "6880",
+        "6880A",
+        "7011",
+        "7012",
+        "7133",
+        "7133A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713108558,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7527857,
+      "lng": 120.4558235,
+      "routes": [
+        "7116"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713108570,
+      "name": "公館",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7478756,
+      "lng": 120.4561615,
+      "routes": [
+        "7116"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713160380,
+      "name": "藍厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "西螺鎮",
+      "lat": 23.7771082,
+      "lng": 120.4635892,
+      "routes": [
+        "7116"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.330Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:53:46.216Z",
+  "items": [
+    {
+      "id": 4851272725,
+      "name": "糖博館園區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7563708,
+      "lng": 120.3149673,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.206Z"
+    },
+    {
+      "id": 4851679583,
+      "name": "遊客資訊站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7556585,
+      "lng": 120.3143793,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.208Z"
+    },
+    {
+      "id": 10048742688,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.769777,
+      "lng": 120.29237,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.210Z"
+    },
+    {
+      "id": 12022535594,
+      "name": "廠區防空疏散消防設備位置圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7564277,
+      "lng": 120.3150297,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.211Z"
+    },
+    {
+      "id": 125934988,
+      "name": "援中港濕地",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.7285928,
+      "lng": 120.267413,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.213Z"
+    },
+    {
+      "id": 394361877,
+      "name": "校史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.7508397,
+      "lng": 120.3171481,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.214Z"
+    },
+    {
+      "id": 395736138,
+      "name": "橋頭老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7561525,
+      "lng": 120.3114032,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:53:46.216Z"
+    }
+  ]
+}

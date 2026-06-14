@@ -1,0 +1,219 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:34:08.455Z",
+  "items": [
+    {
+      "id": 1271039933,
+      "name": "臺中港燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.28799,
+      "lng": 120.5229956,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.436Z"
+    },
+    {
+      "id": 1271039934,
+      "name": "北堤頭燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2996944,
+      "lng": 120.4865,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.438Z"
+    },
+    {
+      "id": 1271039954,
+      "name": "北內堤燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2885145,
+      "lng": 120.5135459,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.440Z"
+    },
+    {
+      "id": 2614560544,
+      "name": "高美燈塔(停用)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3126305,
+      "lng": 120.5511361,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.441Z"
+    },
+    {
+      "id": 2697250476,
+      "name": "清水鎮街路圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2631428,
+      "lng": 120.5703322,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.442Z"
+    },
+    {
+      "id": 2702722053,
+      "name": "森林消防水塔",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2851371,
+      "lng": 120.5943535,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.444Z"
+    },
+    {
+      "id": 6866223053,
+      "name": "梧棲漁港魚貨直銷中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2932895,
+      "lng": 120.5211617,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.445Z"
+    },
+    {
+      "id": 8585636882,
+      "name": "森林消防水榙",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2829766,
+      "lng": 120.5921691,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.446Z"
+    },
+    {
+      "id": 9457942517,
+      "name": "清水老家",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.275646,
+      "lng": 120.5610182,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.448Z"
+    },
+    {
+      "id": 9819485005,
+      "name": "海角明珠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3131022,
+      "lng": 120.5278482,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.449Z"
+    },
+    {
+      "id": 10086907964,
+      "name": "清水石瀨頭橋拍火車點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2742792,
+      "lng": 120.5795813,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.450Z"
+    },
+    {
+      "id": 11513934593,
+      "name": "中二高殉職人員紀念碑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.2817631,
+      "lng": 120.6008556,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.451Z"
+    },
+    {
+      "id": 11515654618,
+      "name": "海風缺觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3028512,
+      "lng": 120.6102101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.451Z"
+    },
+    {
+      "id": 389214047,
+      "name": "清水鬼洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2736233,
+      "lng": 120.5837508,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.451Z"
+    },
+    {
+      "id": 493485795,
+      "name": "高美遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.304809,
+      "lng": 120.5475397,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.452Z"
+    },
+    {
+      "id": 961263872,
+      "name": "空軍第427聯隊隊史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2643188,
+      "lng": 120.6360496,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.452Z"
+    },
+    {
+      "id": 1038247308,
+      "name": "臺中海洋館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.296753,
+      "lng": 120.5196727,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.453Z",
+      "address": "臺中市清水區海洋路168號"
+    },
+    {
+      "id": 1200990894,
+      "name": "清水中社遺址文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.2695444,
+      "lng": 120.5559827,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.453Z",
+      "address": "臺中市清水區中社里14鄰中社路62之20號"
+    },
+    {
+      "id": 7015022,
+      "name": "高美野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.3160829,
+      "lng": 120.5481745,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.454Z"
+    },
+    {
+      "id": 7079053,
+      "name": "台中市政府、彰化縣政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.3172514,
+      "lng": 120.5454161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.454Z"
+    },
+    {
+      "id": 7079054,
+      "name": "永續利用區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.3244201,
+      "lng": 120.5485922,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:34:08.455Z"
+    }
+  ]
+}

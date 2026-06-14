@@ -1,0 +1,57 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:20:27.981Z",
+  "items": [
+    {
+      "id": 3588982264,
+      "name": "M108自走砲",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4133674,
+      "lng": 120.3850449,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:20:27.971Z"
+    },
+    {
+      "id": 4672224495,
+      "name": "全球排行第十北回歸線標誌",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4546498,
+      "lng": 120.4170164,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:20:27.975Z"
+    },
+    {
+      "id": 5831729957,
+      "name": "北回歸線天文廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.454102,
+      "lng": 120.4172491,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:20:27.977Z"
+    },
+    {
+      "id": 473051311,
+      "name": "北回歸線太陽館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4533908,
+      "lng": 120.4164594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:20:27.979Z"
+    },
+    {
+      "id": 1062516560,
+      "name": "北回二館太空館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4515921,
+      "lng": 120.4169737,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:20:27.981Z"
+    }
+  ]
+}

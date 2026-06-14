@@ -1,0 +1,79 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:56:44.700Z",
+  "items": [
+    {
+      "id": 2221896056,
+      "name": "郭柏川紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.0036851,
+      "lng": 120.2083131,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.690Z"
+    },
+    {
+      "id": 4153977990,
+      "name": "321巷藝術聚落",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0043215,
+      "lng": 120.2089812,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.693Z",
+      "address": "公園路321巷"
+    },
+    {
+      "id": 10572253109,
+      "name": "台南老家",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0188959,
+      "lng": 120.208704,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.694Z"
+    },
+    {
+      "id": 11024102405,
+      "name": "司令台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0115591,
+      "lng": 120.2176278,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.696Z"
+    },
+    {
+      "id": 12809607838,
+      "name": "愛博 長源懋道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0105563,
+      "lng": 120.2166684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.697Z"
+    },
+    {
+      "id": 13461555808,
+      "name": "開元振興公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0065202,
+      "lng": 120.2239398,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.699Z"
+    },
+    {
+      "id": 158800040,
+      "name": "花園夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0104864,
+      "lng": 120.1996779,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:56:44.700Z",
+      "address": "704台南市北區海安路三段533號"
+    }
+  ]
+}

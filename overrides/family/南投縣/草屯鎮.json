@@ -1,0 +1,158 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:32:50.421Z",
+  "items": [
+    {
+      "id": 1918160399,
+      "name": "寶島時代村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9881165,
+      "lng": 120.6859801,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.404Z"
+    },
+    {
+      "id": 1918160405,
+      "name": "草屯十九龍柱",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9681216,
+      "lng": 120.6940637,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.406Z"
+    },
+    {
+      "id": 1918160408,
+      "name": "草鞋墩人文觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9884037,
+      "lng": 120.6870563,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.407Z"
+    },
+    {
+      "id": 5384986722,
+      "name": "蔡氏釀酒",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9722814,
+      "lng": 120.6528163,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.409Z"
+    },
+    {
+      "id": 5436373821,
+      "name": "九九峰自然保留區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.006621,
+      "lng": 120.774973,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.410Z",
+      "address": "中心巷"
+    },
+    {
+      "id": 6615527324,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9932937,
+      "lng": 120.7671284,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.412Z"
+    },
+    {
+      "id": 6615527481,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9948089,
+      "lng": 120.7719514,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.413Z"
+    },
+    {
+      "id": 9978940072,
+      "name": "北勢湳荷花池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9966785,
+      "lng": 120.7187579,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.414Z"
+    },
+    {
+      "id": 9985196091,
+      "name": "草屯水車公園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9827569,
+      "lng": 120.6901374,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.415Z"
+    },
+    {
+      "id": 11098609144,
+      "name": "引水設施配置總覽",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9920441,
+      "lng": 120.7466827,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.417Z"
+    },
+    {
+      "id": 13703787165,
+      "name": "鱸鰻潭隧道西口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9865799,
+      "lng": 120.7988018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.418Z"
+    },
+    {
+      "id": 198710558,
+      "name": "工藝設計館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.979162,
+      "lng": 120.6918106,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.419Z"
+    },
+    {
+      "id": 199445364,
+      "name": "雙十吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9843038,
+      "lng": 120.7809461,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.420Z"
+    },
+    {
+      "id": 1006654673,
+      "name": "雙十吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9842997,
+      "lng": 120.7809363,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.420Z"
+    },
+    {
+      "id": 7007698,
+      "name": "九九峰自然保留區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.0225431,
+      "lng": 120.785659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:32:50.421Z"
+    }
+  ]
+}

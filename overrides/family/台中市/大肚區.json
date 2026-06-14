@@ -1,0 +1,88 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:37:39.397Z",
+  "items": [
+    {
+      "id": 4637986789,
+      "name": "大肚落羽松",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1339589,
+      "lng": 120.5581682,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.386Z"
+    },
+    {
+      "id": 4845219722,
+      "name": "大肚藍色公路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1558058,
+      "lng": 120.5594278,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.389Z"
+    },
+    {
+      "id": 5446631621,
+      "name": "瑞井古井",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1643453,
+      "lng": 120.5717581,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.390Z",
+      "address": "432臺中市大肚區瑞井路65巷21號"
+    },
+    {
+      "id": 9905533620,
+      "name": "山線、成追線鐵軌分叉點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1159356,
+      "lng": 120.5840967,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.391Z"
+    },
+    {
+      "id": 10861728311,
+      "name": "大肚藍色公路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1564867,
+      "lng": 120.5672991,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.393Z"
+    },
+    {
+      "id": 11391435622,
+      "name": "山線、成追線鐵軌分叉點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1182299,
+      "lng": 120.5765001,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.394Z"
+    },
+    {
+      "id": 11391435623,
+      "name": "山線、海線鐵軌分叉點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1123001,
+      "lng": 120.5788913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.395Z"
+    },
+    {
+      "id": 7015018,
+      "name": "大肚溪口野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.1842441,
+      "lng": 120.4706709,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:37:39.397Z"
+    }
+  ]
+}

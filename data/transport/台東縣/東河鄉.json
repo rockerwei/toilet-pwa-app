@@ -1,0 +1,1078 @@
+{
+  "city": "台東縣",
+  "district": "東河鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 69,
+  "items": [
+    {
+      "id": 2663407102,
+      "name": "聖佑宮廟",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0276876,
+      "lng": 121.2865126
+    },
+    {
+      "id": 2663407118,
+      "name": "美蘭1號橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0304607,
+      "lng": 121.2883314
+    },
+    {
+      "id": 2663407123,
+      "name": "美蘭",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0314247,
+      "lng": 121.286048
+    },
+    {
+      "id": 2663407148,
+      "name": "蘭園",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0344705,
+      "lng": 121.2903774
+    },
+    {
+      "id": 2663407156,
+      "name": "北溪",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0366945,
+      "lng": 121.2939839
+    },
+    {
+      "id": 2663407169,
+      "name": "北源國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0405314,
+      "lng": 121.2980233
+    },
+    {
+      "id": 2663407173,
+      "name": "德高橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0426788,
+      "lng": 121.298769
+    },
+    {
+      "id": 2663407183,
+      "name": "興華",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0447695,
+      "lng": 121.300555
+    },
+    {
+      "id": 2663407191,
+      "name": "農場5號橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0496253,
+      "lng": 121.3013518
+    },
+    {
+      "id": 2663407213,
+      "name": "德高",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0545183,
+      "lng": 121.3002216
+    },
+    {
+      "id": 2663407220,
+      "name": "德成",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0570246,
+      "lng": 121.3035797
+    },
+    {
+      "id": 2663407249,
+      "name": "德興嶺",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0633527,
+      "lng": 121.3050111
+    },
+    {
+      "id": 2663407296,
+      "name": "東河農場",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0742669,
+      "lng": 121.2996647
+    },
+    {
+      "id": 3166756420,
+      "name": "南郡界",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8526445,
+      "lng": 121.1924483,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756421,
+      "name": "北郡界",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8549298,
+      "lng": 121.195557,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756422,
+      "name": "新蘭",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8603678,
+      "lng": 121.2009151,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756423,
+      "name": "漁澳",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8650535,
+      "lng": 121.2103184,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.824Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756424,
+      "name": "漁橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8670111,
+      "lng": 121.2163893,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756425,
+      "name": "水往上流",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8681538,
+      "lng": 121.2211216,
+      "routes": [
+        "8101",
+        "8101A",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756426,
+      "name": "下都蘭",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8703797,
+      "lng": 121.2249969,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.275Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756427,
+      "name": "都蘭B",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.872633,
+      "lng": 121.2270669,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756428,
+      "name": "都蘭A",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8743122,
+      "lng": 121.2284308,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756429,
+      "name": "都橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8787248,
+      "lng": 121.2308829,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756430,
+      "name": "工廠橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8846304,
+      "lng": 121.2363648,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166756431,
+      "name": "東和工廠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8894929,
+      "lng": 121.2444558,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765938,
+      "name": "興昌社區",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8919871,
+      "lng": 121.2465606,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765939,
+      "name": "興昌",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8938207,
+      "lng": 121.2473494,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765940,
+      "name": "興隆國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.896092,
+      "lng": 121.2482271,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765941,
+      "name": "貝橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8983471,
+      "lng": 121.2494229,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765942,
+      "name": "羊橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9022014,
+      "lng": 121.2515304,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765943,
+      "name": "堅石橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.909421,
+      "lng": 121.2608014,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3166765944,
+      "name": "興隆",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9150344,
+      "lng": 121.2638813,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518104,
+      "name": "東河橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9743044,
+      "lng": 121.3067889,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8107",
+        "8109",
+        "8119",
+        "8120",
+        "8125"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518109,
+      "name": "東河包子",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.969026,
+      "lng": 121.3048416,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8107",
+        "8109",
+        "8119",
+        "8120",
+        "8125"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518110,
+      "name": "東河",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9688753,
+      "lng": 121.3032203,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8107",
+        "8109",
+        "8119",
+        "8120",
+        "8125"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518111,
+      "name": "東河電力所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9671974,
+      "lng": 121.3012326,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518112,
+      "name": "知路橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9651219,
+      "lng": 121.2990455,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518113,
+      "name": "的成橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9615879,
+      "lng": 121.2947731,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518114,
+      "name": "金樽",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9591289,
+      "lng": 121.2897017,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518115,
+      "name": "小瀧橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9476577,
+      "lng": 121.2802889,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518116,
+      "name": "金樽休憩站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9462463,
+      "lng": 121.2797592,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518117,
+      "name": "七里橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9391152,
+      "lng": 121.2768737,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518118,
+      "name": "海巡防哨站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9330019,
+      "lng": 121.2743948,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518119,
+      "name": "北隆昌",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.927653,
+      "lng": 121.2689337,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518120,
+      "name": "隆昌",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9256988,
+      "lng": 121.2676044,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3170518121,
+      "name": "隆昌變電所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9238591,
+      "lng": 121.2665029,
+      "routes": [
+        "8101",
+        "8102",
+        "8103",
+        "8109",
+        "8119",
+        "8120",
+        "8122"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174045394,
+      "name": "泰源",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.997539,
+      "lng": 121.2881554,
+      "routes": [
+        "8107",
+        "8109"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174059565,
+      "name": "泰源國中",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0021314,
+      "lng": 121.2878425
+    },
+    {
+      "id": 3174059566,
+      "name": "柑仔園",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0081491,
+      "lng": 121.2866287
+    },
+    {
+      "id": 3174059567,
+      "name": "泰源加油站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.004624,
+      "lng": 121.2869458
+    },
+    {
+      "id": 3174059568,
+      "name": "咖啡園",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0147,
+      "lng": 121.2819047
+    },
+    {
+      "id": 3174059569,
+      "name": "清溪",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.015443,
+      "lng": 121.2783738
+    },
+    {
+      "id": 3174059570,
+      "name": "北源村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 23.0176832,
+      "lng": 121.2840491
+    },
+    {
+      "id": 3174735651,
+      "name": "泰源國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9978592,
+      "lng": 121.2857209
+    },
+    {
+      "id": 3174735652,
+      "name": "新部落",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9903335,
+      "lng": 121.2816814
+    },
+    {
+      "id": 3174735653,
+      "name": "中興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9900727,
+      "lng": 121.271337
+    },
+    {
+      "id": 3174735654,
+      "name": "果子山",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.984575,
+      "lng": 121.2668973
+    },
+    {
+      "id": 3174735655,
+      "name": "農興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9743946,
+      "lng": 121.2591586
+    },
+    {
+      "id": 3174735656,
+      "name": "麻竹嶺",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9724203,
+      "lng": 121.2555723
+    },
+    {
+      "id": 3174735657,
+      "name": "南溪橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9664252,
+      "lng": 121.2469225
+    },
+    {
+      "id": 3174735658,
+      "name": "三友商店",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.964848,
+      "lng": 121.2445725
+    },
+    {
+      "id": 3174735659,
+      "name": "尚德國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9629644,
+      "lng": 121.2399205
+    },
+    {
+      "id": 3174735660,
+      "name": "前寮",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9613133,
+      "lng": 121.2384478
+    },
+    {
+      "id": 3174736361,
+      "name": "北前寮",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9588953,
+      "lng": 121.2393033
+    },
+    {
+      "id": 3174736362,
+      "name": "新豐",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9592073,
+      "lng": 121.2286807
+    },
+    {
+      "id": 3174736363,
+      "name": "後寮",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9563539,
+      "lng": 121.225126
+    },
+    {
+      "id": 3328481609,
+      "name": "製材所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.9794719,
+      "lng": 121.2633376
+    },
+    {
+      "id": 3476151114,
+      "name": "都蘭糖廠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8722605,
+      "lng": 121.2265756,
+      "routes": [
+        "8101D"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13827537422,
+      "name": "渚橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "東河鄉",
+      "lat": 22.8613995,
+      "lng": 121.2038437,
+      "routes": [
+        "8101A",
+        "8101D"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.827Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

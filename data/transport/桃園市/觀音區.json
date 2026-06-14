@@ -1,0 +1,1848 @@
+{
+  "city": "桃園市",
+  "district": "觀音區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 104,
+  "items": [
+    {
+      "id": 3207807459,
+      "name": "桃園客運觀音站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0378916,
+      "lng": 121.080854,
+      "routes": [
+        "505",
+        "5032",
+        "5033",
+        "5039",
+        "5040",
+        "5040A",
+        "5040B",
+        "5041",
+        "5042",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215397624,
+      "name": "國建二路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0583929,
+      "lng": 121.1130515,
+      "routes": [
+        "5043"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215397625,
+      "name": "國瑞路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.059739,
+      "lng": 121.1111257,
+      "routes": [
+        "5043"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215397626,
+      "name": "經建一路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0538638,
+      "lng": 121.1170855,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215397628,
+      "name": "工管中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0524601,
+      "lng": 121.1178065,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215433961,
+      "name": "台玻公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.059793,
+      "lng": 121.1139036,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215441915,
+      "name": "歌林二廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.056441,
+      "lng": 121.1200958,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215441917,
+      "name": "名億公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0590544,
+      "lng": 121.1187992,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215441919,
+      "name": "基富",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0598289,
+      "lng": 121.118657,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215442082,
+      "name": "樺詰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0521216,
+      "lng": 121.1183964
+    },
+    {
+      "id": 3215442084,
+      "name": "日豐",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0539177,
+      "lng": 121.1208934,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215449293,
+      "name": "新坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0128189,
+      "lng": 121.1363534,
+      "routes": [
+        "5025",
+        "5026",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215452215,
+      "name": "坡內",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0179594,
+      "lng": 121.1376414,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215452217,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0207686,
+      "lng": 121.139742
+    },
+    {
+      "id": 3215452218,
+      "name": "幸福新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0206669,
+      "lng": 121.1398477,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215452219,
+      "name": "楊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0230383,
+      "lng": 121.1411201,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215456381,
+      "name": "廣福",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.024743,
+      "lng": 121.1422366,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215456384,
+      "name": "福安橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0284931,
+      "lng": 121.1435782,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215456386,
+      "name": "邱厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.032663,
+      "lng": 121.1438546,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215456389,
+      "name": "塔仔腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0368843,
+      "lng": 121.1437977,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215456391,
+      "name": "二聖路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0389846,
+      "lng": 121.1438087,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215459162,
+      "name": "坡腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0412101,
+      "lng": 121.1438414,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215459164,
+      "name": "許厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0431945,
+      "lng": 121.1433791,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215459166,
+      "name": "草漯國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0455482,
+      "lng": 121.1428358,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215459168,
+      "name": "草新",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0468211,
+      "lng": 121.1426801
+    },
+    {
+      "id": 3215463684,
+      "name": "草漯",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.047751,
+      "lng": 121.1433879,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463686,
+      "name": "保障宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0486071,
+      "lng": 121.1440805,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463688,
+      "name": "福德宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0494407,
+      "lng": 121.1451363,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463690,
+      "name": "保障",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0532053,
+      "lng": 121.1471878,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463692,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0549576,
+      "lng": 121.1419176,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463694,
+      "name": "二湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0553848,
+      "lng": 121.1382891,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463696,
+      "name": "新村路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0627059,
+      "lng": 121.1328057,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215463698,
+      "name": "工業一路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0626397,
+      "lng": 121.12979,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215465856,
+      "name": "樹林新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0613706,
+      "lng": 121.1278006,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215465858,
+      "name": "卜內門",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0637903,
+      "lng": 121.1259139,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215467107,
+      "name": "日本礦業",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0625424,
+      "lng": 121.1243197,
+      "routes": [
+        "5041",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215476586,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0015694,
+      "lng": 121.1550281,
+      "routes": [
+        "5025",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215476588,
+      "name": "圓山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 24.999168,
+      "lng": 121.158485,
+      "routes": [
+        "5025",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488241,
+      "name": "歐厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0393387,
+      "lng": 121.0829752,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488243,
+      "name": "徐厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0409503,
+      "lng": 121.0877937,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488245,
+      "name": "麥厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0444199,
+      "lng": 121.0895256,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488247,
+      "name": "江厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0474475,
+      "lng": 121.0924121,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488249,
+      "name": "塔前",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0494364,
+      "lng": 121.093648,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488251,
+      "name": "白玉",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.05116,
+      "lng": 121.0951929,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215488253,
+      "name": "白玉橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0544629,
+      "lng": 121.0990807,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215498010,
+      "name": "林務局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.056359,
+      "lng": 121.1016436,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215498012,
+      "name": "胡厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0577865,
+      "lng": 121.1026326,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215498014,
+      "name": "移民新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0606002,
+      "lng": 121.1050638,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215498016,
+      "name": "樹林仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0637667,
+      "lng": 121.1104016,
+      "routes": [
+        "5041",
+        "5043A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215499140,
+      "name": "新坡農會",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.011092,
+      "lng": 121.1391578,
+      "routes": [
+        "5025",
+        "5026",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215500040,
+      "name": "大同",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0095318,
+      "lng": 121.1416068,
+      "routes": [
+        "5025",
+        "5026",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215500042,
+      "name": "頂大同",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0067742,
+      "lng": 121.1461916,
+      "routes": [
+        "5025",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215500044,
+      "name": "大堀",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0047303,
+      "lng": 121.149932
+    },
+    {
+      "id": 3215500046,
+      "name": "頂大堀",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0032336,
+      "lng": 121.152366
+    },
+    {
+      "id": 3215500281,
+      "name": "崙坪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 24.9971867,
+      "lng": 121.1615826,
+      "routes": [
+        "5025",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3215511180,
+      "name": "忠愛莊",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 24.9941191,
+      "lng": 121.1665842,
+      "routes": [
+        "5025",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5570252624,
+      "name": "觀音高中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.014558,
+      "lng": 121.1336306,
+      "routes": [
+        "5025",
+        "5026",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T516B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6333252719,
+      "name": "廟前(甘泉寺)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0373756,
+      "lng": 121.0815226,
+      "routes": [
+        "5032",
+        "5039",
+        "5040",
+        "5040A",
+        "5042"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6333252726,
+      "name": "水利站(文化中正路口)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0331702,
+      "lng": 121.0831104,
+      "routes": [
+        "5032",
+        "5039"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6333252753,
+      "name": "觀音分駐所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.036525,
+      "lng": 121.08257,
+      "routes": [
+        "5032",
+        "5039",
+        "5040",
+        "5040A",
+        "5040B",
+        "5042"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6333252755,
+      "name": "白沙岬燈塔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0422092,
+      "lng": 121.0775234,
+      "routes": [
+        "505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6657151229,
+      "name": "塘頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0345213,
+      "lng": 121.0746212,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448165966,
+      "name": "上大潭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0241901,
+      "lng": 121.0604873,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448165968,
+      "name": "大潭國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0220817,
+      "lng": 121.0586876,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448165970,
+      "name": "對面厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0188236,
+      "lng": 121.053987,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448165975,
+      "name": "過溪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.016681,
+      "lng": 121.0516964,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448322725,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0263738,
+      "lng": 121.0637838,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448515789,
+      "name": "塘尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0293255,
+      "lng": 121.0684642,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448515791,
+      "name": "下塘尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.028535,
+      "lng": 121.0668764,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448537342,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0334812,
+      "lng": 121.072737
+    },
+    {
+      "id": 7448537352,
+      "name": "上塘尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0319004,
+      "lng": 121.0708393,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448551682,
+      "name": "下溝尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0342686,
+      "lng": 121.0907909,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5042"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448551684,
+      "name": "溝尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0341095,
+      "lng": 121.0929085,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5042"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448555662,
+      "name": "燈塔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0363282,
+      "lng": 121.0794197,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448606897,
+      "name": "中心用品公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0344643,
+      "lng": 121.0887001,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5042"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448606959,
+      "name": "遠東紡織公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0346107,
+      "lng": 121.0869078
+    },
+    {
+      "id": 7448606961,
+      "name": "觀音",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0356915,
+      "lng": 121.0838722,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5042",
+        "T512"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609093,
+      "name": "富林社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0361241,
+      "lng": 121.117499,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609095,
+      "name": "富林橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0361363,
+      "lng": 121.1158723,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609097,
+      "name": "溪底",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.035474,
+      "lng": 121.1113621,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609099,
+      "name": "上埔頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0350317,
+      "lng": 121.1048819,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609102,
+      "name": "埔頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0348094,
+      "lng": 121.1028294,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609104,
+      "name": "小億",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0345445,
+      "lng": 121.0996811,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448609106,
+      "name": "福星公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0339503,
+      "lng": 121.0969627,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448624062,
+      "name": "樹林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0382602,
+      "lng": 121.1294161,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448633837,
+      "name": "保障橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0512924,
+      "lng": 121.1495917,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448633839,
+      "name": "羅厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0529496,
+      "lng": 121.1543298,
+      "routes": [
+        "5040",
+        "5040A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448642317,
+      "name": "富林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0368495,
+      "lng": 121.1232108,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448657084,
+      "name": "富林國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0366004,
+      "lng": 121.1207083,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448660386,
+      "name": "詹厝前",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0372019,
+      "lng": 121.1267607,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448732181,
+      "name": "草音",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0467709,
+      "lng": 121.1419601
+    },
+    {
+      "id": 7448737085,
+      "name": "草漯國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0449417,
+      "lng": 121.1397091,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "T516B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448737087,
+      "name": "瑞正",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0428458,
+      "lng": 121.1365776,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7774991498,
+      "name": "下富源",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 24.9645638,
+      "lng": 121.1506838,
+      "routes": [
+        "505",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8841568880,
+      "name": "坑尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0320251,
+      "lng": 121.0992487,
+      "routes": [
+        "5039",
+        "5042"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8841586438,
+      "name": "許厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0333949,
+      "lng": 121.0956198,
+      "routes": [
+        "5039",
+        "5042",
+        "T512"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8995848205,
+      "name": "保生廟",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0079947,
+      "lng": 121.0697909,
+      "routes": [
+        "5033"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8998454039,
+      "name": "公廳後",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0289457,
+      "lng": 121.0752181
+    },
+    {
+      "id": 8998454041,
+      "name": "塘背",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0311864,
+      "lng": 121.0752476,
+      "routes": [
+        "5033"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8999099555,
+      "name": "兩座厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0119071,
+      "lng": 121.0695003,
+      "routes": [
+        "5033"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8999099557,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0141247,
+      "lng": 121.0700841,
+      "routes": [
+        "5033"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10811607244,
+      "name": "大同",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0071966,
+      "lng": 121.1411885
+    },
+    {
+      "id": 12852064223,
+      "name": "新坡站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0125658,
+      "lng": 121.1367471,
+      "routes": [
+        "5025",
+        "5026",
+        "5039",
+        "5041",
+        "5042",
+        "5043",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.023Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12875653619,
+      "name": "觀音站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "觀音區",
+      "lat": 25.0378345,
+      "lng": 121.0808517,
+      "routes": [
+        "505",
+        "5032",
+        "5033",
+        "5039",
+        "5040",
+        "5040A",
+        "5040B",
+        "5041",
+        "5042",
+        "5043A",
+        "T512"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.974Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

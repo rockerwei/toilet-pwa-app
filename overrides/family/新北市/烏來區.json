@@ -1,0 +1,1168 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:55:44.377Z",
+  "items": [
+    {
+      "id": 2178330622,
+      "name": "烏來瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8475159,
+      "lng": 121.552362,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.330Z"
+    },
+    {
+      "id": 2645591452,
+      "name": "五重溪瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8198739,
+      "lng": 121.51391,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.333Z"
+    },
+    {
+      "id": 2645591594,
+      "name": "烏砂溪瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8341767,
+      "lng": 121.5254633,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.334Z"
+    },
+    {
+      "id": 3272039965,
+      "name": "12.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8332305,
+      "lng": 121.5312722,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.334Z"
+    },
+    {
+      "id": 3272039966,
+      "name": "12.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8299669,
+      "lng": 121.5323861,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.335Z"
+    },
+    {
+      "id": 3272039967,
+      "name": "13.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8261165,
+      "lng": 121.5340514,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.336Z"
+    },
+    {
+      "id": 3272039968,
+      "name": "13.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8241353,
+      "lng": 121.5372849,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.337Z"
+    },
+    {
+      "id": 3272039969,
+      "name": "14.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8233955,
+      "lng": 121.5416933,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.337Z"
+    },
+    {
+      "id": 3272039970,
+      "name": "15.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8190163,
+      "lng": 121.5464942,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.337Z"
+    },
+    {
+      "id": 3272039971,
+      "name": "15.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8165759,
+      "lng": 121.5498376,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.338Z"
+    },
+    {
+      "id": 3710169461,
+      "name": "內洞森林浴步道終點",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8308797,
+      "lng": 121.531259,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.338Z"
+    },
+    {
+      "id": 4194921994,
+      "name": "加九寮瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8773779,
+      "lng": 121.5244752,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.339Z"
+    },
+    {
+      "id": 5026067116,
+      "name": "大肚瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8397505,
+      "lng": 121.5388806,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.339Z"
+    },
+    {
+      "id": 5026067117,
+      "name": "小池瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8399265,
+      "lng": 121.5375878,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.339Z"
+    },
+    {
+      "id": 5026067119,
+      "name": "通天瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8387808,
+      "lng": 121.5360029,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.340Z"
+    },
+    {
+      "id": 5026067120,
+      "name": "潛龍瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8383406,
+      "lng": 121.5352979,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.340Z"
+    },
+    {
+      "id": 5026067522,
+      "name": "石牆瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8380778,
+      "lng": 121.5338602,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.341Z"
+    },
+    {
+      "id": 5026067523,
+      "name": "公公瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8383903,
+      "lng": 121.5327367,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.341Z"
+    },
+    {
+      "id": 5026067524,
+      "name": "婆婆瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8383457,
+      "lng": 121.5328791,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.342Z"
+    },
+    {
+      "id": 5026067525,
+      "name": "小孩瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8383368,
+      "lng": 121.5329251,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.342Z"
+    },
+    {
+      "id": 5088817419,
+      "name": "昇龍瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.839879,
+      "lng": 121.5399264,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.343Z"
+    },
+    {
+      "id": 6576652147,
+      "name": "北107 0公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8646758,
+      "lng": 121.5519421,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.343Z"
+    },
+    {
+      "id": 6576652148,
+      "name": "北107 1公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8562159,
+      "lng": 121.5516467,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.343Z"
+    },
+    {
+      "id": 6576652149,
+      "name": "北107 2公里",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8481064,
+      "lng": 121.5514295,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.344Z"
+    },
+    {
+      "id": 6654723592,
+      "name": "內洞瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8274039,
+      "lng": 121.5275132,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.344Z"
+    },
+    {
+      "id": 8892081951,
+      "name": "加九寮滑水道",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8778451,
+      "lng": 121.5287727,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.344Z"
+    },
+    {
+      "id": 8938449459,
+      "name": "觀瀑台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8282158,
+      "lng": 121.5268593,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.345Z"
+    },
+    {
+      "id": 8938449460,
+      "name": "觀瀑台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8276994,
+      "lng": 121.5268794,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.345Z"
+    },
+    {
+      "id": 9128346817,
+      "name": "地圖 / 6.8K地標",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8191792,
+      "lng": 121.6870676,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.345Z"
+    },
+    {
+      "id": 9128618717,
+      "name": "路標",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8372253,
+      "lng": 121.6604533,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.346Z"
+    },
+    {
+      "id": 9854735590,
+      "name": "林業及自然保育署新竹分署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.791883,
+      "lng": 121.455106,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.346Z"
+    },
+    {
+      "id": 9854767670,
+      "name": "林業及自然保育署新竹分署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.791896,
+      "lng": 121.454281,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.347Z"
+    },
+    {
+      "id": 9854786450,
+      "name": "林業及自然保育署新竹分署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.792411,
+      "lng": 121.455777,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.347Z"
+    },
+    {
+      "id": 10875085748,
+      "name": "新竹林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.77502,
+      "lng": 121.50322,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.348Z"
+    },
+    {
+      "id": 10875085749,
+      "name": "新竹林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.773,
+      "lng": 121.50536,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.348Z"
+    },
+    {
+      "id": 10875085750,
+      "name": "新竹林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.76889,
+      "lng": 121.50695,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.348Z"
+    },
+    {
+      "id": 10875085756,
+      "name": "新竹林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8309,
+      "lng": 121.5313,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.349Z"
+    },
+    {
+      "id": 10875085757,
+      "name": "新竹林管處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8297,
+      "lng": 121.5299,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.349Z"
+    },
+    {
+      "id": 11939234066,
+      "name": "土地公休息平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8766512,
+      "lng": 121.5296007,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.350Z"
+    },
+    {
+      "id": 11939234068,
+      "name": "基地台觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8757412,
+      "lng": 121.5274412,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.350Z"
+    },
+    {
+      "id": 11939238569,
+      "name": "紅河谷時雨瀑",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.876055,
+      "lng": 121.5268552,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.351Z"
+    },
+    {
+      "id": 12245059996,
+      "name": "2.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8536077,
+      "lng": 121.5171913,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.351Z"
+    },
+    {
+      "id": 12245061074,
+      "name": "0.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8517672,
+      "lng": 121.5303827,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.351Z"
+    },
+    {
+      "id": 12245074798,
+      "name": "2.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8535389,
+      "lng": 121.5187784,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.352Z"
+    },
+    {
+      "id": 12245077670,
+      "name": "1.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8552786,
+      "lng": 121.5228883,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.352Z"
+    },
+    {
+      "id": 12245086399,
+      "name": "0.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8517942,
+      "lng": 121.5342619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.352Z"
+    },
+    {
+      "id": 12245087794,
+      "name": "2.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8547135,
+      "lng": 121.5200479,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.353Z"
+    },
+    {
+      "id": 12245087795,
+      "name": "0.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8540296,
+      "lng": 121.5289,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.353Z"
+    },
+    {
+      "id": 12245087796,
+      "name": "0.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8576125,
+      "lng": 121.5220158,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.354Z"
+    },
+    {
+      "id": 12245099197,
+      "name": "2.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8554768,
+      "lng": 121.5204355,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.354Z"
+    },
+    {
+      "id": 12245099198,
+      "name": "2.9K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8527493,
+      "lng": 121.5145407,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.354Z"
+    },
+    {
+      "id": 12245105678,
+      "name": "0.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8513665,
+      "lng": 121.5352791,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.355Z"
+    },
+    {
+      "id": 12245106509,
+      "name": "1.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8552176,
+      "lng": 121.5247606,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.355Z"
+    },
+    {
+      "id": 12245109250,
+      "name": "1.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8534148,
+      "lng": 121.5286337,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.355Z"
+    },
+    {
+      "id": 12245109253,
+      "name": "0.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8581761,
+      "lng": 121.52274,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.356Z"
+    },
+    {
+      "id": 12245111100,
+      "name": "0.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.851381,
+      "lng": 121.5360502,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.356Z"
+    },
+    {
+      "id": 12245113577,
+      "name": "2.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8541494,
+      "lng": 121.5194292,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.356Z"
+    },
+    {
+      "id": 12245113578,
+      "name": "0.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8605635,
+      "lng": 121.5237419,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.357Z"
+    },
+    {
+      "id": 12245118328,
+      "name": "0.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8510969,
+      "lng": 121.5309734,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.357Z"
+    },
+    {
+      "id": 12245118558,
+      "name": "1.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8542275,
+      "lng": 121.5261285,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.358Z"
+    },
+    {
+      "id": 12245119876,
+      "name": "0.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.851689,
+      "lng": 121.5333334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.358Z"
+    },
+    {
+      "id": 12245127141,
+      "name": "0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8513885,
+      "lng": 121.5369904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.358Z"
+    },
+    {
+      "id": 12245127142,
+      "name": "0.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8547116,
+      "lng": 121.5291756,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.359Z"
+    },
+    {
+      "id": 12245127993,
+      "name": "0.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8507459,
+      "lng": 121.5318161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.359Z"
+    },
+    {
+      "id": 12245127994,
+      "name": "0.9K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.852561,
+      "lng": 121.5301166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.359Z"
+    },
+    {
+      "id": 12245127996,
+      "name": "0.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8588501,
+      "lng": 121.5233549,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.360Z"
+    },
+    {
+      "id": 12245128612,
+      "name": "0.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8548294,
+      "lng": 121.5300557,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.360Z"
+    },
+    {
+      "id": 12245128613,
+      "name": "0.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8596742,
+      "lng": 121.5237263,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.360Z"
+    },
+    {
+      "id": 12245129783,
+      "name": "1.9K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8556605,
+      "lng": 121.5220218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.360Z"
+    },
+    {
+      "id": 12245129865,
+      "name": "1.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8538618,
+      "lng": 121.5278811,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.361Z"
+    },
+    {
+      "id": 12245130941,
+      "name": "1.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.853156,
+      "lng": 121.5295202,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.361Z"
+    },
+    {
+      "id": 12245130942,
+      "name": "2.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8532647,
+      "lng": 121.5163225,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.362Z"
+    },
+    {
+      "id": 12245132624,
+      "name": "0.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8512192,
+      "lng": 121.5325925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.362Z"
+    },
+    {
+      "id": 12245132625,
+      "name": "1.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8549398,
+      "lng": 121.5255738,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.362Z"
+    },
+    {
+      "id": 12245132626,
+      "name": "2.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8559656,
+      "lng": 121.5212036,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.363Z"
+    },
+    {
+      "id": 12245134201,
+      "name": "1.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8538057,
+      "lng": 121.5269613,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.363Z"
+    },
+    {
+      "id": 12245134293,
+      "name": "1.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8554546,
+      "lng": 121.5238267,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.363Z"
+    },
+    {
+      "id": 12245134294,
+      "name": "2.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8536065,
+      "lng": 121.5180579,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.364Z"
+    },
+    {
+      "id": 12245134295,
+      "name": "2.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8531435,
+      "lng": 121.5153872,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.364Z"
+    },
+    {
+      "id": 12245134296,
+      "name": "0.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8568535,
+      "lng": 121.5214571,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.364Z"
+    },
+    {
+      "id": 12782431577,
+      "name": "6.5k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8374481,
+      "lng": 121.5602935,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.365Z"
+    },
+    {
+      "id": 13233093276,
+      "name": "5.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8186167,
+      "lng": 121.4841486,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.365Z"
+    },
+    {
+      "id": 13233093279,
+      "name": "6.1K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.820369,
+      "lng": 121.4833471,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.365Z"
+    },
+    {
+      "id": 13233093280,
+      "name": "6.2K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8211686,
+      "lng": 121.4831454,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.366Z"
+    },
+    {
+      "id": 13233093281,
+      "name": "6.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.821909,
+      "lng": 121.4828361,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.366Z"
+    },
+    {
+      "id": 13233093282,
+      "name": "6.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8224157,
+      "lng": 121.4823282,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.366Z"
+    },
+    {
+      "id": 13233093285,
+      "name": "6.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.823319,
+      "lng": 121.4806341,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.367Z"
+    },
+    {
+      "id": 13233093288,
+      "name": "7.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8249793,
+      "lng": 121.4811208,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.367Z"
+    },
+    {
+      "id": 13233093291,
+      "name": "7.3K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8271867,
+      "lng": 121.4828951,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.367Z"
+    },
+    {
+      "id": 13233093292,
+      "name": "7.4K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8277087,
+      "lng": 121.4833988,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.368Z"
+    },
+    {
+      "id": 13233093293,
+      "name": "7.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8283791,
+      "lng": 121.4837191,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.368Z"
+    },
+    {
+      "id": 13233093294,
+      "name": "7.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8291297,
+      "lng": 121.4837308,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.368Z"
+    },
+    {
+      "id": 13233093298,
+      "name": "8.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8319603,
+      "lng": 121.4844752,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.369Z"
+    },
+    {
+      "id": 13233106992,
+      "name": "5.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8178749,
+      "lng": 121.4837203,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.369Z"
+    },
+    {
+      "id": 13601848224,
+      "name": "烏來老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.86493,
+      "lng": 121.55168,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.370Z"
+    },
+    {
+      "id": 13903443105,
+      "name": "插天山自然保留區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.7749,
+      "lng": 121.5037525,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.370Z"
+    },
+    {
+      "id": 162044851,
+      "name": "信賢吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8417093,
+      "lng": 121.5411135,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.370Z"
+    },
+    {
+      "id": 162337512,
+      "name": "桶后吊橋(損毀)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8368215,
+      "lng": 121.6485075,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.371Z"
+    },
+    {
+      "id": 188552077,
+      "name": "烏來空中纜車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8474625,
+      "lng": 121.5522236,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.371Z"
+    },
+    {
+      "id": 189014883,
+      "name": "烏來吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8668408,
+      "lng": 121.5505997,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.371Z"
+    },
+    {
+      "id": 205943196,
+      "name": "大羅蘭溪吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7749661,
+      "lng": 121.5035069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.372Z"
+    },
+    {
+      "id": 337058370,
+      "name": "加九寮吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8838202,
+      "lng": 121.5415548,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.372Z"
+    },
+    {
+      "id": 522496487,
+      "name": "雲仙樂園纜車站",
+      "facilityType": "theme_park",
+      "facilityLabel": "🎡 遊樂場",
+      "lat": 24.8459464,
+      "lng": 121.5532279,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.372Z"
+    },
+    {
+      "id": 523499369,
+      "name": "雲仙樂園纜車站",
+      "facilityType": "theme_park",
+      "facilityLabel": "🎡 遊樂場",
+      "lat": 24.848923,
+      "lng": 121.5512077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.373Z"
+    },
+    {
+      "id": 545445151,
+      "name": "烏來遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8649804,
+      "lng": 121.551982,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.373Z"
+    },
+    {
+      "id": 711940566,
+      "name": "內洞森林遊樂區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8344287,
+      "lng": 121.5263643,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.374Z",
+      "address": "新北市烏來區娃娃谷46號"
+    },
+    {
+      "id": 804282588,
+      "name": "台電舊吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8376621,
+      "lng": 121.6686849,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.374Z"
+    },
+    {
+      "id": 1103878302,
+      "name": "桶后吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.83682,
+      "lng": 121.6485079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.374Z"
+    },
+    {
+      "id": 1287326449,
+      "name": "紅河谷步道1號吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8756116,
+      "lng": 121.5300346,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.375Z"
+    },
+    {
+      "id": 1287326451,
+      "name": "紅河谷步道2號吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8757574,
+      "lng": 121.528321,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.375Z"
+    },
+    {
+      "id": 3507432,
+      "name": "內洞國家森林遊樂區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8165771,
+      "lng": 121.5477286,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.375Z"
+    },
+    {
+      "id": 6990846,
+      "name": "哈盆自然保留區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7516223,
+      "lng": 121.5896149,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.376Z"
+    },
+    {
+      "id": 7014294,
+      "name": "插天山自然保留區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7555075,
+      "lng": 121.4506822,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.376Z"
+    },
+    {
+      "id": 7023522,
+      "name": "棲蘭野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.5709177,
+      "lng": 121.4098895,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.377Z"
+    },
+    {
+      "id": 7071529,
+      "name": "拉拉山自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7083882,
+      "lng": 121.4350484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.377Z"
+    },
+    {
+      "id": 14695896,
+      "name": "桶後吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.83682,
+      "lng": 121.6485079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:55:44.377Z"
+    }
+  ]
+}

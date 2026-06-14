@@ -1,0 +1,77 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:36:55.305Z",
+  "items": [
+    {
+      "id": 1718094691,
+      "name": "寶山二水庫觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7177329,
+      "lng": 121.0425434,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.295Z"
+    },
+    {
+      "id": 1799425419,
+      "name": "雞油凸",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7243369,
+      "lng": 121.0131932,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.298Z"
+    },
+    {
+      "id": 3301810261,
+      "name": "寶山日出觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7171656,
+      "lng": 120.9987905,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.299Z"
+    },
+    {
+      "id": 4449162890,
+      "name": "台積2廠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7741135,
+      "lng": 120.9982605,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.300Z"
+    },
+    {
+      "id": 5441887821,
+      "name": "雙胞胎井",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7326411,
+      "lng": 121.0279166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.302Z"
+    },
+    {
+      "id": 216211885,
+      "name": "寶湖吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7488088,
+      "lng": 121.0466965,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.304Z"
+    },
+    {
+      "id": 216211886,
+      "name": "碧湖吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7472776,
+      "lng": 121.0522232,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:36:55.305Z"
+    }
+  ]
+}

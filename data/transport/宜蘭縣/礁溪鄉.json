@@ -1,0 +1,1342 @@
+{
+  "city": "宜蘭縣",
+  "district": "礁溪鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 78,
+  "items": [
+    {
+      "id": 289128984,
+      "name": "四城",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7868587,
+      "lng": 121.7629029
+    },
+    {
+      "id": 3200070103,
+      "name": "礁溪湯圍溝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8287572,
+      "lng": 121.7737843,
+      "routes": [
+        "112",
+        "112A",
+        "191",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.759Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200070366,
+      "name": "溫泉路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8289754,
+      "lng": 121.7732782,
+      "routes": [
+        "112",
+        "112A",
+        "131"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.759Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200070522,
+      "name": "溫泉遊客中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8308212,
+      "lng": 121.7756449,
+      "routes": [
+        "131",
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.759Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200070530,
+      "name": "礁溪溫泉公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.830897,
+      "lng": 121.7754688
+    },
+    {
+      "id": 3201045543,
+      "name": "礁溪轉運站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8311313,
+      "lng": 121.7777183,
+      "routes": [
+        "112",
+        "112A",
+        "113",
+        "131",
+        "191",
+        "371",
+        "1572",
+        "1572A",
+        "1572B",
+        "1572C",
+        "1661",
+        "1661A",
+        "1665",
+        "1766",
+        "1767",
+        "1767A",
+        "1880",
+        "1881A",
+        "1915",
+        "1915A",
+        "1915B",
+        "1915C",
+        "紅1",
+        "綠11A",
+        "綠11B",
+        "綠19"
+      ],
+      "routeCount": 26,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3300032335,
+      "name": "塭底小吃",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8081657,
+      "lng": 121.8108644,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3307783397,
+      "name": "匏崙",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7936958,
+      "lng": 121.7306119,
+      "routes": [
+        "黃1",
+        "綠16"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3356279197,
+      "name": "湯圍溝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8267529,
+      "lng": 121.7716368,
+      "routes": [
+        "112",
+        "112A",
+        "191",
+        "1572",
+        "1572A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3356279198,
+      "name": "礁溪電池廠",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8246337,
+      "lng": 121.7707739,
+      "routes": [
+        "112",
+        "112A",
+        "191",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3356279199,
+      "name": "礁溪國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8210792,
+      "lng": 121.7694499,
+      "routes": [
+        "112",
+        "112A",
+        "191",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.760Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3356279200,
+      "name": "協天廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.818786,
+      "lng": 121.768619,
+      "routes": [
+        "112",
+        "112A",
+        "113",
+        "191",
+        "371",
+        "1572",
+        "1572A",
+        "1766",
+        "1767",
+        "1767A",
+        "1915",
+        "1915A",
+        "1915C",
+        "紅1"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3356279201,
+      "name": "仁愛路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.826037,
+      "lng": 121.7688946
+    },
+    {
+      "id": 3356279202,
+      "name": "湯圍溝(仁愛路)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8275546,
+      "lng": 121.7705284,
+      "routes": [
+        "112",
+        "112A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.135Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3360896063,
+      "name": "番割田",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8017039,
+      "lng": 121.7650987,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3917916933,
+      "name": "大塭路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8171955,
+      "lng": 121.7982517,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4060936357,
+      "name": "礁溪",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.826803,
+      "lng": 121.7754851
+    },
+    {
+      "id": 4548116494,
+      "name": "台旭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7826777,
+      "lng": 121.7378166
+    },
+    {
+      "id": 4774929328,
+      "name": "礁溪火車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8272023,
+      "lng": 121.7751886,
+      "routes": [
+        "112",
+        "112A",
+        "113",
+        "131",
+        "191",
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.135Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5297323819,
+      "name": "大坡(龍潭)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7790934,
+      "lng": 121.7412294,
+      "routes": [
+        "772",
+        "772A",
+        "黃1",
+        "綠16"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801633599,
+      "name": "公埔",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.793353,
+      "lng": 121.7627245,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801633601,
+      "name": "玉光村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7911566,
+      "lng": 121.7620486,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801633609,
+      "name": "四城站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7874212,
+      "lng": 121.7615175,
+      "routes": [
+        "371",
+        "1572",
+        "1572A",
+        "1766",
+        "1767",
+        "1767A",
+        "1915",
+        "1915A",
+        "1915C",
+        "紅1"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801642878,
+      "name": "白鵝村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7994841,
+      "lng": 121.7642748,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801655425,
+      "name": "三民村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8050744,
+      "lng": 121.7654496,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801655442,
+      "name": "十六結",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8097004,
+      "lng": 121.7669544,
+      "routes": [
+        "191",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801668626,
+      "name": "礁溪國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8175689,
+      "lng": 121.768451,
+      "routes": [
+        "371",
+        "紅1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.135Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801668627,
+      "name": "礁溪國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8167315,
+      "lng": 121.7679065,
+      "routes": [
+        "191",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801754967,
+      "name": "湯圍溝公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8290203,
+      "lng": 121.7692101,
+      "routes": [
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801764578,
+      "name": "白雲路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8366978,
+      "lng": 121.7867678,
+      "routes": [
+        "131",
+        "371",
+        "1572",
+        "1572B",
+        "1766",
+        "1767",
+        "1767A",
+        "1880",
+        "紅1"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801764579,
+      "name": "白石腳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.835432,
+      "lng": 121.7828706,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1",
+        "綠19"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801764585,
+      "name": "玉石村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.833688,
+      "lng": 121.7800476,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825685,
+      "name": "頭城交流道",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8371554,
+      "lng": 121.7880553,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6056293380,
+      "name": "佛光大學雲起樓",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8163041,
+      "lng": 121.72226,
+      "routes": [
+        "綠11A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6056293381,
+      "name": "雲來集(女生宿舍)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8168739,
+      "lng": 121.7242415,
+      "routes": [
+        "綠11A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6056293383,
+      "name": "雲五館(圖書館)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8155325,
+      "lng": 121.7240873
+    },
+    {
+      "id": 6056293384,
+      "name": "懷恩館(體育館)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8141249,
+      "lng": 121.724589
+    },
+    {
+      "id": 6056293485,
+      "name": "曼陀羅滴水坊",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8152679,
+      "lng": 121.7270378,
+      "routes": [
+        "綠11A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6056293486,
+      "name": "雲水軒(佛教學院)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8151271,
+      "lng": 121.7291754
+    },
+    {
+      "id": 6056293487,
+      "name": "雲慧樓(創意科技學院)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8155043,
+      "lng": 121.7300076
+    },
+    {
+      "id": 6056293488,
+      "name": "海雲館(男生宿舍)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8172002,
+      "lng": 121.7309644
+    },
+    {
+      "id": 7280070859,
+      "name": "林美石磐步道",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8202425,
+      "lng": 121.7340418,
+      "routes": [
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7280070860,
+      "name": "林美寮宿舍",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8213918,
+      "lng": 121.753892
+    },
+    {
+      "id": 7280070861,
+      "name": "李寶興圳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8213882,
+      "lng": 121.7559946,
+      "routes": [
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7280070862,
+      "name": "林美社區發展協會",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8178903,
+      "lng": 121.7501392,
+      "routes": [
+        "綠11A",
+        "綠11B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7280070864,
+      "name": "五峰旗風景特定區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8297913,
+      "lng": 121.7518821,
+      "routes": [
+        "112A",
+        "綠11A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7280070865,
+      "name": "老爺得天公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8284865,
+      "lng": 121.7559085,
+      "routes": [
+        "112A",
+        "綠11A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7280070866,
+      "name": "跑馬古道",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8273546,
+      "lng": 121.7625595,
+      "routes": [
+        "112A",
+        "綠11A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185533,
+      "name": "七結橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8076625,
+      "lng": 121.7699383,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185534,
+      "name": "港尾橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8021207,
+      "lng": 121.7798932,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185535,
+      "name": "玉鼎慈天宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7981531,
+      "lng": 121.7870675,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7297185536,
+      "name": "玉田國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.796201,
+      "lng": 121.7914429,
+      "routes": [
+        "191"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8064012745,
+      "name": "礁溪鄉農會",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8209036,
+      "lng": 121.7709448,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8064029358,
+      "name": "大忠路2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8232807,
+      "lng": 121.7650833,
+      "routes": [
+        "112",
+        "112A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8287502578,
+      "name": "礁溪鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8234788,
+      "lng": 121.7715124,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8421027801,
+      "name": "佛光大學",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8170102,
+      "lng": 121.7308129,
+      "routes": [
+        "綠11A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.136Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8428317745,
+      "name": "車路頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7946959,
+      "lng": 121.8059966,
+      "routes": [
+        "191",
+        "1790"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481231370,
+      "name": "礁溪轉運站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8299965,
+      "lng": 121.7775196,
+      "routes": [
+        "112",
+        "112A",
+        "113",
+        "131",
+        "191",
+        "371",
+        "1572",
+        "1572A",
+        "1572B",
+        "1572C",
+        "1661",
+        "1661A",
+        "1665",
+        "1766",
+        "1767",
+        "1767A",
+        "1880",
+        "1881A",
+        "1915",
+        "1915A",
+        "1915B",
+        "1915C",
+        "紅1",
+        "綠11A",
+        "綠11B",
+        "綠19"
+      ],
+      "routeCount": 26,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482839511,
+      "name": "塭底路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7958775,
+      "lng": 121.806463,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.144Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482839512,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7976628,
+      "lng": 121.8070668,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482839515,
+      "name": "玉尊宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8040336,
+      "lng": 121.8088867,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.144Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842620,
+      "name": "塭底路2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.814891,
+      "lng": 121.8122756,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842624,
+      "name": "長興廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8182343,
+      "lng": 121.8115669,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842626,
+      "name": "大塭路2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8174866,
+      "lng": 121.8035015,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842629,
+      "name": "玉龍路二段",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8139342,
+      "lng": 121.7939582,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842631,
+      "name": "玉龍橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8096225,
+      "lng": 121.7912136,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842633,
+      "name": "二龍社區活動中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8079364,
+      "lng": 121.785062,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842666,
+      "name": "水閘門",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8071531,
+      "lng": 121.7810749,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842668,
+      "name": "淇武蘭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8099457,
+      "lng": 121.7771776,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842670,
+      "name": "竹林養護院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8119822,
+      "lng": 121.7748789,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482842672,
+      "name": "六結路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.8139743,
+      "lng": 121.7725615,
+      "routes": [
+        "113"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11083165217,
+      "name": "龍潭湖",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7916582,
+      "lng": 121.7397836
+    },
+    {
+      "id": 11088916031,
+      "name": "仁愛之家",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7832127,
+      "lng": 121.7434622,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.144Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11090884564,
+      "name": "二結路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7808256,
+      "lng": 121.7242844
+    },
+    {
+      "id": 11090904834,
+      "name": "游泳池",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7800195,
+      "lng": 121.7419709,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.144Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11090904840,
+      "name": "三官廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7813955,
+      "lng": 121.7434059,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.144Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243091,
+      "name": "通聖宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7858286,
+      "lng": 121.7249233,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243093,
+      "name": "二結路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "礁溪鄉",
+      "lat": 24.7834921,
+      "lng": 121.7232173,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.763Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

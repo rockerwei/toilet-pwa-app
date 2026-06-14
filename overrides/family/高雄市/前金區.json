@@ -1,0 +1,67 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:36:08.189Z",
+  "items": [
+    {
+      "id": 2410528370,
+      "name": "交通部觀光局旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6280425,
+      "lng": 120.2924459,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.180Z"
+    },
+    {
+      "id": 3305519336,
+      "name": "城市光廊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6230173,
+      "lng": 120.2989546,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.183Z"
+    },
+    {
+      "id": 4577052891,
+      "name": "金龍",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6235766,
+      "lng": 120.2903026,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.185Z"
+    },
+    {
+      "id": 5834591637,
+      "name": "觀光指示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6246092,
+      "lng": 120.3004015,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.186Z"
+    },
+    {
+      "id": 323772775,
+      "name": "高雄文學圖書館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.6255598,
+      "lng": 120.2980017,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.188Z"
+    },
+    {
+      "id": 617203453,
+      "name": "戶外景觀臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6242257,
+      "lng": 120.2988534,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:08.189Z"
+    }
+  ]
+}

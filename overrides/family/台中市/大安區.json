@@ -1,0 +1,47 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:50:40.927Z",
+  "items": [
+    {
+      "id": 9926773276,
+      "name": "解說導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.379647,
+      "lng": 120.5844672,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:50:40.922Z"
+    },
+    {
+      "id": 9926888056,
+      "name": "大安海灘",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 24.3816736,
+      "lng": 120.5842836,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:50:40.924Z"
+    },
+    {
+      "id": 9931713380,
+      "name": "海墘防砂老石牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.3808985,
+      "lng": 120.5867439,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:50:40.925Z"
+    },
+    {
+      "id": 7079054,
+      "name": "永續利用區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.3244201,
+      "lng": 120.5485922,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:50:40.927Z"
+    }
+  ]
+}

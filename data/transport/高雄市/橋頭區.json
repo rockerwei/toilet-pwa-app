@@ -1,0 +1,648 @@
+{
+  "city": "高雄市",
+  "district": "橋頭區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 39,
+  "items": [
+    {
+      "id": 257398405,
+      "name": "橋頭",
+      "type": "train",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7610975,
+      "lng": 120.3102547
+    },
+    {
+      "id": 2730669876,
+      "name": "捷運橋頭糖廠站",
+      "type": "train",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7530305,
+      "lng": 120.3146833
+    },
+    {
+      "id": 2730669886,
+      "name": "高雄花卉農園中心站",
+      "type": "train",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.743041,
+      "lng": 120.3242846
+    },
+    {
+      "id": 2749655232,
+      "name": "草橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.731176,
+      "lng": 120.2712749,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099953,
+      "name": "長潤橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7621084,
+      "lng": 120.2776075,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099958,
+      "name": "五林國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7603506,
+      "lng": 120.2939295
+    },
+    {
+      "id": 2973099960,
+      "name": "五林路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7626293,
+      "lng": 120.2939996
+    },
+    {
+      "id": 2973099962,
+      "name": "仕元路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7555265,
+      "lng": 120.2978897,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099966,
+      "name": "公路總局南訓中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7640032,
+      "lng": 120.2992107
+    },
+    {
+      "id": 2973099976,
+      "name": "德松路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7637989,
+      "lng": 120.3073755,
+      "routes": [
+        "8015",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8506",
+        "紅71C",
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099986,
+      "name": "橋頭區公所(白樹路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7583618,
+      "lng": 120.305355,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099988,
+      "name": "橋頭國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.758782,
+      "lng": 120.3072848,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.478Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099990,
+      "name": "甲樹路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.761485,
+      "lng": 120.2990665
+    },
+    {
+      "id": 2973099994,
+      "name": "美德街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7582586,
+      "lng": 120.3030594,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099996,
+      "name": "芋寮路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7602978,
+      "lng": 120.2855435,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099998,
+      "name": "高苑工商",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7574728,
+      "lng": 120.2924716,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361674728,
+      "name": "高雄科大(第一東校區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7582427,
+      "lng": 120.336121,
+      "routes": [
+        "7C",
+        "97",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908159305,
+      "name": "成功南路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7506447,
+      "lng": 120.3136651,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "紅71C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908159307,
+      "name": "捷運橋頭火車站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7601127,
+      "lng": 120.309334,
+      "routes": [
+        "8015",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8506",
+        "紅71C",
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908159308,
+      "name": "捷運橋頭火車站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7593149,
+      "lng": 120.3099125,
+      "routes": [
+        "8015",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8506",
+        "紅71C",
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76",
+        "T402"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908159309,
+      "name": "橋頭市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7553155,
+      "lng": 120.3112224,
+      "routes": [
+        "8015",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8506",
+        "紅71C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580850452,
+      "name": "青埔",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7444067,
+      "lng": 120.3177237,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580876598,
+      "name": "橋頭糖廠",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7535555,
+      "lng": 120.3145546,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4580928832,
+      "name": "橋頭火車站",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7609322,
+      "lng": 120.3106932,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 7473616061,
+      "name": "捷運青埔站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.743738,
+      "lng": 120.3174924,
+      "routes": [
+        "7C",
+        "98",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8506"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5395405201,
+      "name": "白樹五林路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7575166,
+      "lng": 120.294707,
+      "routes": [
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616053,
+      "name": "台糖花卉中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7409735,
+      "lng": 120.3248362,
+      "routes": [
+        "7C"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616057,
+      "name": "清豐路口(楠梓路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7381658,
+      "lng": 120.3239699,
+      "routes": [
+        "7C",
+        "8506"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529496,
+      "name": "經武路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7424516,
+      "lng": 120.3154201,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529498,
+      "name": "橋新七路(新東一街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7395156,
+      "lng": 120.3158309,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529500,
+      "name": "橋新一路(橋新七路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7375979,
+      "lng": 120.3160819,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529502,
+      "name": "都會公園(北門)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7365916,
+      "lng": 120.3103163,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529504,
+      "name": "橋新二路(橋新九路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7374623,
+      "lng": 120.3072854,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529506,
+      "name": "橋頭地檢署",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7390529,
+      "lng": 120.304799,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370529508,
+      "name": "橋頭地方法院(2)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.737507,
+      "lng": 120.304262,
+      "routes": [
+        "98"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823871,
+      "name": "東寶公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.734491,
+      "lng": 120.2679005,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.479Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10708689150,
+      "name": "海峰",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7636504,
+      "lng": 120.3328054
+    },
+    {
+      "id": 13358669043,
+      "name": "捷運橋頭糖廠站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7528651,
+      "lng": 120.3127914,
+      "routes": [
+        "8506"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358669044,
+      "name": "捷運橋頭糖廠站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "橋頭區",
+      "lat": 22.7507467,
+      "lng": 120.3136159,
+      "routes": [
+        "8506"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

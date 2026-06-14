@@ -1,0 +1,248 @@
+{
+  "city": "台東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:29:46.144Z",
+  "items": [
+    {
+      "id": 3049976826,
+      "name": "小丑魚主題館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0983583,
+      "lng": 121.3808958,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.119Z",
+      "address": "96143臺東縣成功鎮港邊路21號"
+    },
+    {
+      "id": 3507003233,
+      "name": "瀑布下",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1337814,
+      "lng": 121.3397571,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.122Z"
+    },
+    {
+      "id": 3913959604,
+      "name": "舊東河橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9760642,
+      "lng": 121.3049536,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.124Z"
+    },
+    {
+      "id": 3919864822,
+      "name": "石雨傘觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.175468,
+      "lng": 121.4015509,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.126Z"
+    },
+    {
+      "id": 4090058671,
+      "name": "龍洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9990266,
+      "lng": 121.3140565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.128Z"
+    },
+    {
+      "id": 4271206924,
+      "name": "新港瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1337196,
+      "lng": 121.3393161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.130Z"
+    },
+    {
+      "id": 5280450027,
+      "name": "重安瀑布(第一層)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1882121,
+      "lng": 121.3782298,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.131Z"
+    },
+    {
+      "id": 5321513805,
+      "name": "都歷遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0195342,
+      "lng": 121.3246069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.133Z"
+    },
+    {
+      "id": 5321513806,
+      "name": "阿美族民族中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0178644,
+      "lng": 121.3250295,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.134Z"
+    },
+    {
+      "id": 5321513807,
+      "name": "交通部觀光局東部海岸國家風景區管理處",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.0195922,
+      "lng": 121.3238153,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.135Z"
+    },
+    {
+      "id": 7836904804,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.1318329,
+      "lng": 121.3438239,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.135Z"
+    },
+    {
+      "id": 11052014647,
+      "name": "小馬漁業資源保育區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0234508,
+      "lng": 121.3336627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.137Z"
+    },
+    {
+      "id": 11247540784,
+      "name": "石雨傘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1761325,
+      "lng": 121.4026853,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.137Z"
+    },
+    {
+      "id": 13037226590,
+      "name": "水晶井",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.127076,
+      "lng": 121.4218632,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.138Z"
+    },
+    {
+      "id": 13778573736,
+      "name": "一線天",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1252413,
+      "lng": 121.4199791,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.138Z"
+    },
+    {
+      "id": 13778573737,
+      "name": "仙人洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1252639,
+      "lng": 121.4197933,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.139Z"
+    },
+    {
+      "id": 13778573770,
+      "name": "大石龜",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1253412,
+      "lng": 121.4233218,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.140Z"
+    },
+    {
+      "id": 142264854,
+      "name": "三仙台跨海步橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1236343,
+      "lng": 121.4127332,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.140Z"
+    },
+    {
+      "id": 507951240,
+      "name": "阿美族民俗中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0191681,
+      "lng": 121.3249565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.141Z"
+    },
+    {
+      "id": 1290373202,
+      "name": "三仙台燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1262898,
+      "lng": 121.4217311,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.142Z"
+    },
+    {
+      "id": 7022483,
+      "name": "海岸山脈野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.1736847,
+      "lng": 121.3332549,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.142Z"
+    },
+    {
+      "id": 7075257,
+      "name": "三仙台自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.1169789,
+      "lng": 121.4063092,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.143Z"
+    },
+    {
+      "id": 7075260,
+      "name": "石雨傘自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.178566,
+      "lng": 121.4040378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.143Z"
+    },
+    {
+      "id": 7075261,
+      "name": "花東沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3605493,
+      "lng": 121.3802612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:29:46.144Z"
+    }
+  ]
+}

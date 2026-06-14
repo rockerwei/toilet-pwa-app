@@ -1,0 +1,27 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:11:59.003Z",
+  "items": [
+    {
+      "id": 6387157618,
+      "name": "彰129 1.5K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9405875,
+      "lng": 120.4368593,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:11:59.000Z"
+    },
+    {
+      "id": 9884639730,
+      "name": "二林東螺木棉花道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9504367,
+      "lng": 120.4505843,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:11:59.003Z"
+    }
+  ]
+}

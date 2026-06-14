@@ -1,0 +1,104 @@
+{
+  "city": "台東縣",
+  "district": "延平鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 7,
+  "items": [
+    {
+      "id": 3174812279,
+      "name": "南部落",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.8827345,
+      "lng": 121.160319,
+      "routes": [
+        "8117"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.265Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174812280,
+      "name": "下野東",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.8868632,
+      "lng": 121.159221
+    },
+    {
+      "id": 3174812281,
+      "name": "中野",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.8990521,
+      "lng": 121.1521768,
+      "routes": [
+        "8117"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181170055,
+      "name": "武陵",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.9711271,
+      "lng": 121.1180663
+    },
+    {
+      "id": 3181170056,
+      "name": "武麟山莊",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.9726543,
+      "lng": 121.1209934
+    },
+    {
+      "id": 3256564669,
+      "name": "永康",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.9283844,
+      "lng": 121.1154511,
+      "routes": [
+        "8168"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.265Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3328499794,
+      "name": "延平鄉公所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "延平鄉",
+      "lat": 22.9021628,
+      "lng": 121.0868234,
+      "routes": [
+        "8167",
+        "8167A",
+        "8167B",
+        "8168"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.265Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "city": "花蓮縣",
+  "district": "卓溪鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 3,
+  "items": [
+    {
+      "id": 3280756761,
+      "name": "卓楓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "卓溪鄉",
+      "lat": 23.2452729,
+      "lng": 121.2725139
+    },
+    {
+      "id": 3280756762,
+      "name": "古風",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "卓溪鄉",
+      "lat": 23.2507444,
+      "lng": 121.2738682
+    },
+    {
+      "id": 3280756765,
+      "name": "卓麓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "卓溪鄉",
+      "lat": 23.2954379,
+      "lng": 121.2691688,
+      "routes": [
+        "1130"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.073Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

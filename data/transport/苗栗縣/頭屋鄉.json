@@ -1,0 +1,189 @@
+{
+  "city": "苗栗縣",
+  "district": "頭屋鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 11,
+  "items": [
+    {
+      "id": 3341415283,
+      "name": "明德",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5869313,
+      "lng": 120.8823197,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.234Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843202928,
+      "name": "茄苳坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5983276,
+      "lng": 120.8846457,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.234Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286633,
+      "name": "傳家堡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5795048,
+      "lng": 120.8606252,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286654,
+      "name": "象山村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5797548,
+      "lng": 120.8638197,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286677,
+      "name": "扒仔岡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5804829,
+      "lng": 120.8670075,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286693,
+      "name": "鳴鳳入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5807829,
+      "lng": 120.8710174,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286715,
+      "name": "響隆橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5824903,
+      "lng": 120.8777806,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.133Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843286766,
+      "name": "玻璃廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5784681,
+      "lng": 120.8585814
+    },
+    {
+      "id": 4843302319,
+      "name": "頭屋郵局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5764704,
+      "lng": 120.8540806,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843309938,
+      "name": "苗栗工務段",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5744971,
+      "lng": 120.848566,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4843309940,
+      "name": "頭屋站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "頭屋鄉",
+      "lat": 24.5747142,
+      "lng": 120.8512214,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.235Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

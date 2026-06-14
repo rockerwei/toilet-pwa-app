@@ -1,0 +1,959 @@
+{
+  "city": "台中市",
+  "district": "大安區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 79,
+  "items": [
+    {
+      "id": 3669546657,
+      "name": "大安區圖書館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3455378,
+      "lng": 120.5893125
+    },
+    {
+      "id": 3669546659,
+      "name": "大安區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3457197,
+      "lng": 120.5867731,
+      "routes": [
+        "92",
+        "658",
+        "679繞",
+        "699",
+        "黃12"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3669570839,
+      "name": "大安國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3652411,
+      "lng": 120.6024167
+    },
+    {
+      "id": 3709768539,
+      "name": "三元莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3458479,
+      "lng": 120.591012
+    },
+    {
+      "id": 3709768541,
+      "name": "下龜殼",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3607454,
+      "lng": 120.5859383
+    },
+    {
+      "id": 3709768543,
+      "name": "中山南中海路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3527374,
+      "lng": 120.5841479
+    },
+    {
+      "id": 3709768545,
+      "name": "中庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.349622,
+      "lng": 120.5843463
+    },
+    {
+      "id": 3709768553,
+      "name": "塭寮橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3735486,
+      "lng": 120.5859615
+    },
+    {
+      "id": 3709768557,
+      "name": "大安港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3789775,
+      "lng": 120.5861197,
+      "routes": [
+        "92",
+        "658"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3709768559,
+      "name": "大安港南北九路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3775974,
+      "lng": 120.591036,
+      "routes": [
+        "92",
+        "172"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.311Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3709768569,
+      "name": "家畜市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3476257,
+      "lng": 120.6086471,
+      "routes": [
+        "658"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.938Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3709768575,
+      "name": "水柳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3754097,
+      "lng": 120.5960676
+    },
+    {
+      "id": 3709768577,
+      "name": "海墘",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3791695,
+      "lng": 120.5868535
+    },
+    {
+      "id": 3709768579,
+      "name": "海墘國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3786161,
+      "lng": 120.5888005,
+      "routes": [
+        "92",
+        "658副",
+        "市民小巴1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.762Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3709768582,
+      "name": "溪洲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3699288,
+      "lng": 120.5863386
+    },
+    {
+      "id": 3709768586,
+      "name": "福興(興安路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3457682,
+      "lng": 120.5975842
+    },
+    {
+      "id": 3709769333,
+      "name": "興安福東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3461344,
+      "lng": 120.6013196,
+      "routes": [
+        "92",
+        "216"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.311Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3709769335,
+      "name": "西安里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3680322,
+      "lng": 120.6020586
+    },
+    {
+      "id": 3709769338,
+      "name": "遠東手套",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3472336,
+      "lng": 120.6042845
+    },
+    {
+      "id": 3709769339,
+      "name": "龜殼里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3645912,
+      "lng": 120.586642
+    },
+    {
+      "id": 4853849955,
+      "name": "松仔腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.36134,
+      "lng": 120.6033692
+    },
+    {
+      "id": 4853849957,
+      "name": "腳踏",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3718241,
+      "lng": 120.5996811,
+      "routes": [
+        "92",
+        "658副",
+        "市民小巴1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.767Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774918500,
+      "name": "頂五甲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3883048,
+      "lng": 120.5930454,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253587957,
+      "name": "南北四東西五路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3769523,
+      "lng": 120.6206836
+    },
+    {
+      "id": 10253587958,
+      "name": "東西四南北四路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3790279,
+      "lng": 120.6210182
+    },
+    {
+      "id": 10253587960,
+      "name": "東西四路76巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3793216,
+      "lng": 120.6194424
+    },
+    {
+      "id": 10253587962,
+      "name": "南北七東西六路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3774027,
+      "lng": 120.602977
+    },
+    {
+      "id": 10253587980,
+      "name": "福住里環保公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3836266,
+      "lng": 120.58973
+    },
+    {
+      "id": 10253587982,
+      "name": "北汕公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3833717,
+      "lng": 120.5881015
+    },
+    {
+      "id": 10253587984,
+      "name": "大安濱海樂園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3833023,
+      "lng": 120.5863214
+    },
+    {
+      "id": 10253588008,
+      "name": "東西七路二段",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3725669,
+      "lng": 120.6098279
+    },
+    {
+      "id": 10253588010,
+      "name": "東西七南北六路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3727788,
+      "lng": 120.6074085
+    },
+    {
+      "id": 10253588012,
+      "name": "西安里(東西七路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3736091,
+      "lng": 120.6035927
+    },
+    {
+      "id": 10253588014,
+      "name": "南北七路31巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3724785,
+      "lng": 120.6017503
+    },
+    {
+      "id": 10253588018,
+      "name": "南埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3405749,
+      "lng": 120.5692218
+    },
+    {
+      "id": 10253588020,
+      "name": "南安路310巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3423419,
+      "lng": 120.5707345
+    },
+    {
+      "id": 10253588022,
+      "name": "田寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3462822,
+      "lng": 120.5738861
+    },
+    {
+      "id": 10253588024,
+      "name": "南庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3495851,
+      "lng": 120.5765626
+    },
+    {
+      "id": 10253588026,
+      "name": "南安西濱路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3498425,
+      "lng": 120.5790158
+    },
+    {
+      "id": 10253588028,
+      "name": "南安中山南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.349922,
+      "lng": 120.5813624
+    },
+    {
+      "id": 10253588034,
+      "name": "福住里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3798405,
+      "lng": 120.6036218
+    },
+    {
+      "id": 10253588036,
+      "name": "南北七東西四路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3824813,
+      "lng": 120.6042667
+    },
+    {
+      "id": 10253588038,
+      "name": "永安國小(東西四路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3821611,
+      "lng": 120.6060291
+    },
+    {
+      "id": 10253588040,
+      "name": "東西四路200巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.381629,
+      "lng": 120.6092582
+    },
+    {
+      "id": 10253588042,
+      "name": "靖安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.38113,
+      "lng": 120.6117479
+    },
+    {
+      "id": 10253588044,
+      "name": "東西四路141巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3806619,
+      "lng": 120.6129842,
+      "routes": [
+        "661",
+        "市民小巴1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588046,
+      "name": "東西四南北五路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3801849,
+      "lng": 120.6152436
+    },
+    {
+      "id": 10253588048,
+      "name": "頂大安",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.383391,
+      "lng": 120.6153697,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588050,
+      "name": "東西三南北六路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.384124,
+      "lng": 120.6107248,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588052,
+      "name": "田尾",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3876877,
+      "lng": 120.60928
+    },
+    {
+      "id": 10253588054,
+      "name": "南北七東西二路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3882496,
+      "lng": 120.6056012
+    },
+    {
+      "id": 10253588056,
+      "name": "東西三南北七路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3855725,
+      "lng": 120.6047248,
+      "routes": [
+        "市民小巴1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588058,
+      "name": "環海宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3862349,
+      "lng": 120.6014085,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588060,
+      "name": "東西三南北八路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3867626,
+      "lng": 120.5989721,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588062,
+      "name": "永安",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3874029,
+      "lng": 120.5958909
+    },
+    {
+      "id": 10253588064,
+      "name": "安田",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3951326,
+      "lng": 120.6004945,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588065,
+      "name": "田心(中山北路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3922249,
+      "lng": 120.5988921
+    },
+    {
+      "id": 10253588067,
+      "name": "下五甲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3898117,
+      "lng": 120.5945067,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588068,
+      "name": "五甲港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3899177,
+      "lng": 120.5945358
+    },
+    {
+      "id": 10253588069,
+      "name": "五甲港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3904376,
+      "lng": 120.5905442,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588071,
+      "name": "北汕",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.382733,
+      "lng": 120.5904242,
+      "routes": [
+        "172"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588073,
+      "name": "媽祖園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3806111,
+      "lng": 120.5878812
+    },
+    {
+      "id": 10253588075,
+      "name": "埔羗林福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3427527,
+      "lng": 120.5898521
+    },
+    {
+      "id": 10253588077,
+      "name": "埔羗林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3407604,
+      "lng": 120.5906861
+    },
+    {
+      "id": 10253588079,
+      "name": "東勢尾",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3391502,
+      "lng": 120.5914642
+    },
+    {
+      "id": 10253588088,
+      "name": "中庄里7鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3566271,
+      "lng": 120.5848582,
+      "routes": [
+        "92",
+        "658"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183427,
+      "name": "福安集會所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3524614,
+      "lng": 120.597065,
+      "routes": [
+        "黃12"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183429,
+      "name": "中松埔頭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3514028,
+      "lng": 120.5918089,
+      "routes": [
+        "黃12"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183433,
+      "name": "福德祠(南埔路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3428263,
+      "lng": 120.582246,
+      "routes": [
+        "黃12"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183435,
+      "name": "南安路238巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3483771,
+      "lng": 120.5744114,
+      "routes": [
+        "黃12"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183483,
+      "name": "大安幼兒園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3487726,
+      "lng": 120.6080898,
+      "routes": [
+        "黃12",
+        "黃23"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183485,
+      "name": "福安莊(龜殼路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3547063,
+      "lng": 120.5988841,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183487,
+      "name": "三光國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3571356,
+      "lng": 120.6008225,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183489,
+      "name": "延平宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3617362,
+      "lng": 120.5955087,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183491,
+      "name": "溪洲路69巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3594428,
+      "lng": 120.5942618,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.768Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183493,
+      "name": "中庄里10鄰(龜?里7鄰)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3592499,
+      "lng": 120.5899982,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.769Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183495,
+      "name": "聖安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3612736,
+      "lng": 120.5820955,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.769Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183497,
+      "name": "中庄里8鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3577045,
+      "lng": 120.5776612,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.769Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183499,
+      "name": "中庄里9鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大安區",
+      "lat": 24.3554859,
+      "lng": 120.5780286,
+      "routes": [
+        "黃23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.769Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,1645 @@
+{
+  "city": "高雄市",
+  "district": "仁武區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 89,
+  "items": [
+    {
+      "id": 1311875295,
+      "name": "半屏山(高楠路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7007397,
+      "lng": 120.3231433,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.367Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1882806279,
+      "name": "澄觀派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6785037,
+      "lng": 120.3305172,
+      "routes": [
+        "紅61"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.367Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2613390929,
+      "name": "仁慈公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6723665,
+      "lng": 120.3587579,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "60覺民幹線",
+        "紅61",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2613390935,
+      "name": "澄新二街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6700584,
+      "lng": 120.357197,
+      "routes": [
+        "60覺民幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.207Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2613390936,
+      "name": "澄新四街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.671112,
+      "lng": 120.3568766,
+      "routes": [
+        "60覺民幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2613390937,
+      "name": "澄新路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6729893,
+      "lng": 120.3563514
+    },
+    {
+      "id": 2712497088,
+      "name": "澄觀澄仁路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.681573,
+      "lng": 120.3433819
+    },
+    {
+      "id": 2712497089,
+      "name": "澄觀澄仁路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6815683,
+      "lng": 120.3444845,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540670,
+      "name": "京吉八德南路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.681245,
+      "lng": 120.3390975,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540673,
+      "name": "京吉八德南路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6814535,
+      "lng": 120.340466,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721831,
+      "name": "台灣時報",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6978964,
+      "lng": 120.3226512,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721863,
+      "name": "水管路口(高楠公路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7047464,
+      "lng": 120.3239944,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735721875,
+      "name": "高楠里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6921699,
+      "lng": 120.3217758,
+      "routes": [
+        "28",
+        "8023",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8049",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143524,
+      "name": "仁光路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.684262,
+      "lng": 120.3503704,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143526,
+      "name": "仁德街口(中華路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7001832,
+      "lng": 120.3516761,
+      "routes": [
+        "8502"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.207Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143527,
+      "name": "仁雄澄合街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6808753,
+      "lng": 120.3508914,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "8502",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143529,
+      "name": "仁武倉庫",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6980097,
+      "lng": 120.3290665,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143531,
+      "name": "仁武區公所(派出所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7015049,
+      "lng": 120.348518,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62A",
+        "紅62B",
+        "綠2A",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143534,
+      "name": "仁武特殊教育學校",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6828829,
+      "lng": 120.347335,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143536,
+      "name": "仁武里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7023282,
+      "lng": 120.351771,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62A",
+        "紅62B",
+        "綠2A",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.368Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143538,
+      "name": "仁武高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7027562,
+      "lng": 120.3540323,
+      "routes": [
+        "8502",
+        "紅62A",
+        "紅62B",
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143539,
+      "name": "八卦寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6960384,
+      "lng": 120.3482186,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "8502",
+        "紅60A",
+        "紅60B",
+        "紅62A",
+        "紅62B",
+        "綠2A",
+        "橘18A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143541,
+      "name": "八卦農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6856951,
+      "lng": 120.3383881,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143543,
+      "name": "永和一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6943622,
+      "lng": 120.3315176,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143545,
+      "name": "八德一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6921733,
+      "lng": 120.3324329,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143547,
+      "name": "八德西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.686746,
+      "lng": 120.3370326,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143549,
+      "name": "北屋社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6841372,
+      "lng": 120.3394008,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143551,
+      "name": "名湖社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6866117,
+      "lng": 120.3527657
+    },
+    {
+      "id": 2820143554,
+      "name": "德榮街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6858122,
+      "lng": 120.3311826,
+      "routes": [
+        "紅60B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.208Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143556,
+      "name": "文學路口(中華路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6978558,
+      "lng": 120.3478986,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143557,
+      "name": "新庄(鳳仁路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6924852,
+      "lng": 120.3495981,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "8502",
+        "紅60A",
+        "紅60B",
+        "紅62A",
+        "紅62B",
+        "綠2A",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143559,
+      "name": "永仁街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6867054,
+      "lng": 120.3355713,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143561,
+      "name": "永榮一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6878015,
+      "lng": 120.329734,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143563,
+      "name": "台銀仁武分行",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6823629,
+      "lng": 120.3397606,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143565,
+      "name": "澄觀路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6808006,
+      "lng": 120.3400427,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143567,
+      "name": "通法寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6988518,
+      "lng": 120.3464955,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62A",
+        "紅62B",
+        "綠2A",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143569,
+      "name": "高鐵基地",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6949007,
+      "lng": 120.3210431,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "16A",
+        "16A繞(經文信路)",
+        "16B",
+        "90民族幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.369Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143571,
+      "name": "高鐵路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.693657,
+      "lng": 120.3165481,
+      "routes": [
+        "3",
+        "3繞(17時以後改道文信路)",
+        "16A",
+        "16A繞(經文信路)",
+        "16B",
+        "90民族幹線",
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820143574,
+      "name": "仁和南街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7004942,
+      "lng": 120.3483087,
+      "routes": [
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864034880,
+      "name": "慈育街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6697347,
+      "lng": 120.3602888,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "60覺民幹線",
+        "紅61",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209224,
+      "name": "仁忠路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6757955,
+      "lng": 120.3567966,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "紅61",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209234,
+      "name": "灣子內(仁武)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6823936,
+      "lng": 120.3550931,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209238,
+      "name": "登發國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6795969,
+      "lng": 120.3545583,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "紅61",
+        "綠2A",
+        "橘16A",
+        "橘16B",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301713,
+      "name": "後庄(中正路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7149758,
+      "lng": 120.3520799,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301715,
+      "name": "文安二街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7056957,
+      "lng": 120.3534602,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301717,
+      "name": "文武里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7037746,
+      "lng": 120.3537549,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301721,
+      "name": "安樂一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7092748,
+      "lng": 120.3530636,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301723,
+      "name": "中仁路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7174002,
+      "lng": 120.3513029,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374329278,
+      "name": "仁和公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6811187,
+      "lng": 120.3522911,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.370Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374329281,
+      "name": "大灣",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6801835,
+      "lng": 120.3501284,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "8502",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374329285,
+      "name": "慈惠堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6781176,
+      "lng": 120.3476175,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "8502",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374342823,
+      "name": "八德路口(大灣)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6765274,
+      "lng": 120.3403404,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "8502",
+        "綠2A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374342825,
+      "name": "後備指揮部",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6725587,
+      "lng": 120.3317803,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "8502",
+        "綠2A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3374342827,
+      "name": "極限公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6753689,
+      "lng": 120.337489,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "綠2A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367544,
+      "name": "久保祥公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6918347,
+      "lng": 120.3700082,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367548,
+      "name": "十九灣",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6708617,
+      "lng": 120.3614676,
+      "routes": [
+        "5公車式小黃",
+        "8008",
+        "8009",
+        "8048"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367550,
+      "name": "埤內巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6826839,
+      "lng": 120.3643863,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367554,
+      "name": "天后宮(成功路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6814448,
+      "lng": 120.3621624,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367556,
+      "name": "忠山藥廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.68594,
+      "lng": 120.364214,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367558,
+      "name": "明山慈安居",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6845913,
+      "lng": 120.3643027,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367560,
+      "name": "東亞漆廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6887191,
+      "lng": 120.3668912,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367564,
+      "name": "烏林里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6965767,
+      "lng": 120.375544,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367566,
+      "name": "磚廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6986898,
+      "lng": 120.3797067,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367568,
+      "name": "綠園山莊",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6765707,
+      "lng": 120.3631388,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367571,
+      "name": "考潭里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6792616,
+      "lng": 120.3619344,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444367573,
+      "name": "鞏威新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6743944,
+      "lng": 120.363757,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444377624,
+      "name": "油庫",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7009775,
+      "lng": 120.3878828,
+      "routes": [
+        "5公車式小黃",
+        "8009"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444377626,
+      "name": "清淨寺B(忠義路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.698778,
+      "lng": 120.3919825,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444377628,
+      "name": "清靜寺A(仁林路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.700957,
+      "lng": 120.3904679
+    },
+    {
+      "id": 3469658408,
+      "name": "八卦里滯洪公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6838756,
+      "lng": 120.3290158,
+      "routes": [
+        "紅60A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.209Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3894645141,
+      "name": "永仁公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6825825,
+      "lng": 120.332155,
+      "routes": [
+        "紅60A",
+        "紅61"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4097307902,
+      "name": "大灣國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.676813,
+      "lng": 120.3418163,
+      "routes": [
+        "24(假日停駛)",
+        "24A(平日停駛)",
+        "224",
+        "8502",
+        "紅61",
+        "綠2A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468124,
+      "name": "仁林路口(澄觀路二段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7026453,
+      "lng": 120.3594102,
+      "routes": [
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "綠2",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468138,
+      "name": "金鴻山金寶塔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7165429,
+      "lng": 120.3906021,
+      "routes": [
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468140,
+      "name": "古嚴寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7119861,
+      "lng": 120.3873551,
+      "routes": [
+        "8501(部分繞駛義守大學)",
+        "8502",
+        "8505",
+        "綠2A",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8406979320,
+      "name": "八德二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.700326,
+      "lng": 120.325738,
+      "routes": [
+        "紅60A",
+        "紅60B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004427,
+      "name": "京富京文街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6788433,
+      "lng": 120.3348056,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004430,
+      "name": "京吉一京吉七路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.682426,
+      "lng": 120.3426462,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.371Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004432,
+      "name": "八德東京吉六路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.68553,
+      "lng": 120.3422746,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004433,
+      "name": "京吉六八德東路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6850748,
+      "lng": 120.3421034,
+      "routes": [
+        "紅62A",
+        "紅62B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004434,
+      "name": "灣內國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6876385,
+      "lng": 120.3479943,
+      "routes": [
+        "紅62A",
+        "紅62B",
+        "綠2A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10004004436,
+      "name": "八德東名山一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6864155,
+      "lng": 120.3505733,
+      "routes": [
+        "紅62A",
+        "紅62B",
+        "綠2A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13045081000,
+      "name": "高楠社區活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6917969,
+      "lng": 120.3239581,
+      "routes": [
+        "紅50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13045123101,
+      "name": "霞海東二街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6881245,
+      "lng": 120.3230274,
+      "routes": [
+        "紅50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13045123103,
+      "name": "九番埤濕地公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6846377,
+      "lng": 120.3249961,
+      "routes": [
+        "紅50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13356930492,
+      "name": "仁光路站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6840654,
+      "lng": 120.3504128
+    },
+    {
+      "id": 13356930493,
+      "name": "仁光路站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6831784,
+      "lng": 120.3506988,
+      "routes": [
+        "8502"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13360626655,
+      "name": "慈惠公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.6747628,
+      "lng": 120.3470691,
+      "routes": [
+        "綠2A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13360666939,
+      "name": "竹後國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "仁武區",
+      "lat": 22.7105994,
+      "lng": 120.3350362,
+      "routes": [
+        "E03B燕巢快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.372Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

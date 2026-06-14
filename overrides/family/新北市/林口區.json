@@ -1,0 +1,78 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:47:18.064Z",
+  "items": [
+    {
+      "id": 4235840186,
+      "name": "南灣頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1347856,
+      "lng": 121.3625035,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.056Z"
+    },
+    {
+      "id": 4235840394,
+      "name": "林口太平濱海步道地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1346873,
+      "lng": 121.3657197,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.059Z"
+    },
+    {
+      "id": 4959456821,
+      "name": "可以看海的橋下",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1296091,
+      "lng": 121.3507972,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.060Z"
+    },
+    {
+      "id": 6720919254,
+      "name": "水牛坑大峽谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1200746,
+      "lng": 121.3194136,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.061Z"
+    },
+    {
+      "id": 9410158425,
+      "name": "林口老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.07715,
+      "lng": 121.39378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.062Z"
+    },
+    {
+      "id": 11214912774,
+      "name": "板根神木",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0733912,
+      "lng": 121.3942755,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.063Z"
+    },
+    {
+      "id": 456206409,
+      "name": "國家檔案館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.073448,
+      "lng": 121.3741145,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:47:18.064Z",
+      "address": "244013新北市林口區檔案館路1號"
+    }
+  ]
+}

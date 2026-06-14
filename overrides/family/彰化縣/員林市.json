@@ -1,0 +1,99 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:08:23.291Z",
+  "items": [
+    {
+      "id": 5061464325,
+      "name": "風口觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9409461,
+      "lng": 120.6318417,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.280Z"
+    },
+    {
+      "id": 397603851,
+      "name": "警察故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9593557,
+      "lng": 120.5741013,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.282Z",
+      "address": "510彰化縣員林市三民街14號"
+    },
+    {
+      "id": 583730703,
+      "name": "員林龍燈觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9715722,
+      "lng": 120.5680671,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.284Z"
+    },
+    {
+      "id": 728953693,
+      "name": "中央路435巷46弄",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.9411832,
+      "lng": 120.5657811,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.285Z"
+    },
+    {
+      "id": 787956936,
+      "name": "蜀葵花海",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9373395,
+      "lng": 120.5801613,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.287Z"
+    },
+    {
+      "id": 1052996331,
+      "name": "中央路435巷29弄",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.9400219,
+      "lng": 120.5664873,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.289Z"
+    },
+    {
+      "id": 1446585493,
+      "name": "歐鄉莊園商旅",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.972911,
+      "lng": 120.5656441,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.290Z"
+    },
+    {
+      "id": 1494247177,
+      "name": "中央路435巷47弄",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.9398547,
+      "lng": 120.5661924,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.290Z"
+    },
+    {
+      "id": 1509806299,
+      "name": "百果山探索樂園",
+      "facilityType": "theme_park",
+      "facilityLabel": "🎡 遊樂場",
+      "lat": 23.9463909,
+      "lng": 120.60642,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:08:23.291Z",
+      "address": "彰化縣員林市出水巷12-36號"
+    }
+  ]
+}

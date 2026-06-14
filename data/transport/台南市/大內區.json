@@ -1,0 +1,802 @@
+{
+  "city": "台南市",
+  "district": "大內區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 45,
+  "items": [
+    {
+      "id": 2982737680,
+      "name": "大內",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1181099,
+      "lng": 120.3610947,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982737682,
+      "name": "大內區公所",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1192914,
+      "lng": 120.3569142,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘2 大內→善化→胡厝寮",
+        "橘2 胡厝寮→善化→大內",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982737684,
+      "name": "大內教會",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1199135,
+      "lng": 120.3588026,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘2 大內→善化→胡厝寮",
+        "橘2 胡厝寮→善化→大內",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982737686,
+      "name": "大內口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1162302,
+      "lng": 120.3658482,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982737690,
+      "name": "後崛",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1172597,
+      "lng": 120.3717755
+    },
+    {
+      "id": 2982752860,
+      "name": "二溪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1209312,
+      "lng": 120.3942161,
+      "routes": [
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752862,
+      "name": "二溪橋頭",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1155056,
+      "lng": 120.3786744,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752864,
+      "name": "南瀛天文園區",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1187291,
+      "lng": 120.3909227,
+      "routes": [
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752866,
+      "name": "大匏崙",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.137973,
+      "lng": 120.4069312,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752868,
+      "name": "大坑橋",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.125369,
+      "lng": 120.4007418,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752870,
+      "name": "曲溪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1170002,
+      "lng": 120.3876675,
+      "routes": [
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752872,
+      "name": "走馬瀨",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1370593,
+      "lng": 120.4297981,
+      "routes": [
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2982752873,
+      "name": "走馬瀨口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1400063,
+      "lng": 120.4320468,
+      "routes": [
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304377,
+      "name": "天公廟",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1270901,
+      "lng": 120.373055
+    },
+    {
+      "id": 3092304380,
+      "name": "後崛路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1169919,
+      "lng": 120.3695713
+    },
+    {
+      "id": 3092304381,
+      "name": "環湖",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1467702,
+      "lng": 120.4189362,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304383,
+      "name": "環湖崎頂",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1510154,
+      "lng": 120.4094723
+    },
+    {
+      "id": 3092304385,
+      "name": "環湖廟口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1458558,
+      "lng": 120.4204267,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304387,
+      "name": "湖頭教會",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1473327,
+      "lng": 120.4169167,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304389,
+      "name": "秀才莊",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1349049,
+      "lng": 120.375888
+    },
+    {
+      "id": 3092304391,
+      "name": "竹宅子",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.155604,
+      "lng": 120.3924047,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304393,
+      "name": "竹湖",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1419449,
+      "lng": 120.3792099,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304395,
+      "name": "紅花園",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1514253,
+      "lng": 120.3894325,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.972Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304397,
+      "name": "頭社",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1433855,
+      "lng": 120.3866291
+    },
+    {
+      "id": 3092304399,
+      "name": "頭社路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1451888,
+      "lng": 120.3866595,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3092304401,
+      "name": "風窗",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1558384,
+      "lng": 120.4006122,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3097020438,
+      "name": "又新",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1490191,
+      "lng": 120.35019,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘2 大內→善化→胡厝寮",
+        "橘2 胡厝寮→善化→大內"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3097020444,
+      "name": "石子瀨",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1225312,
+      "lng": 120.3538269,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘2 大內→善化→胡厝寮",
+        "橘2 胡厝寮→善化→大內"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3097051995,
+      "name": "內江里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1158951,
+      "lng": 120.3619861,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3097051997,
+      "name": "大內國中",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1125699,
+      "lng": 120.3636288,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3097051999,
+      "name": "開靈宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.10633,
+      "lng": 120.3722247,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3217163664,
+      "name": "內庄朝天宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1173009,
+      "lng": 120.3626836,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685737369,
+      "name": "大內生命園區",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1161272,
+      "lng": 120.368431,
+      "routes": [
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘20 大內教會→環湖→玉井",
+        "橘20 玉井→環湖→大內教會",
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4596615556,
+      "name": "大內山莊",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1325551,
+      "lng": 120.40578,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4596615558,
+      "name": "二溪交流道",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1413107,
+      "lng": 120.4042995,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4596615559,
+      "name": "二溪交流道",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.140655,
+      "lng": 120.4051262,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8404273581,
+      "name": "二重溪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1239054,
+      "lng": 120.3981662,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所",
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8404273583,
+      "name": "二溪朝天宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.122851,
+      "lng": 120.3952134,
+      "routes": [
+        "橘幹線 玉井→佳里",
+        "橘幹線 佳里→玉井"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9053621928,
+      "name": "蒙正",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1093256,
+      "lng": 120.3680818,
+      "routes": [
+        "橘1 善化火車站→大內→蒙正",
+        "橘1 善化火車站→大內→環湖→蒙正",
+        "橘1 蒙正→大內→善化火車站"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9370263837,
+      "name": "其子瓦(舊社1)",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1231122,
+      "lng": 120.4192849,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9370274499,
+      "name": "其子瓦(新社)",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.11816,
+      "lng": 120.4147999,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12385584427,
+      "name": "環湖社區活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1475096,
+      "lng": 120.4181718,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12385584432,
+      "name": "二溪社區活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1225687,
+      "lng": 120.3927498,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12385584434,
+      "name": "二重溪北天宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1198906,
+      "lng": 120.3893423,
+      "routes": [
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.693Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12385584436,
+      "name": "曲溪社區活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "大內區",
+      "lat": 23.1185704,
+      "lng": 120.3878533,
+      "routes": [
+        "橘21 小黃 大內區公所→其子瓦→玉井站",
+        "橘21 小黃 玉井站→其子瓦→大內區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.973Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

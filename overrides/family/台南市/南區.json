@@ -1,0 +1,57 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:55:55.206Z",
+  "items": [
+    {
+      "id": 2787576062,
+      "name": "新藍晒圖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9870511,
+      "lng": 120.197366,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:55.198Z"
+    },
+    {
+      "id": 12635630927,
+      "name": "哈赫拿森林自然保留區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9763861,
+      "lng": 120.2055392,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:55.200Z"
+    },
+    {
+      "id": 114425495,
+      "name": "安平港旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.972654,
+      "lng": 120.1742077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:55.202Z"
+    },
+    {
+      "id": 777895579,
+      "name": "遊客中心暨行政辦公室",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9777823,
+      "lng": 120.2016228,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:55.204Z"
+    },
+    {
+      "id": 1254781677,
+      "name": "遊客中心 賣店",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9778002,
+      "lng": 120.2015889,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:55:55.206Z"
+    }
+  ]
+}

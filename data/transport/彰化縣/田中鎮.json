@@ -1,0 +1,695 @@
+{
+  "city": "彰化縣",
+  "district": "田中鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 38,
+  "items": [
+    {
+      "id": 290976642,
+      "name": "田中",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8583694,
+      "lng": 120.5915688
+    },
+    {
+      "id": 3738855069,
+      "name": "彰化",
+      "type": "hsr",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8741536,
+      "lng": 120.5751947,
+      "systems": [
+        "高鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.256Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4095398447,
+      "name": "高鐵彰化站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8746404,
+      "lng": 120.575135,
+      "routes": [
+        "7路",
+        "8路",
+        "15路",
+        "6673",
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6709",
+        "6735",
+        "6735A",
+        "6735B",
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095448742,
+      "name": "內三",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8431951,
+      "lng": 120.5963613,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095448747,
+      "name": "慈惠堂",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8448314,
+      "lng": 120.595334,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095448771,
+      "name": "大新",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8509939,
+      "lng": 120.5901774,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4095451028,
+      "name": "龍潭里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8651211,
+      "lng": 120.5811309,
+      "routes": [
+        "7路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648624608,
+      "name": "太平",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8744581,
+      "lng": 120.60497,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648624619,
+      "name": "輔育院",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8766452,
+      "lng": 120.6052632,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648679632,
+      "name": "北內灣",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8557918,
+      "lng": 120.6031555,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648679659,
+      "name": "姜子寮坑",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8597019,
+      "lng": 120.603759,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648679671,
+      "name": "東興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8675043,
+      "lng": 120.603099,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648686711,
+      "name": "仁愛山莊",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8535049,
+      "lng": 120.6094011,
+      "routes": [
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648686733,
+      "name": "榮民之家",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8527064,
+      "lng": 120.6059537,
+      "routes": [
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649184825,
+      "name": "建元醫院",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8532709,
+      "lng": 120.5894239,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649184873,
+      "name": "頂新庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8533096,
+      "lng": 120.5983287,
+      "routes": [
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649184874,
+      "name": "內灣",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8530428,
+      "lng": 120.6018018,
+      "routes": [
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649245511,
+      "name": "仁和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.858151,
+      "lng": 120.5880381
+    },
+    {
+      "id": 4649245513,
+      "name": "十字路",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8579894,
+      "lng": 120.586579,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6709",
+        "6735",
+        "6735A",
+        "6735B",
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649245519,
+      "name": "市場前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8595696,
+      "lng": 120.5853439,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6709",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.258Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649245521,
+      "name": "陳外科",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8626911,
+      "lng": 120.5850783,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649245523,
+      "name": "北田中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8641875,
+      "lng": 120.5857718,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4649299158,
+      "name": "泰山",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8482048,
+      "lng": 120.5923546,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652722472,
+      "name": "維力麵",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.875716,
+      "lng": 120.5873351,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652722474,
+      "name": "頂潭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8725361,
+      "lng": 120.5873605,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652722476,
+      "name": "卓乃潭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8694174,
+      "lng": 120.5874276,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304900482,
+      "name": "西外三",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8692406,
+      "lng": 120.5579379,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304900483,
+      "name": "外三",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8685661,
+      "lng": 120.5621543,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304909383,
+      "name": "十張犁",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8650843,
+      "lng": 120.5690007,
+      "routes": [
+        "8路",
+        "6709"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5379321680,
+      "name": "中新路",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8540303,
+      "lng": 120.5898938,
+      "routes": [
+        "6700",
+        "6701",
+        "6701A",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B",
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8073345250,
+      "name": "復興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.864758,
+      "lng": 120.6028378
+    },
+    {
+      "id": 11156411292,
+      "name": "田中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8600325,
+      "lng": 120.5844428,
+      "routes": [
+        "6915",
+        "6915A",
+        "6927",
+        "6928A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.259Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11156411294,
+      "name": "田中火車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8579303,
+      "lng": 120.5905697
+    },
+    {
+      "id": 12088730819,
+      "name": "公所前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8612663,
+      "lng": 120.581025,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.259Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12088730821,
+      "name": "梅州里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8631465,
+      "lng": 120.5754393,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089249751,
+      "name": "西路里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8601515,
+      "lng": 120.5837716,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12640183509,
+      "name": "大社",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8798633,
+      "lng": 120.5656908,
+      "routes": [
+        "7路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 554644066,
+      "name": "員林客運",
+      "type": "bus_station",
+      "city": "彰化縣",
+      "district": "田中鎮",
+      "lat": 23.8574176,
+      "lng": 120.5906584
+    }
+  ]
+}

@@ -1,0 +1,2037 @@
+{
+  "city": "台中市",
+  "district": "大里區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 154,
+  "items": [
+    {
+      "id": 1620237596,
+      "name": "銀聯一村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.087845,
+      "lng": 120.7294984
+    },
+    {
+      "id": 1620237693,
+      "name": "崁頂(健行路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0862948,
+      "lng": 120.73647
+    },
+    {
+      "id": 1620253209,
+      "name": "靶場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0862496,
+      "lng": 120.720412,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688058999,
+      "name": "修平科技大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0950154,
+      "lng": 120.7139402
+    },
+    {
+      "id": 3688059003,
+      "name": "光正國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0960769,
+      "lng": 120.7175741
+    },
+    {
+      "id": 3688059007,
+      "name": "鳳凰路182巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0984044,
+      "lng": 120.719814
+    },
+    {
+      "id": 3688070634,
+      "name": "仁化中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0924414,
+      "lng": 120.6916255
+    },
+    {
+      "id": 3688070635,
+      "name": "仁化中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.093104,
+      "lng": 120.6925742
+    },
+    {
+      "id": 3688070636,
+      "name": "仁化仁愛路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0959711,
+      "lng": 120.7034383
+    },
+    {
+      "id": 3688070638,
+      "name": "仁化仁城路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.095226,
+      "lng": 120.7069431
+    },
+    {
+      "id": 3688070640,
+      "name": "仁化慈德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0964991,
+      "lng": 120.6987714
+    },
+    {
+      "id": 3688070642,
+      "name": "仁化至善路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0960136,
+      "lng": 120.6953807
+    },
+    {
+      "id": 3688070644,
+      "name": "仁化里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0961454,
+      "lng": 120.7009017
+    },
+    {
+      "id": 3688070646,
+      "name": "百姓公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0943429,
+      "lng": 120.7097225
+    },
+    {
+      "id": 3688091526,
+      "name": "台電大里服務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0960426,
+      "lng": 120.6818654
+    },
+    {
+      "id": 3688091528,
+      "name": "大突寮(國中路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0953268,
+      "lng": 120.6856417,
+      "routes": [
+        "3",
+        "23",
+        "59",
+        "59延",
+        "132"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688091530,
+      "name": "市立大里高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0950578,
+      "lng": 120.678796
+    },
+    {
+      "id": 3688091532,
+      "name": "爽文大里路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0984497,
+      "lng": 120.6744221
+    },
+    {
+      "id": 3688091534,
+      "name": "爽文德芳路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1016001,
+      "lng": 120.6744785
+    },
+    {
+      "id": 3688111350,
+      "name": "大明爽文路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1148375,
+      "lng": 120.6747162,
+      "routes": [
+        "53",
+        "53區",
+        "58",
+        "58副",
+        "58區1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688111352,
+      "name": "爽文公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1053441,
+      "lng": 120.6750036,
+      "routes": [
+        "3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688111354,
+      "name": "爽文東明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1118449,
+      "lng": 120.6745194
+    },
+    {
+      "id": 3688111356,
+      "name": "爽文東榮路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1088608,
+      "lng": 120.6747688,
+      "routes": [
+        "3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688111358,
+      "name": "積善公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1147711,
+      "lng": 120.6716155
+    },
+    {
+      "id": 3696460718,
+      "name": "國光橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1159517,
+      "lng": 120.6791965
+    },
+    {
+      "id": 3732011515,
+      "name": "下內新",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1026562,
+      "lng": 120.6883474
+    },
+    {
+      "id": 3732011519,
+      "name": "中興仁化路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0914941,
+      "lng": 120.6915253
+    },
+    {
+      "id": 3732011521,
+      "name": "中興內新街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1136636,
+      "lng": 120.6898363,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "132",
+        "201",
+        "285"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011523,
+      "name": "中興大里路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1085376,
+      "lng": 120.689902
+    },
+    {
+      "id": 3732011925,
+      "name": "中興東南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0801704,
+      "lng": 120.6985341
+    },
+    {
+      "id": 3732011931,
+      "name": "纖維博物館(中興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0993325,
+      "lng": 120.6875769,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.519Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011933,
+      "name": "內新市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1109403,
+      "lng": 120.6900225,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "132",
+        "200",
+        "200跳蛙公車",
+        "285",
+        "291",
+        "6322",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.812Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011937,
+      "name": "南門橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1210586,
+      "lng": 120.6864636,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "131",
+        "132",
+        "200",
+        "901",
+        "901副",
+        "901副2",
+        "6322",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.813Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011940,
+      "name": "大突寮(中興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.097131,
+      "lng": 120.6867057,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "131",
+        "158",
+        "200",
+        "6322",
+        "6742",
+        "6742A",
+        "綠3"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.813Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011942,
+      "name": "大里圖書館(中興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0874708,
+      "lng": 120.6958658
+    },
+    {
+      "id": 3732011943,
+      "name": "大里圖書館(中興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0889493,
+      "lng": 120.6952214
+    },
+    {
+      "id": 3732011955,
+      "name": "省農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1123341,
+      "lng": 120.6898564,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "132",
+        "200",
+        "285",
+        "291",
+        "6268",
+        "6322",
+        "6742",
+        "6742A",
+        "6883C"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732011959,
+      "name": "立人高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1048859,
+      "lng": 120.6891878
+    },
+    {
+      "id": 3732012043,
+      "name": "草湖",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0835715,
+      "lng": 120.6974475
+    },
+    {
+      "id": 3732012045,
+      "name": "菩提醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.115109,
+      "lng": 120.6895798
+    },
+    {
+      "id": 3732012047,
+      "name": "菸葉廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1176305,
+      "lng": 120.6893059,
+      "routes": [
+        "107",
+        "107延",
+        "108",
+        "131",
+        "132",
+        "200",
+        "6322",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732012049,
+      "name": "財政部印刷廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0869909,
+      "lng": 120.6963462,
+      "routes": [
+        "23",
+        "50",
+        "107",
+        "107延",
+        "108",
+        "132",
+        "200",
+        "248",
+        "6268",
+        "6322",
+        "6742",
+        "6742A",
+        "6899",
+        "綠3"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3732012060,
+      "name": "青年高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0896555,
+      "lng": 120.6939369
+    },
+    {
+      "id": 3737162441,
+      "name": "健康社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.093574,
+      "lng": 120.7291681
+    },
+    {
+      "id": 3737162450,
+      "name": "和大公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0925192,
+      "lng": 120.721699,
+      "routes": [
+        "41",
+        "158",
+        "284",
+        "285",
+        "285副",
+        "286",
+        "291"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737162456,
+      "name": "大愛一村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0913995,
+      "lng": 120.7280009
+    },
+    {
+      "id": 3737162495,
+      "name": "竹仔坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.091505,
+      "lng": 120.7297341
+    },
+    {
+      "id": 3737163130,
+      "name": "車站前(仁化路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0944278,
+      "lng": 120.7160822,
+      "routes": [
+        "158",
+        "280",
+        "284",
+        "285",
+        "285副",
+        "286"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737163134,
+      "name": "金田公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0942032,
+      "lng": 120.7188562
+    },
+    {
+      "id": 3739912233,
+      "name": "竹仔坑國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0896137,
+      "lng": 120.7276814,
+      "routes": [
+        "158",
+        "285",
+        "286",
+        "291"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3739912236,
+      "name": "河川巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0867478,
+      "lng": 120.7320618,
+      "routes": [
+        "286"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.329Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391784,
+      "name": "吾友公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0979943,
+      "lng": 120.715295,
+      "routes": [
+        "7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391786,
+      "name": "宏巨社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1006704,
+      "lng": 120.7162231
+    },
+    {
+      "id": 3768391793,
+      "name": "新仁一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1110378,
+      "lng": 120.7099266,
+      "routes": [
+        "7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391798,
+      "name": "新仁五街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1116302,
+      "lng": 120.7060481,
+      "routes": [
+        "7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391800,
+      "name": "新仁永豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1112165,
+      "lng": 120.7034249,
+      "routes": [
+        "7",
+        "243"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391802,
+      "name": "新仁好來一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1102074,
+      "lng": 120.7002031
+    },
+    {
+      "id": 3768391804,
+      "name": "內新國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.112346,
+      "lng": 120.6948362,
+      "routes": [
+        "7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391806,
+      "name": "日新鐵路街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1160185,
+      "lng": 120.6922772
+    },
+    {
+      "id": 3768391808,
+      "name": "日新巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1203114,
+      "lng": 120.6926492,
+      "routes": [
+        "7"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391810,
+      "name": "大智喬城路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1235364,
+      "lng": 120.690384,
+      "routes": [
+        "7",
+        "18",
+        "19"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.818Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3864348757,
+      "name": "國光東興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1136077,
+      "lng": 120.6789481
+    },
+    {
+      "id": 3864678931,
+      "name": "大明國光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1150436,
+      "lng": 120.6783132
+    },
+    {
+      "id": 3866385093,
+      "name": "大明益民路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1151294,
+      "lng": 120.6834992
+    },
+    {
+      "id": 3880456722,
+      "name": "國光花市",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1030916,
+      "lng": 120.6818656
+    },
+    {
+      "id": 3880460938,
+      "name": "大里仁愛醫院(國光路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1097001,
+      "lng": 120.6798787
+    },
+    {
+      "id": 3918615044,
+      "name": "崇光國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1135461,
+      "lng": 120.6839491
+    },
+    {
+      "id": 3926911449,
+      "name": "大里仁愛醫院(國光路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1084489,
+      "lng": 120.6799322
+    },
+    {
+      "id": 3993328762,
+      "name": "興大附中(益民路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1088941,
+      "lng": 120.683882,
+      "routes": [
+        "53",
+        "53區",
+        "131"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3993527758,
+      "name": "益民國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1066029,
+      "lng": 120.6878943,
+      "routes": [
+        "131",
+        "285副",
+        "綠3"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.820Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4025364797,
+      "name": "進士公園(樹王路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1024643,
+      "lng": 120.675534,
+      "routes": [
+        "39"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4025366946,
+      "name": "大里農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1007352,
+      "lng": 120.6769251
+    },
+    {
+      "id": 4034656813,
+      "name": "大里運動公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.099915,
+      "lng": 120.6828265,
+      "routes": [
+        "50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4034656817,
+      "name": "國光中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0958064,
+      "lng": 120.6859154,
+      "routes": [
+        "50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4034656818,
+      "name": "國光中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0966912,
+      "lng": 120.6852884,
+      "routes": [
+        "50"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4034656819,
+      "name": "國光德芳路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1050909,
+      "lng": 120.6809331
+    },
+    {
+      "id": 4597591615,
+      "name": "國光大里路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1007896,
+      "lng": 120.6822203
+    },
+    {
+      "id": 4597591620,
+      "name": "德芳中投路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1020701,
+      "lng": 120.6720289,
+      "routes": [
+        "133"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597591621,
+      "name": "文心南路1273巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1040998,
+      "lng": 120.6691603,
+      "routes": [
+        "133"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597591623,
+      "name": "清海化學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1067611,
+      "lng": 120.664744
+    },
+    {
+      "id": 4597591625,
+      "name": "萬安",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1085679,
+      "lng": 120.6628222,
+      "routes": [
+        "133"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.330Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597591627,
+      "name": "文心南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1021055,
+      "lng": 120.6709989,
+      "routes": [
+        "6268A",
+        "6268F",
+        "6268G",
+        "6268H",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333E",
+        "6333F",
+        "6899A",
+        "6899D"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.821Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597673289,
+      "name": "下塗城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0880995,
+      "lng": 120.7028582,
+      "routes": [
+        "131",
+        "133"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597673291,
+      "name": "塗城龍城街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0886896,
+      "lng": 120.7010645,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597673293,
+      "name": "泰興社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0892319,
+      "lng": 120.699323
+    },
+    {
+      "id": 4597673295,
+      "name": "成功社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0903044,
+      "lng": 120.6971967,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597673297,
+      "name": "塗城市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0909998,
+      "lng": 120.6952588,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597673299,
+      "name": "塗城中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0907299,
+      "lng": 120.6934212,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597835189,
+      "name": "十全藥局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0863218,
+      "lng": 120.7099005,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597835191,
+      "name": "統一化學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0871764,
+      "lng": 120.7073615,
+      "routes": [
+        "131",
+        "133"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597835193,
+      "name": "竹圍(塗城路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0879171,
+      "lng": 120.7050099,
+      "routes": [
+        "131",
+        "133"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597935815,
+      "name": "大庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0861254,
+      "lng": 120.7151666,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4597935817,
+      "name": "頂塗城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0860017,
+      "lng": 120.712536,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599719185,
+      "name": "德芳兒童公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1037907,
+      "lng": 120.6844522,
+      "routes": [
+        "133",
+        "291"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599719186,
+      "name": "德芳兒童公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1039792,
+      "lng": 120.6833338,
+      "routes": [
+        "133",
+        "291"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599720302,
+      "name": "十九甲健康公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0998754,
+      "lng": 120.6951473
+    },
+    {
+      "id": 4599720304,
+      "name": "大元國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1009521,
+      "lng": 120.6894724
+    },
+    {
+      "id": 4599751641,
+      "name": "頂大里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1042432,
+      "lng": 120.6737486,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599751643,
+      "name": "大里國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0994341,
+      "lng": 120.6771664
+    },
+    {
+      "id": 4599773964,
+      "name": "新興橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1118344,
+      "lng": 120.6661023,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599773973,
+      "name": "樹王里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1080946,
+      "lng": 120.6680863,
+      "routes": [
+        "281",
+        "281延",
+        "281副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.821Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4599773977,
+      "name": "樹王福德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1089802,
+      "lng": 120.6665219
+    },
+    {
+      "id": 4678944315,
+      "name": "環保公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1041605,
+      "lng": 120.678152
+    },
+    {
+      "id": 4854225466,
+      "name": "成功",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0890563,
+      "lng": 120.7028664
+    },
+    {
+      "id": 4854225468,
+      "name": "成功二吉祥街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0940256,
+      "lng": 120.7038635
+    },
+    {
+      "id": 4916634541,
+      "name": "大智益民路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1192262,
+      "lng": 120.68568,
+      "routes": [
+        "19",
+        "901",
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.822Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5548381818,
+      "name": "仁化垂統街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0890575,
+      "lng": 120.6901655
+    },
+    {
+      "id": 5548382521,
+      "name": "仁化中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0910213,
+      "lng": 120.6908226,
+      "routes": [
+        "59",
+        "59延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.331Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5548404138,
+      "name": "大峰西湖路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.077715,
+      "lng": 120.6893045,
+      "routes": [
+        "59",
+        "59延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.332Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5548404140,
+      "name": "大峰景庄街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0823642,
+      "lng": 120.6881053
+    },
+    {
+      "id": 5548404141,
+      "name": "大峰長春路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0852376,
+      "lng": 120.6879432
+    },
+    {
+      "id": 5616981241,
+      "name": "樹王",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0968892,
+      "lng": 120.6645316,
+      "routes": [
+        "39",
+        "281",
+        "281延",
+        "281副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.822Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5616981243,
+      "name": "理想大地社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0975294,
+      "lng": 120.6735197
+    },
+    {
+      "id": 5616981245,
+      "name": "大里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0978404,
+      "lng": 120.6770495
+    },
+    {
+      "id": 8263776157,
+      "name": "大智中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.119329,
+      "lng": 120.6879854,
+      "routes": [
+        "19",
+        "901",
+        "901副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.332Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8304901549,
+      "name": "興大附中(益民路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1099363,
+      "lng": 120.6839277
+    },
+    {
+      "id": 8304901550,
+      "name": "益民德芳路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1069458,
+      "lng": 120.6853225
+    },
+    {
+      "id": 8475778139,
+      "name": "東里國中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0957637,
+      "lng": 120.6794695
+    },
+    {
+      "id": 8475778141,
+      "name": "大新停車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.099408,
+      "lng": 120.6795064,
+      "routes": [
+        "23",
+        "59",
+        "132",
+        "283"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.823Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9608313634,
+      "name": "美群國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0842368,
+      "lng": 120.7086173
+    },
+    {
+      "id": 9627284343,
+      "name": "仁化工業區服務中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0919517,
+      "lng": 120.7234624,
+      "routes": [
+        "41",
+        "158",
+        "284",
+        "285",
+        "285副",
+        "286",
+        "291"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.823Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649514783,
+      "name": "文山農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0844565,
+      "lng": 120.7237655,
+      "routes": [
+        "131",
+        "158",
+        "291"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.823Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649514785,
+      "name": "大明高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1151694,
+      "lng": 120.6847018,
+      "routes": [
+        "131",
+        "285"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.332Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649514787,
+      "name": "菩提仁愛之家(大明路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1154433,
+      "lng": 120.6890986,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.332Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9652202986,
+      "name": "僑泰中學(五權南一路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.112599,
+      "lng": 120.6681733,
+      "routes": [
+        "3",
+        "35",
+        "58",
+        "58副",
+        "73"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.824Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9653971987,
+      "name": "大里公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1100757,
+      "lng": 120.6878881
+    },
+    {
+      "id": 9653971989,
+      "name": "大里地政事務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1104465,
+      "lng": 120.6856228
+    },
+    {
+      "id": 9655677656,
+      "name": "大里國光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1006264,
+      "lng": 120.682862,
+      "routes": [
+        "132"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.332Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9806102371,
+      "name": "德芳南中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1024081,
+      "lng": 120.6867543,
+      "routes": [
+        "133",
+        "291"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123534,
+      "name": "新興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1117009,
+      "lng": 120.6932267
+    },
+    {
+      "id": 10270123536,
+      "name": "立仁路57巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1081229,
+      "lng": 120.7032073,
+      "routes": [
+        "285副",
+        "291"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123538,
+      "name": "立仁路157巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1058503,
+      "lng": 120.7043733,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123540,
+      "name": "立元立仁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1046392,
+      "lng": 120.7061524,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123542,
+      "name": "公教街209巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1079219,
+      "lng": 120.7109055,
+      "routes": [
+        "291"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270123552,
+      "name": "國中路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0891114,
+      "lng": 120.6721842
+    },
+    {
+      "id": 10270123554,
+      "name": "夏田社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.087,
+      "lng": 120.6691976
+    },
+    {
+      "id": 10270123556,
+      "name": "夏田活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0857784,
+      "lng": 120.6687903
+    },
+    {
+      "id": 10270123558,
+      "name": "頂厝夏田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0857828,
+      "lng": 120.6713236
+    },
+    {
+      "id": 10270126143,
+      "name": "瓦瑤",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0972381,
+      "lng": 120.6697174
+    },
+    {
+      "id": 10270126145,
+      "name": "下涼傘樹",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1073777,
+      "lng": 120.670036,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126147,
+      "name": "瑞城中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0824409,
+      "lng": 120.6992048
+    },
+    {
+      "id": 10270126149,
+      "name": "瑞城國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.08591,
+      "lng": 120.7019333
+    },
+    {
+      "id": 10270126151,
+      "name": "成功國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0941771,
+      "lng": 120.6990424
+    },
+    {
+      "id": 10270126153,
+      "name": "甲堤南甲堤六街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1073241,
+      "lng": 120.6971174,
+      "routes": [
+        "243"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.333Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126154,
+      "name": "甲堤南新甲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.102693,
+      "lng": 120.6952878
+    },
+    {
+      "id": 10270126156,
+      "name": "甲堤2(甲堤十街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1088081,
+      "lng": 120.6979547
+    },
+    {
+      "id": 10271072915,
+      "name": "立新國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1052971,
+      "lng": 120.6997479
+    },
+    {
+      "id": 10271072916,
+      "name": "立新國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1058399,
+      "lng": 120.6988105,
+      "routes": [
+        "39"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.998Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10271072917,
+      "name": "立新國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1043854,
+      "lng": 120.6979539
+    },
+    {
+      "id": 10271072919,
+      "name": "立中街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1012918,
+      "lng": 120.6973188
+    },
+    {
+      "id": 10271072921,
+      "name": "健康公園(立元路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.0996454,
+      "lng": 120.6959806
+    },
+    {
+      "id": 12089239726,
+      "name": "立元路停車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.101011,
+      "lng": 120.6980571,
+      "routes": [
+        "285副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.824Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089239728,
+      "name": "立仁四立元路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1030469,
+      "lng": 120.7008746,
+      "routes": [
+        "285副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.824Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089239730,
+      "name": "益民新仁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大里區",
+      "lat": 24.1110791,
+      "lng": 120.6947633
+    }
+  ]
+}

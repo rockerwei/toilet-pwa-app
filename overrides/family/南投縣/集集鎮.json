@@ -1,0 +1,110 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:34:56.985Z",
+  "items": [
+    {
+      "id": 2962633123,
+      "name": "集集攔河堰水資源館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.8208877,
+      "lng": 120.7650092,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.973Z"
+    },
+    {
+      "id": 3256380644,
+      "name": "集集山蕉歷史文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.8286557,
+      "lng": 120.7994486,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.975Z",
+      "address": "552南投縣集集鎮民生東路70號"
+    },
+    {
+      "id": 3995131153,
+      "name": "十三目仔窯看火車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8274914,
+      "lng": 120.7712348,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.977Z"
+    },
+    {
+      "id": 5436383322,
+      "name": "開闢鴻荒石碣",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8200427,
+      "lng": 120.7633904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.978Z"
+    },
+    {
+      "id": 6040701525,
+      "name": "化及蠻貊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8263526,
+      "lng": 120.8073253,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.980Z"
+    },
+    {
+      "id": 10925738607,
+      "name": "集集綠色隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8309582,
+      "lng": 120.7580869,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.981Z",
+      "address": "南投縣集集區楓林巷"
+    },
+    {
+      "id": 197013976,
+      "name": "遊客服務站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.82693,
+      "lng": 120.7999266,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.982Z"
+    },
+    {
+      "id": 197021857,
+      "name": "集集車站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8264708,
+      "lng": 120.7848609,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.983Z"
+    },
+    {
+      "id": 568380037,
+      "name": "左手香故事館園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8276871,
+      "lng": 120.7714161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.984Z"
+    },
+    {
+      "id": 4443051,
+      "name": "保育教育館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.8279572,
+      "lng": 120.8003102,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:34:56.984Z",
+      "address": "552南投縣集集鎮民生東路1號"
+    }
+  ]
+}

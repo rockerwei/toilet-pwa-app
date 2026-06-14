@@ -1,0 +1,58 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:11:24.014Z",
+  "items": [
+    {
+      "id": 11772634547,
+      "name": "大林自行車道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.6159005,
+      "lng": 120.4529983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:11:24.006Z"
+    },
+    {
+      "id": 11772634552,
+      "name": "大林糖廠空襲疏散方向圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.6127576,
+      "lng": 120.4560833,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:11:24.009Z"
+    },
+    {
+      "id": 1084173436,
+      "name": "佐登妮絲城堡生技園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5845127,
+      "lng": 120.5068486,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:11:24.011Z",
+      "address": "嘉義縣大林鎮大埔美園區三路15號"
+    },
+    {
+      "id": 1474352467,
+      "name": "COFFEELAND 極品莊園咖啡",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.6243915,
+      "lng": 120.4669775,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:11:24.012Z"
+    },
+    {
+      "id": 1484851334,
+      "name": "蓋婭莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.5932579,
+      "lng": 120.5255918,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:11:24.014Z"
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "city": "高雄市",
+  "district": "阿蓮區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 36,
+  "items": [
+    {
+      "id": 3087343752,
+      "name": "忠孝路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8802032,
+      "lng": 120.3321742,
+      "routes": [
+        "紅13 小黃 關廟→阿蓮",
+        "紅13 關廟→阿蓮"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3087343754,
+      "name": "民眾服務社",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8829452,
+      "lng": 120.3324277,
+      "routes": [
+        "紅13 小黃 阿蓮→關廟",
+        "紅13 小黃 關廟→阿蓮",
+        "紅13 阿蓮→關廟",
+        "紅13 關廟→阿蓮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.516Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3087343756,
+      "name": "後寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.886963,
+      "lng": 120.3345516,
+      "routes": [
+        "紅13 小黃 阿蓮→關廟",
+        "紅13 小黃 關廟→阿蓮",
+        "紅13 阿蓮→關廟",
+        "紅13 關廟→阿蓮"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.516Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3087343758,
+      "name": "阿蓮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8789536,
+      "lng": 120.3301258,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅13 小黃 阿蓮→關廟",
+        "紅13 小黃 關廟→阿蓮",
+        "紅13 阿蓮→關廟",
+        "紅13 關廟→阿蓮",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698624,
+      "name": "阿蓮中正路(和平路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.880628,
+      "lng": 120.3329651,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698628,
+      "name": "南崗山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.878133,
+      "lng": 120.3499459,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698632,
+      "name": "大埤",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8803603,
+      "lng": 120.346293,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698634,
+      "name": "峰山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8760769,
+      "lng": 120.353404,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698643,
+      "name": "崗山頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.874565,
+      "lng": 120.3559603,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698647,
+      "name": "工業區(阿蓮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8812297,
+      "lng": 120.3372244,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698653,
+      "name": "源勝社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8815891,
+      "lng": 120.3394746,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698759,
+      "name": "磚子窯",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8815718,
+      "lng": 120.3421745,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698765,
+      "name": "阿蓮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.879034,
+      "lng": 120.3312724,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅13 小黃 阿蓮→關廟",
+        "紅13 小黃 關廟→阿蓮",
+        "紅13 阿蓮→關廟",
+        "紅13 關廟→阿蓮",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698767,
+      "name": "阿蓮分駐所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8788578,
+      "lng": 120.3293296,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅73A",
+        "紅73C",
+        "T603B(每周二、四、五預約)",
+        "T603C(每周二、四、五預約)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.517Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424201,
+      "name": "田厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8374013,
+      "lng": 120.3178039,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477782,
+      "name": "阿蓮中山路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8774346,
+      "lng": 120.3277703,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477784,
+      "name": "中甲路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8668388,
+      "lng": 120.3237583,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477786,
+      "name": "九鬮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8504605,
+      "lng": 120.3246982,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477788,
+      "name": "光德寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8713606,
+      "lng": 120.3253572,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477790,
+      "name": "南蓮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8751032,
+      "lng": 120.3269294,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477792,
+      "name": "土庫(阿蓮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8421667,
+      "lng": 120.3203916,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477794,
+      "name": "埤子尾(中山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8597624,
+      "lng": 120.324449,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477800,
+      "name": "復安國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8487512,
+      "lng": 120.3242238,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477806,
+      "name": "瓦窯",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8460948,
+      "lng": 120.3235275,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278010,
+      "name": "中路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8938256,
+      "lng": 120.2935297,
+      "routes": [
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278012,
+      "name": "中路國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8943951,
+      "lng": 120.2988887,
+      "routes": [
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278014,
+      "name": "中路里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8891221,
+      "lng": 120.2929249,
+      "routes": [
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278016,
+      "name": "石安里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8937323,
+      "lng": 120.3083851,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278018,
+      "name": "社尾路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8917329,
+      "lng": 120.3151482,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278020,
+      "name": "社頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8895038,
+      "lng": 120.3224629,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278022,
+      "name": "蘇家古厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8938254,
+      "lng": 120.3103904,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278024,
+      "name": "阿蓮區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8834809,
+      "lng": 120.3268685,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278026,
+      "name": "阿蓮農會(中路分部)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8950125,
+      "lng": 120.2945428,
+      "routes": [
+        "紅73A",
+        "紅73C",
+        "T605(每週三預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912278028,
+      "name": "青旗里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8909494,
+      "lng": 120.317473
+    },
+    {
+      "id": 3912278030,
+      "name": "頂厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8909012,
+      "lng": 120.3210153,
+      "routes": [
+        "8042(假日延駛台南機場)",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.518Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5344481640,
+      "name": "崙仔頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "阿蓮區",
+      "lat": 22.8790591,
+      "lng": 120.3132105
+    }
+  ]
+}

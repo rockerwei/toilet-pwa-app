@@ -1,0 +1,531 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:20:46.302Z",
+  "items": [
+    {
+      "id": 1762782473,
+      "name": "立川漁場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8645079,
+      "lng": 121.5221058,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.261Z"
+    },
+    {
+      "id": 1762782476,
+      "name": "雲山水",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8277141,
+      "lng": 121.5136457,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.264Z"
+    },
+    {
+      "id": 2915880399,
+      "name": "樹湖第二瀑",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.846512,
+      "lng": 121.4612689,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.266Z"
+    },
+    {
+      "id": 3227509100,
+      "name": "鯉魚潭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.934905,
+      "lng": 121.507544,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.268Z"
+    },
+    {
+      "id": 3837315660,
+      "name": "鯉魚潭環潭步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9293841,
+      "lng": 121.5059969,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.269Z"
+    },
+    {
+      "id": 3904165311,
+      "name": "葛莉絲莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.8589549,
+      "lng": 121.4931643,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.271Z"
+    },
+    {
+      "id": 4592200871,
+      "name": "鯉魚山遠眺步道志學入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9314217,
+      "lng": 121.5238491,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.273Z"
+    },
+    {
+      "id": 4592304505,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.812901,
+      "lng": 121.543631,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.274Z"
+    },
+    {
+      "id": 4592318758,
+      "name": "月眉山步道北入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8433944,
+      "lng": 121.556747,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.275Z"
+    },
+    {
+      "id": 4592319411,
+      "name": "月眉山步道南入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.81275,
+      "lng": 121.5416438,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.276Z"
+    },
+    {
+      "id": 4855740766,
+      "name": "花蓮2",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8790257,
+      "lng": 121.5138821,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.277Z"
+    },
+    {
+      "id": 5366399727,
+      "name": "七七高地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9328018,
+      "lng": 121.6076758,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.277Z"
+    },
+    {
+      "id": 5593911644,
+      "name": "吉卡曙岸部落牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.8814688,
+      "lng": 121.5145823,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.278Z"
+    },
+    {
+      "id": 7193316569,
+      "name": "跳石",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8268086,
+      "lng": 121.5161124,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.279Z"
+    },
+    {
+      "id": 9481467581,
+      "name": "薩爾茲堡莊園民宿",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.8682372,
+      "lng": 121.55994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.280Z",
+      "address": "974花蓮縣壽豐鄉月眉路三段127號"
+    },
+    {
+      "id": 9577571125,
+      "name": "觀景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8482435,
+      "lng": 121.4494484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.280Z"
+    },
+    {
+      "id": 9896485117,
+      "name": "花蓮-海涯谷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9102343,
+      "lng": 121.603432,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.281Z"
+    },
+    {
+      "id": 11413796469,
+      "name": "0k+500",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9373671,
+      "lng": 121.5115648,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.281Z"
+    },
+    {
+      "id": 11413807169,
+      "name": "1k+000",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9332265,
+      "lng": 121.5126181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.282Z"
+    },
+    {
+      "id": 11413826570,
+      "name": "1k+500",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9295824,
+      "lng": 121.5146386,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.283Z"
+    },
+    {
+      "id": 11413848669,
+      "name": "2k+000",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9260116,
+      "lng": 121.5140647,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.283Z"
+    },
+    {
+      "id": 11413855969,
+      "name": "2k+500",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9233483,
+      "lng": 121.5115896,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.284Z"
+    },
+    {
+      "id": 11413865469,
+      "name": "3k+000",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9227373,
+      "lng": 121.5080593,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.285Z"
+    },
+    {
+      "id": 11413899371,
+      "name": "1k",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9212511,
+      "lng": 121.5091789,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.285Z"
+    },
+    {
+      "id": 11413901269,
+      "name": "0k+800",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.919807,
+      "lng": 121.5094968,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.286Z"
+    },
+    {
+      "id": 11413923469,
+      "name": "0k+400",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9186574,
+      "lng": 121.5124612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.286Z"
+    },
+    {
+      "id": 11413923569,
+      "name": "0k+200",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9178931,
+      "lng": 121.5142098,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.287Z"
+    },
+    {
+      "id": 11413943170,
+      "name": "2k+800",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9180258,
+      "lng": 121.5209756,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.287Z"
+    },
+    {
+      "id": 11413984969,
+      "name": "2k+600",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9194888,
+      "lng": 121.5210368,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.288Z"
+    },
+    {
+      "id": 11413984970,
+      "name": "2k+200",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9216329,
+      "lng": 121.5226164,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.288Z"
+    },
+    {
+      "id": 11413984971,
+      "name": "2k+000",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9233052,
+      "lng": 121.5225827,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.289Z"
+    },
+    {
+      "id": 11413984972,
+      "name": "0k+400",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9230483,
+      "lng": 121.5216169,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.290Z"
+    },
+    {
+      "id": 11413989869,
+      "name": "2k+800",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9251787,
+      "lng": 121.5211809,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.290Z"
+    },
+    {
+      "id": 11413993569,
+      "name": "1k+000",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9259844,
+      "lng": 121.5204919,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.291Z"
+    },
+    {
+      "id": 11414002469,
+      "name": "1k+400",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9263986,
+      "lng": 121.5180648,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.292Z"
+    },
+    {
+      "id": 11414109969,
+      "name": "1 k+800",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9278918,
+      "lng": 121.5161566,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.292Z"
+    },
+    {
+      "id": 11419768669,
+      "name": "高架步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9214682,
+      "lng": 121.5126235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.293Z"
+    },
+    {
+      "id": 11419768769,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9221453,
+      "lng": 121.5100957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.293Z"
+    },
+    {
+      "id": 465861486,
+      "name": "花蓮遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9045516,
+      "lng": 121.6023737,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.294Z",
+      "address": "974花蓮縣壽豐鄉大坑5號"
+    },
+    {
+      "id": 467356484,
+      "name": "晴空纜車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9011303,
+      "lng": 121.601233,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.294Z"
+    },
+    {
+      "id": 574920210,
+      "name": "臻晴莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.8802827,
+      "lng": 121.532379,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.295Z"
+    },
+    {
+      "id": 808458676,
+      "name": "鯉魚潭遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.935239,
+      "lng": 121.5080141,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.296Z"
+    },
+    {
+      "id": 840605422,
+      "name": "a2水岸園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8662181,
+      "lng": 121.5312545,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.296Z",
+      "address": "花蓮縣壽豐鄉共和村1鄰豐坪路三段267號"
+    },
+    {
+      "id": 1134057108,
+      "name": "花蓮遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9045377,
+      "lng": 121.6020985,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.297Z",
+      "address": "974花蓮縣壽豐鄉大坑5號"
+    },
+    {
+      "id": 1134057111,
+      "name": "水獺館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9002244,
+      "lng": 121.6026698,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.297Z"
+    },
+    {
+      "id": 1134057113,
+      "name": "海盜大驚航",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9007394,
+      "lng": 121.6012803,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.298Z"
+    },
+    {
+      "id": 1134057134,
+      "name": "愛情摩天輪",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9003942,
+      "lng": 121.6020065,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.299Z"
+    },
+    {
+      "id": 3534842,
+      "name": "池南國家森林遊樂區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.9180504,
+      "lng": 121.5011939,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.299Z"
+    },
+    {
+      "id": 7022541,
+      "name": "水璉野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.8041865,
+      "lng": 121.5730904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.300Z"
+    },
+    {
+      "id": 7075258,
+      "name": "水璉南自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.7523976,
+      "lng": 121.563541,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.301Z"
+    },
+    {
+      "id": 7075261,
+      "name": "花東沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3605493,
+      "lng": 121.3802612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.301Z"
+    },
+    {
+      "id": 7075262,
+      "name": "花蓮溪口自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.9257681,
+      "lng": 121.6082095,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:20:46.302Z"
+    }
+  ]
+}

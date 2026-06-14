@@ -1,0 +1,652 @@
+{
+  "city": "台東縣",
+  "district": "太麻里鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 36,
+  "items": [
+    {
+      "id": 945711003,
+      "name": "瀧溪",
+      "type": "train",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.4609113,
+      "lng": 120.9420192
+    },
+    {
+      "id": 945711032,
+      "name": "太麻里",
+      "type": "train",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6189626,
+      "lng": 121.004692
+    },
+    {
+      "id": 945711105,
+      "name": "金崙",
+      "type": "train",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5313295,
+      "lng": 120.967496
+    },
+    {
+      "id": 3174099109,
+      "name": "大王國中",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6148018,
+      "lng": 121.0077412,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099110,
+      "name": "太麻里",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6105832,
+      "lng": 121.0052664,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099111,
+      "name": "金峰入口",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6058659,
+      "lng": 121.0028945,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099112,
+      "name": "德其里",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6033473,
+      "lng": 121.000953,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099113,
+      "name": "南太麻里橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5969269,
+      "lng": 120.9939888,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099114,
+      "name": "舊香蘭",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5868892,
+      "lng": 120.9946879,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099115,
+      "name": "香蘭",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5753786,
+      "lng": 120.9900627,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174099116,
+      "name": "金崙",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5331626,
+      "lng": 120.9635231,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174100357,
+      "name": "多良",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5070589,
+      "lng": 120.9590522,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8158"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174100358,
+      "name": "大溪",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.4616507,
+      "lng": 120.9395317,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3175062123,
+      "name": "知本溫泉",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.692963,
+      "lng": 121.0203215,
+      "routes": [
+        "8129",
+        "8131",
+        "8131A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3175062124,
+      "name": "白玉瀑布",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6922701,
+      "lng": 121.01599,
+      "routes": [
+        "8129"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3175062125,
+      "name": "清覺寺",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6937835,
+      "lng": 121.0047745,
+      "routes": [
+        "8129"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3175062126,
+      "name": "泓泉飯店",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6908458,
+      "lng": 121.0001319,
+      "routes": [
+        "8129"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3175062127,
+      "name": "東台飯店",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6911819,
+      "lng": 120.9964319,
+      "routes": [
+        "8129"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182020,
+      "name": "北荒野",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.697963,
+      "lng": 121.0424879,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182021,
+      "name": "荒野",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.693079,
+      "lng": 121.0458616,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182022,
+      "name": "美和",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6849086,
+      "lng": 121.0436243,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182023,
+      "name": "三和A",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6753768,
+      "lng": 121.0405528,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182024,
+      "name": "三和B",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6710442,
+      "lng": 121.0363695
+    },
+    {
+      "id": 3179182025,
+      "name": "華源",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6628879,
+      "lng": 121.0287564,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182026,
+      "name": "南坑",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6470586,
+      "lng": 121.0191544,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182027,
+      "name": "新吉村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6408379,
+      "lng": 121.0165845,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182028,
+      "name": "北里村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6222894,
+      "lng": 121.0108156,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151",
+        "8151A",
+        "8152A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182030,
+      "name": "試驗所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5992654,
+      "lng": 120.9811265,
+      "routes": [
+        "8150"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3179182031,
+      "name": "麻利霧",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5965033,
+      "lng": 120.9764843
+    },
+    {
+      "id": 3256787832,
+      "name": "賓茂國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5327155,
+      "lng": 120.9553067,
+      "routes": [
+        "8138"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256787833,
+      "name": "賓茂3號橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5305157,
+      "lng": 120.9423953,
+      "routes": [
+        "8138"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256787834,
+      "name": "金崙溫泉",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.5301487,
+      "lng": 120.940192,
+      "routes": [
+        "8138"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5314674321,
+      "name": "大溪站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.4618992,
+      "lng": 120.9397747,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.264Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779825719,
+      "name": "三和村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6711239,
+      "lng": 121.0369978,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8138",
+        "8150",
+        "8151A",
+        "8152A",
+        "8153"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779825729,
+      "name": "荒野",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6945979,
+      "lng": 121.0456746
+    },
+    {
+      "id": 5915583487,
+      "name": "太麻里火車站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "太麻里鄉",
+      "lat": 22.6186336,
+      "lng": 121.0050143
+    }
+  ]
+}

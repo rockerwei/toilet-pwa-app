@@ -1,0 +1,207 @@
+{
+  "city": "彰化縣",
+  "district": "線西鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 12,
+  "items": [
+    {
+      "id": 4754063016,
+      "name": "灰磘前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1216488,
+      "lng": 120.4576802,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754073019,
+      "name": "口厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1353642,
+      "lng": 120.4636368,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754078726,
+      "name": "寓埔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1322965,
+      "lng": 120.4623614,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754078731,
+      "name": "溝內路",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1276187,
+      "lng": 120.4599514,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754078733,
+      "name": "塭子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1253544,
+      "lng": 120.4590877,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754085637,
+      "name": "頂見口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1425283,
+      "lng": 120.4670312,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.269Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973044448,
+      "name": "線西",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1307299,
+      "lng": 120.4709418,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973044451,
+      "name": "東正紡織",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1284265,
+      "lng": 120.4710826,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973044457,
+      "name": "頂犁",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.122915,
+      "lng": 120.4781704,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973044459,
+      "name": "山寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1203936,
+      "lng": 120.481326,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973087063,
+      "name": "線西國中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1320872,
+      "lng": 120.4696476,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973087071,
+      "name": "下見口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "線西鄉",
+      "lat": 24.1341789,
+      "lng": 120.4665323,
+      "routes": [
+        "6904"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.955Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

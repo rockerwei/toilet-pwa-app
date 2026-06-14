@@ -1,0 +1,37 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:36:47.743Z",
+  "items": [
+    {
+      "id": 2852903096,
+      "name": "瞭望台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0320763,
+      "lng": 121.4055892,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:36:47.739Z"
+    },
+    {
+      "id": 2969976125,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0314475,
+      "lng": 121.4067614,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:36:47.741Z"
+    },
+    {
+      "id": 5403178784,
+      "name": "米市巷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0337377,
+      "lng": 121.45135,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:36:47.743Z"
+    }
+  ]
+}

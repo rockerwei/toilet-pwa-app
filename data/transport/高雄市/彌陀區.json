@@ -1,0 +1,457 @@
+{
+  "city": "高雄市",
+  "district": "彌陀區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 27,
+  "items": [
+    {
+      "id": 2617434046,
+      "name": "南安國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.764473,
+      "lng": 120.2432923,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.442Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434060,
+      "name": "四維路(漯底)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7628178,
+      "lng": 120.2496963,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.442Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099955,
+      "name": "二高",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.773868,
+      "lng": 120.2543588,
+      "routes": [
+        "8021",
+        "8043",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.442Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099968,
+      "name": "分歧站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7703535,
+      "lng": 120.2580318,
+      "routes": [
+        "8021",
+        "8043",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099970,
+      "name": "彌陀區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7793347,
+      "lng": 120.2498197
+    },
+    {
+      "id": 2973099971,
+      "name": "彌陀區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7805201,
+      "lng": 120.249354,
+      "routes": [
+        "8021",
+        "8043",
+        "紅75",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099972,
+      "name": "彌陀國中(中正南路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7775815,
+      "lng": 120.2507726,
+      "routes": [
+        "8021",
+        "8043",
+        "紅75",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099974,
+      "name": "彌陀國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7841262,
+      "lng": 120.2480389,
+      "routes": [
+        "8021",
+        "8043",
+        "紅75",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922207,
+      "name": "中正西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7824481,
+      "lng": 120.2468365,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049697,
+      "name": "光和北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7840366,
+      "lng": 120.2429537,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049699,
+      "name": "光和路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7831696,
+      "lng": 120.2434786,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049713,
+      "name": "安樂宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7880995,
+      "lng": 120.2429886,
+      "routes": [
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049720,
+      "name": "樂善宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7860033,
+      "lng": 120.243187,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071760,
+      "name": "壽齡國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7952807,
+      "lng": 120.2334721,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071768,
+      "name": "文安路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7939448,
+      "lng": 120.2375361,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071770,
+      "name": "文安路東段",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7943038,
+      "lng": 120.2398266,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071779,
+      "name": "舊港路派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7992885,
+      "lng": 120.2310582,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071781,
+      "name": "舊港路東段",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7964486,
+      "lng": 120.2315019,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.249Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071783,
+      "name": "鹽埕",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.787276,
+      "lng": 120.2467874,
+      "routes": [
+        "8043",
+        "紅76"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071785,
+      "name": "鹽埕中路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7886497,
+      "lng": 120.2456765,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922196,
+      "name": "南寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7602287,
+      "lng": 120.2368335,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922197,
+      "name": "南天宮(彌陀)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7606914,
+      "lng": 120.2388201,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922199,
+      "name": "頂厝(彌陀)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7654231,
+      "lng": 120.2434029,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922201,
+      "name": "漯底路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.769055,
+      "lng": 120.2448744,
+      "routes": [
+        "紅75",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922203,
+      "name": "彌陀國中(進學路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.776137,
+      "lng": 120.2467512,
+      "routes": [
+        "紅75",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922205,
+      "name": "彌壽宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7784963,
+      "lng": 120.2472871,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8420506739,
+      "name": "探索體驗學園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "彌陀區",
+      "lat": 22.7729479,
+      "lng": 120.2556919,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.443Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:32:24.071Z",
+  "items": [
+    {
+      "id": 4768866321,
+      "name": "新港社地方文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.0917679,
+      "lng": 120.2673895,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:32:24.068Z"
+    },
+    {
+      "id": 218556459,
+      "name": "服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.1038516,
+      "lng": 120.2618832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:32:24.071Z"
+    }
+  ]
+}

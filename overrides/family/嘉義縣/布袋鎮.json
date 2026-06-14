@@ -1,0 +1,98 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:10:32.815Z",
+  "items": [
+    {
+      "id": 2321712794,
+      "name": "布袋遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.3821301,
+      "lng": 120.1551864,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.806Z"
+    },
+    {
+      "id": 12644711601,
+      "name": "布袋溼地生態園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3619043,
+      "lng": 120.1783666,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.809Z",
+      "address": "太平東路"
+    },
+    {
+      "id": 625467459,
+      "name": "洲南鹽場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3844878,
+      "lng": 120.1667828,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.811Z"
+    },
+    {
+      "id": 625467461,
+      "name": "布袋鹽山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3813512,
+      "lng": 120.168771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.812Z"
+    },
+    {
+      "id": 737381643,
+      "name": "布袋港遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.3792475,
+      "lng": 120.1390575,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.812Z"
+    },
+    {
+      "id": 1352427633,
+      "name": "高跟鞋教堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.3778007,
+      "lng": 120.14877,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.813Z"
+    },
+    {
+      "id": 7073699,
+      "name": "北門沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.283557,
+      "lng": 120.0709578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.814Z"
+    },
+    {
+      "id": 7073700,
+      "name": "好美寮自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3547125,
+      "lng": 120.1404098,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.814Z"
+    },
+    {
+      "id": 7073701,
+      "name": "彰雲嘉沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.6406272,
+      "lng": 120.1598771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:10:32.815Z"
+    }
+  ]
+}

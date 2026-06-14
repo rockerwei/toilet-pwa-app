@@ -1,0 +1,647 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:06:15.905Z",
+  "items": [
+    {
+      "id": 2657329332,
+      "name": "鱷魚島觀景處",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9399421,
+      "lng": 121.6328384,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.869Z"
+    },
+    {
+      "id": 3442491875,
+      "name": "華梵大學文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.980068,
+      "lng": 121.6922214,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.872Z"
+    },
+    {
+      "id": 4528132190,
+      "name": "蚯蚓坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0108353,
+      "lng": 121.6860172,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.873Z"
+    },
+    {
+      "id": 5143261661,
+      "name": "皇帝殿登山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0066755,
+      "lng": 121.6957654,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.874Z"
+    },
+    {
+      "id": 6129830607,
+      "name": "鱷魚島",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9313605,
+      "lng": 121.6397269,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.875Z"
+    },
+    {
+      "id": 9679557102,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9813852,
+      "lng": 121.6427334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.877Z"
+    },
+    {
+      "id": 9679565387,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9861876,
+      "lng": 121.65435,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.878Z"
+    },
+    {
+      "id": 9679594552,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9839833,
+      "lng": 121.6477369,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.879Z"
+    },
+    {
+      "id": 9679607622,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9915506,
+      "lng": 121.6541684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.880Z"
+    },
+    {
+      "id": 9679621318,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9826809,
+      "lng": 121.6456881,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.881Z"
+    },
+    {
+      "id": 9679624870,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9884097,
+      "lng": 121.6529001,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.883Z"
+    },
+    {
+      "id": 9679626048,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9819197,
+      "lng": 121.6444297,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.884Z"
+    },
+    {
+      "id": 9679630954,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9695696,
+      "lng": 121.6207591,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.884Z"
+    },
+    {
+      "id": 9679633541,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9773892,
+      "lng": 121.6335572,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.885Z"
+    },
+    {
+      "id": 9679637095,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9806379,
+      "lng": 121.6391383,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.885Z"
+    },
+    {
+      "id": 9679643530,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9712492,
+      "lng": 121.6252847,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.886Z"
+    },
+    {
+      "id": 9689047662,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9919763,
+      "lng": 121.6710605,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.886Z"
+    },
+    {
+      "id": 9689068062,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9972892,
+      "lng": 121.6932879,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.886Z"
+    },
+    {
+      "id": 9689068063,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9929334,
+      "lng": 121.6779796,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.887Z"
+    },
+    {
+      "id": 9689068064,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9917418,
+      "lng": 121.6767295,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.887Z"
+    },
+    {
+      "id": 9689068065,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9907092,
+      "lng": 121.6669907,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.888Z"
+    },
+    {
+      "id": 9689076615,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9916244,
+      "lng": 121.6648814,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.888Z"
+    },
+    {
+      "id": 9689098586,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9939735,
+      "lng": 121.6814779,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.888Z"
+    },
+    {
+      "id": 9689109015,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9977162,
+      "lng": 121.6946684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.889Z"
+    },
+    {
+      "id": 9689117234,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9933852,
+      "lng": 121.6837406,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.889Z"
+    },
+    {
+      "id": 9689132126,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9954031,
+      "lng": 121.6879694,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.890Z"
+    },
+    {
+      "id": 9689132127,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.993642,
+      "lng": 121.6860501,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.890Z"
+    },
+    {
+      "id": 9689132567,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0066951,
+      "lng": 121.6958091,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.890Z"
+    },
+    {
+      "id": 9689134137,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9938518,
+      "lng": 121.6817543,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.891Z"
+    },
+    {
+      "id": 9689135050,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9981358,
+      "lng": 121.6967078,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.891Z"
+    },
+    {
+      "id": 9689135051,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.992152,
+      "lng": 121.6739398,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.892Z"
+    },
+    {
+      "id": 9689135811,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9923815,
+      "lng": 121.6638006,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.892Z"
+    },
+    {
+      "id": 9689136407,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9937383,
+      "lng": 121.6828076,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.893Z"
+    },
+    {
+      "id": 9689136973,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9932645,
+      "lng": 121.67925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.893Z"
+    },
+    {
+      "id": 9689141719,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9923091,
+      "lng": 121.6766192,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.893Z"
+    },
+    {
+      "id": 9689144311,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.989917,
+      "lng": 121.6791001,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.894Z"
+    },
+    {
+      "id": 9813591330,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.005564,
+      "lng": 121.6959292,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.894Z"
+    },
+    {
+      "id": 9813593080,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9973175,
+      "lng": 121.6940111,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.895Z"
+    },
+    {
+      "id": 9813607747,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9988525,
+      "lng": 121.6967556,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.895Z"
+    },
+    {
+      "id": 9813610586,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9889834,
+      "lng": 121.6791729,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.896Z"
+    },
+    {
+      "id": 9813618943,
+      "name": "新北市政府",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.990755,
+      "lng": 121.6692482,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.896Z"
+    },
+    {
+      "id": 10214548555,
+      "name": "石碇區桐花步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9519579,
+      "lng": 121.6469857,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.896Z"
+    },
+    {
+      "id": 10767840596,
+      "name": "羅東",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.981362,
+      "lng": 121.64365,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.897Z"
+    },
+    {
+      "id": 10767840597,
+      "name": "羅東",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.980424,
+      "lng": 121.64768,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.897Z"
+    },
+    {
+      "id": 10767840598,
+      "name": "新竹",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.992156,
+      "lng": 121.67394,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.898Z"
+    },
+    {
+      "id": 10767840599,
+      "name": "新竹",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.995405,
+      "lng": 121.68797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.898Z"
+    },
+    {
+      "id": 10767840600,
+      "name": "新竹",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.993076,
+      "lng": 121.68146,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.898Z"
+    },
+    {
+      "id": 11449095052,
+      "name": "淡蘭吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0057,
+      "lng": 121.65159,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.899Z"
+    },
+    {
+      "id": 12127898021,
+      "name": "古道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0168067,
+      "lng": 121.6909298,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.899Z"
+    },
+    {
+      "id": 12127898022,
+      "name": "古道路線圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0316561,
+      "lng": 121.6797921,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.900Z"
+    },
+    {
+      "id": 12740917268,
+      "name": "翡翠水庫食蛇龜野生動物保護區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8945733,
+      "lng": 121.603121,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.900Z"
+    },
+    {
+      "id": 12740917272,
+      "name": "火燒樟檳榔占墾地復舊造林植樹紀念",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9049471,
+      "lng": 121.6053707,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.900Z"
+    },
+    {
+      "id": 12846784297,
+      "name": "私人土地 內有惡犬",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9889213,
+      "lng": 121.7146228,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.901Z"
+    },
+    {
+      "id": 204514584,
+      "name": "筆架山石碇老街登山口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9847944,
+      "lng": 121.6566377,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.901Z"
+    },
+    {
+      "id": 237962026,
+      "name": "石碇西街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9908479,
+      "lng": 121.6584962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.901Z"
+    },
+    {
+      "id": 249662352,
+      "name": "石碇東街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9908288,
+      "lng": 121.6608829,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.902Z"
+    },
+    {
+      "id": 285900222,
+      "name": "萬壽橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9909753,
+      "lng": 121.6595217,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.902Z"
+    },
+    {
+      "id": 285900232,
+      "name": "淡蘭吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.004639,
+      "lng": 121.6514694,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.903Z"
+    },
+    {
+      "id": 285900237,
+      "name": "石碇東街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9910644,
+      "lng": 121.659959,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.903Z"
+    },
+    {
+      "id": 529481877,
+      "name": "皇帝殿風景區北峯登山口",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 25.0066537,
+      "lng": 121.6957122,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.903Z"
+    },
+    {
+      "id": 1411398263,
+      "name": "普渡長生橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9975958,
+      "lng": 121.7130694,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.904Z"
+    },
+    {
+      "id": 1451006815,
+      "name": "石碇東街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9904304,
+      "lng": 121.6618977,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.904Z"
+    },
+    {
+      "id": 7018074,
+      "name": "翡翠水庫食蛇龜野生動物保護區 核心區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.9039279,
+      "lng": 121.6332018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.904Z"
+    },
+    {
+      "id": 7076321,
+      "name": "翡翠水庫食蛇龜野生動物保護區 緩衝區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.899996,
+      "lng": 121.6171047,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:15.905Z"
+    }
+  ]
+}

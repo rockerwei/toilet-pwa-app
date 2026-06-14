@@ -1,0 +1,78 @@
+{
+  "city": "嘉義市",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:06:45.178Z",
+  "items": [
+    {
+      "id": 4413130577,
+      "name": "旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4789878,
+      "lng": 120.4410405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.167Z"
+    },
+    {
+      "id": 4733180223,
+      "name": "舊菸酒公賣局",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4768474,
+      "lng": 120.4411684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.170Z"
+    },
+    {
+      "id": 5497944522,
+      "name": "台灣花磚古厝",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4833387,
+      "lng": 120.4460089,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.172Z",
+      "address": "600嘉義市西區林森西路282號"
+    },
+    {
+      "id": 8263054459,
+      "name": "新光三越遠東站",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 23.4732456,
+      "lng": 120.4421274,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.174Z"
+    },
+    {
+      "id": 8263054473,
+      "name": "新光三越遠東站(永和街口)",
+      "facilityType": "mall",
+      "facilityLabel": "🛍 商場",
+      "lat": 23.47283,
+      "lng": 120.44029,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.175Z"
+    },
+    {
+      "id": 491779901,
+      "name": "文化夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4777074,
+      "lng": 120.4498415,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.177Z"
+    },
+    {
+      "id": 573916925,
+      "name": "愛木村觀光工場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5018762,
+      "lng": 120.4383945,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:45.178Z"
+    }
+  ]
+}

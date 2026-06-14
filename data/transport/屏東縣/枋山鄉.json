@@ -1,0 +1,525 @@
+{
+  "city": "屏東縣",
+  "district": "枋山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 31,
+  "items": [
+    {
+      "id": 1021638102,
+      "name": "加祿",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.330937,
+      "lng": 120.6249792
+    },
+    {
+      "id": 3901306365,
+      "name": "楓林",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2045985,
+      "lng": 120.7019933
+    },
+    {
+      "id": 3901306374,
+      "name": "楓港",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1952129,
+      "lng": 120.692367,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188",
+        "幸福獅子7路"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4898058058,
+      "name": "平埔厝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3252119,
+      "lng": 120.6267312,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4898058060,
+      "name": "加祿火車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.328281,
+      "lng": 120.6220829,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4898058062,
+      "name": "加祿國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3297821,
+      "lng": 120.6207794,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4898058065,
+      "name": "加祿堂",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.331365,
+      "lng": 120.6186283,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4898058093,
+      "name": "加祿堂營區",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3341934,
+      "lng": 120.6157127,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903467215,
+      "name": "南勢橋",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3101852,
+      "lng": 120.6404158,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903467455,
+      "name": "嘉和",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3213288,
+      "lng": 120.6307813,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903467456,
+      "name": "嘉和",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3222568,
+      "lng": 120.6304702,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903491828,
+      "name": "七里溪",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2961024,
+      "lng": 120.6440127
+    },
+    {
+      "id": 4903491830,
+      "name": "品味軒",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2938664,
+      "lng": 120.6442299,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903491844,
+      "name": "內獅",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2995047,
+      "lng": 120.6439939
+    },
+    {
+      "id": 4903491845,
+      "name": "內獅",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2981907,
+      "lng": 120.6438772,
+      "routes": [
+        "1773"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903491846,
+      "name": "內獅國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.3042979,
+      "lng": 120.6427239,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903500090,
+      "name": "達信",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.267168,
+      "lng": 120.6531523,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903515984,
+      "name": "枋山",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2619156,
+      "lng": 120.6531027,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989527,
+      "name": "楓港",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1940336,
+      "lng": 120.6922442,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188",
+        "幸福獅子7路"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989529,
+      "name": "楓港郵局",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1982008,
+      "lng": 120.689216,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989531,
+      "name": "變電所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2041509,
+      "lng": 120.6878923,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989565,
+      "name": "獅子頭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2295195,
+      "lng": 120.67533,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989568,
+      "name": "五空橋",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2434676,
+      "lng": 120.664498,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989570,
+      "name": "五和",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2479268,
+      "lng": 120.6591106,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4903989572,
+      "name": "荊桐村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2521391,
+      "lng": 120.6564569
+    },
+    {
+      "id": 4903989573,
+      "name": "莿桐村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.2518852,
+      "lng": 120.6562512,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904080721,
+      "name": "農民教育休閒活動中心",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1634983,
+      "lng": 120.6972706
+    },
+    {
+      "id": 4904080801,
+      "name": "圓通寺",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1810332,
+      "lng": 120.6928866,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904080830,
+      "name": "楓港國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1903853,
+      "lng": 120.6918325,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904088717,
+      "name": "竹坑",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.1442098,
+      "lng": 120.7002948
+    },
+    {
+      "id": 4904097222,
+      "name": "古苓溪",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "枋山鄉",
+      "lat": 22.155933,
+      "lng": 120.6994982,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188",
+        "幸福獅子2路",
+        "幸福獅子5路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.838Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

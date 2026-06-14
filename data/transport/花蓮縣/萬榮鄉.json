@@ -1,0 +1,42 @@
+{
+  "city": "花蓮縣",
+  "district": "萬榮鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 2,
+  "items": [
+    {
+      "id": 3285305666,
+      "name": "紅葉派出所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "萬榮鄉",
+      "lat": 23.495302,
+      "lng": 121.3442893,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.188Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3285306107,
+      "name": "紅葉",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "萬榮鄉",
+      "lat": 23.4939048,
+      "lng": 121.3382811,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.188Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

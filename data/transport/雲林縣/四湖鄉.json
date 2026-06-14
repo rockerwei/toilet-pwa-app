@@ -1,0 +1,26 @@
+{
+  "city": "雲林縣",
+  "district": "四湖鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 1,
+  "items": [
+    {
+      "id": 10143076714,
+      "name": "三條崙海清宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "四湖鄉",
+      "lat": 23.655836,
+      "lng": 120.153542,
+      "routes": [
+        "Y02"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.170Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "city": "屏東縣",
+  "district": "鹽埔鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 6,
+  "items": [
+    {
+      "id": 6819203358,
+      "name": "三和村口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7124012,
+      "lng": 120.6261519,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A",
+        "8229"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203360,
+      "name": "下振興",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7216099,
+      "lng": 120.6169224,
+      "routes": [
+        "511",
+        "511B",
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203362,
+      "name": "振興",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7233368,
+      "lng": 120.6125316,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203364,
+      "name": "上振興",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7226119,
+      "lng": 120.6086826,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203366,
+      "name": "隘寮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7224177,
+      "lng": 120.6067166
+    },
+    {
+      "id": 6819203369,
+      "name": "錦隆村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "鹽埔鄉",
+      "lat": 22.7190357,
+      "lng": 120.5995497,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.854Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

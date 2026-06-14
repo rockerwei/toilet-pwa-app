@@ -1,0 +1,37 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:14:32.342Z",
+  "items": [
+    {
+      "id": 3650946225,
+      "name": "福寶燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0443517,
+      "lng": 120.3810609,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:14:32.338Z"
+    },
+    {
+      "id": 3655311118,
+      "name": "古砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.043611,
+      "lng": 120.458333,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:14:32.340Z"
+    },
+    {
+      "id": 327242504,
+      "name": "福興穀倉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0496023,
+      "lng": 120.4399401,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:14:32.341Z"
+    }
+  ]
+}

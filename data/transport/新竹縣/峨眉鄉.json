@@ -1,0 +1,870 @@
+{
+  "city": "新竹縣",
+  "district": "峨眉鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 50,
+  "items": [
+    {
+      "id": 3312196965,
+      "name": "獅山遊客中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6556624,
+      "lng": 121.0230527,
+      "routes": [
+        "5700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359230605,
+      "name": "獅山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6557789,
+      "lng": 121.023039
+    },
+    {
+      "id": 3662865834,
+      "name": "富興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6883051,
+      "lng": 120.9887063,
+      "routes": [
+        "5609",
+        "5609A",
+        "5810"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967704,
+      "name": "彌勒佛總院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.682395,
+      "lng": 120.9818584,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967706,
+      "name": "峨眉湖口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6847213,
+      "lng": 120.9845218,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967710,
+      "name": "西河排",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6862213,
+      "lng": 120.9780939,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967712,
+      "name": "池塘尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6885158,
+      "lng": 120.9760272,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967714,
+      "name": "劉屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6882038,
+      "lng": 120.9726571,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967716,
+      "name": "庚寮坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6886169,
+      "lng": 120.9704831,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738967718,
+      "name": "岡頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6869488,
+      "lng": 120.967235,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978468,
+      "name": "十寮坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6716516,
+      "lng": 120.9819362,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978469,
+      "name": "大埔壩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6742303,
+      "lng": 120.9832236,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978471,
+      "name": "西河排",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6768236,
+      "lng": 120.9796295,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978473,
+      "name": "湖光村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6807658,
+      "lng": 120.9802946,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740666585,
+      "name": "西富興頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6962178,
+      "lng": 120.985592,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740666587,
+      "name": "富農新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6921018,
+      "lng": 120.9881884,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695397,
+      "name": "峨眉國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6903289,
+      "lng": 121.0183981,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695399,
+      "name": "西峨眉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6903496,
+      "lng": 121.015567,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695401,
+      "name": "赤柯坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6920762,
+      "lng": 121.0116577,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695403,
+      "name": "葫蘆肚",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6963177,
+      "lng": 121.0087301,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695405,
+      "name": "東石井",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.698662,
+      "lng": 121.0058266,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695407,
+      "name": "湖光大橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6976531,
+      "lng": 121.0073903,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695409,
+      "name": "石井",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6977993,
+      "lng": 121.0021654,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.687Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695411,
+      "name": "獅頭坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.700107,
+      "lng": 120.9964952,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695414,
+      "name": "洽坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.7008636,
+      "lng": 120.9951071,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740695416,
+      "name": "富興頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.7005456,
+      "lng": 120.9881133,
+      "routes": [
+        "5609",
+        "5609A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740712840,
+      "name": "東峨眉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6877615,
+      "lng": 121.0246101,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740712842,
+      "name": "峨眉衛生所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6885146,
+      "lng": 121.0214706,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "醫專2號"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740712844,
+      "name": "峨眉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6887241,
+      "lng": 121.0198452,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "醫專2號"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740712846,
+      "name": "獅山口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6881441,
+      "lng": 121.0185537,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733829,
+      "name": "暗窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.7018371,
+      "lng": 121.0396171,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733831,
+      "name": "黎屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6995563,
+      "lng": 121.0368597,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733833,
+      "name": "龍鳳記",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6978749,
+      "lng": 121.0351136,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733835,
+      "name": "祐豐廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6955403,
+      "lng": 121.0325628,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733836,
+      "name": "中興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6923382,
+      "lng": 121.0318091,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "醫專2號"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733840,
+      "name": "新荃公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6901535,
+      "lng": 121.0303648,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740733842,
+      "name": "河背",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6878139,
+      "lng": 121.0273433,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136328,
+      "name": "峨眉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6866507,
+      "lng": 121.0176323,
+      "routes": [
+        "5700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844010,
+      "name": "月眉新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6857083,
+      "lng": 121.0171644,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844012,
+      "name": "圓屯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6836129,
+      "lng": 121.0181519,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844015,
+      "name": "上坪橋口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6815669,
+      "lng": 121.0189539,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844023,
+      "name": "社寮坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6790936,
+      "lng": 121.0184449,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844025,
+      "name": "王屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6771661,
+      "lng": 121.0178335,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844027,
+      "name": "十寮坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6751543,
+      "lng": 121.0178057,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844029,
+      "name": "樹下屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6733826,
+      "lng": 121.0168641,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844047,
+      "name": "集會所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6708373,
+      "lng": 121.0188283,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844049,
+      "name": "石硬子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6659284,
+      "lng": 121.0193305,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844051,
+      "name": "瑞山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6634975,
+      "lng": 121.0216013,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844053,
+      "name": "茅坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6608518,
+      "lng": 121.0205472,
+      "routes": [
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.667Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759844055,
+      "name": "八仙橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "峨眉鄉",
+      "lat": 24.6582302,
+      "lng": 121.0209424,
+      "routes": [
+        "5626",
+        "5626A",
+        "5700"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.668Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

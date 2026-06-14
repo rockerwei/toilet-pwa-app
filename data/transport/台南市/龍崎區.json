@@ -1,0 +1,610 @@
+{
+  "city": "台南市",
+  "district": "龍崎區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 38,
+  "items": [
+    {
+      "id": 3087085854,
+      "name": "龍崎",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9647939,
+      "lng": 120.3602133,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭",
+        "紅幹線 安工區→仁德→關廟→龍崎",
+        "紅幹線 龍崎→仁德→安工區(經新豐高中)",
+        "紅幹線 龍崎→關廟→仁德→安工區"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485801,
+      "name": "五間",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9435869,
+      "lng": 120.4233317,
+      "routes": [
+        "8050",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485803,
+      "name": "大溪口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9563065,
+      "lng": 120.3743463,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485805,
+      "name": "崎腳路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9597613,
+      "lng": 120.3695643,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485807,
+      "name": "後壁溪",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9462092,
+      "lng": 120.4090588,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485809,
+      "name": "烏山腳",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9364305,
+      "lng": 120.4220873,
+      "routes": [
+        "8050",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485811,
+      "name": "烏山腳路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9401577,
+      "lng": 120.4229927,
+      "routes": [
+        "8050",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485813,
+      "name": "烏山頭",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9236998,
+      "lng": 120.4194091,
+      "routes": [
+        "8050"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485815,
+      "name": "牛埔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9329311,
+      "lng": 120.4098928,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485817,
+      "name": "牛埔農塘",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9267812,
+      "lng": 120.4096509,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485818,
+      "name": "石曹",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9471701,
+      "lng": 120.4011465,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485820,
+      "name": "苦苓湖",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9450736,
+      "lng": 120.4171082,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485822,
+      "name": "過嶺路口",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9509925,
+      "lng": 120.3859386,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485824,
+      "name": "頂牛埔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9349448,
+      "lng": 120.4121506,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485826,
+      "name": "龍崎區公所",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9640939,
+      "lng": 120.3643602,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485828,
+      "name": "龍船",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9481902,
+      "lng": 120.3931933,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3088485830,
+      "name": "龍船國小",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9441893,
+      "lng": 120.4155799,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3127087976,
+      "name": "烏樹林",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 23.0054842,
+      "lng": 120.3936816,
+      "routes": [
+        "綠13 左鎮公所→岡林→新化",
+        "綠13 新化→岡林→左鎮區公所",
+        "綠13 新化→慈蓮寺(區間)",
+        "綠13 慈蓮寺→新化(區間)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4102489290,
+      "name": "龍崎文衡殿",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9489721,
+      "lng": 120.3826247,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4193554901,
+      "name": "牛埔製麵廠",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9301308,
+      "lng": 120.4100503,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6938929881,
+      "name": "牛埔橋",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9397492,
+      "lng": 120.4143405,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6938929883,
+      "name": "瓦厝(牛埔)",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9431648,
+      "lng": 120.414401,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6938935185,
+      "name": "龍崎農會分會",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9466418,
+      "lng": 120.4180717,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6938935187,
+      "name": "順興瓦斯行",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9467588,
+      "lng": 120.416665,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6938935189,
+      "name": "後壁溪橋",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9462656,
+      "lng": 120.4121133,
+      "routes": [
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7074436834,
+      "name": "田草埔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9467381,
+      "lng": 120.405314,
+      "routes": [
+        "8050",
+        "紅11 小黃 牛埔農塘→關廟",
+        "紅11 小黃 關廟→牛埔農塘",
+        "紅12 小黃 烏山頭→關廟",
+        "紅12 小黃 關廟→烏山頭"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9169785530,
+      "name": "土崎里活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9872822,
+      "lng": 120.3849765
+    },
+    {
+      "id": 9169785555,
+      "name": "中坑里清水宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9426826,
+      "lng": 120.3593628
+    },
+    {
+      "id": 9169785599,
+      "name": "普陀山觀音寺",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9322334,
+      "lng": 120.3646698
+    },
+    {
+      "id": 9169785742,
+      "name": "大坪里活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9272214,
+      "lng": 120.392067
+    },
+    {
+      "id": 9169785743,
+      "name": "石曹里車埕",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9594646,
+      "lng": 120.4044202
+    },
+    {
+      "id": 10006837932,
+      "name": "番社永安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9385974,
+      "lng": 120.3937983
+    },
+    {
+      "id": 10006837933,
+      "name": "外面埤仔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.951948,
+      "lng": 120.4212782
+    },
+    {
+      "id": 10006837934,
+      "name": "內面埤仔",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9539358,
+      "lng": 120.4231655
+    },
+    {
+      "id": 10006837937,
+      "name": "龍船窩紫竹寺",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 22.9489715,
+      "lng": 120.4301728
+    },
+    {
+      "id": 10748982059,
+      "name": "南屏農場",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 23.0072202,
+      "lng": 120.389078,
+      "routes": [
+        "168 虎埤老街線 大坑休閒農場→新市火車站",
+        "168 虎埤老街線 新市火車站→大坑休閒農場",
+        "綠13 左鎮公所→岡林→新化",
+        "綠13 新化→岡林→左鎮區公所",
+        "綠13 新化→慈蓮寺(區間)",
+        "綠13 慈蓮寺→新化(區間)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.218Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12592956547,
+      "name": "觀音山岩晃寺",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 23.0044689,
+      "lng": 120.3838383
+    },
+    {
+      "id": 12592956548,
+      "name": "烏樹林林天宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "龍崎區",
+      "lat": 23.0011763,
+      "lng": 120.3962746
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:04:29.585Z",
+  "items": [
+    {
+      "id": 1726035498,
+      "name": "黃金蝙蝠館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.6207099,
+      "lng": 120.261152,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:04:29.582Z"
+    },
+    {
+      "id": 1172645398,
+      "name": "顏思齊故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.5734559,
+      "lng": 120.2553029,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:04:29.585Z",
+      "address": "雲林縣水林鄉水北村顏厝寮43之1號"
+    }
+  ]
+}

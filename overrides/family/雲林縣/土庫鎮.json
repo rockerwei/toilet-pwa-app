@@ -1,0 +1,28 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:48:33.942Z",
+  "items": [
+    {
+      "id": 4663566789,
+      "name": "源順麻油",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.6720377,
+      "lng": 120.3946863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:48:33.939Z"
+    },
+    {
+      "id": 12737761201,
+      "name": "土庫驛可可莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.6749845,
+      "lng": 120.3986671,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:48:33.942Z",
+      "address": "雲林縣土庫鎮大同路1-2號"
+    }
+  ]
+}

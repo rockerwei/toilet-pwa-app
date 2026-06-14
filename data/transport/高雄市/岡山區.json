@@ -1,0 +1,1867 @@
+{
+  "city": "高雄市",
+  "district": "岡山區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 105,
+  "items": [
+    {
+      "id": 257398374,
+      "name": "岡山",
+      "type": "train",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7923148,
+      "lng": 120.3004673
+    },
+    {
+      "id": 2604358343,
+      "name": "中正堂(岡山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7906776,
+      "lng": 120.2893521,
+      "routes": [
+        "8017",
+        "紅69"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358344,
+      "name": "中華橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7960249,
+      "lng": 120.2898564,
+      "routes": [
+        "紅69"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.234Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358345,
+      "name": "佛光山講堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7942098,
+      "lng": 120.2880517,
+      "routes": [
+        "紅69"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.234Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358346,
+      "name": "勵志新城",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7900367,
+      "lng": 120.2961852,
+      "routes": [
+        "8015",
+        "8017",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "紅69",
+        "紅78"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358348,
+      "name": "國軍岡山醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7885055,
+      "lng": 120.285196,
+      "routes": [
+        "紅69",
+        "紅73A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358349,
+      "name": "大義二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7872793,
+      "lng": 120.2866137,
+      "routes": [
+        "8017",
+        "紅69"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358350,
+      "name": "岡山區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.798699,
+      "lng": 120.2951382,
+      "routes": [
+        "8012",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358351,
+      "name": "岡山國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7909308,
+      "lng": 120.2945294,
+      "routes": [
+        "8017",
+        "紅69"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358352,
+      "name": "臺鐵岡山車站(捷運岡山車站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7922898,
+      "lng": 120.2995034
+    },
+    {
+      "id": 2975260073,
+      "name": "岡山農工",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8032465,
+      "lng": 120.2898948,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358354,
+      "name": "岡山農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7954763,
+      "lng": 120.2957763,
+      "routes": [
+        "8012",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "永安線",
+        "紅68A(假日延駛石頭廟)",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅79"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358355,
+      "name": "岡山高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.797837,
+      "lng": 120.29042,
+      "routes": [
+        "紅69"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358356,
+      "name": "捷運岡山高醫站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7806441,
+      "lng": 120.3006133,
+      "routes": [
+        "8015",
+        "8017",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "永安線",
+        "紅68A(假日延駛石頭廟)",
+        "紅68B(部分繞駛嘉興國中)",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71C",
+        "紅71D",
+        "紅72(部分繞駛南訓中心)",
+        "紅73A",
+        "紅75",
+        "紅76",
+        "紅78",
+        "T402",
+        "T603D(平日預約)"
+      ],
+      "routeCount": 27,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358357,
+      "name": "岡山文化中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7837045,
+      "lng": 120.297534,
+      "routes": [
+        "8015",
+        "8017",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358360,
+      "name": "文化街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7886565,
+      "lng": 120.2966035,
+      "routes": [
+        "8015",
+        "8017",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅78"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358361,
+      "name": "文賢市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7938749,
+      "lng": 120.295932,
+      "routes": [
+        "8012",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "永安線",
+        "紅68A(假日延駛石頭廟)",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅79",
+        "T603D(平日預約)"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358362,
+      "name": "民族路口(中華路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.792581,
+      "lng": 120.2882269,
+      "routes": [
+        "紅69"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2604358363,
+      "name": "移民署",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.791324,
+      "lng": 120.2962368,
+      "routes": [
+        "8015",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅78"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050688,
+      "name": "三多鋼鐵",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.807416,
+      "lng": 120.307629,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050690,
+      "name": "和平公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7983515,
+      "lng": 120.3022539,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)",
+        "T603D(平日預約)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050692,
+      "name": "嘉新東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8073957,
+      "lng": 120.3020749,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050696,
+      "name": "壽天派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8008169,
+      "lng": 120.3019885,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050698,
+      "name": "大德三路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7886743,
+      "lng": 120.2993239,
+      "routes": [
+        "8017",
+        "紅68A(假日延駛石頭廟)",
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050700,
+      "name": "大莊公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8075599,
+      "lng": 120.3193843,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050702,
+      "name": "岡山國中(大仁南路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7902977,
+      "lng": 120.3023904,
+      "routes": [
+        "8008",
+        "8020",
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050707,
+      "name": "新庄路口(嘉新東路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8074398,
+      "lng": 120.3038449,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050709,
+      "name": "漢翔公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8100762,
+      "lng": 120.3195657
+    },
+    {
+      "id": 2973050710,
+      "name": "碧紅宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7953591,
+      "lng": 120.3026555,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050712,
+      "name": "竹圍國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8037953,
+      "lng": 120.3017,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)",
+        "T603D(平日預約)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050714,
+      "name": "肉品市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8074881,
+      "lng": 120.3120276,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050716,
+      "name": "岡山郵局(大仁路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8056102,
+      "lng": 120.3013961,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050718,
+      "name": "關帝宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8075437,
+      "lng": 120.3177242,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973050720,
+      "name": "順天宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7925365,
+      "lng": 120.3024031,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.235Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260075,
+      "name": "本工五路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8097131,
+      "lng": 120.2704756,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260077,
+      "name": "本工六路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8122256,
+      "lng": 120.2635733,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260079,
+      "name": "本洲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.807705,
+      "lng": 120.2609089,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260081,
+      "name": "本洲工業區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8124457,
+      "lng": 120.2724945,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260085,
+      "name": "滷味博物館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8169187,
+      "lng": 120.2671389,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260087,
+      "name": "環保科學園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8061912,
+      "lng": 120.2716137
+    },
+    {
+      "id": 2975260089,
+      "name": "空軍機校",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7990313,
+      "lng": 120.2848229,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260091,
+      "name": "育才路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8050408,
+      "lng": 120.2770796,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260093,
+      "name": "西本洲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8080942,
+      "lng": 120.2572585
+    },
+    {
+      "id": 3750206645,
+      "name": "文化街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7877352,
+      "lng": 120.2965188,
+      "routes": [
+        "8015",
+        "8017",
+        "8020",
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "8049",
+        "8049區間車",
+        "8506",
+        "紅69",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅78"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783441756,
+      "name": "中崙寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8259672,
+      "lng": 120.3329561,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444158,
+      "name": "五甲尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8213253,
+      "lng": 120.3030672,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444160,
+      "name": "五甲尾加油站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8128796,
+      "lng": 120.3008857,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444162,
+      "name": "南嘉興",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8189776,
+      "lng": 120.3024874,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444164,
+      "name": "台上",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8080552,
+      "lng": 120.2987021,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444166,
+      "name": "嘉興國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.822777,
+      "lng": 120.3091535,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444168,
+      "name": "嘉興國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8219663,
+      "lng": 120.3055536,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅68A(假日延駛石頭廟)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444172,
+      "name": "大埔(岡山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8246493,
+      "lng": 120.3234929,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444174,
+      "name": "山隙",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8289821,
+      "lng": 120.341461,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444176,
+      "name": "岡山農工(嘉新西路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8018338,
+      "lng": 120.2927957,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅68A(假日延駛石頭廟)",
+        "紅71A",
+        "紅71B1",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444199,
+      "name": "華崗里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8245181,
+      "lng": 120.3217648,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444205,
+      "name": "響昭寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8236472,
+      "lng": 120.3145361,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.236Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900777784,
+      "name": "大莊里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8111198,
+      "lng": 120.3269598,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782704,
+      "name": "中鴻鋼鐵",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8245935,
+      "lng": 120.2987833,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782705,
+      "name": "春雨公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8100089,
+      "lng": 120.2922293,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782707,
+      "name": "晉禾公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8075036,
+      "lng": 120.2935398,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782709,
+      "name": "為隨社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8175873,
+      "lng": 120.2895399,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782711,
+      "name": "為隨西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8145662,
+      "lng": 120.2899645,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782713,
+      "name": "燁聯鋼鐵",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8302367,
+      "lng": 120.2983442,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.236Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3900782714,
+      "name": "聚亨公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8049091,
+      "lng": 120.2947311,
+      "routes": [
+        "紅65"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424184,
+      "name": "台上街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8049508,
+      "lng": 120.2972936,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.418Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424186,
+      "name": "嘉峰",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8296348,
+      "lng": 120.3135405,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424188,
+      "name": "嘉峰里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8276486,
+      "lng": 120.3118191,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424191,
+      "name": "岡山郵局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7918999,
+      "lng": 120.2966603,
+      "routes": [
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424193,
+      "name": "成功路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8014125,
+      "lng": 120.2955038,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424196,
+      "name": "河堤路口(岡山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7861608,
+      "lng": 120.2967139,
+      "routes": [
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424198,
+      "name": "潭底",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8258374,
+      "lng": 120.3096847,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906424200,
+      "name": "田厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8371936,
+      "lng": 120.3179355,
+      "routes": [
+        "8012",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904926,
+      "name": "台泥公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8174767,
+      "lng": 120.2732029
+    },
+    {
+      "id": 3907904928,
+      "name": "慈濟大學推廣中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8069619,
+      "lng": 120.2853213,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904932,
+      "name": "灣子內(岡山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8090822,
+      "lng": 120.282761,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904934,
+      "name": "育德街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8114822,
+      "lng": 120.2799052,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049701,
+      "name": "光潭路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7738518,
+      "lng": 120.2767148
+    },
+    {
+      "id": 3910049703,
+      "name": "劉厝路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7810286,
+      "lng": 120.2878369
+    },
+    {
+      "id": 3910049714,
+      "name": "寶米路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.778528,
+      "lng": 120.2810694
+    },
+    {
+      "id": 3910049722,
+      "name": "理想國",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7747459,
+      "lng": 120.2688155
+    },
+    {
+      "id": 3910049724,
+      "name": "登科街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7801255,
+      "lng": 120.2902684
+    },
+    {
+      "id": 3910049726,
+      "name": "石螺潭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7725781,
+      "lng": 120.2685267,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049728,
+      "name": "福興里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7766446,
+      "lng": 120.2691933,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049730,
+      "name": "頂潭路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7790543,
+      "lng": 120.2698449,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247161,
+      "name": "公園西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7948715,
+      "lng": 120.2844953,
+      "routes": [
+        "紅73A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.419Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247164,
+      "name": "壽峰里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7969466,
+      "lng": 120.2863349,
+      "routes": [
+        "紅73A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247174,
+      "name": "岡山稽徵所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7843783,
+      "lng": 120.2911749,
+      "routes": [
+        "紅73A",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247176,
+      "name": "後協",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7843583,
+      "lng": 120.2819538,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247179,
+      "name": "樂安醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7922559,
+      "lng": 120.281109,
+      "routes": [
+        "紅73A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247181,
+      "name": "牧人館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7991824,
+      "lng": 120.2908154,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247187,
+      "name": "育英路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7939824,
+      "lng": 120.282113,
+      "routes": [
+        "紅73A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247189,
+      "name": "西後協",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7844194,
+      "lng": 120.2764676,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247192,
+      "name": "醒村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.784461,
+      "lng": 120.2839844,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580928833,
+      "name": "岡山高醫",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7807473,
+      "lng": 120.3017302,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.236Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5731893016,
+      "name": "岡山車站",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7926035,
+      "lng": 120.2990592,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.236Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5731922215,
+      "name": "岡山電信局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7844473,
+      "lng": 120.2961254,
+      "routes": [
+        "紅78"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978220,
+      "name": "南本洲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8073105,
+      "lng": 120.2651951,
+      "routes": [
+        "永安線",
+        "紅67A(部分延駛中正堂)",
+        "紅79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978322,
+      "name": "壽華路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7976089,
+      "lng": 120.2929652,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978338,
+      "name": "秀傳醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7963555,
+      "lng": 120.2946662,
+      "routes": [
+        "永安線",
+        "紅79",
+        "T603D(平日預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7607165861,
+      "name": "崗山之眼園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8116361,
+      "lng": 120.3333357
+    },
+    {
+      "id": 7607165862,
+      "name": "阿公店森林公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8132647,
+      "lng": 120.3413332
+    },
+    {
+      "id": 8461567079,
+      "name": "菜堂寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.83051,
+      "lng": 120.3464498,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11799154857,
+      "name": "聖母宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8164889,
+      "lng": 120.3020619,
+      "routes": [
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13042458296,
+      "name": "嘉興營區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.8074141,
+      "lng": 120.3239064,
+      "routes": [
+        "紅68B(部分繞駛嘉興國中)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.420Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 215698483,
+      "name": "岡山轉運站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "岡山區",
+      "lat": 22.7922401,
+      "lng": 120.2994337
+    }
+  ]
+}

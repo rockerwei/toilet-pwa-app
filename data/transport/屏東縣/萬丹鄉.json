@@ -1,0 +1,635 @@
+{
+  "city": "屏東縣",
+  "district": "萬丹鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 32,
+  "items": [
+    {
+      "id": 13729266989,
+      "name": "上萬丹",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.59161,
+      "lng": 120.4889032,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.846Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13729330881,
+      "name": "萬丹",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5874756,
+      "lng": 120.4898722,
+      "routes": [
+        "512",
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.846Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13729330891,
+      "name": "下萬丹",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.583967,
+      "lng": 120.4884385,
+      "routes": [
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.846Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13729330893,
+      "name": "寶厝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5802324,
+      "lng": 120.4855994,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.846Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13729330898,
+      "name": "水泉路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5728476,
+      "lng": 120.4799902,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202F"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731819191,
+      "name": "萬丹國中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5960078,
+      "lng": 120.4885657,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731819193,
+      "name": "板橋頭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.62067,
+      "lng": 120.48038,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731819194,
+      "name": "四維村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.6034081,
+      "lng": 120.4879817,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731819197,
+      "name": "上廣安",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.626891,
+      "lng": 120.480095,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731819199,
+      "name": "下廣安",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.60889,
+      "lng": 120.48669,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845202,
+      "name": "廣安",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.6126,
+      "lng": 120.4848,
+      "routes": [
+        "8201",
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845220,
+      "name": "香社",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.56285,
+      "lng": 120.47276,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845223,
+      "name": "上香社",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.56596,
+      "lng": 120.47498,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845227,
+      "name": "新庄路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5687,
+      "lng": 120.47699,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9127"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116921,
+      "name": "下蚶",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.59581,
+      "lng": 120.47092,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116923,
+      "name": "萬丹鄉公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.589922,
+      "lng": 120.484753,
+      "routes": [
+        "8203",
+        "小黃公車702A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116925,
+      "name": "上蚶",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.602103,
+      "lng": 120.469503,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116926,
+      "name": "下社皮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.6091387,
+      "lng": 120.4692859,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116929,
+      "name": "上社皮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.61796,
+      "lng": 120.46983,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116930,
+      "name": "社皮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.6157451,
+      "lng": 120.4680155,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116933,
+      "name": "菜寮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.62118,
+      "lng": 120.47205,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116935,
+      "name": "社上村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.62519,
+      "lng": 120.47283,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116937,
+      "name": "下萬丹",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.58324,
+      "lng": 120.48905,
+      "routes": [
+        "8201A",
+        "8201B",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116943,
+      "name": "大仁路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.55039,
+      "lng": 120.485086,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116945,
+      "name": "上新庄子",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.564804,
+      "lng": 120.486015,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116946,
+      "name": "新庄子",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.561778,
+      "lng": 120.486632,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116949,
+      "name": "水哮路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.5581,
+      "lng": 120.485989,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116951,
+      "name": "水泉",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.575338,
+      "lng": 120.488448,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964508,
+      "name": "溪湖",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.58035,
+      "lng": 120.50826,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964513,
+      "name": "香蕉市",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.582525,
+      "lng": 120.502938,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964523,
+      "name": "萬壽丹榮路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.58596,
+      "lng": 120.49261,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964525,
+      "name": "萬壽路一段",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬丹鄉",
+      "lat": 22.58445,
+      "lng": 120.49699,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.848Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

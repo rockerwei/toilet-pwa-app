@@ -1,0 +1,29 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:25:57.417Z",
+  "items": [
+    {
+      "id": 263767589,
+      "name": "中興穀堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8695084,
+      "lng": 120.459983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:25:57.415Z",
+      "address": "52341彰化縣埤頭鄉彰水路二段526號"
+    },
+    {
+      "id": 1454084181,
+      "name": "貝林古堡菲尼克斯教堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.8782643,
+      "lng": 120.5012117,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:25:57.417Z",
+      "address": "彰化縣埤頭鄉和豊村22鄰斗苑東路1之68號"
+    }
+  ]
+}

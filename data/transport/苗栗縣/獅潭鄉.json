@@ -1,0 +1,608 @@
+{
+  "city": "苗栗縣",
+  "district": "獅潭鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 37,
+  "items": [
+    {
+      "id": 3663084991,
+      "name": "獅潭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5414433,
+      "lng": 120.9211521,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3664198110,
+      "name": "仙山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5417136,
+      "lng": 120.9485281,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616375447,
+      "name": "三寮坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4570153,
+      "lng": 120.8806351,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616377331,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4589637,
+      "lng": 120.8834909,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4617563230,
+      "name": "弘法院",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4667677,
+      "lng": 120.8864534,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4617563246,
+      "name": "楊曦坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4656196,
+      "lng": 120.8837122,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4617563267,
+      "name": "南庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4614912,
+      "lng": 120.8857882,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618345053,
+      "name": "北庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4712776,
+      "lng": 120.8870081,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618701500,
+      "name": "大寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4775149,
+      "lng": 120.8908712,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618701502,
+      "name": "豐林國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4765265,
+      "lng": 120.889788,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618701503,
+      "name": "豐林國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4756755,
+      "lng": 120.889398,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618748029,
+      "name": "鹽水坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4894503,
+      "lng": 120.8989608,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618748043,
+      "name": "伯公潭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4870576,
+      "lng": 120.900204,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618748079,
+      "name": "楓樹崀",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4842114,
+      "lng": 120.8979456,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618748081,
+      "name": "新豐",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4817325,
+      "lng": 120.8961667,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4618748086,
+      "name": "八角林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4794141,
+      "lng": 120.8939384,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619829455,
+      "name": "大坡塘",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5004098,
+      "lng": 120.9030097,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619829456,
+      "name": "大坡塘",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4992822,
+      "lng": 120.9025785,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619829457,
+      "name": "香圓窩",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4959005,
+      "lng": 120.9016102,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619829472,
+      "name": "豐福",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4919195,
+      "lng": 120.9001357,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619866318,
+      "name": "下和興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5160848,
+      "lng": 120.9111813,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619866320,
+      "name": "和興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5145095,
+      "lng": 120.91073,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619866328,
+      "name": "上和興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5103046,
+      "lng": 120.9102673,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4619866369,
+      "name": "湖塘",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5063668,
+      "lng": 120.9113235,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339665,
+      "name": "新興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5331717,
+      "lng": 120.9178782,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339667,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5296214,
+      "lng": 120.9159652,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339669,
+      "name": "中興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5280353,
+      "lng": 120.913352,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339671,
+      "name": "管理站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5360729,
+      "lng": 120.9184073,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339673,
+      "name": "五文宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5261075,
+      "lng": 120.9133792,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620339678,
+      "name": "福興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5245226,
+      "lng": 120.9129527,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620340201,
+      "name": "福興口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5201496,
+      "lng": 120.9122272,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620612498,
+      "name": "仙山入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5393193,
+      "lng": 120.9196421,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620612503,
+      "name": "大東勢口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5379065,
+      "lng": 120.918532,
+      "routes": [
+        "5657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5272628635,
+      "name": "汶水",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4578692,
+      "lng": 120.8757057,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713831744,
+      "name": "桂竹林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.4660228,
+      "lng": 120.8793229,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713831758,
+      "name": "東坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.466743,
+      "lng": 120.86824,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000398,
+      "name": "鄉界",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "獅潭鄉",
+      "lat": 24.5331844,
+      "lng": 120.9529472,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

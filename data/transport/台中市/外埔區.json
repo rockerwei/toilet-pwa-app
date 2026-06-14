@@ -1,0 +1,1245 @@
+{
+  "city": "台中市",
+  "district": "外埔區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 90,
+  "items": [
+    {
+      "id": 3042725033,
+      "name": "永豐農憩小站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3340272,
+      "lng": 120.6914729
+    },
+    {
+      "id": 3042725045,
+      "name": "六分月眉北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3347944,
+      "lng": 120.6998921
+    },
+    {
+      "id": 3042755427,
+      "name": "六分永眉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3314086,
+      "lng": 120.6884908,
+      "routes": [
+        "市民小巴3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3042757978,
+      "name": "六分新厝路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3340853,
+      "lng": 120.6885489
+    },
+    {
+      "id": 3403243058,
+      "name": "番仔田",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3466944,
+      "lng": 120.6441455,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243060,
+      "name": "明湖新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3465121,
+      "lng": 120.6477555,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243062,
+      "name": "鐵砧山(長生路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3470857,
+      "lng": 120.6534045
+    },
+    {
+      "id": 3403243064,
+      "name": "鐵山國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3482827,
+      "lng": 120.6561973,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243067,
+      "name": "新厝(長生路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3495294,
+      "lng": 120.6626364,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243070,
+      "name": "埤腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3441872,
+      "lng": 120.6638914,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243073,
+      "name": "馬鳴埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3402484,
+      "lng": 120.6629547,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243075,
+      "name": "大馬中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3387489,
+      "lng": 120.6570697
+    },
+    {
+      "id": 3403243089,
+      "name": "中山大馬路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3377185,
+      "lng": 120.6553455,
+      "routes": [
+        "95",
+        "95副",
+        "210"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3403243794,
+      "name": "外埔區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3320347,
+      "lng": 120.6545349
+    },
+    {
+      "id": 3403243796,
+      "name": "外埔老人文康中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.33255,
+      "lng": 120.6514285
+    },
+    {
+      "id": 3403243807,
+      "name": "外埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3326099,
+      "lng": 120.6525602
+    },
+    {
+      "id": 3577265691,
+      "name": "一安定",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3363944,
+      "lng": 120.7118572,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276293,
+      "name": "上廍子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3466055,
+      "lng": 120.6996009,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276295,
+      "name": "中廍仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3457235,
+      "lng": 120.6937315,
+      "routes": [
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276297,
+      "name": "五崁腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3329346,
+      "lng": 120.7145358,
+      "routes": [
+        "211",
+        "211區",
+        "214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276299,
+      "name": "北路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3453072,
+      "lng": 120.6906163,
+      "routes": [
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276301,
+      "name": "南路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3461367,
+      "lng": 120.6967733,
+      "routes": [
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276305,
+      "name": "土城(土城路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3451391,
+      "lng": 120.7038551
+    },
+    {
+      "id": 3577276307,
+      "name": "安定",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3427987,
+      "lng": 120.7070711,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3577276309,
+      "name": "永豐1鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3336357,
+      "lng": 120.7088054
+    },
+    {
+      "id": 3578803090,
+      "name": "三崁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3219204,
+      "lng": 120.6647984
+    },
+    {
+      "id": 3578803092,
+      "name": "三崁中點",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3194278,
+      "lng": 120.6681879
+    },
+    {
+      "id": 3578812293,
+      "name": "三崁中點",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3204026,
+      "lng": 120.6675165,
+      "routes": [
+        "92",
+        "157",
+        "157延",
+        "212",
+        "213",
+        "215",
+        "811"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.756Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812294,
+      "name": "下廍仔(土城路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3448874,
+      "lng": 120.6856463,
+      "routes": [
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812296,
+      "name": "久輪公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3238802,
+      "lng": 120.6614338
+    },
+    {
+      "id": 3578812300,
+      "name": "司普公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3181086,
+      "lng": 120.6703355
+    },
+    {
+      "id": 3578812302,
+      "name": "后寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3354142,
+      "lng": 120.6496683
+    },
+    {
+      "id": 3578812306,
+      "name": "土城廍子路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3446966,
+      "lng": 120.6831971,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812308,
+      "name": "外埔自來水廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3313645,
+      "lng": 120.6585632
+    },
+    {
+      "id": 3578812310,
+      "name": "外埔郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3300388,
+      "lng": 120.6550613
+    },
+    {
+      "id": 3578812312,
+      "name": "大甲東",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3406145,
+      "lng": 120.6411368
+    },
+    {
+      "id": 3578812314,
+      "name": "大甲東新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3420848,
+      "lng": 120.6381536
+    },
+    {
+      "id": 3578812316,
+      "name": "崎頂(土城路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3439051,
+      "lng": 120.6754554,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812318,
+      "name": "幸福公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3408845,
+      "lng": 120.6339099,
+      "routes": [
+        "659",
+        "市民小巴3"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.758Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812320,
+      "name": "幼兒園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.332409,
+      "lng": 120.6708115,
+      "routes": [
+        "市民小巴3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.758Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812322,
+      "name": "弘彰社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3324012,
+      "lng": 120.656675
+    },
+    {
+      "id": 3578812328,
+      "name": "東泰新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3432315,
+      "lng": 120.6363123
+    },
+    {
+      "id": 3578812332,
+      "name": "永豐11鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3319671,
+      "lng": 120.6680821
+    },
+    {
+      "id": 3578812334,
+      "name": "永豐6鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3313492,
+      "lng": 120.6834241,
+      "routes": [
+        "市民小巴3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.758Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812336,
+      "name": "永豐社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3322021,
+      "lng": 120.6642368
+    },
+    {
+      "id": 3578812338,
+      "name": "永豐里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3314608,
+      "lng": 120.6788925,
+      "routes": [
+        "市民小巴3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.758Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812342,
+      "name": "甲東路36巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.341542,
+      "lng": 120.6369899,
+      "routes": [
+        "659",
+        "市民小巴3"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.758Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812344,
+      "name": "竹圍(新厝路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3411927,
+      "lng": 120.6679436,
+      "routes": [
+        "211",
+        "211區1",
+        "211區2",
+        "211區3",
+        "695",
+        "市民小巴2",
+        "市民小巴2區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.759Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812431,
+      "name": "頂竹圍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3411498,
+      "lng": 120.6719834,
+      "routes": [
+        "95副",
+        "210",
+        "211",
+        "211區"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812433,
+      "name": "風坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.344273,
+      "lng": 120.680526,
+      "routes": [
+        "211",
+        "211區1",
+        "211區2",
+        "211區3",
+        "695",
+        "市民小巴2",
+        "市民小巴2區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.935Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812435,
+      "name": "高鐵橋下公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3310972,
+      "lng": 120.6753601
+    },
+    {
+      "id": 3709768555,
+      "name": "外埔國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3327344,
+      "lng": 120.6497189
+    },
+    {
+      "id": 4047852868,
+      "name": "三清總道院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3325763,
+      "lng": 120.616431
+    },
+    {
+      "id": 4047852870,
+      "name": "天下一家社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3345718,
+      "lng": 120.6199306,
+      "routes": [
+        "212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.759Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6367322055,
+      "name": "花博外埔園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3241833,
+      "lng": 120.6852685
+    },
+    {
+      "id": 6551129321,
+      "name": "仁美社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3355572,
+      "lng": 120.6263557,
+      "routes": [
+        "212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551129325,
+      "name": "明大社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3338562,
+      "lng": 120.6294161,
+      "routes": [
+        "212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551129334,
+      "name": "水美公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3327075,
+      "lng": 120.6325315,
+      "routes": [
+        "212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551129336,
+      "name": "水美里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3310957,
+      "lng": 120.6340966
+    },
+    {
+      "id": 6551129338,
+      "name": "水美后寮路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3321516,
+      "lng": 120.6420842
+    },
+    {
+      "id": 7133601184,
+      "name": "田中央(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3362109,
+      "lng": 120.6550044
+    },
+    {
+      "id": 7133628086,
+      "name": "中山里福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3398854,
+      "lng": 120.6616649
+    },
+    {
+      "id": 7133628088,
+      "name": "開元英才巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3463319,
+      "lng": 120.6360411
+    },
+    {
+      "id": 7133628090,
+      "name": "鐵山腳公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3463617,
+      "lng": 120.6422045
+    },
+    {
+      "id": 7140936206,
+      "name": "土城東路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3353922,
+      "lng": 120.7137045,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936208,
+      "name": "福德祠(廍子路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.347542,
+      "lng": 120.6966886,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936210,
+      "name": "廍子中路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3489581,
+      "lng": 120.6931883,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936212,
+      "name": "溪埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3501964,
+      "lng": 120.6890067,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936214,
+      "name": "觀園庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3514646,
+      "lng": 120.6866249,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936216,
+      "name": "蔗廍(廍子路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3495024,
+      "lng": 120.6854635,
+      "routes": [
+        "695"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.935Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936218,
+      "name": "廍子路5鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3474106,
+      "lng": 120.6849432,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936220,
+      "name": "大東里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3407802,
+      "lng": 120.6429465,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7140936222,
+      "name": "庄內巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3397465,
+      "lng": 120.6484571,
+      "routes": [
+        "95副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7999894648,
+      "name": "中山路284巷口(六分公園)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3300314,
+      "lng": 120.6570174
+    },
+    {
+      "id": 7999894654,
+      "name": "二崁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3275262,
+      "lng": 120.6579012
+    },
+    {
+      "id": 7999894656,
+      "name": "甲后六支巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3258985,
+      "lng": 120.6592959
+    },
+    {
+      "id": 8022388035,
+      "name": "英倫皇家社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3282888,
+      "lng": 120.6465876
+    },
+    {
+      "id": 8022388040,
+      "name": "三環二崁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3258912,
+      "lng": 120.6482506
+    },
+    {
+      "id": 8022388044,
+      "name": "三環三崁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3203674,
+      "lng": 120.653623
+    },
+    {
+      "id": 8022388047,
+      "name": "三崁里四鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3194998,
+      "lng": 120.6589821
+    },
+    {
+      "id": 8022388049,
+      "name": "三崁里三鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3196464,
+      "lng": 120.6639013
+    },
+    {
+      "id": 9136573308,
+      "name": "甲后路五段316巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3442962,
+      "lng": 120.6345659,
+      "routes": [
+        "92",
+        "154",
+        "154延",
+        "157",
+        "157延",
+        "157繞",
+        "211區3",
+        "213",
+        "215",
+        "651",
+        "651副",
+        "658",
+        "658副",
+        "811",
+        "813",
+        "813區1",
+        "市民小巴2"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10238795749,
+      "name": "埤腳頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.34748,
+      "lng": 120.6635689,
+      "routes": [
+        "95",
+        "95副",
+        "211",
+        "211區1",
+        "211區2",
+        "695"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588031,
+      "name": "廍子5鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3451826,
+      "lng": 120.6885673
+    },
+    {
+      "id": 10254949488,
+      "name": "二崁路112巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3252777,
+      "lng": 120.6525834,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949490,
+      "name": "二崁路301巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.325518,
+      "lng": 120.6428127,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949492,
+      "name": "水美國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3259959,
+      "lng": 120.6370073,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949494,
+      "name": "二崁路568巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.324786,
+      "lng": 120.6309867,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.761Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949496,
+      "name": "二崁路385巷13弄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.3239877,
+      "lng": 120.6368103,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.937Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949498,
+      "name": "三崁活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "外埔區",
+      "lat": 24.318808,
+      "lng": 120.6503673,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.937Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

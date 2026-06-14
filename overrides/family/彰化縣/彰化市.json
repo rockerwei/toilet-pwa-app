@@ -1,0 +1,492 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:02:53.169Z",
+  "items": [
+    {
+      "id": 1737384682,
+      "name": "八卦山大佛",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0785702,
+      "lng": 120.5488689,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.137Z"
+    },
+    {
+      "id": 2284082316,
+      "name": "龍鳳谷步道口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0587833,
+      "lng": 120.5679,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.141Z"
+    },
+    {
+      "id": 2870590139,
+      "name": "F-5E",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0785597,
+      "lng": 120.5585272,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.143Z"
+    },
+    {
+      "id": 2969670851,
+      "name": "彰化縣原住民生活館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.08565,
+      "lng": 120.5603,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.144Z"
+    },
+    {
+      "id": 3121763966,
+      "name": "彰化扇形車庫",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0861086,
+      "lng": 120.5401255,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.145Z",
+      "address": "500彰化縣彰化市彰美路一段1號"
+    },
+    {
+      "id": 3281592142,
+      "name": "銀橋飛瀑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0791532,
+      "lng": 120.5483768,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.147Z"
+    },
+    {
+      "id": 3661265890,
+      "name": "節孝祠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0769379,
+      "lng": 120.5463013,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.148Z",
+      "address": "500彰化縣彰化市公園路一段51號"
+    },
+    {
+      "id": 4021746500,
+      "name": "旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0817561,
+      "lng": 120.5385516,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.149Z"
+    },
+    {
+      "id": 4809732423,
+      "name": "華陽吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.068259,
+      "lng": 120.5547519,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.150Z"
+    },
+    {
+      "id": 5144541425,
+      "name": "彰化台鐵宿舍村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0862576,
+      "lng": 120.5409977,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.151Z"
+    },
+    {
+      "id": 6577863253,
+      "name": "八卦山大佛風景區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0769938,
+      "lng": 120.549269,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.151Z"
+    },
+    {
+      "id": 9196686317,
+      "name": "岔路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0622974,
+      "lng": 120.5638215,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.152Z"
+    },
+    {
+      "id": 9196686417,
+      "name": "岔路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0615808,
+      "lng": 120.5643527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.152Z"
+    },
+    {
+      "id": 9196686418,
+      "name": "岔路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0628183,
+      "lng": 120.5649669,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.153Z"
+    },
+    {
+      "id": 9196692617,
+      "name": "岔路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0613789,
+      "lng": 120.565679,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.153Z"
+    },
+    {
+      "id": 9385795021,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.06322,
+      "lng": 120.5707,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.154Z"
+    },
+    {
+      "id": 9385795023,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.06301,
+      "lng": 120.56742,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.154Z"
+    },
+    {
+      "id": 9385795026,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.06041,
+      "lng": 120.56557,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.155Z"
+    },
+    {
+      "id": 9671815215,
+      "name": "小西特色街巷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0807753,
+      "lng": 120.5392117,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.155Z"
+    },
+    {
+      "id": 9811846664,
+      "name": "戶羽機關車園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.08516,
+      "lng": 120.5392446,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.156Z"
+    },
+    {
+      "id": 10259101380,
+      "name": "烏溪豆腐岩",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1001456,
+      "lng": 120.6045596,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.156Z"
+    },
+    {
+      "id": 10767840683,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.062199,
+      "lng": 120.56875,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.157Z"
+    },
+    {
+      "id": 10767840684,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.058296,
+      "lng": 120.57377,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.157Z"
+    },
+    {
+      "id": 10767840685,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.057688,
+      "lng": 120.57197,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.158Z"
+    },
+    {
+      "id": 10767840706,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.05997,
+      "lng": 120.56827,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.158Z"
+    },
+    {
+      "id": 10767840707,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.060129,
+      "lng": 120.56828,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.158Z"
+    },
+    {
+      "id": 10767840708,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.059801,
+      "lng": 120.56606,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.159Z"
+    },
+    {
+      "id": 10767840709,
+      "name": "南投",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.060401,
+      "lng": 120.56564,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.159Z"
+    },
+    {
+      "id": 11816461490,
+      "name": "八卦山大佛風景區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0780155,
+      "lng": 120.5466112,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.160Z"
+    },
+    {
+      "id": 11816461491,
+      "name": "八卦山大佛風景區觀光導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.078202,
+      "lng": 120.5464188,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.160Z"
+    },
+    {
+      "id": 11816461537,
+      "name": "八卦山大佛風景區觀光導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0790019,
+      "lng": 120.5484956,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.161Z"
+    },
+    {
+      "id": 11816461538,
+      "name": "銀橋飛瀑",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0792671,
+      "lng": 120.5484444,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.161Z"
+    },
+    {
+      "id": 11817546139,
+      "name": "八卦山大佛區旅遊導覽示意圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0785069,
+      "lng": 120.548101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.162Z"
+    },
+    {
+      "id": 11817665671,
+      "name": "展望解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0782271,
+      "lng": 120.5476766,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.162Z"
+    },
+    {
+      "id": 11817665672,
+      "name": "展望解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0780187,
+      "lng": 120.5477132,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.163Z"
+    },
+    {
+      "id": 11817665717,
+      "name": "樹12生肖雕像誌記",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0785931,
+      "lng": 120.5487772,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.163Z"
+    },
+    {
+      "id": 11817665847,
+      "name": "賴和",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0788231,
+      "lng": 120.5469031,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.164Z"
+    },
+    {
+      "id": 11817681185,
+      "name": "文學年表年代次序",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0786342,
+      "lng": 120.5463764,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.164Z"
+    },
+    {
+      "id": 11817681207,
+      "name": "八卦山文學步道設定緣起",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0784963,
+      "lng": 120.5458434,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.165Z"
+    },
+    {
+      "id": 178684149,
+      "name": "古月民俗館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.0781154,
+      "lng": 120.5427793,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.165Z"
+    },
+    {
+      "id": 179485374,
+      "name": "開化寺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0787606,
+      "lng": 120.5408222,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.165Z",
+      "address": "50046彰化縣彰化市光華里中華路134號"
+    },
+    {
+      "id": 277512900,
+      "name": "八卦山脈生態遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0784533,
+      "lng": 120.5556193,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.166Z"
+    },
+    {
+      "id": 314222405,
+      "name": "彰化孔子廟",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0788626,
+      "lng": 120.543393,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.166Z",
+      "address": "500彰化縣彰化市孔門路30號"
+    },
+    {
+      "id": 318334951,
+      "name": "不老泉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0744756,
+      "lng": 120.5570869,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.167Z"
+    },
+    {
+      "id": 366900744,
+      "name": "蘭大衛夫婦切膚之愛紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.0718281,
+      "lng": 120.54401,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.167Z"
+    },
+    {
+      "id": 993933807,
+      "name": "1895八卦山抗日保台史蹟館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.078581,
+      "lng": 120.5457215,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.168Z",
+      "address": "500彰化縣彰化市中山路二段500號"
+    },
+    {
+      "id": 1251699053,
+      "name": "八卦山大佛風景區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0769714,
+      "lng": 120.549289,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.168Z"
+    },
+    {
+      "id": 1470157271,
+      "name": "F-104G",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0799495,
+      "lng": 120.5497059,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:02:53.169Z"
+    }
+  ]
+}

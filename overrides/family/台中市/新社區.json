@@ -1,0 +1,179 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:46:35.478Z",
+  "items": [
+    {
+      "id": 4994216723,
+      "name": "薰衣草森林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1310235,
+      "lng": 120.8429833,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.461Z"
+    },
+    {
+      "id": 5042481061,
+      "name": "石灰窯道路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1559139,
+      "lng": 120.8614928,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.463Z"
+    },
+    {
+      "id": 5042486192,
+      "name": "石灰窯道路",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.156049,
+      "lng": 120.861463,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.465Z"
+    },
+    {
+      "id": 5055992957,
+      "name": "（往東）公墓   …  往南勢村第一鄰（往南）",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1586018,
+      "lng": 120.8868843,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.466Z"
+    },
+    {
+      "id": 5056031784,
+      "name": "和平區南勢里佈告欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1567047,
+      "lng": 120.8833156,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.467Z"
+    },
+    {
+      "id": 6604210693,
+      "name": "水頭神木",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2261438,
+      "lng": 120.7944957,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.469Z"
+    },
+    {
+      "id": 9849970836,
+      "name": "馬力埔彩繪小徑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2219727,
+      "lng": 120.7934305,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.470Z"
+    },
+    {
+      "id": 9850421732,
+      "name": "大南坡櫻花",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2325727,
+      "lng": 120.803818,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.471Z"
+    },
+    {
+      "id": 10574012327,
+      "name": "新社梅花隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.15905,
+      "lng": 120.86225,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.472Z"
+    },
+    {
+      "id": 10574087631,
+      "name": "新社梅花森林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1552722,
+      "lng": 120.8601894,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.473Z"
+    },
+    {
+      "id": 10869635591,
+      "name": "赤崁頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2142339,
+      "lng": 120.8141018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.474Z"
+    },
+    {
+      "id": 11076464562,
+      "name": "大坑登山步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1794838,
+      "lng": 120.7999345,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.475Z"
+    },
+    {
+      "id": 510324055,
+      "name": "福龍水橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1541741,
+      "lng": 120.8553686,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.476Z"
+    },
+    {
+      "id": 525212428,
+      "name": "新社古堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1869511,
+      "lng": 120.8124022,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.477Z"
+    },
+    {
+      "id": 1112439808,
+      "name": "大坑風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 24.1808982,
+      "lng": 120.7936313,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.477Z"
+    },
+    {
+      "id": 1238813180,
+      "name": "陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2282421,
+      "lng": 120.8038352,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.478Z",
+      "address": "臺中市新社區大南里3鄰興中街59號"
+    },
+    {
+      "id": 1238813181,
+      "name": "原蔗苗養成所",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.2286161,
+      "lng": 120.8038649,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:46:35.478Z",
+      "address": "臺中市新社區大南里3鄰興中街59號"
+    }
+  ]
+}

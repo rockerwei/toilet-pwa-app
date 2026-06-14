@@ -1,0 +1,27 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:38:28.819Z",
+  "items": [
+    {
+      "id": 9334744885,
+      "name": "竹坑南寮A步道觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1774195,
+      "lng": 120.5536275,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:38:28.816Z"
+    },
+    {
+      "id": 7015018,
+      "name": "大肚溪口野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.1842441,
+      "lng": 120.4706709,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:38:28.819Z"
+    }
+  ]
+}

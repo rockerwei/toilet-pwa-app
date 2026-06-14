@@ -1,0 +1,27 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:18:26.636Z",
+  "items": [
+    {
+      "id": 7548959534,
+      "name": "雙心池塘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.996691,
+      "lng": 120.5773651,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:18:26.633Z"
+    },
+    {
+      "id": 1446585493,
+      "name": "歐鄉莊園商旅",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.972911,
+      "lng": 120.5656441,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:18:26.636Z"
+    }
+  ]
+}

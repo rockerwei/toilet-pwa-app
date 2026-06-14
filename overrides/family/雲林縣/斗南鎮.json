@@ -1,0 +1,37 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:45:55.448Z",
+  "items": [
+    {
+      "id": 4502776269,
+      "name": "斗南火車站前廣場蔗糖紀念車",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.6730473,
+      "lng": 120.4804774,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:45:55.444Z"
+    },
+    {
+      "id": 5764875752,
+      "name": "中華民國六房媽會文博館籌備處",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.678239,
+      "lng": 120.4675372,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:45:55.446Z"
+    },
+    {
+      "id": 7360127970,
+      "name": "斗南站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.6726281,
+      "lng": 120.4806133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:45:55.448Z"
+    }
+  ]
+}

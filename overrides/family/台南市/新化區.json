@@ -1,0 +1,300 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:02:15.616Z",
+  "items": [
+    {
+      "id": 1891168133,
+      "name": "新化神社遺址",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0281855,
+      "lng": 120.3369333,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.593Z"
+    },
+    {
+      "id": 2266535221,
+      "name": "江亭坐月",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0264402,
+      "lng": 120.3384805,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.595Z"
+    },
+    {
+      "id": 2266535222,
+      "name": "蟋蟀生態館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 23.0292464,
+      "lng": 120.3394038,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.597Z"
+    },
+    {
+      "id": 5415916383,
+      "name": "瓜瓜園生態故事館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0260524,
+      "lng": 120.3083503,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.598Z",
+      "address": "712臺南市新化區中正路65號"
+    },
+    {
+      "id": 6223500085,
+      "name": "南圳綠堤公園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.031196,
+      "lng": 120.304863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.600Z"
+    },
+    {
+      "id": 6699845948,
+      "name": "迎賓廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0271195,
+      "lng": 120.336601,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.601Z"
+    },
+    {
+      "id": 6699845950,
+      "name": "水上舞台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0286121,
+      "lng": 120.3378415,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.602Z"
+    },
+    {
+      "id": 6699845952,
+      "name": "第一碼頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0266539,
+      "lng": 120.3373659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.604Z"
+    },
+    {
+      "id": 6700709930,
+      "name": "虎頭倒影",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0283954,
+      "lng": 120.3388754,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.605Z"
+    },
+    {
+      "id": 6700709946,
+      "name": "閘口飛泉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0259825,
+      "lng": 120.3398343,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.606Z"
+    },
+    {
+      "id": 6700709949,
+      "name": "濠上觀魚",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0269182,
+      "lng": 120.3390162,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.608Z"
+    },
+    {
+      "id": 6700709950,
+      "name": "虎溪釣月",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0297012,
+      "lng": 120.3447058,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.608Z"
+    },
+    {
+      "id": 6700709951,
+      "name": "孤嶼螺痕",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0300805,
+      "lng": 120.3395995,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.609Z"
+    },
+    {
+      "id": 6700709958,
+      "name": "虎嶼歸雲",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0304659,
+      "lng": 120.3380821,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.609Z"
+    },
+    {
+      "id": 6700766802,
+      "name": "壩體重修碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0262106,
+      "lng": 120.3368972,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.610Z"
+    },
+    {
+      "id": 6700766803,
+      "name": "親子滑水道觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0301384,
+      "lng": 120.3408828,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.610Z"
+    },
+    {
+      "id": 6718187918,
+      "name": "水橋虹影",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0279325,
+      "lng": 120.3378372,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.611Z"
+    },
+    {
+      "id": 6718187919,
+      "name": "虎埤泛月",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.027301,
+      "lng": 120.3365262,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.611Z"
+    },
+    {
+      "id": 6718216042,
+      "name": "荷蘭古渠道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0313824,
+      "lng": 120.3376293,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.612Z"
+    },
+    {
+      "id": 9384886217,
+      "name": "駱駝尾",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0134944,
+      "lng": 120.3665883,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.612Z"
+    },
+    {
+      "id": 9384970917,
+      "name": "親子橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0170565,
+      "lng": 120.36474,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.612Z"
+    },
+    {
+      "id": 9551361617,
+      "name": "賞林休息區",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0144746,
+      "lng": 120.3686163,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.613Z"
+    },
+    {
+      "id": 10716380739,
+      "name": "月光舞台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.0248059,
+      "lng": 120.3488869,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.613Z"
+    },
+    {
+      "id": 10716460632,
+      "name": "西拉雅之眼-野生動物關懷山岳",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0220959,
+      "lng": 120.347805,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.614Z"
+    },
+    {
+      "id": 173910176,
+      "name": "虎月吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0269993,
+      "lng": 120.3388196,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.614Z"
+    },
+    {
+      "id": 230582245,
+      "name": "九層嶺文化養生園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0373961,
+      "lng": 120.3729185,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.615Z"
+    },
+    {
+      "id": 538545573,
+      "name": "楊逵文學紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.0379005,
+      "lng": 120.3077655,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.615Z",
+      "address": "712001臺南市新化區中正路488號"
+    },
+    {
+      "id": 712601690,
+      "name": "風景區管理所",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.0268298,
+      "lng": 120.3365247,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.616Z"
+    },
+    {
+      "id": 2877982,
+      "name": "虎頭埤風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.0297244,
+      "lng": 120.3422031,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:02:15.616Z",
+      "address": "712臺南市新化區中興路42巷36號"
+    }
+  ]
+}

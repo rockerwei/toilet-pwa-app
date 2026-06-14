@@ -1,0 +1,1991 @@
+{
+  "city": "台中市",
+  "district": "和平區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 135,
+  "items": [
+    {
+      "id": 2081498470,
+      "name": "谷關",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2030928,
+      "lng": 121.0079844,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "269",
+        "850"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.747Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283647088,
+      "name": "梨山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2550764,
+      "lng": 121.2513145,
+      "routes": [
+        "865臨",
+        "866",
+        "866區1",
+        "1141",
+        "1751",
+        "1764",
+        "梨山1路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.747Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3507258199,
+      "name": "思源菜園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3914348,
+      "lng": 121.3525338
+    },
+    {
+      "id": 3507258519,
+      "name": "勝光",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3682193,
+      "lng": 121.3389809,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3870434811,
+      "name": "白冷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.183035,
+      "lng": 120.92494
+    },
+    {
+      "id": 3870566513,
+      "name": "和合",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1696678,
+      "lng": 120.8697002,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850",
+        "黃9"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.747Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3870566635,
+      "name": "和平衛生所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1739489,
+      "lng": 120.8889292
+    },
+    {
+      "id": 3870571678,
+      "name": "外和平",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1732615,
+      "lng": 120.8776438
+    },
+    {
+      "id": 4907709415,
+      "name": "達觀",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3278825,
+      "lng": 120.9198879,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.304Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4907711448,
+      "name": "下達觀",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.325072,
+      "lng": 120.9215992,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.304Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974358540,
+      "name": "和平",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1751741,
+      "lng": 120.8820061
+    },
+    {
+      "id": 4974363249,
+      "name": "東關和榮路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1705163,
+      "lng": 120.8723873,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850",
+        "黃9"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974370154,
+      "name": "和平區農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1746802,
+      "lng": 120.8837878
+    },
+    {
+      "id": 4974371937,
+      "name": "南勢",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1691913,
+      "lng": 120.8970739,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.305Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974372136,
+      "name": "和平國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1718779,
+      "lng": 120.8954736,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.305Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107592958,
+      "name": "台電保護站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2588068,
+      "lng": 121.2552251
+    },
+    {
+      "id": 5107592960,
+      "name": "梨山農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2555862,
+      "lng": 121.2537231,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107592962,
+      "name": "分路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2545811,
+      "lng": 121.247149
+    },
+    {
+      "id": 5107598373,
+      "name": "福德",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.264107,
+      "lng": 121.2596092,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107598375,
+      "name": "福德",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2608364,
+      "lng": 121.2579998,
+      "routes": [
+        "866"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107689323,
+      "name": "上松茂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2707421,
+      "lng": 121.2592055
+    },
+    {
+      "id": 5107713642,
+      "name": "環山派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3137606,
+      "lng": 121.2950331,
+      "routes": [
+        "866"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713644,
+      "name": "環山社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.311757,
+      "lng": 121.2918064
+    },
+    {
+      "id": 5107713646,
+      "name": "龜山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3052725,
+      "lng": 121.2843244,
+      "routes": [
+        "866",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713648,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3027852,
+      "lng": 121.2815322,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713650,
+      "name": "清泉橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2973815,
+      "lng": 121.2798974,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713652,
+      "name": "清泉橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2947779,
+      "lng": 121.2712567,
+      "routes": [
+        "866"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713654,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2915668,
+      "lng": 121.2689003,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713656,
+      "name": "下松茂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2869242,
+      "lng": 121.2646544
+    },
+    {
+      "id": 5107713658,
+      "name": "松茂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2834562,
+      "lng": 121.2666084,
+      "routes": [
+        "866",
+        "1751",
+        "1764",
+        "梨山1路"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107713660,
+      "name": "上松茂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2808376,
+      "lng": 121.2656562
+    },
+    {
+      "id": 5107725633,
+      "name": "豫立商行",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3274114,
+      "lng": 121.3077521,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107725635,
+      "name": "苗圃(中興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3268028,
+      "lng": 121.3064888
+    },
+    {
+      "id": 5107725637,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.324861,
+      "lng": 121.3042773
+    },
+    {
+      "id": 5107725639,
+      "name": "桂林菓園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3243832,
+      "lng": 121.3019317,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107725641,
+      "name": "環興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3275605,
+      "lng": 121.2952423
+    },
+    {
+      "id": 5107725643,
+      "name": "環興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3263409,
+      "lng": 121.2952262
+    },
+    {
+      "id": 5107725645,
+      "name": "壺溪畔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3233175,
+      "lng": 121.2951779,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107728412,
+      "name": "武陵賓館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3474326,
+      "lng": 121.3101782,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107728414,
+      "name": "百福橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3441178,
+      "lng": 121.3151282,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107728416,
+      "name": "武陵",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3488817,
+      "lng": 121.3220899
+    },
+    {
+      "id": 5107728418,
+      "name": "武陵中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3485476,
+      "lng": 121.3217955,
+      "routes": [
+        "866"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.749Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107728419,
+      "name": "長青山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3461766,
+      "lng": 121.317687,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107731185,
+      "name": "志良派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3405951,
+      "lng": 121.3125546
+    },
+    {
+      "id": 5107731189,
+      "name": "和平農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3375825,
+      "lng": 121.3113909
+    },
+    {
+      "id": 5107765209,
+      "name": "思源派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3935422,
+      "lng": 121.3533296,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107765210,
+      "name": "思源",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3809418,
+      "lng": 121.3446245
+    },
+    {
+      "id": 5107765212,
+      "name": "小啞口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3774931,
+      "lng": 121.3380656
+    },
+    {
+      "id": 5107765217,
+      "name": "勝光菜園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3629355,
+      "lng": 121.3352823,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107765219,
+      "name": "花圃",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3616038,
+      "lng": 121.3316962,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107765322,
+      "name": "香菇橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3561489,
+      "lng": 121.3257243,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5189690699,
+      "name": "佳保臺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2011776,
+      "lng": 121.001802,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "269",
+        "850"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.750Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5189693522,
+      "name": "十文溪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1995263,
+      "lng": 120.9999673,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "850"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.750Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5189723861,
+      "name": "龍谷樂園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2029676,
+      "lng": 121.0042346
+    },
+    {
+      "id": 5772758339,
+      "name": "天輪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.178286,
+      "lng": 120.9291369,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.305Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5772758342,
+      "name": "鐵線橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1869025,
+      "lng": 120.9197062,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.305Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5772758456,
+      "name": "馬鞍壩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1838868,
+      "lng": 120.9126078,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.305Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5772758459,
+      "name": "白鹿橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1764214,
+      "lng": 120.9095031
+    },
+    {
+      "id": 5772758460,
+      "name": "白鹿橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1754965,
+      "lng": 120.9095433
+    },
+    {
+      "id": 5772758461,
+      "name": "下白鹿",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1696799,
+      "lng": 120.9045437,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "850"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.751Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773194314,
+      "name": "武漢技訓中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1718578,
+      "lng": 120.9639949,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.306Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773194316,
+      "name": "下博愛",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.168679,
+      "lng": 120.9603122,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "850"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.928Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773194318,
+      "name": "土場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1691122,
+      "lng": 120.9549692
+    },
+    {
+      "id": 5773194320,
+      "name": "裡冷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1667385,
+      "lng": 120.9485842
+    },
+    {
+      "id": 5773194322,
+      "name": "大道院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1708545,
+      "lng": 120.9411719
+    },
+    {
+      "id": 5773194324,
+      "name": "天輪新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1754549,
+      "lng": 120.9312759,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.306Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773203040,
+      "name": "上麗陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1941642,
+      "lng": 120.9948322
+    },
+    {
+      "id": 5773203042,
+      "name": "中麗陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1885381,
+      "lng": 120.9904441,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.306Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773203044,
+      "name": "麗陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1870432,
+      "lng": 120.9893444,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.306Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773203045,
+      "name": "松鶴",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1754206,
+      "lng": 120.9743831
+    },
+    {
+      "id": 5773203047,
+      "name": "博愛",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1744638,
+      "lng": 120.9728166,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "266",
+        "266繞",
+        "267",
+        "850",
+        "865"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.306Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6059944351,
+      "name": "上台電",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2086644,
+      "lng": 121.0182212
+    },
+    {
+      "id": 6059944354,
+      "name": "台電前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2080161,
+      "lng": 121.0125324
+    },
+    {
+      "id": 6440872801,
+      "name": "武陵農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3536821,
+      "lng": 121.3102949
+    },
+    {
+      "id": 6902963285,
+      "name": "屋我尾山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1895236,
+      "lng": 120.9913343
+    },
+    {
+      "id": 7477482726,
+      "name": "上谷關",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2103632,
+      "lng": 121.0249715
+    },
+    {
+      "id": 7603219669,
+      "name": "橫流溪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2409502,
+      "lng": 120.9070318,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7603275812,
+      "name": "小雪山旅遊資訊站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2790609,
+      "lng": 121.026381,
+      "routes": [
+        "252",
+        "889"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.930Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142879,
+      "name": "中嵙溪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2602171,
+      "lng": 120.8802882,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142881,
+      "name": "松林園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2624831,
+      "lng": 120.8812958,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142883,
+      "name": "下三叉坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2680266,
+      "lng": 120.8848334,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142885,
+      "name": "三叉坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2710171,
+      "lng": 120.8868874,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142887,
+      "name": "六十甲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2727641,
+      "lng": 120.8905303,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142889,
+      "name": "上穿龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2757193,
+      "lng": 120.8924294
+    },
+    {
+      "id": 8242142891,
+      "name": "穿龍橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.279129,
+      "lng": 120.8970155
+    },
+    {
+      "id": 8242142893,
+      "name": "穿龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2813035,
+      "lng": 120.9008413,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142895,
+      "name": "下穿龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.283291,
+      "lng": 120.9024593,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142897,
+      "name": "觀音橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.285197,
+      "lng": 120.9049239,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142899,
+      "name": "下雙崎",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.28809,
+      "lng": 120.9043707,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142901,
+      "name": "雙崎",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2917467,
+      "lng": 120.9089197,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142903,
+      "name": "烏石坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2967542,
+      "lng": 120.9237016,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142905,
+      "name": "竹林(東崎路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3063755,
+      "lng": 120.9243797,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142907,
+      "name": "上竹林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.310093,
+      "lng": 120.9227128,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142909,
+      "name": "蟾蜍石",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3159896,
+      "lng": 120.9228584,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142911,
+      "name": "摩天嶺口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3189697,
+      "lng": 120.9240229,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142913,
+      "name": "香川",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3206702,
+      "lng": 120.9228536,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142915,
+      "name": "安壁口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3357437,
+      "lng": 120.9214759
+    },
+    {
+      "id": 8242232617,
+      "name": "上雪山坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3362512,
+      "lng": 120.9287291,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242232619,
+      "name": "雪山橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3345894,
+      "lng": 120.9330669,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242232621,
+      "name": "桃園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3369941,
+      "lng": 120.9341216,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242232623,
+      "name": "雪山坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3389523,
+      "lng": 120.9346804,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9396145799,
+      "name": "十三公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2258645,
+      "lng": 120.8960165,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10242983879,
+      "name": "八仙山森林遊樂區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1921039,
+      "lng": 121.0142158
+    },
+    {
+      "id": 10242983880,
+      "name": "八仙山收費站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1973093,
+      "lng": 121.0042618
+    },
+    {
+      "id": 10247216223,
+      "name": "新佳陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2477607,
+      "lng": 121.2294312
+    },
+    {
+      "id": 10265731981,
+      "name": "平安地藏堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3085041,
+      "lng": 120.9231855,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.752Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731983,
+      "name": "白布帆大橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2934081,
+      "lng": 120.9133697,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.752Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731985,
+      "name": "遊客中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2559449,
+      "lng": 121.0082477,
+      "routes": [
+        "252"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731986,
+      "name": "收費站(三十五公里)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2445901,
+      "lng": 120.9750159
+    },
+    {
+      "id": 10265731988,
+      "name": "鳶嘴山登山口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2346089,
+      "lng": 120.9532165
+    },
+    {
+      "id": 10265731990,
+      "name": "十五公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2392807,
+      "lng": 120.907023,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731992,
+      "name": "十四公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2327506,
+      "lng": 120.8999564,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002724,
+      "name": "白冷國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1831243,
+      "lng": 120.9291269,
+      "routes": [
+        "266繞2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.753Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002725,
+      "name": "哈崙台部落",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1965575,
+      "lng": 120.9956315,
+      "routes": [
+        "266繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002726,
+      "name": "梅卡 瓦歷司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1980478,
+      "lng": 120.9982448
+    },
+    {
+      "id": 10266002728,
+      "name": "裡冷活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1657883,
+      "lng": 120.9517752,
+      "routes": [
+        "266繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002729,
+      "name": "松鶴活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1782248,
+      "lng": 120.9804364,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002730,
+      "name": "松鶴二溪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.175562,
+      "lng": 120.9780703
+    },
+    {
+      "id": 10266002732,
+      "name": "松鶴三巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1742417,
+      "lng": 120.9754521
+    },
+    {
+      "id": 10983173340,
+      "name": "千櫻園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2490523,
+      "lng": 121.243732,
+      "routes": [
+        "866",
+        "866區1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.307Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173342,
+      "name": "環山部落",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3176589,
+      "lng": 121.2955686
+    },
+    {
+      "id": 10983173344,
+      "name": "梨山衛生所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2541372,
+      "lng": 121.2552903
+    },
+    {
+      "id": 10983173346,
+      "name": "梨山長老教會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2570831,
+      "lng": 121.2594007
+    },
+    {
+      "id": 10983173348,
+      "name": "梨山中小學(耶穌堂)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.256545,
+      "lng": 121.260522
+    },
+    {
+      "id": 10983173350,
+      "name": "梨山文物陳列館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2525727,
+      "lng": 121.2563024
+    },
+    {
+      "id": 10983173352,
+      "name": "福壽山農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2446917,
+      "lng": 121.2453372
+    },
+    {
+      "id": 10983173355,
+      "name": "天池達觀亭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.221296,
+      "lng": 121.237227
+    },
+    {
+      "id": 12100996472,
+      "name": "舊佳陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.257828,
+      "lng": 121.2087867
+    },
+    {
+      "id": 12100996474,
+      "name": "橫嶺山步道",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2371229,
+      "lng": 120.9499844,
+      "routes": [
+        "252",
+        "889"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.753Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996476,
+      "name": "賞鳥平台(二十三公里)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.246581,
+      "lng": 120.9357565,
+      "routes": [
+        "252",
+        "889"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.753Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996478,
+      "name": "長壽山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2441554,
+      "lng": 120.9222937,
+      "routes": [
+        "252",
+        "889"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.930Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996480,
+      "name": "出雲山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2270313,
+      "lng": 120.894135,
+      "routes": [
+        "251",
+        "252",
+        "889"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.753Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470463,
+      "name": "新佳陽部落",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.2450732,
+      "lng": 121.2284443,
+      "routes": [
+        "梨山1路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.753Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872740,
+      "name": "沙蓮巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.1876668,
+      "lng": 120.9163826,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "850"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 496914480,
+      "name": "武陵站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "和平區",
+      "lat": 24.3538262,
+      "lng": 121.310271
+    }
+  ]
+}

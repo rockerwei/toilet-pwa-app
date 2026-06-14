@@ -1,0 +1,117 @@
+{
+  "city": "彰化縣",
+  "district": "田尾鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 6,
+  "items": [
+    {
+      "id": 4416441008,
+      "name": "溪畔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.9016029,
+      "lng": 120.5374136,
+      "routes": [
+        "7路",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.944Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441010,
+      "name": "田尾國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.8917067,
+      "lng": 120.5293114,
+      "routes": [
+        "7路",
+        "1830",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.944Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441067,
+      "name": "饒平村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.8853867,
+      "lng": 120.5241461,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.260Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4416441068,
+      "name": "饒平村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.8862941,
+      "lng": 120.5241702,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.260Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5304900500,
+      "name": "改良場",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.8699642,
+      "lng": 120.5549164,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.944Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12632892388,
+      "name": "富農",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "田尾鄉",
+      "lat": 23.8865877,
+      "lng": 120.551874,
+      "routes": [
+        "7路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.944Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

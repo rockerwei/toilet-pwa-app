@@ -1,0 +1,349 @@
+{
+  "city": "彰化縣",
+  "district": "大城鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 18,
+  "items": [
+    {
+      "id": 4745473665,
+      "name": "公館路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8617772,
+      "lng": 120.2947051,
+      "routes": [
+        "6712",
+        "6714"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745473666,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8615013,
+      "lng": 120.2949572
+    },
+    {
+      "id": 4745473667,
+      "name": "東港",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8628271,
+      "lng": 120.2917077,
+      "routes": [
+        "6712",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745473680,
+      "name": "西港",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8634425,
+      "lng": 120.2899548,
+      "routes": [
+        "1630",
+        "1630A",
+        "1630C",
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562774,
+      "name": "東大城",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8588317,
+      "lng": 120.325173,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562789,
+      "name": "派出所",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8560929,
+      "lng": 120.3228864,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562792,
+      "name": "大城",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8541657,
+      "lng": 120.3211594,
+      "routes": [
+        "1630",
+        "1630A",
+        "1630C",
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B",
+        "6743",
+        "6743A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562795,
+      "name": "西大城",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8534715,
+      "lng": 120.3182626,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562799,
+      "name": "磚仔磘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8555395,
+      "lng": 120.3106478,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562801,
+      "name": "永和村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8563895,
+      "lng": 120.3080273
+    },
+    {
+      "id": 4745562802,
+      "name": "永和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8562048,
+      "lng": 120.3082768,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562804,
+      "name": "東永和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8564795,
+      "lng": 120.3060183,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562806,
+      "name": "中永和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8571235,
+      "lng": 120.3038887,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745562808,
+      "name": "西永和",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8579641,
+      "lng": 120.3014649,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745577298,
+      "name": "外中西",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8727052,
+      "lng": 120.3391252,
+      "routes": [
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745577306,
+      "name": "魚寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8663058,
+      "lng": 120.3317122,
+      "routes": [
+        "1630",
+        "1630A",
+        "6712",
+        "6712A",
+        "6714",
+        "6737",
+        "6737B",
+        "6743",
+        "6743A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11730083079,
+      "name": "台17線路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8616441,
+      "lng": 120.294663,
+      "routes": [
+        "6714"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11730083080,
+      "name": "台17線路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大城鄉",
+      "lat": 23.8607242,
+      "lng": 120.2971306,
+      "routes": [
+        "6743",
+        "6743A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.887Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

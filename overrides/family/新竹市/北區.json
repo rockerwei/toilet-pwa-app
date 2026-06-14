@@ -1,0 +1,230 @@
+{
+  "city": "新竹市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:24:40.581Z",
+  "items": [
+    {
+      "id": 4130416391,
+      "name": "風車時鐘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8501504,
+      "lng": 120.927481,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.559Z",
+      "address": "新港一路"
+    },
+    {
+      "id": 4130421289,
+      "name": "許願鐘樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8500028,
+      "lng": 120.9274387,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.562Z"
+    },
+    {
+      "id": 4130421490,
+      "name": "木造彩虹橋牌樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8490795,
+      "lng": 120.9304684,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.564Z"
+    },
+    {
+      "id": 4130424390,
+      "name": "大鯵魚雕像",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8502779,
+      "lng": 120.9299208,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.565Z",
+      "address": "新港一路"
+    },
+    {
+      "id": 4170693990,
+      "name": "Nanliao Visitor Center",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8503068,
+      "lng": 120.9292805,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.566Z"
+    },
+    {
+      "id": 4404482707,
+      "name": "南寮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8496212,
+      "lng": 120.9288946,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.568Z"
+    },
+    {
+      "id": 5441996123,
+      "name": "楊氏節孝坊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8030777,
+      "lng": 120.9647797,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.569Z",
+      "address": "300新竹市北區石坊街4號"
+    },
+    {
+      "id": 5927126005,
+      "name": "康樂段防空碉堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8350166,
+      "lng": 120.9432349,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.570Z"
+    },
+    {
+      "id": 100058960,
+      "name": "鐵道路二段292巷30弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8240064,
+      "lng": 120.96743,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.571Z"
+    },
+    {
+      "id": 103972657,
+      "name": "鐵道路二段166巷17弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8223859,
+      "lng": 120.9716062,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.573Z"
+    },
+    {
+      "id": 103972688,
+      "name": "鐵道路二段166巷45弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8236226,
+      "lng": 120.9721484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.573Z"
+    },
+    {
+      "id": 123071093,
+      "name": "天公壇吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7983797,
+      "lng": 120.9579418,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.574Z"
+    },
+    {
+      "id": 189597540,
+      "name": "鐵道路二段292巷40弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.824274,
+      "lng": 120.9667544,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.575Z"
+    },
+    {
+      "id": 189597549,
+      "name": "鐵道路二段292巷38弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8243271,
+      "lng": 120.9672133,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.576Z"
+    },
+    {
+      "id": 326861725,
+      "name": "南寮旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.8490064,
+      "lng": 120.9280802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.577Z"
+    },
+    {
+      "id": 368102511,
+      "name": "頂雅吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8003002,
+      "lng": 120.9547829,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.577Z"
+    },
+    {
+      "id": 443808199,
+      "name": "鐵道路二段500巷35弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8224828,
+      "lng": 120.9626772,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.578Z"
+    },
+    {
+      "id": 444699732,
+      "name": "鐵道路二段278巷3弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8236457,
+      "lng": 120.968565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.578Z"
+    },
+    {
+      "id": 1009555200,
+      "name": "鐵道路二段292巷15弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8237211,
+      "lng": 120.9664904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.579Z"
+    },
+    {
+      "id": 1009555201,
+      "name": "鐵道路二段312巷11弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8233145,
+      "lng": 120.9660123,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.579Z"
+    },
+    {
+      "id": 1009555202,
+      "name": "鐵道路二段292巷13弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8236889,
+      "lng": 120.9668097,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.580Z"
+    },
+    {
+      "id": 1009555204,
+      "name": "鐵道路二段278巷1弄",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.8232821,
+      "lng": 120.9687449,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:24:40.581Z"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:18:00.772Z",
+  "items": [
+    {
+      "id": 4326621891,
+      "name": "活力健康農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9547513,
+      "lng": 121.1102141,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.756Z"
+    },
+    {
+      "id": 4738339701,
+      "name": "桃園觀新藻礁生態系野生動物保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0142311,
+      "lng": 121.0325205,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.759Z"
+    },
+    {
+      "id": 6105503255,
+      "name": "范姜老屋群",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9745924,
+      "lng": 121.1039826,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.761Z"
+    },
+    {
+      "id": 6852913745,
+      "name": "新屋綠色走廊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9693505,
+      "lng": 121.0124018,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.762Z"
+    },
+    {
+      "id": 8621410134,
+      "name": "海洋客家休閒農業區遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9760944,
+      "lng": 121.0158247,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.763Z"
+    },
+    {
+      "id": 1028832390,
+      "name": "斐翠莊園酒店興建工程",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.0019589,
+      "lng": 121.0504221,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.765Z"
+    },
+    {
+      "id": 1051415452,
+      "name": "永安海螺文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9898038,
+      "lng": 121.0152299,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.766Z",
+      "address": "桃園市新屋區新港路85號"
+    },
+    {
+      "id": 1428923839,
+      "name": "新屋石滬故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9511291,
+      "lng": 120.996077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.768Z",
+      "address": "桃園市新屋區觀海路一段2180巷70號"
+    },
+    {
+      "id": 1434804558,
+      "name": "反恐中心訓練客機",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9702485,
+      "lng": 121.0473513,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.769Z"
+    },
+    {
+      "id": 7077692,
+      "name": "永續利用區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0122956,
+      "lng": 121.0259449,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.770Z"
+    },
+    {
+      "id": 7077693,
+      "name": "桃園市政府",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0129735,
+      "lng": 121.0260489,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:18:00.772Z"
+    }
+  ]
+}

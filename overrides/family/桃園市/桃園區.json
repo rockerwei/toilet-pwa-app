@@ -1,0 +1,641 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:06:52.182Z",
+  "items": [
+    {
+      "id": 2954745818,
+      "name": "桃園歷史",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9920262,
+      "lng": 121.314574,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.159Z"
+    },
+    {
+      "id": 4109765252,
+      "name": "奧爾森林學堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0023228,
+      "lng": 121.3276378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.161Z"
+    },
+    {
+      "id": 5402946668,
+      "name": "桃園觀光夜市旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.004089,
+      "lng": 121.308517,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.161Z"
+    },
+    {
+      "id": 6292590847,
+      "name": "警本部",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9919101,
+      "lng": 121.3115561,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.162Z"
+    },
+    {
+      "id": 6861080693,
+      "name": "桃園劍道故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9961397,
+      "lng": 121.3115877,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.163Z"
+    },
+    {
+      "id": 9503774771,
+      "name": "朝陽水語教育園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9999674,
+      "lng": 121.3121904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.164Z"
+    },
+    {
+      "id": 9573151412,
+      "name": "193高地避雨亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0064923,
+      "lng": 121.3272621,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.165Z"
+    },
+    {
+      "id": 11206400350,
+      "name": "經國梅園牌樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.002384,
+      "lng": 121.3284802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.165Z"
+    },
+    {
+      "id": 11214323843,
+      "name": "美好食光區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.012386,
+      "lng": 121.321139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.166Z"
+    },
+    {
+      "id": 11214323844,
+      "name": "生態梯田區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0115941,
+      "lng": 121.3216534,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.167Z"
+    },
+    {
+      "id": 11214323850,
+      "name": "森林挑戰區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0134818,
+      "lng": 121.3203202,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.167Z"
+    },
+    {
+      "id": 11259533440,
+      "name": "三疊水池",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0014004,
+      "lng": 121.3286604,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.168Z"
+    },
+    {
+      "id": 11271667601,
+      "name": "祥和十道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9905144,
+      "lng": 121.3014638,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.169Z"
+    },
+    {
+      "id": 11308959010,
+      "name": "櫻花鐘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0086717,
+      "lng": 121.3314252,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.169Z"
+    },
+    {
+      "id": 11959961047,
+      "name": "俯瞰稻田",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0115978,
+      "lng": 121.3217668,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.169Z"
+    },
+    {
+      "id": 12030778023,
+      "name": "大青",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0023359,
+      "lng": 121.3289408,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.170Z"
+    },
+    {
+      "id": 12249484534,
+      "name": "桃園市立桃園高級中等學校",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9991854,
+      "lng": 121.3271081,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.170Z"
+    },
+    {
+      "id": 12286992515,
+      "name": "桃李天下福符生風",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9994957,
+      "lng": 121.3265938,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.170Z"
+    },
+    {
+      "id": 12292881085,
+      "name": "學生活動公布欄",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9990208,
+      "lng": 121.3269742,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.170Z"
+    },
+    {
+      "id": 12397494655,
+      "name": "三民遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0005852,
+      "lng": 121.3202719,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.170Z"
+    },
+    {
+      "id": 12535744202,
+      "name": "開放空間標示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0081458,
+      "lng": 121.3219057,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.171Z"
+    },
+    {
+      "id": 12535744203,
+      "name": "桃園市桃園區忠義段增設停車",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0081532,
+      "lng": 121.3219023,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.171Z"
+    },
+    {
+      "id": 12535755592,
+      "name": "開放空間標示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0080961,
+      "lng": 121.3222484,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.171Z"
+    },
+    {
+      "id": 12535762908,
+      "name": "桃園市桃園區忠義段增設停車",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0081,
+      "lng": 121.3222391,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.171Z"
+    },
+    {
+      "id": 12606232036,
+      "name": "逸軒園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9998882,
+      "lng": 121.3266044,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.172Z"
+    },
+    {
+      "id": 12701819817,
+      "name": "開放空間標示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0074468,
+      "lng": 121.3222344,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.172Z"
+    },
+    {
+      "id": 12736235394,
+      "name": "桃園市公園管理自治條例",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9984182,
+      "lng": 121.325551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.172Z"
+    },
+    {
+      "id": 12736241708,
+      "name": "桃林鐵路步道 (往三元街) 347m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0024723,
+      "lng": 121.3226027,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.172Z"
+    },
+    {
+      "id": 12736245296,
+      "name": "桃林鐵路步道 (往成功路三段115巷) 565m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.998348,
+      "lng": 121.3256062,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.173Z"
+    },
+    {
+      "id": 12749574323,
+      "name": "開放空間標示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0085937,
+      "lng": 121.3204222,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.173Z"
+    },
+    {
+      "id": 12765713859,
+      "name": "桃林鐵路步道 (往成功路三段115巷) 347m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0051017,
+      "lng": 121.3211007,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.173Z"
+    },
+    {
+      "id": 12768184564,
+      "name": "桃林鐵路步道 (往民光東路) 417m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0052148,
+      "lng": 121.3209441,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.173Z"
+    },
+    {
+      "id": 12768188202,
+      "name": "桃林鐵路步道 (往成功路三段) 565m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0023118,
+      "lng": 121.3225573,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.174Z"
+    },
+    {
+      "id": 12768194606,
+      "name": "桃林鐵路步道 (往三元街) 417m",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0079867,
+      "lng": 121.3184859,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.174Z"
+    },
+    {
+      "id": 12768195464,
+      "name": "桃園市公園管理自治條例",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0052708,
+      "lng": 121.3208954,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.174Z"
+    },
+    {
+      "id": 12771240472,
+      "name": "星光大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0078739,
+      "lng": 121.3185548,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.174Z"
+    },
+    {
+      "id": 12845194571,
+      "name": "虎頭山公園導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0004495,
+      "lng": 121.3293792,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.175Z"
+    },
+    {
+      "id": 12845240134,
+      "name": "景德園",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0005299,
+      "lng": 121.32925,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.175Z"
+    },
+    {
+      "id": 12845264986,
+      "name": "橙線 賞景健康步道 10",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0005444,
+      "lng": 121.330001,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.175Z"
+    },
+    {
+      "id": 12845297781,
+      "name": "橙線 賞景健康步道 9",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0000393,
+      "lng": 121.3297047,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.175Z"
+    },
+    {
+      "id": 12845321449,
+      "name": "苦楝",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9999103,
+      "lng": 121.3294978,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.176Z"
+    },
+    {
+      "id": 13021801375,
+      "name": "黃線 太陽亭步道 1",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0016469,
+      "lng": 121.3289553,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.176Z"
+    },
+    {
+      "id": 13055273281,
+      "name": "虎頭山公園導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0054308,
+      "lng": 121.3248612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.176Z"
+    },
+    {
+      "id": 13055416832,
+      "name": "紫線 忠烈祠步道 9",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0056194,
+      "lng": 121.3251024,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.177Z"
+    },
+    {
+      "id": 13055416833,
+      "name": "領角鴞",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0058666,
+      "lng": 121.3256815,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.177Z"
+    },
+    {
+      "id": 13055416837,
+      "name": "臺灣藍鵲",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0056649,
+      "lng": 121.3253398,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.177Z"
+    },
+    {
+      "id": 13055416867,
+      "name": "紫線 忠烈祠步道 7",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.005621,
+      "lng": 121.3253043,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.177Z"
+    },
+    {
+      "id": 13055416878,
+      "name": "紫線 忠烈祠步道 6",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0058591,
+      "lng": 121.3257231,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.178Z"
+    },
+    {
+      "id": 13055416880,
+      "name": "紫線 忠烈祠步道 8",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0054538,
+      "lng": 121.3249389,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.178Z"
+    },
+    {
+      "id": 13055416883,
+      "name": "流蘇似雪",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0061106,
+      "lng": 121.3260504,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.178Z"
+    },
+    {
+      "id": 13055416891,
+      "name": "虎頭山公園導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0060937,
+      "lng": 121.3260508,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.178Z"
+    },
+    {
+      "id": 13138016486,
+      "name": "公園禁止事項",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9940213,
+      "lng": 121.3171212,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.179Z"
+    },
+    {
+      "id": 13366451722,
+      "name": "森林散兵坑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0048547,
+      "lng": 121.3273477,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.179Z"
+    },
+    {
+      "id": 254610005,
+      "name": "社務所",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0060437,
+      "lng": 121.3251904,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.179Z"
+    },
+    {
+      "id": 464636554,
+      "name": "桃園市政府風景區管理處",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0016172,
+      "lng": 121.3273089,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.180Z"
+    },
+    {
+      "id": 464636568,
+      "name": "虎頭山景觀台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0010865,
+      "lng": 121.3299062,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.180Z"
+    },
+    {
+      "id": 499917490,
+      "name": "桃園市土地公文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9982438,
+      "lng": 121.3213011,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.180Z",
+      "address": "330桃園市桃園區三民路一段100號"
+    },
+    {
+      "id": 545403770,
+      "name": "臺灣土地改革陳列館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9919073,
+      "lng": 121.2983967,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.180Z",
+      "address": "桃園市桃園區光興里7鄰中山路572之1號"
+    },
+    {
+      "id": 546054452,
+      "name": "桃園觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0032067,
+      "lng": 121.3072971,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.181Z"
+    },
+    {
+      "id": 1052910642,
+      "name": "桃園文學館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9939469,
+      "lng": 121.3147055,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.181Z",
+      "address": "330桃園市桃園區忠孝街11號"
+    },
+    {
+      "id": 1062490477,
+      "name": "桃園觀光夜市旅客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0043703,
+      "lng": 121.3086667,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.181Z",
+      "address": "桃園市桃園區正康三街8號"
+    },
+    {
+      "id": 1288203025,
+      "name": "公園遊客中心興建中",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9758147,
+      "lng": 121.2641498,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.182Z"
+    },
+    {
+      "id": 2409017,
+      "name": "桃園孔廟",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0011387,
+      "lng": 121.3276786,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:06:52.182Z"
+    }
+  ]
+}

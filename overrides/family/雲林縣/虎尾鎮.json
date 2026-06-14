@@ -1,0 +1,67 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T21:46:26.072Z",
+  "items": [
+    {
+      "id": 1288634937,
+      "name": "虎尾驛",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7042147,
+      "lng": 120.4362691,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.063Z"
+    },
+    {
+      "id": 2607409130,
+      "name": "蛋糕毛巾咖啡館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7050173,
+      "lng": 120.4545665,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.065Z"
+    },
+    {
+      "id": 5517685911,
+      "name": "建國一村",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7142249,
+      "lng": 120.4221543,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.067Z"
+    },
+    {
+      "id": 318172602,
+      "name": "雙星毛巾",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7255597,
+      "lng": 120.4431623,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.069Z"
+    },
+    {
+      "id": 546765447,
+      "name": "雲林布袋戲館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.7095579,
+      "lng": 120.4334313,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.070Z"
+    },
+    {
+      "id": 574918923,
+      "name": "虎尾驛",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.7041987,
+      "lng": 120.4363429,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T21:46:26.072Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:36:55.703Z",
+  "items": [
+    {
+      "id": 2131736663,
+      "name": "光榮碼頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6185072,
+      "lng": 120.2919031,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:55.697Z"
+    },
+    {
+      "id": 292025254,
+      "name": "衛武營都會公園遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6232187,
+      "lng": 120.3383077,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:55.701Z"
+    },
+    {
+      "id": 923781586,
+      "name": "興中觀光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6155334,
+      "lng": 120.3065787,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:36:55.703Z"
+    }
+  ]
+}

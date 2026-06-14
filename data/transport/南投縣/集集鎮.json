@@ -1,0 +1,628 @@
+{
+  "city": "南投縣",
+  "district": "集集鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 32,
+  "items": [
+    {
+      "id": 1793032918,
+      "name": "集集",
+      "type": "train",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8262675,
+      "lng": 120.7849582
+    },
+    {
+      "id": 1793130419,
+      "name": "龍泉",
+      "type": "train",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8352758,
+      "lng": 120.7500417
+    },
+    {
+      "id": 2963786426,
+      "name": "集集",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8270353,
+      "lng": 120.7841707,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702",
+        "6726",
+        "6734",
+        "6801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.481Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4366563368,
+      "name": "八張民權路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8262669,
+      "lng": 120.7925825,
+      "routes": [
+        "6801"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.481Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5103395281,
+      "name": "頂八張",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8279307,
+      "lng": 120.7923348,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5103407487,
+      "name": "民生集賢街口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8282241,
+      "lng": 120.7910175,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108495571,
+      "name": "和平里站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8270959,
+      "lng": 120.7772673,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702",
+        "6726",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108498693,
+      "name": "和平里",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8269912,
+      "lng": 120.7774518,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702",
+        "6726",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126641208,
+      "name": "吳厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8288857,
+      "lng": 120.7892972,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126641210,
+      "name": "分局前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8286514,
+      "lng": 120.7864434,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126788892,
+      "name": "永昌里",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8281288,
+      "lng": 120.7973076,
+      "routes": [
+        "5",
+        "6333",
+        "6333C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126788894,
+      "name": "八張里",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8282356,
+      "lng": 120.7957157,
+      "routes": [
+        "5",
+        "6333",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823168,
+      "name": "普濟橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8318496,
+      "lng": 120.8293279,
+      "routes": [
+        "5",
+        "6333",
+        "6333C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823170,
+      "name": "慈德寺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.829401,
+      "lng": 120.8275925,
+      "routes": [
+        "6702",
+        "6726"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823172,
+      "name": "大山腳",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8294501,
+      "lng": 120.8276045
+    },
+    {
+      "id": 5126823179,
+      "name": "慈德寺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8279939,
+      "lng": 120.8258504,
+      "routes": [
+        "5",
+        "6333",
+        "6333C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.482Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823181,
+      "name": "大坪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8251342,
+      "lng": 120.8185185,
+      "routes": [
+        "5",
+        "6333",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823183,
+      "name": "洞角",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8297065,
+      "lng": 120.8088009,
+      "routes": [
+        "5",
+        "6333",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126823185,
+      "name": "生物中心",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8295605,
+      "lng": 120.8013605,
+      "routes": [
+        "5",
+        "6333",
+        "6333C",
+        "6702",
+        "6726"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987214,
+      "name": "樂園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8361358,
+      "lng": 120.7346821,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987216,
+      "name": "隘寮里",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8345068,
+      "lng": 120.7381904,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987218,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8350502,
+      "lng": 120.7402034
+    },
+    {
+      "id": 7713987220,
+      "name": "寮埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8358782,
+      "lng": 120.7446492,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987222,
+      "name": "龍泉公園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8356795,
+      "lng": 120.7480408,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987229,
+      "name": "楓子林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8332224,
+      "lng": 120.7550038,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987235,
+      "name": "草嶺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8302843,
+      "lng": 120.7585886,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987237,
+      "name": "田寮里",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.826891,
+      "lng": 120.7621238,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.483Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987250,
+      "name": "林尾",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.825301,
+      "lng": 120.7681829,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702",
+        "6726",
+        "6801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713987252,
+      "name": "公館",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8264739,
+      "lng": 120.7749581,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702",
+        "6726",
+        "6801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8915877453,
+      "name": "劉厝巷",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8231124,
+      "lng": 120.7658252,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13406515196,
+      "name": "市場前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8269805,
+      "lng": 120.7815783,
+      "routes": [
+        "5",
+        "6322",
+        "6333",
+        "6333A",
+        "6333C",
+        "6702",
+        "6726",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.484Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13871392426,
+      "name": "集集火車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "集集鎮",
+      "lat": 23.8266833,
+      "lng": 120.7852038,
+      "routes": [
+        "5",
+        "6333",
+        "6333A",
+        "6333C",
+        "6333D",
+        "6702",
+        "6726",
+        "6734",
+        "6801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.484Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

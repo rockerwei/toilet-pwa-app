@@ -1,0 +1,337 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:57:45.739Z",
+  "items": [
+    {
+      "id": 3494507181,
+      "name": "老梅石槽",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2935059,
+      "lng": 121.5423299,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.721Z"
+    },
+    {
+      "id": 3494507182,
+      "name": "臺灣極北富貴角燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2983498,
+      "lng": 121.5375863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.722Z"
+    },
+    {
+      "id": 4396213889,
+      "name": "阿里磅瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2265619,
+      "lng": 121.5731235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.723Z"
+    },
+    {
+      "id": 4858972919,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.246972,
+      "lng": 121.5585636,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.724Z"
+    },
+    {
+      "id": 4859039726,
+      "name": "嵩山梯田觀景處",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2442622,
+      "lng": 121.566587,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.725Z"
+    },
+    {
+      "id": 4864469121,
+      "name": "青山瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2382352,
+      "lng": 121.5571198,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.726Z"
+    },
+    {
+      "id": 4864469421,
+      "name": "青山瀑布步道登山口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2469464,
+      "lng": 121.5586012,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.726Z"
+    },
+    {
+      "id": 5626609094,
+      "name": "阿里磅瀑布觀瀑點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2262001,
+      "lng": 121.5769659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.727Z"
+    },
+    {
+      "id": 6520428185,
+      "name": "臺灣本島最北邊",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2984665,
+      "lng": 121.5369188,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.728Z"
+    },
+    {
+      "id": 6852982401,
+      "name": "北海岸遊憩探索館",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.2830616,
+      "lng": 121.5187495,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.728Z"
+    },
+    {
+      "id": 8041323973,
+      "name": "石門洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2958668,
+      "lng": 121.568381,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.729Z"
+    },
+    {
+      "id": 9658074060,
+      "name": "富貴角觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2919476,
+      "lng": 121.5401927,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.729Z"
+    },
+    {
+      "id": 9658074061,
+      "name": "老梅迷宮",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2919582,
+      "lng": 121.5395567,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.730Z"
+    },
+    {
+      "id": 9878555885,
+      "name": "玩水處",
+      "facilityType": "water",
+      "facilityLabel": "💧 戲水親水",
+      "lat": 25.248888,
+      "lng": 121.5557056,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.730Z"
+    },
+    {
+      "id": 13736686699,
+      "name": "領海基點 麟山鼻",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.2907135,
+      "lng": 121.5104929,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.730Z"
+    },
+    {
+      "id": 239900729,
+      "name": "石門白沙灣第一場",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 25.2826195,
+      "lng": 121.5185409,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.731Z"
+    },
+    {
+      "id": 284256721,
+      "name": "石門白沙灣第二場",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 25.2829246,
+      "lng": 121.5136983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.732Z"
+    },
+    {
+      "id": 494079454,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2438679,
+      "lng": 121.5560802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.732Z"
+    },
+    {
+      "id": 494079710,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2467253,
+      "lng": 121.5583252,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.733Z"
+    },
+    {
+      "id": 494802004,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2412341,
+      "lng": 121.5549979,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.733Z"
+    },
+    {
+      "id": 494802005,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2409692,
+      "lng": 121.5552311,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.733Z"
+    },
+    {
+      "id": 494802006,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2407151,
+      "lng": 121.5554607,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.734Z"
+    },
+    {
+      "id": 494802007,
+      "name": "青山瀑布步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2395929,
+      "lng": 121.5562079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.734Z"
+    },
+    {
+      "id": 774735280,
+      "name": "富貴角燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2983865,
+      "lng": 121.5366198,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.735Z"
+    },
+    {
+      "id": 775315302,
+      "name": "青山瀑布路線",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2387359,
+      "lng": 121.5522927,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.735Z"
+    },
+    {
+      "id": 863330576,
+      "name": "白沙灣橋",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 25.2832457,
+      "lng": 121.5207738,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.735Z"
+    },
+    {
+      "id": 863330579,
+      "name": "白沙灣橋",
+      "facilityType": "beach",
+      "facilityLabel": "🏖 沙灘",
+      "lat": 25.2833064,
+      "lng": 121.5207108,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.736Z"
+    },
+    {
+      "id": 1500145869,
+      "name": "富貴角燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.2985307,
+      "lng": 121.5367247,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.736Z"
+    },
+    {
+      "id": 7063878,
+      "name": "北海岸沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.2562653,
+      "lng": 121.5839477,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.736Z"
+    },
+    {
+      "id": 7063879,
+      "name": "富貴角自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.296023,
+      "lng": 121.5378297,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.737Z"
+    },
+    {
+      "id": 7063881,
+      "name": "麟山鼻自然保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.2863421,
+      "lng": 121.5120196,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.738Z"
+    },
+    {
+      "id": 7230694,
+      "name": "竹子山鹿角坑溪外圍特別景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.2108937,
+      "lng": 121.556931,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.738Z"
+    },
+    {
+      "id": 7230697,
+      "name": "鹿角坑生態保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.2101242,
+      "lng": 121.5576942,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:57:45.739Z"
+    }
+  ]
+}

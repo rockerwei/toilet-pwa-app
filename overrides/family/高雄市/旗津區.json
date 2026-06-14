@@ -1,0 +1,239 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:39:52.581Z",
+  "items": [
+    {
+      "id": 945219043,
+      "name": "戰爭與和平紀念公園主題館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.5912688,
+      "lng": 120.2828499,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.562Z",
+      "address": "高雄市旗津區旗津二路701號"
+    },
+    {
+      "id": 1271039576,
+      "name": "燈塔 (紅)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6177222,
+      "lng": 120.2562778,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.564Z"
+    },
+    {
+      "id": 3250130923,
+      "name": "高雄燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6151667,
+      "lng": 120.2649722,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.566Z"
+    },
+    {
+      "id": 4740248421,
+      "name": "星空隧道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.613014,
+      "lng": 120.2637619,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.567Z"
+    },
+    {
+      "id": 4766025039,
+      "name": "東沙島陸域特別景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 20.7087756,
+      "lng": 116.7177623,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.569Z"
+    },
+    {
+      "id": 4766025040,
+      "name": "東沙領海特別景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 20.6960097,
+      "lng": 116.6229656,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.570Z"
+    },
+    {
+      "id": 6383177785,
+      "name": "貝殼雕塑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5994233,
+      "lng": 120.2757108,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.571Z"
+    },
+    {
+      "id": 6387040985,
+      "name": "西南外環-海豚",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 20.6360118,
+      "lng": 116.7019517,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.572Z"
+    },
+    {
+      "id": 6387041085,
+      "name": "東沙潟湖口沈船",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 20.706788,
+      "lng": 116.7017143,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.573Z"
+    },
+    {
+      "id": 8281138593,
+      "name": "太平島燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 10.3749291,
+      "lng": 114.3633493,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.575Z"
+    },
+    {
+      "id": 9169921674,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6156893,
+      "lng": 120.2656495,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.575Z"
+    },
+    {
+      "id": 9169921675,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6149315,
+      "lng": 120.2654093,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.576Z"
+    },
+    {
+      "id": 9169921676,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6132671,
+      "lng": 120.2639197,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.577Z"
+    },
+    {
+      "id": 9169921677,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6125651,
+      "lng": 120.2638086,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.577Z"
+    },
+    {
+      "id": 9169921678,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6139766,
+      "lng": 120.2649983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.577Z"
+    },
+    {
+      "id": 11046415005,
+      "name": "海珍珠",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.5996252,
+      "lng": 120.2758609,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.578Z"
+    },
+    {
+      "id": 11409120570,
+      "name": "旗津老街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6132587,
+      "lng": 120.2685789,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.578Z"
+    },
+    {
+      "id": 28526249,
+      "name": "旗後砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6130097,
+      "lng": 120.2640847,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.579Z",
+      "address": "高雄市"
+    },
+    {
+      "id": 1189857907,
+      "name": "彩虹教堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6022647,
+      "lng": 120.2733978,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.580Z"
+    },
+    {
+      "id": 3500508,
+      "name": "陽明海洋探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.5913336,
+      "lng": 120.2888768,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.580Z"
+    },
+    {
+      "id": 7122504,
+      "name": "東沙島潟湖特別景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 20.7037326,
+      "lng": 116.7192409,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.580Z"
+    },
+    {
+      "id": 7122505,
+      "name": "南北水道及東沙島周邊海域特別景觀區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 20.6916667,
+      "lng": 116.7083334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.581Z"
+    },
+    {
+      "id": 7122506,
+      "name": "環礁海域生態保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 20.6916667,
+      "lng": 116.85,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:39:52.581Z"
+    }
+  ]
+}

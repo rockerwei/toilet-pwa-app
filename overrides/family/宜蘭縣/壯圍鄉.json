@@ -1,0 +1,47 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:07:01.041Z",
+  "items": [
+    {
+      "id": 9893511662,
+      "name": "海景鞦韆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.7283716,
+      "lng": 121.8273622,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:07:01.034Z"
+    },
+    {
+      "id": 1514251091,
+      "name": "大福海邊觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.8026682,
+      "lng": 121.8192556,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:07:01.038Z"
+    },
+    {
+      "id": 7018089,
+      "name": "蘭陽溪口水鳥保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7114909,
+      "lng": 121.828399,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:07:01.039Z"
+    },
+    {
+      "id": 7072131,
+      "name": "蘭陽海岸保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.7601351,
+      "lng": 121.8044814,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:07:01.041Z"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "city": "雲林縣",
+  "district": "土庫鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 9,
+  "items": [
+    {
+      "id": 4586729156,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.679683,
+      "lng": 120.3922501
+    },
+    {
+      "id": 4594384201,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.701953,
+      "lng": 120.3403751
+    },
+    {
+      "id": 4594384221,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.7048408,
+      "lng": 120.3519568
+    },
+    {
+      "id": 4594384222,
+      "name": "馬光",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.7056194,
+      "lng": 120.3565125,
+      "routes": [
+        "202",
+        "1635",
+        "7107",
+        "7108",
+        "7109",
+        "7110",
+        "7111",
+        "7111A",
+        "9015"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.311Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451932,
+      "name": "下庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.65914,
+      "lng": 120.382224,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.311Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793452556,
+      "name": "土庫",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.6781633,
+      "lng": 120.3926325,
+      "routes": [
+        "301",
+        "7108",
+        "7109",
+        "7110",
+        "7119",
+        "7123",
+        "7123A",
+        "7123B",
+        "7124",
+        "7124A",
+        "7124B",
+        "7203",
+        "7203A",
+        "7219",
+        "9015",
+        "9015A"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105818,
+      "name": "土庫南天宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.718124,
+      "lng": 120.360041,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105827,
+      "name": "新庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.7404874,
+      "lng": 120.3753167,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11629563044,
+      "name": "繁殖場",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "土庫鎮",
+      "lat": 23.7221902,
+      "lng": 120.3655787
+    }
+  ]
+}

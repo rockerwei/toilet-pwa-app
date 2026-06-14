@@ -1,0 +1,159 @@
+{
+  "city": "台北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:14:06.026Z",
+  "items": [
+    {
+      "id": 4043621677,
+      "name": "萬華故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0239289,
+      "lng": 121.5065806,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.018Z"
+    },
+    {
+      "id": 4622759389,
+      "name": "遙控飛機跑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0144079,
+      "lng": 121.4999003,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.019Z"
+    },
+    {
+      "id": 4838087744,
+      "name": "清代機器局遺構解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0484013,
+      "lng": 121.5097543,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.019Z"
+    },
+    {
+      "id": 5088772964,
+      "name": "艋舺隘門遺址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0367776,
+      "lng": 121.4989188,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.020Z"
+    },
+    {
+      "id": 5088772972,
+      "name": "龍山寺旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0354891,
+      "lng": 121.4997816,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.020Z"
+    },
+    {
+      "id": 5095511517,
+      "name": "艋舺水仙宮舊址",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0385705,
+      "lng": 121.5005344,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.021Z"
+    },
+    {
+      "id": 10865011073,
+      "name": "台灣第一位罹難飛行士楊清溪先生事略",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0197795,
+      "lng": 121.5057098,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.021Z"
+    },
+    {
+      "id": 11398723668,
+      "name": "青年公園苗圃",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0212845,
+      "lng": 121.5040067,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.022Z"
+    },
+    {
+      "id": 311087009,
+      "name": "華西街",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0390621,
+      "lng": 121.4984714,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.022Z"
+    },
+    {
+      "id": 375486272,
+      "name": "華西街観光夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.038376,
+      "lng": 121.4984162,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.023Z"
+    },
+    {
+      "id": 528945546,
+      "name": "服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.0145996,
+      "lng": 121.4962558,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.024Z"
+    },
+    {
+      "id": 754342598,
+      "name": "臺北市鄉土教育中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.0366992,
+      "lng": 121.5031295,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.024Z",
+      "address": "10852台北市萬華區廣州街101號"
+    },
+    {
+      "id": 207840,
+      "name": "剝皮寮歷史街區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.036867,
+      "lng": 121.5025306,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.025Z",
+      "address": "臺北市萬華區"
+    },
+    {
+      "id": 7018055,
+      "name": "台北市野雁保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.0269609,
+      "lng": 121.50551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.025Z"
+    },
+    {
+      "id": 16778477,
+      "name": "青年公園游泳池區",
+      "facilityType": "water",
+      "facilityLabel": "💧 戲水親水",
+      "lat": 25.0230078,
+      "lng": 121.5069189,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:14:06.026Z"
+    }
+  ]
+}

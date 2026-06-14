@@ -1,0 +1,2365 @@
+{
+  "city": "台中市",
+  "district": "沙鹿區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 147,
+  "items": [
+    {
+      "id": 2632454517,
+      "name": "巨業沙鹿站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2380359,
+      "lng": 120.5610166
+    },
+    {
+      "id": 2826067242,
+      "name": "靜宜大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2249602,
+      "lng": 120.5770398,
+      "routes": [
+        "68延",
+        "68延(繞國安國小)",
+        "353",
+        "659"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440813990,
+      "name": "弘光科技大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2166764,
+      "lng": 120.5802661,
+      "routes": [
+        "300",
+        "301",
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "305W",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "309",
+        "310",
+        "310區1",
+        "310區2",
+        "326",
+        "353",
+        "368",
+        "659",
+        "7511"
+      ],
+      "routeCount": 27,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.936Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3077215016,
+      "name": "晉江寮(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2211039,
+      "lng": 120.5797744,
+      "routes": [
+        "301",
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305W",
+        "306W",
+        "307",
+        "308",
+        "308副",
+        "308副繞"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.084Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3077215017,
+      "name": "晉江寮(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2218664,
+      "lng": 120.5790767,
+      "routes": [
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "306",
+        "306繞",
+        "306E",
+        "307",
+        "307副",
+        "308",
+        "309",
+        "309區",
+        "310",
+        "310區1",
+        "310區2",
+        "A2"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3077215018,
+      "name": "正英路(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2090462,
+      "lng": 120.5815458,
+      "routes": [
+        "301",
+        "302",
+        "303",
+        "304",
+        "305W",
+        "306W",
+        "307",
+        "308",
+        "310",
+        "A2"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3077215019,
+      "name": "正英路(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2101365,
+      "lng": 120.5811665,
+      "routes": [
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "306",
+        "306繞",
+        "306E",
+        "307",
+        "307副",
+        "308",
+        "309",
+        "309區",
+        "310",
+        "310區1",
+        "310區2",
+        "A2"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415459798,
+      "name": "勞工育樂中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2575867,
+      "lng": 120.569909
+    },
+    {
+      "id": 3415459800,
+      "name": "鹿峰里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2589198,
+      "lng": 120.5706717
+    },
+    {
+      "id": 3415459806,
+      "name": "中峰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2556633,
+      "lng": 120.5688546
+    },
+    {
+      "id": 3440813987,
+      "name": "后厝仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.1994282,
+      "lng": 120.5808394
+    },
+    {
+      "id": 3440813991,
+      "name": "弘光科技大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2177158,
+      "lng": 120.5805969,
+      "routes": [
+        "300",
+        "301",
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "305W",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "309",
+        "310",
+        "310區1",
+        "310區2",
+        "326",
+        "353",
+        "368",
+        "659",
+        "7511"
+      ],
+      "routeCount": 27,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.937Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440813992,
+      "name": "晉江里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.221967,
+      "lng": 120.5794152,
+      "routes": [
+        "68延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440814500,
+      "name": "祿清宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2092127,
+      "lng": 120.5811958
+    },
+    {
+      "id": 3440814501,
+      "name": "祿清宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.210343,
+      "lng": 120.5815453
+    },
+    {
+      "id": 3440814502,
+      "name": "竹林里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2351919,
+      "lng": 120.5709963,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440814567,
+      "name": "紅竹巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2331437,
+      "lng": 120.5722964,
+      "routes": [
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "305W",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "368"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.939Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440814570,
+      "name": "臺灣大道北勢路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2311907,
+      "lng": 120.5735469,
+      "routes": [
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "305W",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "368"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.939Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440814575,
+      "name": "靜宜大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2263944,
+      "lng": 120.5766457,
+      "routes": [
+        "68延",
+        "659"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3440814576,
+      "name": "頂六路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2131913,
+      "lng": 120.5806966,
+      "routes": [
+        "326",
+        "353",
+        "368"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.939Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3441417775,
+      "name": "竹林國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2382564,
+      "lng": 120.5674621,
+      "routes": [
+        "128",
+        "128區",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "368"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.940Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3450084780,
+      "name": "興仁里(沙田路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2303968,
+      "lng": 120.5589451
+    },
+    {
+      "id": 3450084784,
+      "name": "文光國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2253022,
+      "lng": 120.557649
+    },
+    {
+      "id": 3450084894,
+      "name": "沙田天仁街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2229391,
+      "lng": 120.5569846
+    },
+    {
+      "id": 3450084896,
+      "name": "南勢里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2207858,
+      "lng": 120.5559711,
+      "routes": [
+        "93",
+        "180",
+        "677"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.940Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3451894604,
+      "name": "沙鹿",
+      "type": "train",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2371296,
+      "lng": 120.5573677
+    },
+    {
+      "id": 3454167233,
+      "name": "沙鹿光田醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2350511,
+      "lng": 120.5588356
+    },
+    {
+      "id": 3454167254,
+      "name": "沙鹿國中(鎮南路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2333284,
+      "lng": 120.5632054
+    },
+    {
+      "id": 3454167263,
+      "name": "沙鹿戶政事務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2340702,
+      "lng": 120.5658036,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3454167264,
+      "name": "沙鹿區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2319965,
+      "lng": 120.56588
+    },
+    {
+      "id": 3455732577,
+      "name": "北勢國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2250414,
+      "lng": 120.5697899,
+      "routes": [
+        "162",
+        "353",
+        "368"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.941Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3455732579,
+      "name": "英才東英路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2259966,
+      "lng": 120.5731182,
+      "routes": [
+        "162",
+        "353",
+        "368"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.941Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3455732604,
+      "name": "明泰社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2288641,
+      "lng": 120.5671422
+    },
+    {
+      "id": 3455732606,
+      "name": "北勢頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2245619,
+      "lng": 120.5688558,
+      "routes": [
+        "95",
+        "95副",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129706,
+      "name": "明秀",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2166694,
+      "lng": 120.5706048,
+      "routes": [
+        "95",
+        "95副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129714,
+      "name": "北埔仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2124603,
+      "lng": 120.5705055,
+      "routes": [
+        "95",
+        "95副",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129716,
+      "name": "埔仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2107364,
+      "lng": 120.5695486,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129718,
+      "name": "屏西保順路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2086725,
+      "lng": 120.5686892,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.941Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129720,
+      "name": "三鹿里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2050882,
+      "lng": 120.5677018,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129723,
+      "name": "向上自立路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2034454,
+      "lng": 120.5678482,
+      "routes": [
+        "199",
+        "199延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3457129727,
+      "name": "向上保寧路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2060833,
+      "lng": 120.5646588
+    },
+    {
+      "id": 3532112830,
+      "name": "鹿寮國中(光華路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2436638,
+      "lng": 120.5670777,
+      "routes": [
+        "68延",
+        "68延(繞國安國小)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3533147803,
+      "name": "中清仁愛巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2492288,
+      "lng": 120.6017543
+    },
+    {
+      "id": 3533147805,
+      "name": "公明國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2499253,
+      "lng": 120.5987756,
+      "routes": [
+        "9",
+        "69",
+        "69繞",
+        "123",
+        "128",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3533147806,
+      "name": "公明國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2497779,
+      "lng": 120.6010826,
+      "routes": [
+        "9",
+        "9區",
+        "69",
+        "69繞",
+        "123",
+        "128",
+        "128區",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368741,
+      "name": "中山臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2368395,
+      "lng": 120.5688181
+    },
+    {
+      "id": 3639368743,
+      "name": "中山鎮政路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2369446,
+      "lng": 120.5660929,
+      "routes": [
+        "162",
+        "237",
+        "237區",
+        "238",
+        "306",
+        "306繞",
+        "306E",
+        "353"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.942Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368745,
+      "name": "中山長春路口(義聖宮)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2536423,
+      "lng": 120.5680489
+    },
+    {
+      "id": 3639368749,
+      "name": "鹿寮福德宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2463189,
+      "lng": 120.5626529,
+      "routes": [
+        "93",
+        "303",
+        "304",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "679副",
+        "679繞"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368753,
+      "name": "沙鹿高工(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2372132,
+      "lng": 120.5644481
+    },
+    {
+      "id": 3639368755,
+      "name": "洛泉里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2374926,
+      "lng": 120.5624316
+    },
+    {
+      "id": 3639368759,
+      "name": "童綜合醫院(沙鹿院區)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2427856,
+      "lng": 120.5614951
+    },
+    {
+      "id": 3639368763,
+      "name": "第一銀行(沙鹿分行)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2393923,
+      "lng": 120.5600415
+    },
+    {
+      "id": 3639371193,
+      "name": "鹿寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2515427,
+      "lng": 120.5667718
+    },
+    {
+      "id": 3639371195,
+      "name": "鹿寮成衣商圈",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2485219,
+      "lng": 120.5645367,
+      "routes": [
+        "93",
+        "303",
+        "304",
+        "305",
+        "305區",
+        "305E",
+        "305W",
+        "679副",
+        "679繞"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.944Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639401807,
+      "name": "居仁里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2398077,
+      "lng": 120.5634147
+    },
+    {
+      "id": 3639401817,
+      "name": "臺灣大道中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2406064,
+      "lng": 120.561161
+    },
+    {
+      "id": 3639467283,
+      "name": "文化莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2454019,
+      "lng": 120.5623303
+    },
+    {
+      "id": 3639467287,
+      "name": "竹林里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2364357,
+      "lng": 120.5697312,
+      "routes": [
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "306",
+        "306繞",
+        "306E",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "368",
+        "659"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639467288,
+      "name": "紅竹巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.234028,
+      "lng": 120.5712632,
+      "routes": [
+        "302",
+        "302延",
+        "303",
+        "304",
+        "305",
+        "305E",
+        "305W",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "368"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3640983629,
+      "name": "臺中國際機場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2530152,
+      "lng": 120.5991506
+    },
+    {
+      "id": 3641753841,
+      "name": "向上屏西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2030516,
+      "lng": 120.5805183
+    },
+    {
+      "id": 3641753842,
+      "name": "向上屏西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2040438,
+      "lng": 120.567088,
+      "routes": [
+        "352",
+        "352延",
+        "353"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753843,
+      "name": "正英七街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2096548,
+      "lng": 120.5760259
+    },
+    {
+      "id": 3641753845,
+      "name": "正英臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2094672,
+      "lng": 120.5800496
+    },
+    {
+      "id": 7138551773,
+      "name": "中正新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.1986389,
+      "lng": 120.568874
+    },
+    {
+      "id": 3641753850,
+      "name": "保安保寧路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2068735,
+      "lng": 120.5668379,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753852,
+      "name": "保寧向上路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2067236,
+      "lng": 120.5643557,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753855,
+      "name": "正德正義路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.201357,
+      "lng": 120.5733402
+    },
+    {
+      "id": 3641753857,
+      "name": "正德正順路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2035889,
+      "lng": 120.5712739,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753859,
+      "name": "正德路72巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2055769,
+      "lng": 120.5693946,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753861,
+      "name": "正順正義路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2060122,
+      "lng": 120.573736,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753865,
+      "name": "溫莎城堡社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2022632,
+      "lng": 120.5744268,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753867,
+      "name": "自立中樂街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.1987441,
+      "lng": 120.5664939,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753871,
+      "name": "鹿港寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2009265,
+      "lng": 120.5685414,
+      "routes": [
+        "290",
+        "290繞",
+        "352",
+        "352延",
+        "353"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641766999,
+      "name": "下晉江",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.222934,
+      "lng": 120.5783062,
+      "routes": [
+        "326",
+        "353"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676178586,
+      "name": "光華成功東街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2410535,
+      "lng": 120.5650504,
+      "routes": [
+        "303",
+        "368"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676447282,
+      "name": "漢翔複材中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2514255,
+      "lng": 120.5976728,
+      "routes": [
+        "9",
+        "9區",
+        "69",
+        "69繞",
+        "123",
+        "128",
+        "128區",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676447283,
+      "name": "犁份",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2418571,
+      "lng": 120.5709532
+    },
+    {
+      "id": 3676447288,
+      "name": "西勢寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2498947,
+      "lng": 120.5963807,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "302"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779857,
+      "name": "中清信義路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2423679,
+      "lng": 120.6202776
+    },
+    {
+      "id": 3796779863,
+      "name": "公明里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2465057,
+      "lng": 120.6085477,
+      "routes": [
+        "69",
+        "123",
+        "128",
+        "128區",
+        "156",
+        "237",
+        "237區",
+        "238",
+        "239",
+        "357",
+        "500",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779873,
+      "name": "樂群二村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2474144,
+      "lng": 120.6057758
+    },
+    {
+      "id": 3796779879,
+      "name": "清泉派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2452901,
+      "lng": 120.610906
+    },
+    {
+      "id": 3796779881,
+      "name": "中清清泉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2432887,
+      "lng": 120.6170801,
+      "routes": [
+        "69",
+        "156",
+        "237",
+        "237區",
+        "238",
+        "239",
+        "500延區1",
+        "500延區2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.096Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779883,
+      "name": "清泉里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2410324,
+      "lng": 120.6148584,
+      "routes": [
+        "69繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796783122,
+      "name": "清泉里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2439511,
+      "lng": 120.6146841
+    },
+    {
+      "id": 3796813663,
+      "name": "吳厝里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2665931,
+      "lng": 120.6061782
+    },
+    {
+      "id": 3796813671,
+      "name": "澔明公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2621645,
+      "lng": 120.6041283
+    },
+    {
+      "id": 3796813717,
+      "name": "西勢營門",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.258815,
+      "lng": 120.6021009,
+      "routes": [
+        "91延",
+        "182",
+        "183",
+        "185",
+        "186"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3798983203,
+      "name": "中航和睦路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.258369,
+      "lng": 120.6012548,
+      "routes": [
+        "97",
+        "123",
+        "162",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.950Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3798983206,
+      "name": "嘉陽高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2662339,
+      "lng": 120.5828808
+    },
+    {
+      "id": 3798983207,
+      "name": "國仕加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2639879,
+      "lng": 120.5880345,
+      "routes": [
+        "97",
+        "123",
+        "162",
+        "164",
+        "165",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.951Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3798983236,
+      "name": "西勢里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2597971,
+      "lng": 120.5985503,
+      "routes": [
+        "97",
+        "123",
+        "162",
+        "164",
+        "165",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.951Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4036019710,
+      "name": "公館國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2607346,
+      "lng": 120.5954678,
+      "routes": [
+        "97",
+        "123",
+        "162",
+        "164",
+        "165",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.952Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4379133799,
+      "name": "向上保成路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2085659,
+      "lng": 120.5609755
+    },
+    {
+      "id": 4379133801,
+      "name": "山隆加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2119711,
+      "lng": 120.5567054
+    },
+    {
+      "id": 4853968848,
+      "name": "西勢十巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2569141,
+      "lng": 120.6004684,
+      "routes": [
+        "91延1",
+        "91延2",
+        "97",
+        "123",
+        "162",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.952Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853968849,
+      "name": "西勢十巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2558454,
+      "lng": 120.6001934,
+      "routes": [
+        "91延1",
+        "91延2",
+        "97",
+        "123",
+        "162",
+        "182",
+        "183",
+        "185",
+        "186",
+        "239",
+        "302延",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.953Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6062134957,
+      "name": "沙鹿市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2373567,
+      "lng": 120.559566
+    },
+    {
+      "id": 6062134958,
+      "name": "沙鹿車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2361809,
+      "lng": 120.5591905
+    },
+    {
+      "id": 6069842782,
+      "name": "沙田光華路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2271158,
+      "lng": 120.5582088
+    },
+    {
+      "id": 6069842784,
+      "name": "沙田太平路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2178158,
+      "lng": 120.5533782,
+      "routes": [
+        "93",
+        "102"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133628093,
+      "name": "鎮南福至路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2260922,
+      "lng": 120.5678706
+    },
+    {
+      "id": 7133628096,
+      "name": "福興(鎮南路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2219034,
+      "lng": 120.5688357,
+      "routes": [
+        "95",
+        "95副",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133628098,
+      "name": "鎮南平等路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2200088,
+      "lng": 120.5694541,
+      "routes": [
+        "95",
+        "95區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.100Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133628100,
+      "name": "正英二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2112042,
+      "lng": 120.5716843
+    },
+    {
+      "id": 7133628102,
+      "name": "正英鎮南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2103174,
+      "lng": 120.5736432,
+      "routes": [
+        "95",
+        "95副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133628104,
+      "name": "六路一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2152679,
+      "lng": 120.5786263,
+      "routes": [
+        "95",
+        "95副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7133628105,
+      "name": "明秀二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2121337,
+      "lng": 120.5801432
+    },
+    {
+      "id": 7133628107,
+      "name": "六福公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2161122,
+      "lng": 120.5796943
+    },
+    {
+      "id": 7139800991,
+      "name": "頂西勢寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2489033,
+      "lng": 120.5961232,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139800993,
+      "name": "味丹公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2297831,
+      "lng": 120.5511747
+    },
+    {
+      "id": 7139800996,
+      "name": "頂犁分",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2415615,
+      "lng": 120.5772351,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801001,
+      "name": "慈惠堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2436416,
+      "lng": 120.5821677,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801005,
+      "name": "興仁里(興安路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2326203,
+      "lng": 120.5567155,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801024,
+      "name": "竹林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2385398,
+      "lng": 120.5715542,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9612420908,
+      "name": "靜宜大學主顧樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2266669,
+      "lng": 120.5830675,
+      "routes": [
+        "301",
+        "368"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9612420915,
+      "name": "靜宜大學靜園餐廳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2273347,
+      "lng": 120.5815923,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9654656310,
+      "name": "信義路清泉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2388835,
+      "lng": 120.6209074,
+      "routes": [
+        "6副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231371389,
+      "name": "鎮南沙田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.234491,
+      "lng": 120.5591662,
+      "routes": [
+        "95",
+        "95區",
+        "238",
+        "290"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.101Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539278,
+      "name": "自強保寧路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2060589,
+      "lng": 120.5631976,
+      "routes": [
+        "352",
+        "352延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539280,
+      "name": "自強路780巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2070163,
+      "lng": 120.5593842
+    },
+    {
+      "id": 10259539282,
+      "name": "自強路832巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2079272,
+      "lng": 120.558177
+    },
+    {
+      "id": 10259539284,
+      "name": "舞衫生態公園(自強路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2089532,
+      "lng": 120.5567806,
+      "routes": [
+        "352",
+        "352延",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539286,
+      "name": "自強向上路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2110934,
+      "lng": 120.5562085,
+      "routes": [
+        "352",
+        "352延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011270997,
+      "name": "靜宜會館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2237235,
+      "lng": 120.5792219,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.101Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011270999,
+      "name": "晉宜公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2241527,
+      "lng": 120.580943,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271001,
+      "name": "晉江里5鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2220574,
+      "lng": 120.5827226,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.101Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271003,
+      "name": "晉文臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2199163,
+      "lng": 120.5806645,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.955Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271005,
+      "name": "南陽六路九街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2148264,
+      "lng": 120.5792498,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.102Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271007,
+      "name": "南陽六路十五街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2150195,
+      "lng": 120.5749498,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271009,
+      "name": "六合過洋路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2165993,
+      "lng": 120.574585,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011271011,
+      "name": "朝洋宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2196573,
+      "lng": 120.5727274,
+      "routes": [
+        "368"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897731,
+      "name": "晉江寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2208978,
+      "lng": 120.5795391
+    },
+    {
+      "id": 12128566889,
+      "name": "沙鹿西站(新站路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2370244,
+      "lng": 120.5563071,
+      "routes": [
+        "678",
+        "679副2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.956Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183444,
+      "name": "青山公園(福至路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2260246,
+      "lng": 120.5669205,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183446,
+      "name": "福成路100巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2233556,
+      "lng": 120.5654432,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183448,
+      "name": "自由路鎮南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2202028,
+      "lng": 120.568434,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183449,
+      "name": "明秀二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2202028,
+      "lng": 120.568434
+    },
+    {
+      "id": 12132183451,
+      "name": "慶安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2151193,
+      "lng": 120.5598329,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183453,
+      "name": "南勢溪公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2166831,
+      "lng": 120.563494,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183455,
+      "name": "北勢國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2156592,
+      "lng": 120.5730809,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183457,
+      "name": "正義路97巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2073613,
+      "lng": 120.5717907,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183459,
+      "name": "保安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2084412,
+      "lng": 120.5653147,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183461,
+      "name": "港區運動公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2045417,
+      "lng": 120.565069,
+      "routes": [
+        "黃15"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.957Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12148112269,
+      "name": "友仁公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "沙鹿區",
+      "lat": 24.2592933,
+      "lng": 120.6019719
+    }
+  ]
+}

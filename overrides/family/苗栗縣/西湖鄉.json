@@ -1,0 +1,58 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:56:50.818Z",
+  "items": [
+    {
+      "id": 5443946922,
+      "name": "黃金一路",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.527614,
+      "lng": 120.7592038,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:56:50.811Z"
+    },
+    {
+      "id": 5443965621,
+      "name": "吳濁流文學藝術館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.5246531,
+      "lng": 120.770354,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:56:50.814Z",
+      "address": "苗栗縣西湖鄉13鄰五湖194-4號"
+    },
+    {
+      "id": 5443976421,
+      "name": "劉思寬古宅",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5291558,
+      "lng": 120.7509919,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:56:50.815Z"
+    },
+    {
+      "id": 5443988921,
+      "name": "西湖自行車道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5569533,
+      "lng": 120.7569038,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:56:50.817Z"
+    },
+    {
+      "id": 12328336070,
+      "name": "西湖夫妻樹",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.5567663,
+      "lng": 120.7554148,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:56:50.818Z"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:31:48.960Z",
+  "items": [
+    {
+      "id": 4256996676,
+      "name": "臺灣印刷探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.0872536,
+      "lng": 120.6964239,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.952Z",
+      "address": "412台中市大里區中興路一段288號"
+    },
+    {
+      "id": 9695071425,
+      "name": "花甲橋舊址",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0977449,
+      "lng": 120.6757205,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.954Z"
+    },
+    {
+      "id": 9732531568,
+      "name": "大里區賞日落點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0814377,
+      "lng": 120.6729033,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.955Z"
+    },
+    {
+      "id": 9780878478,
+      "name": "大里伯朗大道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1016233,
+      "lng": 120.7065341,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.956Z"
+    },
+    {
+      "id": 12118008274,
+      "name": "映彩平臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1054041,
+      "lng": 120.6598949,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.958Z"
+    },
+    {
+      "id": 12118008275,
+      "name": "滯洪池觀察平臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1051873,
+      "lng": 120.6590013,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.959Z"
+    },
+    {
+      "id": 1307192514,
+      "name": "原生魚庇護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 24.1054448,
+      "lng": 120.6601405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.960Z"
+    },
+    {
+      "id": 1307201218,
+      "name": "流域縮影",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1056267,
+      "lng": 120.659991,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:31:48.960Z"
+    }
+  ]
+}

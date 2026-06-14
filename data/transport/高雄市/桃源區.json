@@ -1,0 +1,444 @@
+{
+  "city": "高雄市",
+  "district": "桃源區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 23,
+  "items": [
+    {
+      "id": 6400801186,
+      "name": "梅山口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2640176,
+      "lng": 120.8257141,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6400801288,
+      "name": "檢查哨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1204903,
+      "lng": 120.7098712,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337455,
+      "name": "高中里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1297373,
+      "lng": 120.7175835,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337459,
+      "name": "高中二里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1341812,
+      "lng": 120.7229994,
+      "routes": [
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337461,
+      "name": "桃源",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1595944,
+      "lng": 120.765808,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337463,
+      "name": "監工站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1622942,
+      "lng": 120.7728671
+    },
+    {
+      "id": 8196337465,
+      "name": "下勤和",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1679864,
+      "lng": 120.7757208,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337467,
+      "name": "勤和里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1705359,
+      "lng": 120.7750681,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337469,
+      "name": "少年溪",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1718513,
+      "lng": 120.774928,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337471,
+      "name": "頂勤和",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1783238,
+      "lng": 120.7802575
+    },
+    {
+      "id": 8196337473,
+      "name": "明德橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2024622,
+      "lng": 120.7967336,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337475,
+      "name": "復興里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2192946,
+      "lng": 120.8037869,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337476,
+      "name": "梅蘭里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2398988,
+      "lng": 120.8123019,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337478,
+      "name": "樟山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2533406,
+      "lng": 120.8199613,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(梅山口-桃源)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337480,
+      "name": "梅山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.2733656,
+      "lng": 120.8256729,
+      "routes": [
+        "8029",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337481,
+      "name": "桃源區公所(衛生所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1589169,
+      "lng": 120.7638186,
+      "routes": [
+        "8029",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H12(週二、四行駛)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337483,
+      "name": "深溝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1531321,
+      "lng": 120.7592154,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337485,
+      "name": "舊社",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1436938,
+      "lng": 120.7477999,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337487,
+      "name": "大肚關",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1386694,
+      "lng": 120.7391428,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337489,
+      "name": "長老教會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1306892,
+      "lng": 120.7191327,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13159280145,
+      "name": "建山國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1055185,
+      "lng": 120.6825385,
+      "routes": [
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.463Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13159280147,
+      "name": "建山里十字路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1072572,
+      "lng": 120.6838573,
+      "routes": [
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.463Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13591812462,
+      "name": "高中里草水長老教會廣場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "桃源區",
+      "lat": 23.1225538,
+      "lng": 120.708521,
+      "routes": [
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.463Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

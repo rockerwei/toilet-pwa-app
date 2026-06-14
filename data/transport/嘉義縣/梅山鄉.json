@@ -1,0 +1,1545 @@
+{
+  "city": "嘉義縣",
+  "district": "梅山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 84,
+  "items": [
+    {
+      "id": 2377741631,
+      "name": "梨園寮",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.542366,
+      "lng": 120.6200511,
+      "systems": [
+        "台鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.934Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4982078167,
+      "name": "梅山市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.583245,
+      "lng": 120.558286,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078168,
+      "name": "梅山郵局",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.58077,
+      "lng": 120.55905,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078172,
+      "name": "電信局",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5864961,
+      "lng": 120.5519051,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.443Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078176,
+      "name": "梅山工業區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5901813,
+      "lng": 120.5414559,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078185,
+      "name": "梅山鄉公所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5849589,
+      "lng": 120.5556167,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078189,
+      "name": "尾庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.589375,
+      "lng": 120.545977,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078190,
+      "name": "梅山新社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5875076,
+      "lng": 120.5495194,
+      "routes": [
+        "113",
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5420105517,
+      "name": "太平",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5598321,
+      "lng": 120.5991554,
+      "routes": [
+        "107",
+        "113",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5420105518,
+      "name": "下坑仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5602587,
+      "lng": 120.6018377,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.444Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165272,
+      "name": "梅山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5787782,
+      "lng": 120.5593957,
+      "routes": [
+        "107",
+        "113",
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7306",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D",
+        "幸福大埔美1路"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165273,
+      "name": "太平路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5815929,
+      "lng": 120.5626499,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165286,
+      "name": "永興村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.568233,
+      "lng": 120.5677267,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165287,
+      "name": "頭前溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5669509,
+      "lng": 120.5719055,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165289,
+      "name": "下半天",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5646878,
+      "lng": 120.5747192,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165291,
+      "name": "下庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5605107,
+      "lng": 120.5770621,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165292,
+      "name": "二坪子",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5590256,
+      "lng": 120.578894,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165294,
+      "name": "半天村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5596065,
+      "lng": 120.5857833,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165295,
+      "name": "群彎",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5644186,
+      "lng": 120.592352,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.936Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165297,
+      "name": "平路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5617252,
+      "lng": 120.593622,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5426165299,
+      "name": "雲海飯店",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5623669,
+      "lng": 120.5969399,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429335919,
+      "name": "梅山公園前",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5759032,
+      "lng": 120.5558096,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429339221,
+      "name": "梅山果菜市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5775699,
+      "lng": 120.5583537,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429350141,
+      "name": "南勢坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5528555,
+      "lng": 120.5513089,
+      "routes": [
+        "7323",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.936Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429350142,
+      "name": "大草埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5599649,
+      "lng": 120.5560033,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.445Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429350144,
+      "name": "隘寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5638322,
+      "lng": 120.5581968,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429350146,
+      "name": "九芎坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5689631,
+      "lng": 120.5568302,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5429350148,
+      "name": "南梅山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5740471,
+      "lng": 120.5536464,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7246987232,
+      "name": "太平",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5606842,
+      "lng": 120.6032863,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501713998,
+      "name": "玉虛宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5817244,
+      "lng": 120.5589491,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501714000,
+      "name": "梅北",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5840511,
+      "lng": 120.5571333,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.446Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501714005,
+      "name": "過山村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5905737,
+      "lng": 120.5373439,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776364,
+      "name": "過溪園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5521979,
+      "lng": 120.5200034,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776366,
+      "name": "芹蕉山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5523196,
+      "lng": 120.5264796,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776368,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5522187,
+      "lng": 120.5326326,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776370,
+      "name": "雙溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5551877,
+      "lng": 120.5352156,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776372,
+      "name": "梅山正武宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5568252,
+      "lng": 120.5364373,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776374,
+      "name": "頂雙溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5574325,
+      "lng": 120.5371428,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776376,
+      "name": "外湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5610024,
+      "lng": 120.5400637,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776378,
+      "name": "頂外湖",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5608094,
+      "lng": 120.5428773,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776380,
+      "name": "玉繩宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5594707,
+      "lng": 120.5512834,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776382,
+      "name": "下坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5713159,
+      "lng": 120.5549204,
+      "routes": [
+        "7306",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327679,
+      "name": "堀尺嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5646829,
+      "lng": 120.6247142,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327957,
+      "name": "青葉山莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5423669,
+      "lng": 120.6786895,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327958,
+      "name": "瑞峰國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.556757,
+      "lng": 120.6676352,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327959,
+      "name": "茅仔埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.555307,
+      "lng": 120.6198205,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327960,
+      "name": "水車寮路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.536805,
+      "lng": 120.6753335,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327961,
+      "name": "東太平",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5609503,
+      "lng": 120.6051261,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327962,
+      "name": "石鼓坪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5352155,
+      "lng": 120.6370323,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327963,
+      "name": "科仔腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.54013,
+      "lng": 120.6255,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327964,
+      "name": "梅花山莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.539345,
+      "lng": 120.6652839,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327965,
+      "name": "社區中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5603228,
+      "lng": 120.5816983,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327967,
+      "name": "瑞峰",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.55802,
+      "lng": 120.6650859,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327968,
+      "name": "竹仔籠",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.53411,
+      "lng": 120.67827
+    },
+    {
+      "id": 7600327969,
+      "name": "頂半天",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5600157,
+      "lng": 120.5839691,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327970,
+      "name": "下寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5443129,
+      "lng": 120.6266493,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327971,
+      "name": "坔埔坑",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5448242,
+      "lng": 120.6865649,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327972,
+      "name": "瑞里山莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5330926,
+      "lng": 120.6587144,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327973,
+      "name": "碧湖崗哨",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5640372,
+      "lng": 120.618299,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327976,
+      "name": "仙人堀",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.56229,
+      "lng": 120.6116,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327977,
+      "name": "若蘭山莊",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5385342,
+      "lng": 120.6788311,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327978,
+      "name": "大籠頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5609469,
+      "lng": 120.616444,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327981,
+      "name": "枝村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5365708,
+      "lng": 120.6313288,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327982,
+      "name": "瑞里",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5434352,
+      "lng": 120.6833285,
+      "routes": [
+        "110",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327983,
+      "name": "青園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5385743,
+      "lng": 120.6286397,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327986,
+      "name": "後嶺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5425965,
+      "lng": 120.6303163,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327987,
+      "name": "東橫山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5469777,
+      "lng": 120.6259557,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327989,
+      "name": "科仔林",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5297184,
+      "lng": 120.6709554,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327990,
+      "name": "太興國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5420961,
+      "lng": 120.634678,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327993,
+      "name": "望風台",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5599943,
+      "lng": 120.5999845
+    },
+    {
+      "id": 7600327994,
+      "name": "坔埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5522299,
+      "lng": 120.6769006
+    },
+    {
+      "id": 7600327996,
+      "name": "北茅仔埔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5578666,
+      "lng": 120.6205868,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600327997,
+      "name": "瑞里二坪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5370423,
+      "lng": 120.6723968,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328000,
+      "name": "柑園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5396502,
+      "lng": 120.6671491,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328002,
+      "name": "源興宮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.539432,
+      "lng": 120.673545,
+      "routes": [
+        "110",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328010,
+      "name": "南天巨屏站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5540897,
+      "lng": 120.671939,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328013,
+      "name": "農會瑞里分部",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5478241,
+      "lng": 120.6862251,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328015,
+      "name": "新興寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5544197,
+      "lng": 120.6702462,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328017,
+      "name": "瑞里國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5401,
+      "lng": 120.66573,
+      "routes": [
+        "7315A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.938Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328019,
+      "name": "碧湖路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5602712,
+      "lng": 120.6079887,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328031,
+      "name": "半路店",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5587211,
+      "lng": 120.5863205,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328041,
+      "name": "六號蕉",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5289623,
+      "lng": 120.6745254,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7600328043,
+      "name": "橫山",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.5507203,
+      "lng": 120.6272344,
+      "routes": [
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.447Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 255996597,
+      "name": "梅山公車總站",
+      "type": "bus_station",
+      "city": "嘉義縣",
+      "district": "梅山鄉",
+      "lat": 23.578541,
+      "lng": 120.5595231,
+      "routes": [
+        "107",
+        "113",
+        "7125",
+        "7125A",
+        "7126",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7306",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A",
+        "7323",
+        "7323A",
+        "7323B",
+        "7323C",
+        "7323D",
+        "幸福大埔美1路"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.448Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

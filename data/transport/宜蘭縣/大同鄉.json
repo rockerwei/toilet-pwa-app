@@ -1,0 +1,860 @@
+{
+  "city": "宜蘭縣",
+  "district": "大同鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 50,
+  "items": [
+    {
+      "id": 5107765208,
+      "name": "思源派出所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.3937816,
+      "lng": 121.353512,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107770358,
+      "name": "突陵",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4035645,
+      "lng": 121.3614768,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107774335,
+      "name": "米摩登溪",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4295581,
+      "lng": 121.3631974,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107774337,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4270049,
+      "lng": 121.366455,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107774339,
+      "name": "梨園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4203487,
+      "lng": 121.3664067,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107786701,
+      "name": "南山村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4405116,
+      "lng": 121.3801946,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107786703,
+      "name": "上南山",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4380489,
+      "lng": 121.378659,
+      "routes": [
+        "1751",
+        "1764"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.125Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107808125,
+      "name": "四季村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4879297,
+      "lng": 121.4251953,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107808127,
+      "name": "四季",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4857792,
+      "lng": 121.4254528
+    },
+    {
+      "id": 5107808128,
+      "name": "四季",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4848101,
+      "lng": 121.4251041,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107808131,
+      "name": "四季道班",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4708639,
+      "lng": 121.4135787,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107808133,
+      "name": "四季平台",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4676731,
+      "lng": 121.4051545,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107808135,
+      "name": "則前橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4629246,
+      "lng": 121.3948703,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107840805,
+      "name": "留茂安",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5320663,
+      "lng": 121.4518189,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107840807,
+      "name": "頂茂安",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5277144,
+      "lng": 121.4505804,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108749822,
+      "name": "家源橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5772778,
+      "lng": 121.4909497,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108749824,
+      "name": "獨立山",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5750984,
+      "lng": 121.4794739,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108749826,
+      "name": "加蘭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5538868,
+      "lng": 121.4696013,
+      "routes": [
+        "1744",
+        "1745",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108751118,
+      "name": "百韜橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5974838,
+      "lng": 121.5134829,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.743Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108751120,
+      "name": "棲蘭遊樂區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5807914,
+      "lng": 121.4950347,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108757247,
+      "name": "芃芃",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6109197,
+      "lng": 121.5273084,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108757249,
+      "name": "英士橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.61071,
+      "lng": 121.5256762,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108858055,
+      "name": "牛鬥2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6437333,
+      "lng": 121.5640815
+    },
+    {
+      "id": 5108858062,
+      "name": "石頭橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6266315,
+      "lng": 121.5408643,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108858064,
+      "name": "赤水橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6211977,
+      "lng": 121.5358123,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108872219,
+      "name": "松羅",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6557968,
+      "lng": 121.5807058,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1792A",
+        "1796",
+        "1798"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108883429,
+      "name": "檢查哨",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6710057,
+      "lng": 121.6045627,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1792A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108883431,
+      "name": "玉蘭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.665151,
+      "lng": 121.5936314,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1792A",
+        "1796",
+        "1798"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108903602,
+      "name": "頂粗坑",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.686872,
+      "lng": 121.6263027,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108904428,
+      "name": "長嶺路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6837793,
+      "lng": 121.6227534,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108904435,
+      "name": "大同鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6764165,
+      "lng": 121.6097555,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5173161112,
+      "name": "棲蘭神木園區接駁車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5907189,
+      "lng": 121.4374461
+    },
+    {
+      "id": 5173161113,
+      "name": "棲蘭神木園區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6531538,
+      "lng": 121.47016
+    },
+    {
+      "id": 6017706586,
+      "name": "巨木",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5307023,
+      "lng": 121.518555,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.126Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6154524938,
+      "name": "茂興",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4783401,
+      "lng": 121.5359008
+    },
+    {
+      "id": 6154524939,
+      "name": "太平山",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4928932,
+      "lng": 121.5350854
+    },
+    {
+      "id": 7362924915,
+      "name": "仁澤(鳩之澤)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5456588,
+      "lng": 121.5083741,
+      "routes": [
+        "1750",
+        "1750A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9501131218,
+      "name": "復興村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.631848,
+      "lng": 121.6071242,
+      "routes": [
+        "1745",
+        "1750",
+        "1764",
+        "1793",
+        "1796",
+        "1798A",
+        "橘線"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11409678393,
+      "name": "清水地熱",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6131256,
+      "lng": 121.636183
+    },
+    {
+      "id": 11409701136,
+      "name": "大同國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6786129,
+      "lng": 121.6084795
+    },
+    {
+      "id": 11655004806,
+      "name": "中間",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5414492,
+      "lng": 121.5129187,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788625590,
+      "name": "牛鬥1",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.6424246,
+      "lng": 121.5643401,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788625592,
+      "name": "家源橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5768397,
+      "lng": 121.491946,
+      "routes": [
+        "1744",
+        "1745",
+        "1750",
+        "1751",
+        "1764"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788625594,
+      "name": "福德廟2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5745409,
+      "lng": 121.496131,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788625596,
+      "name": "土場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5731407,
+      "lng": 121.4962445,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788625598,
+      "name": "仁澤路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5541936,
+      "lng": 121.5079366,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788700322,
+      "name": "蘭台",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5382848,
+      "lng": 121.5216856,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788700325,
+      "name": "白嶺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5275463,
+      "lng": 121.5187876,
+      "routes": [
+        "1750"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788700327,
+      "name": "見晴步道口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.5055941,
+      "lng": 121.5256867,
+      "routes": [
+        "1750",
+        "1750A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13788700334,
+      "name": "太平山",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "大同鄉",
+      "lat": 24.4964501,
+      "lng": 121.5352275,
+      "routes": [
+        "1750",
+        "1750A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.745Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:14:27.828Z",
+  "items": [
+    {
+      "id": 309679607,
+      "name": "古笨港考古園區",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.5696758,
+      "lng": 120.3133462,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:14:27.819Z"
+    },
+    {
+      "id": 3278087935,
+      "name": "新港遊客服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.551843,
+      "lng": 120.3470562,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:14:27.822Z",
+      "address": "嘉義縣新港鄉宮前村20鄰中山路156號"
+    },
+    {
+      "id": 4108681289,
+      "name": "板陶窯",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5653881,
+      "lng": 120.3206425,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:14:27.823Z"
+    },
+    {
+      "id": 320966676,
+      "name": "新港香藝文化園區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5375162,
+      "lng": 120.3513633,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:14:27.825Z"
+    },
+    {
+      "id": 320966677,
+      "name": "新港香藝文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.5375586,
+      "lng": 120.3509978,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:14:27.827Z"
+    }
+  ]
+}

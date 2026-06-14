@@ -1,0 +1,158 @@
+{
+  "city": "高雄市",
+  "district": "茂林區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 9,
+  "items": [
+    {
+      "id": 8375997402,
+      "name": "茂林區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.8860788,
+      "lng": 120.6636209,
+      "routes": [
+        "JOY H31",
+        "T510",
+        "T511A(每週五停駛)",
+        "T511B(每週五發車)",
+        "T526(每週二、四預約)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375997404,
+      "name": "達達拉",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.8866697,
+      "lng": 120.6670863,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375997406,
+      "name": "萬山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9092528,
+      "lng": 120.6803505
+    },
+    {
+      "id": 8375997408,
+      "name": "鳳梨社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9104336,
+      "lng": 120.6833265,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375997410,
+      "name": "龍頭山風景區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9092264,
+      "lng": 120.6904582,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375997412,
+      "name": "多納古戰場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9160069,
+      "lng": 120.7118444,
+      "routes": [
+        "JOY H31",
+        "T510",
+        "T511A(每週五停駛)",
+        "T511B(每週五發車)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375997414,
+      "name": "多納",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9094912,
+      "lng": 120.7140604,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007355,
+      "name": "茂林風景區入口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.8806823,
+      "lng": 120.6500809,
+      "routes": [
+        "8218B",
+        "JOY H31"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007356,
+      "name": "蛇頭山觀景台",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "茂林區",
+      "lat": 22.9157739,
+      "lng": 120.6966018,
+      "routes": [
+        "JOY H31",
+        "T510",
+        "T511A(每週五停駛)",
+        "T511B(每週五發車)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.508Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

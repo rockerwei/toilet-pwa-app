@@ -1,0 +1,2462 @@
+{
+  "city": "桃園市",
+  "district": "新屋區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 128,
+  "items": [
+    {
+      "id": 3138028210,
+      "name": "新屋站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9711753,
+      "lng": 121.1083023,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6191320428,
+      "name": "下北湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0147187,
+      "lng": 121.0343574,
+      "routes": [
+        "5030"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.873Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681226,
+      "name": "加油站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9712834,
+      "lng": 121.1099576,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681228,
+      "name": "電信局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9716977,
+      "lng": 121.1092948,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.873Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681232,
+      "name": "新屋站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9728612,
+      "lng": 121.1025517,
+      "routes": [
+        "505",
+        "5025",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L601"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681253,
+      "name": "雙路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9734633,
+      "lng": 121.0996731,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5033",
+        "5039"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681255,
+      "name": "新明公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9739962,
+      "lng": 121.0968924,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5039",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6196681257,
+      "name": "邱厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9743547,
+      "lng": 121.0947178,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5039",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839807680,
+      "name": "中壢地政事務所(民族松勤路口)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9597133,
+      "lng": 121.1637846,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839807683,
+      "name": "高榮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9582507,
+      "lng": 121.1652906,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839810636,
+      "name": "橡樹公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.962145,
+      "lng": 121.1595775,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.875Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839810638,
+      "name": "寶祥",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9617863,
+      "lng": 121.161207,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.875Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839822000,
+      "name": "雙塘屋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9622532,
+      "lng": 121.1579655,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.876Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839869987,
+      "name": "上富源",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9646532,
+      "lng": 121.1520405,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.876Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839870004,
+      "name": "富泰公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.963328,
+      "lng": 121.1541749,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839870010,
+      "name": "中壢好市多",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9627797,
+      "lng": 121.1558291,
+      "routes": [
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839902792,
+      "name": "志欣",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9633268,
+      "lng": 121.1466882,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841072616,
+      "name": "豪軒",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9697705,
+      "lng": 121.1357743,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841072618,
+      "name": "富九",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9692118,
+      "lng": 121.1376612,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.878Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841072622,
+      "name": "和泰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9680319,
+      "lng": 121.1392987,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.878Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841072646,
+      "name": "頭州新城",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9635991,
+      "lng": 121.1432616,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.878Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841072655,
+      "name": "黎頭洲",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9624745,
+      "lng": 121.1446832
+    },
+    {
+      "id": 6841083469,
+      "name": "中山路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9705522,
+      "lng": 121.1130077,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841083472,
+      "name": "台一",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9703121,
+      "lng": 121.1149509,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841124028,
+      "name": "新屋郵局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9728134,
+      "lng": 121.1044226,
+      "routes": [
+        "505",
+        "5025",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142786,
+      "name": "清華里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9712476,
+      "lng": 121.1199586,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142789,
+      "name": "紅泥坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9703631,
+      "lng": 121.1170974,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142830,
+      "name": "鄧厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9720451,
+      "lng": 121.1237593,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142839,
+      "name": "頂紅泥坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9727271,
+      "lng": 121.1259855,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142842,
+      "name": "元華公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9725709,
+      "lng": 121.1282359,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6841142849,
+      "name": "北勢",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9716743,
+      "lng": 121.1313915,
+      "routes": [
+        "505",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842551467,
+      "name": "里界",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9774902,
+      "lng": 121.0779834,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842577685,
+      "name": "東明",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9765712,
+      "lng": 121.0833693,
+      "routes": [
+        "505",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5039",
+        "L617"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842577701,
+      "name": "新光",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9758296,
+      "lng": 121.0867609,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5039",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842577704,
+      "name": "全美公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9748522,
+      "lng": 121.090917,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5039",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842583011,
+      "name": "玉皇宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9788354,
+      "lng": 121.0732077,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6842583013,
+      "name": "六號坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9782257,
+      "lng": 121.0752596,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6856773012,
+      "name": "永昌",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9808175,
+      "lng": 121.0685031,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6856773013,
+      "name": "頂田心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9795386,
+      "lng": 121.0710633,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636785,
+      "name": "谷瑞公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.985122,
+      "lng": 121.0524179,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.856Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636787,
+      "name": "莊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9844291,
+      "lng": 121.0543974,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636806,
+      "name": "上庄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9839137,
+      "lng": 121.0567148,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636808,
+      "name": "田中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9827653,
+      "lng": 121.060752,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636809,
+      "name": "邱厝二",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9829728,
+      "lng": 121.0589795,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6876636810,
+      "name": "下田心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9818605,
+      "lng": 121.0646394,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.856Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880739823,
+      "name": "永安國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9873441,
+      "lng": 121.0437249,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880739827,
+      "name": "下庄子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9870961,
+      "lng": 121.0459068,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880739864,
+      "name": "農會",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9859413,
+      "lng": 121.0498215,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880790109,
+      "name": "永新",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9888186,
+      "lng": 121.0322691,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880790114,
+      "name": "中興",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9882043,
+      "lng": 121.0361496,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880790116,
+      "name": "徐厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9881124,
+      "lng": 121.0387816,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6880790118,
+      "name": "中庄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9876553,
+      "lng": 121.0412136,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898027607,
+      "name": "永安漁港",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9882072,
+      "lng": 121.0185376,
+      "routes": [
+        "505",
+        "5027A",
+        "5039",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898027614,
+      "name": "永和",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9878303,
+      "lng": 121.0237437,
+      "routes": [
+        "5027A",
+        "5039",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898027616,
+      "name": "永和一",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9882801,
+      "lng": 121.0256025,
+      "routes": [
+        "5027A",
+        "5039",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898027618,
+      "name": "西濱路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9890544,
+      "lng": 121.0302494,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898027620,
+      "name": "永安",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9889705,
+      "lng": 121.0287286,
+      "routes": [
+        "5027",
+        "5027A",
+        "5039",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898040272,
+      "name": "郭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9924944,
+      "lng": 121.0337926,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898058909,
+      "name": "葉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.997698,
+      "lng": 121.0349245,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898058913,
+      "name": "頂永安",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9943833,
+      "lng": 121.0348991,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6898064995,
+      "name": "永興牧場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9995169,
+      "lng": 121.0359646,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440503766,
+      "name": "頂大欄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.004914,
+      "lng": 121.0410386,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440503768,
+      "name": "大牛欄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0015072,
+      "lng": 121.0378964,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440503770,
+      "name": "文化路三段",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0035248,
+      "lng": 121.0396492,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440532144,
+      "name": "埔頂橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0093964,
+      "lng": 121.0464862,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440532146,
+      "name": "北湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0076341,
+      "lng": 121.0440105,
+      "routes": [
+        "505",
+        "5030",
+        "5039"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440555109,
+      "name": "埔頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 25.0128419,
+      "lng": 121.04956,
+      "routes": [
+        "5039"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7679434994,
+      "name": "吳厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9439598,
+      "lng": 121.0039169,
+      "routes": [
+        "5027",
+        "5027A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7679434995,
+      "name": "蚵間",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9491939,
+      "lng": 121.0089252,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7679434997,
+      "name": "大深坑",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9421807,
+      "lng": 121.0028654,
+      "routes": [
+        "5027",
+        "5027A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686592095,
+      "name": "十二號坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9526527,
+      "lng": 121.0111213,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686622350,
+      "name": "王厝店",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9589303,
+      "lng": 121.013499,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686622352,
+      "name": "深圳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9563502,
+      "lng": 121.0125723,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686642309,
+      "name": "李厝2",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9627918,
+      "lng": 121.0146645,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686642311,
+      "name": "張厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9607784,
+      "lng": 121.0138303,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686678845,
+      "name": "埔子頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9700252,
+      "lng": 121.0224503,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686678847,
+      "name": "榕樹下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.96748,
+      "lng": 121.0177745,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686678849,
+      "name": "深圳頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9641827,
+      "lng": 121.0151754,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686699466,
+      "name": "糠榔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9751756,
+      "lng": 121.0269047,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686699468,
+      "name": "笨仔港",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9773784,
+      "lng": 121.0267344,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686748144,
+      "name": "李厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.979462,
+      "lng": 121.0270241
+    },
+    {
+      "id": 7686748145,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9817803,
+      "lng": 121.026957,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.858Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686762104,
+      "name": "永安橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9856751,
+      "lng": 121.0273392,
+      "routes": [
+        "5027",
+        "5027A",
+        "L602A",
+        "L603A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7686800456,
+      "name": "蚵間里福興宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9398617,
+      "lng": 120.9896877,
+      "routes": [
+        "5031",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577623,
+      "name": "昭明宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.948499,
+      "lng": 121.0070819,
+      "routes": [
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577629,
+      "name": "埔頂社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9478996,
+      "lng": 121.0045177,
+      "routes": [
+        "5031",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577631,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9474813,
+      "lng": 121.0020165,
+      "routes": [
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577633,
+      "name": "蚵間活動中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9456986,
+      "lng": 120.9999016,
+      "routes": [
+        "5031",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577635,
+      "name": "許厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9431961,
+      "lng": 120.9965971,
+      "routes": [
+        "5031",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577637,
+      "name": "東福路三段",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9410334,
+      "lng": 120.9942797,
+      "routes": [
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693577639,
+      "name": "蚵間里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9405324,
+      "lng": 120.9936078,
+      "routes": [
+        "5031",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617419,
+      "name": "大坡派出所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9589546,
+      "lng": 121.0386381
+    },
+    {
+      "id": 7693617421,
+      "name": "莊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9576391,
+      "lng": 121.0347328,
+      "routes": [
+        "L603",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617423,
+      "name": "大坡里六鄰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9561837,
+      "lng": 121.0309052,
+      "routes": [
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617425,
+      "name": "洽溪口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9557058,
+      "lng": 121.0289231,
+      "routes": [
+        "5031",
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617427,
+      "name": "桃園區農業改良場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9537762,
+      "lng": 121.024771,
+      "routes": [
+        "5031",
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617429,
+      "name": "後庄里林厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9526928,
+      "lng": 121.0221304,
+      "routes": [
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617431,
+      "name": "後庄里社區活動中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9514951,
+      "lng": 121.0197124
+    },
+    {
+      "id": 7693617433,
+      "name": "後庄里姜厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9507242,
+      "lng": 121.0166587,
+      "routes": [
+        "5031",
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617435,
+      "name": "後庄社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9495338,
+      "lng": 121.0112688,
+      "routes": [
+        "L603",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.858Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693617437,
+      "name": "蚵間國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9490547,
+      "lng": 121.0098016,
+      "routes": [
+        "5031",
+        "L602",
+        "L603",
+        "L617"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693671085,
+      "name": "警訓中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9636417,
+      "lng": 121.0497732,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693671087,
+      "name": "農田水利會",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9619541,
+      "lng": 121.0453074,
+      "routes": [
+        "L617"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7693671091,
+      "name": "大坡國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9599918,
+      "lng": 121.0409166,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694207181,
+      "name": "大庄埔一",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9649183,
+      "lng": 121.0539092
+    },
+    {
+      "id": 7694233686,
+      "name": "上糠榔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9664806,
+      "lng": 121.0605624
+    },
+    {
+      "id": 7694233687,
+      "name": "大庄埔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9656879,
+      "lng": 121.0561448
+    },
+    {
+      "id": 7694233692,
+      "name": "大坡社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9651311,
+      "lng": 121.0545087,
+      "routes": [
+        "L617"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694287302,
+      "name": "東福",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9754637,
+      "lng": 121.0804,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694287305,
+      "name": "東坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9734262,
+      "lng": 121.0760911,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694287371,
+      "name": "葉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9688671,
+      "lng": 121.0709412,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694289695,
+      "name": "社子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9676623,
+      "lng": 121.0660006,
+      "routes": [
+        "5031",
+        "L617"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694301752,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9743939,
+      "lng": 121.1064872,
+      "routes": [
+        "5025",
+        "5032"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694374394,
+      "name": "長祥宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9588051,
+      "lng": 121.1152862,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694374396,
+      "name": "九斗里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9636478,
+      "lng": 121.1124672,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694374399,
+      "name": "石坡下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9673474,
+      "lng": 121.1101739,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694374412,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9724499,
+      "lng": 121.1072355
+    },
+    {
+      "id": 7694427057,
+      "name": "全富新城",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9522575,
+      "lng": 121.1180864,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694427059,
+      "name": "二號池",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.954769,
+      "lng": 121.1174782,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7774991490,
+      "name": "李厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9801102,
+      "lng": 121.0316261
+    },
+    {
+      "id": 7774991494,
+      "name": "百侖大飯店",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9727038,
+      "lng": 121.1061537
+    },
+    {
+      "id": 7774991496,
+      "name": "中山東路二段528巷",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9650682,
+      "lng": 121.1418826,
+      "routes": [
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7774991499,
+      "name": "下富源",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9644633,
+      "lng": 121.1508182,
+      "routes": [
+        "505",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039",
+        "L605",
+        "L605A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8869616921,
+      "name": "范厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9647016,
+      "lng": 121.0336496,
+      "routes": [
+        "L602",
+        "L602A",
+        "L603",
+        "L603A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106275,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9694133,
+      "lng": 121.1078116
+    },
+    {
+      "id": 12819106276,
+      "name": "新屋高中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9705517,
+      "lng": 121.1016435,
+      "routes": [
+        "5650A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.860Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106279,
+      "name": "新屋區公所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.9726871,
+      "lng": 121.1054563,
+      "routes": [
+        "5650A",
+        "L601",
+        "L605",
+        "L605A",
+        "L617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.886Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1384564805,
+      "name": "新竹客運新屋站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "新屋區",
+      "lat": 24.971187,
+      "lng": 121.1084613,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.861Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

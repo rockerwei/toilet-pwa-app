@@ -1,0 +1,948 @@
+{
+  "city": "嘉義市",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:06:07.439Z",
+  "items": [
+    {
+      "id": 2999977149,
+      "name": "十二門砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4838095,
+      "lng": 120.4652506,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.381Z"
+    },
+    {
+      "id": 3268344239,
+      "name": "林場風清",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4835307,
+      "lng": 120.4678551,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.385Z"
+    },
+    {
+      "id": 3268377322,
+      "name": "蘭潭泛月",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4656209,
+      "lng": 120.4809851,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.387Z"
+    },
+    {
+      "id": 3274546489,
+      "name": "森林之歌",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.486655,
+      "lng": 120.4482903,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.388Z"
+    },
+    {
+      "id": 3624639971,
+      "name": "嘉義八景:彌陀曉鐘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4625319,
+      "lng": 120.4706856,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.390Z"
+    },
+    {
+      "id": 4413131392,
+      "name": "老火車頭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4863152,
+      "lng": 120.4511994,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.391Z",
+      "address": "600嘉義市東區林森西路2號"
+    },
+    {
+      "id": 4672052544,
+      "name": "25號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4741808,
+      "lng": 120.493525,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.393Z"
+    },
+    {
+      "id": 4672072414,
+      "name": "32號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4778899,
+      "lng": 120.4909836,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.394Z"
+    },
+    {
+      "id": 4672072974,
+      "name": "3號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4783747,
+      "lng": 120.4912993,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.394Z"
+    },
+    {
+      "id": 4672073169,
+      "name": "4號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4784935,
+      "lng": 120.4921976,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.395Z"
+    },
+    {
+      "id": 4672073193,
+      "name": "5號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4790261,
+      "lng": 120.4924465,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.396Z"
+    },
+    {
+      "id": 4672073199,
+      "name": "6號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4790921,
+      "lng": 120.4935086,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.396Z"
+    },
+    {
+      "id": 4672073522,
+      "name": "10號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4782664,
+      "lng": 120.4946667,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.397Z"
+    },
+    {
+      "id": 4672077074,
+      "name": "7號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4798192,
+      "lng": 120.4953729,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.397Z"
+    },
+    {
+      "id": 4672077290,
+      "name": "12號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4778664,
+      "lng": 120.4952069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.398Z"
+    },
+    {
+      "id": 4672077371,
+      "name": "8號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4790707,
+      "lng": 120.4955578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.399Z"
+    },
+    {
+      "id": 4672078219,
+      "name": "27號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4746571,
+      "lng": 120.4923103,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.400Z"
+    },
+    {
+      "id": 4672078528,
+      "name": "13號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4777457,
+      "lng": 120.4956222,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.400Z"
+    },
+    {
+      "id": 4672078535,
+      "name": "17號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4766568,
+      "lng": 120.4950761,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.401Z"
+    },
+    {
+      "id": 4672078695,
+      "name": "24號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4751377,
+      "lng": 120.4947693,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.402Z"
+    },
+    {
+      "id": 4672079393,
+      "name": "28號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4745387,
+      "lng": 120.4918706,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.403Z"
+    },
+    {
+      "id": 4672105133,
+      "name": "26號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4740385,
+      "lng": 120.4934021,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.403Z"
+    },
+    {
+      "id": 4672105185,
+      "name": "29號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4748889,
+      "lng": 120.4914055,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.404Z"
+    },
+    {
+      "id": 4672105241,
+      "name": "21號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4757028,
+      "lng": 120.4959801,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.404Z"
+    },
+    {
+      "id": 4672105251,
+      "name": "22號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4754955,
+      "lng": 120.4959891,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.405Z"
+    },
+    {
+      "id": 4679574151,
+      "name": "15號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4775748,
+      "lng": 120.4953425,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.405Z"
+    },
+    {
+      "id": 5328918730,
+      "name": "蘭潭水舞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4658663,
+      "lng": 120.4800663,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.406Z"
+    },
+    {
+      "id": 6416242935,
+      "name": "校史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4677269,
+      "lng": 120.4848169,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.406Z"
+    },
+    {
+      "id": 9081429837,
+      "name": "23號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4750507,
+      "lng": 120.4957716,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.407Z"
+    },
+    {
+      "id": 9081458749,
+      "name": "30號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4747973,
+      "lng": 120.4910203,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.407Z"
+    },
+    {
+      "id": 9081458757,
+      "name": "33號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4742703,
+      "lng": 120.4886405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.408Z"
+    },
+    {
+      "id": 9081477235,
+      "name": "2號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4800967,
+      "lng": 120.4910909,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.408Z"
+    },
+    {
+      "id": 9843104575,
+      "name": "行嘉吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.455398,
+      "lng": 120.455622,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.409Z"
+    },
+    {
+      "id": 11379104170,
+      "name": "1號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4705368,
+      "lng": 120.4831257,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.410Z"
+    },
+    {
+      "id": 11379104191,
+      "name": "4號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4721675,
+      "lng": 120.4823738,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.410Z"
+    },
+    {
+      "id": 11379104197,
+      "name": "5號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4725607,
+      "lng": 120.4829734,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.411Z"
+    },
+    {
+      "id": 11379104210,
+      "name": "6號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4734612,
+      "lng": 120.4835372,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.411Z"
+    },
+    {
+      "id": 11379104227,
+      "name": "8號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4741155,
+      "lng": 120.4849743,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.412Z"
+    },
+    {
+      "id": 11379104231,
+      "name": "3號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4719366,
+      "lng": 120.4823289,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.413Z"
+    },
+    {
+      "id": 13404025295,
+      "name": "2號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4712141,
+      "lng": 120.4827541,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.413Z"
+    },
+    {
+      "id": 13406887836,
+      "name": "7號平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4737686,
+      "lng": 120.4839997,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.414Z"
+    },
+    {
+      "id": 13406902204,
+      "name": "襟山園林",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4705199,
+      "lng": 120.4831699,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.414Z"
+    },
+    {
+      "id": 13406902211,
+      "name": "31號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4749169,
+      "lng": 120.4891321,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.415Z"
+    },
+    {
+      "id": 13412944280,
+      "name": "嘉義市區市自行車",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4751266,
+      "lng": 120.488245,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.415Z"
+    },
+    {
+      "id": 13412944298,
+      "name": "姐妹亭",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4776946,
+      "lng": 120.4847113,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.416Z"
+    },
+    {
+      "id": 13412952642,
+      "name": "1號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4794396,
+      "lng": 120.4891171,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.416Z"
+    },
+    {
+      "id": 13412952643,
+      "name": "14號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4774527,
+      "lng": 120.4954429,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.417Z"
+    },
+    {
+      "id": 13412952644,
+      "name": "11號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4780426,
+      "lng": 120.4949774,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.417Z"
+    },
+    {
+      "id": 13412952645,
+      "name": "9號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4784891,
+      "lng": 120.4949928,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.418Z"
+    },
+    {
+      "id": 13412952646,
+      "name": "16號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4773441,
+      "lng": 120.4982802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.418Z"
+    },
+    {
+      "id": 13412952647,
+      "name": "19號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4770543,
+      "lng": 120.4935634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.419Z"
+    },
+    {
+      "id": 13412952648,
+      "name": "18號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.476447,
+      "lng": 120.4954577,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.419Z"
+    },
+    {
+      "id": 13412952649,
+      "name": "20號導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.476189,
+      "lng": 120.4954613,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.420Z"
+    },
+    {
+      "id": 280671718,
+      "name": "射日塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4812861,
+      "lng": 120.4690234,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.420Z"
+    },
+    {
+      "id": 320329916,
+      "name": "嘉義市史蹟資料館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4811001,
+      "lng": 120.4676714,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.421Z"
+    },
+    {
+      "id": 320332643,
+      "name": "三信觀景亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4685922,
+      "lng": 120.4771889,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.421Z"
+    },
+    {
+      "id": 321233584,
+      "name": "動力室木雕作品展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.4866703,
+      "lng": 120.4508938,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.422Z"
+    },
+    {
+      "id": 415320189,
+      "name": "行嘉吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4564153,
+      "lng": 120.4548334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.422Z"
+    },
+    {
+      "id": 473034432,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4784333,
+      "lng": 120.4917812,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.423Z"
+    },
+    {
+      "id": 473035943,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4788681,
+      "lng": 120.4940602,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.423Z"
+    },
+    {
+      "id": 491779901,
+      "name": "文化夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4777074,
+      "lng": 120.4498415,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.424Z"
+    },
+    {
+      "id": 545192631,
+      "name": "二二八紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.4765537,
+      "lng": 120.4624091,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.424Z"
+    },
+    {
+      "id": 556901943,
+      "name": "幸福山丘",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4995487,
+      "lng": 120.4756698,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.425Z"
+    },
+    {
+      "id": 981910616,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4742823,
+      "lng": 120.4893147,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.425Z"
+    },
+    {
+      "id": 1112665791,
+      "name": "KANO遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.4822108,
+      "lng": 120.4640169,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.426Z"
+    },
+    {
+      "id": 1452996550,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4745808,
+      "lng": 120.4905983,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.426Z"
+    },
+    {
+      "id": 1452996728,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4749074,
+      "lng": 120.4912721,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.427Z"
+    },
+    {
+      "id": 1452996787,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4748039,
+      "lng": 120.4914871,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.427Z"
+    },
+    {
+      "id": 1452998028,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4745858,
+      "lng": 120.4919606,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.427Z"
+    },
+    {
+      "id": 1452998052,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4744015,
+      "lng": 120.4945427,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.428Z"
+    },
+    {
+      "id": 1452998053,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4743876,
+      "lng": 120.494455,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.428Z"
+    },
+    {
+      "id": 1452998113,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4743856,
+      "lng": 120.4943597,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.429Z"
+    },
+    {
+      "id": 1452998133,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4743538,
+      "lng": 120.494181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.429Z"
+    },
+    {
+      "id": 1452998134,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4743578,
+      "lng": 120.4940381,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.430Z"
+    },
+    {
+      "id": 1452998482,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4743519,
+      "lng": 120.4939068,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.430Z"
+    },
+    {
+      "id": 1452998595,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4742667,
+      "lng": 120.4936627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.431Z"
+    },
+    {
+      "id": 1452998596,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4740814,
+      "lng": 120.4933765,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.431Z"
+    },
+    {
+      "id": 1452998609,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4741118,
+      "lng": 120.4934714,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.431Z"
+    },
+    {
+      "id": 1452998626,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4741937,
+      "lng": 120.493285,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.432Z"
+    },
+    {
+      "id": 1452998683,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4744354,
+      "lng": 120.4930293,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.432Z"
+    },
+    {
+      "id": 1452998715,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.474583,
+      "lng": 120.49277,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.433Z"
+    },
+    {
+      "id": 1452998742,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4745227,
+      "lng": 120.4926419,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.433Z"
+    },
+    {
+      "id": 1452998769,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4745676,
+      "lng": 120.4924452,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.434Z"
+    },
+    {
+      "id": 1452998770,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4746474,
+      "lng": 120.492188,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.434Z"
+    },
+    {
+      "id": 1452998910,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4748792,
+      "lng": 120.4910875,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.434Z"
+    },
+    {
+      "id": 1461478747,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4744971,
+      "lng": 120.4884265,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.435Z"
+    },
+    {
+      "id": 1461478749,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.47508,
+      "lng": 120.4884446,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.435Z"
+    },
+    {
+      "id": 1461478750,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4748629,
+      "lng": 120.4884161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.436Z"
+    },
+    {
+      "id": 1461685986,
+      "name": "姐妹亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.4775335,
+      "lng": 120.4848763,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.437Z"
+    },
+    {
+      "id": 1462270241,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4779888,
+      "lng": 120.4910575,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.437Z"
+    },
+    {
+      "id": 1462270250,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4746029,
+      "lng": 120.4917642,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.438Z"
+    },
+    {
+      "id": 1462270251,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4747028,
+      "lng": 120.4916314,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.438Z"
+    },
+    {
+      "id": 1462270255,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4761306,
+      "lng": 120.4953224,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.438Z"
+    },
+    {
+      "id": 1462270256,
+      "name": "蘭潭風景區後山步道主要路線",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.4779342,
+      "lng": 120.4951069,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:06:07.439Z"
+    }
+  ]
+}

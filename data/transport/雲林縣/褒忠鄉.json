@@ -1,0 +1,261 @@
+{
+  "city": "雲林縣",
+  "district": "褒忠鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 15,
+  "items": [
+    {
+      "id": 4594384069,
+      "name": "褒忠",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.6942898,
+      "lng": 120.3127561,
+      "routes": [
+        "202",
+        "1635",
+        "7107",
+        "7109",
+        "7110",
+        "7111",
+        "7111A",
+        "7136",
+        "7136A",
+        "9015"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594384070,
+      "name": "統聯客運褒忠代售處",
+      "type": "bus_station",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.6944973,
+      "lng": 120.3128453,
+      "routes": [
+        "202",
+        "1635",
+        "7107",
+        "7109",
+        "7110",
+        "7111",
+        "7111A",
+        "7136",
+        "7136A",
+        "9015"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464033229,
+      "name": "王厝寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7323928,
+      "lng": 120.3436697
+    },
+    {
+      "id": 6464048167,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7028094,
+      "lng": 120.3176415,
+      "routes": [
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8345798664,
+      "name": "龍岩",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7191822,
+      "lng": 120.3268066,
+      "routes": [
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076628,
+      "name": "埔姜",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.6973885,
+      "lng": 120.3110765,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076630,
+      "name": "褒忠圖書館",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.6991545,
+      "lng": 120.3095992,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076685,
+      "name": "龍岩",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7197765,
+      "lng": 120.3206992,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.184Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105820,
+      "name": "太湖",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.707854,
+      "lng": 120.30942,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105822,
+      "name": "田洋",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.719504,
+      "lng": 120.310452,
+      "routes": [
+        "202",
+        "7108",
+        "7110"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105825,
+      "name": "潮厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7148081,
+      "lng": 120.3341819,
+      "routes": [
+        "202",
+        "7108",
+        "7110"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13437459547,
+      "name": "馬鳴山",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.6999961,
+      "lng": 120.2808912,
+      "routes": [
+        "7110"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.184Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13437459549,
+      "name": "湖頭厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.707607,
+      "lng": 120.289253,
+      "routes": [
+        "7110"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13437500180,
+      "name": "有才寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7191675,
+      "lng": 120.2897693,
+      "routes": [
+        "7108",
+        "7110"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13439216119,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "褒忠鄉",
+      "lat": 23.7195333,
+      "lng": 120.3070414
+    }
+  ]
+}

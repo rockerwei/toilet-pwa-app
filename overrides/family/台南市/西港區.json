@@ -1,0 +1,38 @@
+{
+  "city": "台南市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:13:53.928Z",
+  "items": [
+    {
+      "id": 487911481,
+      "name": "麻油間仔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1397934,
+      "lng": 120.216505,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:13:53.924Z"
+    },
+    {
+      "id": 498373249,
+      "name": "胡麻嫂故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.1391996,
+      "lng": 120.2160612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:13:53.926Z",
+      "address": "723021台南市西港區後營1號"
+    },
+    {
+      "id": 662780658,
+      "name": "伍角船板 阿香的家",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1560733,
+      "lng": 120.2031647,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:13:53.928Z"
+    }
+  ]
+}

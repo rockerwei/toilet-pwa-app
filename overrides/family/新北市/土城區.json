@@ -1,0 +1,839 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:39:30.833Z",
+  "items": [
+    {
+      "id": 2099989904,
+      "name": "猴洞",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9451722,
+      "lng": 121.4230252,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.795Z"
+    },
+    {
+      "id": 2277136068,
+      "name": "南天母山系統解說導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9581135,
+      "lng": 121.457043,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.797Z"
+    },
+    {
+      "id": 2277136081,
+      "name": "文筆山系統解說導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.956595,
+      "lng": 121.4684801,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.798Z"
+    },
+    {
+      "id": 3067944313,
+      "name": "石門內尖山東峰",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9371451,
+      "lng": 121.439832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.798Z"
+    },
+    {
+      "id": 4170674090,
+      "name": "大地馬術俱樂部",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9629245,
+      "lng": 121.4474044,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.799Z",
+      "address": "和平路"
+    },
+    {
+      "id": 4782159121,
+      "name": "土城翠湖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9637218,
+      "lng": 121.443731,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.800Z"
+    },
+    {
+      "id": 4783823921,
+      "name": "土城翠鳥",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9613199,
+      "lng": 121.4489272,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.800Z"
+    },
+    {
+      "id": 10048742632,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944423,
+      "lng": 121.44567,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.801Z"
+    },
+    {
+      "id": 10048742634,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.946684,
+      "lng": 121.42384,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.801Z"
+    },
+    {
+      "id": 10048742635,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.956496,
+      "lng": 121.46864,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.802Z"
+    },
+    {
+      "id": 10048742638,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945786,
+      "lng": 121.44114,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.802Z"
+    },
+    {
+      "id": 10048742639,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.949463,
+      "lng": 121.44929,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.803Z"
+    },
+    {
+      "id": 10048742640,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.951922,
+      "lng": 121.44299,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.804Z"
+    },
+    {
+      "id": 10048742642,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9703804,
+      "lng": 121.4710339,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.805Z"
+    },
+    {
+      "id": 10048742643,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.94215,
+      "lng": 121.44836,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.805Z"
+    },
+    {
+      "id": 10048742644,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.947509,
+      "lng": 121.4514,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.806Z"
+    },
+    {
+      "id": 10048742646,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.957619,
+      "lng": 121.46963,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.806Z"
+    },
+    {
+      "id": 10048742648,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945831,
+      "lng": 121.443,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.806Z"
+    },
+    {
+      "id": 10048742649,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.949064,
+      "lng": 121.44967,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.807Z"
+    },
+    {
+      "id": 10048742650,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.955386,
+      "lng": 121.44341,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.807Z"
+    },
+    {
+      "id": 10048742652,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.96957,
+      "lng": 121.4718,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.808Z"
+    },
+    {
+      "id": 10048742653,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.95399,
+      "lng": 121.46156,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.808Z"
+    },
+    {
+      "id": 10048742654,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.942044,
+      "lng": 121.44737,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.808Z"
+    },
+    {
+      "id": 10048742655,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.946055,
+      "lng": 121.45306,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.809Z"
+    },
+    {
+      "id": 10048742657,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9588464,
+      "lng": 121.4703963,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.809Z"
+    },
+    {
+      "id": 10048742660,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.942144,
+      "lng": 121.44803,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.810Z"
+    },
+    {
+      "id": 10048742661,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.955517,
+      "lng": 121.44423,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.810Z"
+    },
+    {
+      "id": 10048742663,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.967875,
+      "lng": 121.47101,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.810Z"
+    },
+    {
+      "id": 10048742664,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.953285,
+      "lng": 121.46432,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.811Z"
+    },
+    {
+      "id": 10048742666,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945666,
+      "lng": 121.45373,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.811Z"
+    },
+    {
+      "id": 10048742669,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.952378,
+      "lng": 121.44475,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.812Z"
+    },
+    {
+      "id": 10048742671,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.968601,
+      "lng": 121.46882,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.812Z"
+    },
+    {
+      "id": 10048742672,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.952638,
+      "lng": 121.46486,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.813Z"
+    },
+    {
+      "id": 10048742673,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.941102,
+      "lng": 121.44659,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.814Z"
+    },
+    {
+      "id": 10048742674,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945206,
+      "lng": 121.45405,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.814Z"
+    },
+    {
+      "id": 10048742676,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.955504,
+      "lng": 121.47156,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.815Z"
+    },
+    {
+      "id": 10048742680,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944993,
+      "lng": 121.42918,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.815Z"
+    },
+    {
+      "id": 10048742682,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.969181,
+      "lng": 121.47028,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.816Z"
+    },
+    {
+      "id": 10048742683,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.952115,
+      "lng": 121.4651,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.816Z"
+    },
+    {
+      "id": 10048742686,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.949604,
+      "lng": 121.44663,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.817Z"
+    },
+    {
+      "id": 10048742689,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.951346,
+      "lng": 121.46612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.817Z"
+    },
+    {
+      "id": 10048742691,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945135,
+      "lng": 121.43186,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.817Z"
+    },
+    {
+      "id": 10048742693,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.97017,
+      "lng": 121.4685,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.818Z"
+    },
+    {
+      "id": 10048742694,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.95145,
+      "lng": 121.46553,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.818Z"
+    },
+    {
+      "id": 10048742695,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.938214,
+      "lng": 121.43559,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.819Z"
+    },
+    {
+      "id": 10048742696,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9462566,
+      "lng": 121.4559821,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.819Z"
+    },
+    {
+      "id": 10048742697,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.949289,
+      "lng": 121.44607,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.819Z"
+    },
+    {
+      "id": 10048742699,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944485,
+      "lng": 121.41773,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.820Z"
+    },
+    {
+      "id": 10048742700,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.953712,
+      "lng": 121.46353,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.820Z"
+    },
+    {
+      "id": 10048742703,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944957,
+      "lng": 121.43435,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.821Z"
+    },
+    {
+      "id": 10048742705,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.943532,
+      "lng": 121.41636,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.821Z"
+    },
+    {
+      "id": 10048742707,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.970932,
+      "lng": 121.44692,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.821Z"
+    },
+    {
+      "id": 10048742708,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.951134,
+      "lng": 121.45435,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.822Z"
+    },
+    {
+      "id": 10048742709,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.947596,
+      "lng": 121.44828,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.822Z"
+    },
+    {
+      "id": 10048742711,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945209,
+      "lng": 121.4184,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.822Z"
+    },
+    {
+      "id": 10048742712,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.957546,
+      "lng": 121.46286,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.823Z"
+    },
+    {
+      "id": 10048742716,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945118,
+      "lng": 121.43519,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.823Z"
+    },
+    {
+      "id": 10048757418,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.94586,
+      "lng": 121.44488,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.824Z"
+    },
+    {
+      "id": 10048757420,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.972218,
+      "lng": 121.46771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.824Z"
+    },
+    {
+      "id": 10048757421,
+      "name": "路標 登山地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.947927,
+      "lng": 121.45378,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.824Z"
+    },
+    {
+      "id": 10048757422,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.94339,
+      "lng": 121.4465,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.825Z"
+    },
+    {
+      "id": 10048757424,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945542,
+      "lng": 121.41959,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.825Z"
+    },
+    {
+      "id": 10048757425,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.956847,
+      "lng": 121.46066,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.826Z"
+    },
+    {
+      "id": 10048757427,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944843,
+      "lng": 121.43654,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.826Z"
+    },
+    {
+      "id": 10048757429,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.94656,
+      "lng": 121.44385,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.826Z"
+    },
+    {
+      "id": 10048757431,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.973042,
+      "lng": 121.46819,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.827Z"
+    },
+    {
+      "id": 10048757433,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.943931,
+      "lng": 121.44564,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.827Z"
+    },
+    {
+      "id": 10048757435,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945473,
+      "lng": 121.42108,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.828Z"
+    },
+    {
+      "id": 10048757436,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.956779,
+      "lng": 121.45926,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.828Z"
+    },
+    {
+      "id": 10048757438,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.945558,
+      "lng": 121.43877,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.828Z"
+    },
+    {
+      "id": 10048757439,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.950312,
+      "lng": 121.44828,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.829Z"
+    },
+    {
+      "id": 10048757440,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.950091,
+      "lng": 121.44327,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.829Z"
+    },
+    {
+      "id": 10048757442,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.972178,
+      "lng": 121.46895,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.829Z"
+    },
+    {
+      "id": 10048757443,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.944375,
+      "lng": 121.45273,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.830Z"
+    },
+    {
+      "id": 11449095104,
+      "name": "中央公園(莊園街)",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.98205,
+      "lng": 121.44565,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.830Z"
+    },
+    {
+      "id": 11724687552,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9592799,
+      "lng": 121.4714402,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.830Z"
+    },
+    {
+      "id": 11724797832,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9709271,
+      "lng": 121.4669435,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.831Z"
+    },
+    {
+      "id": 11724805572,
+      "name": "新北市",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9687426,
+      "lng": 121.4759294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.831Z"
+    },
+    {
+      "id": 12468292921,
+      "name": "石門內尖山東峰",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9372076,
+      "lng": 121.4397865,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.832Z"
+    },
+    {
+      "id": 12802008901,
+      "name": "路標 地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9478497,
+      "lng": 121.4552945,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.832Z"
+    },
+    {
+      "id": 547793325,
+      "name": "土城藝文館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9730175,
+      "lng": 121.4430004,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.833Z",
+      "address": "236新北市土城區和平路24號"
+    },
+    {
+      "id": 724842175,
+      "name": "莊園街",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9817796,
+      "lng": 121.4460373,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.833Z"
+    },
+    {
+      "id": 1075648827,
+      "name": "大同莊園三期",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9823778,
+      "lng": 121.4467545,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:39:30.833Z"
+    }
+  ]
+}

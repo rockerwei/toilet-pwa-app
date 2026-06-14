@@ -1,0 +1,1606 @@
+{
+  "city": "台中市",
+  "district": "后里區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 124,
+  "items": [
+    {
+      "id": 290975873,
+      "name": "后里",
+      "type": "train",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3092058,
+      "lng": 120.733107
+    },
+    {
+      "id": 774940566,
+      "name": "泰安",
+      "type": "train",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3225724,
+      "lng": 120.7492097
+    },
+    {
+      "id": 2935318047,
+      "name": "月眉糖廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3133662,
+      "lng": 120.6950432
+    },
+    {
+      "id": 2965450227,
+      "name": "后里義里郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3091409,
+      "lng": 120.7276375
+    },
+    {
+      "id": 2990353484,
+      "name": "后里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3093113,
+      "lng": 120.722597
+    },
+    {
+      "id": 3577276303,
+      "name": "土地公廟(安眉路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3296164,
+      "lng": 120.7123294
+    },
+    {
+      "id": 3577276332,
+      "name": "崁頂土地公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.328982,
+      "lng": 120.7114604,
+      "routes": [
+        "155副",
+        "811"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578714943,
+      "name": "安眉月湖路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3266561,
+      "lng": 120.7087747
+    },
+    {
+      "id": 3578812304,
+      "name": "四塊厝(甲后路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3168529,
+      "lng": 120.6742877,
+      "routes": [
+        "92",
+        "157",
+        "157延",
+        "157繞",
+        "212",
+        "213",
+        "215",
+        "651",
+        "811",
+        "813",
+        "813區1"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812324,
+      "name": "忠明新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3164838,
+      "lng": 120.6766129,
+      "routes": [
+        "92",
+        "157",
+        "157延",
+        "157繞",
+        "212",
+        "213",
+        "215",
+        "651",
+        "811",
+        "813",
+        "813區1"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812326,
+      "name": "月眉",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3138351,
+      "lng": 120.6923004
+    },
+    {
+      "id": 3578812330,
+      "name": "水利會(甲后路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3151438,
+      "lng": 120.684552,
+      "routes": [
+        "813"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.301Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3578812340,
+      "name": "甲后四月路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3143045,
+      "lng": 120.6895416
+    },
+    {
+      "id": 3663245669,
+      "name": "后里國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3092157,
+      "lng": 120.69404
+    },
+    {
+      "id": 3675776497,
+      "name": "泰安",
+      "type": "train",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3312191,
+      "lng": 120.741782
+    },
+    {
+      "id": 3889503223,
+      "name": "七星農場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.29393,
+      "lng": 120.7235648
+    },
+    {
+      "id": 3889503225,
+      "name": "下后里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3089345,
+      "lng": 120.7215784
+    },
+    {
+      "id": 3889503227,
+      "name": "南后里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3033434,
+      "lng": 120.7221706,
+      "routes": [
+        "92",
+        "212",
+        "213",
+        "215",
+        "813",
+        "市民小巴4延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889503230,
+      "name": "后里電信局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3095831,
+      "lng": 120.7175056
+    },
+    {
+      "id": 3889503232,
+      "name": "啟明學校(三豐路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3047416,
+      "lng": 120.7218987,
+      "routes": [
+        "813"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.920Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889503241,
+      "name": "枋寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2881839,
+      "lng": 120.7232913
+    },
+    {
+      "id": 3889503243,
+      "name": "正隆紙廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.284974,
+      "lng": 120.7229364
+    },
+    {
+      "id": 3889503247,
+      "name": "牛稠坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2998867,
+      "lng": 120.7230221,
+      "routes": [
+        "92",
+        "212",
+        "213",
+        "215",
+        "813",
+        "市民小巴4延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889510076,
+      "name": "馬場入口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2985685,
+      "lng": 120.7233501,
+      "routes": [
+        "92",
+        "212",
+        "213",
+        "215",
+        "813",
+        "市民小巴4延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889515312,
+      "name": "中和(公安路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3103449,
+      "lng": 120.697975,
+      "routes": [
+        "92",
+        "155",
+        "212",
+        "213",
+        "市民小巴4",
+        "市民小巴4延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.741Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889515314,
+      "name": "內埔市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3055946,
+      "lng": 120.7132945
+    },
+    {
+      "id": 3889515316,
+      "name": "公安主和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3054114,
+      "lng": 120.7092155
+    },
+    {
+      "id": 3889515318,
+      "name": "后里區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3046373,
+      "lng": 120.710977
+    },
+    {
+      "id": 3889515320,
+      "name": "松鶴酒莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3116619,
+      "lng": 120.6959698,
+      "routes": [
+        "92",
+        "155",
+        "212",
+        "213"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889515322,
+      "name": "民生文明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3070137,
+      "lng": 120.7163179
+    },
+    {
+      "id": 3889515335,
+      "name": "雅藝公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3071612,
+      "lng": 120.7050839,
+      "routes": [
+        "92",
+        "155",
+        "212",
+        "213",
+        "市民小巴4",
+        "市民小巴4延"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4130111600,
+      "name": "三豐泉洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3124794,
+      "lng": 120.7234476
+    },
+    {
+      "id": 4130111604,
+      "name": "公車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3131235,
+      "lng": 120.7236018
+    },
+    {
+      "id": 4130111623,
+      "name": "盟立",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3204526,
+      "lng": 120.7292587
+    },
+    {
+      "id": 4130111626,
+      "name": "后科三豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3211248,
+      "lng": 120.7263806,
+      "routes": [
+        "813"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4132604898,
+      "name": "成功甲后路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3101599,
+      "lng": 120.7178932
+    },
+    {
+      "id": 4132604900,
+      "name": "成功路105巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3124018,
+      "lng": 120.7210224,
+      "routes": [
+        "155副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4132604909,
+      "name": "甲后路329巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.308897,
+      "lng": 120.7243851
+    },
+    {
+      "id": 12111897765,
+      "name": "后里車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3095085,
+      "lng": 120.7321713,
+      "routes": [
+        "155",
+        "155副",
+        "811",
+        "813",
+        "813區1",
+        "888",
+        "黃18"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.742Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4132651881,
+      "name": "七星活動中心入口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3023267,
+      "lng": 120.7340337
+    },
+    {
+      "id": 4132651883,
+      "name": "內東大山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.30722,
+      "lng": 120.730751
+    },
+    {
+      "id": 4132651885,
+      "name": "內東路營區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3045757,
+      "lng": 120.7322672
+    },
+    {
+      "id": 4132651887,
+      "name": "后里馬場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2988861,
+      "lng": 120.7356185
+    },
+    {
+      "id": 4132652889,
+      "name": "馬場后科路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.298343,
+      "lng": 120.7317223,
+      "routes": [
+        "155",
+        "155副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4141495459,
+      "name": "三豐九甲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3234659,
+      "lng": 120.7237698
+    },
+    {
+      "id": 4141495461,
+      "name": "泰安服務區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.326992,
+      "lng": 120.7164078
+    },
+    {
+      "id": 4141495477,
+      "name": "義德宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3246781,
+      "lng": 120.7208999
+    },
+    {
+      "id": 4306125235,
+      "name": "后里清潔隊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3100366,
+      "lng": 120.7147528
+    },
+    {
+      "id": 4306126846,
+      "name": "豐興鋼鐵",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3104862,
+      "lng": 120.7123773
+    },
+    {
+      "id": 4306126848,
+      "name": "甲后月湖路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3112224,
+      "lng": 120.7077317
+    },
+    {
+      "id": 4560277427,
+      "name": "安眉興安路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3293293,
+      "lng": 120.7422404
+    },
+    {
+      "id": 4560309832,
+      "name": "七塊厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.328199,
+      "lng": 120.744617,
+      "routes": [
+        "211",
+        "211區1",
+        "211區2",
+        "市民小巴4延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.922Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4560314212,
+      "name": "泰安國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.326266,
+      "lng": 120.7487712,
+      "routes": [
+        "211",
+        "211區1",
+        "211區2",
+        "市民小巴4延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.922Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4560345782,
+      "name": "泰安派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3241026,
+      "lng": 120.7515607,
+      "routes": [
+        "211",
+        "211區1",
+        "211區2",
+        "市民小巴4延"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.922Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4632209200,
+      "name": "中社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3345592,
+      "lng": 120.7305934
+    },
+    {
+      "id": 4632220249,
+      "name": "中路(三豐路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3392128,
+      "lng": 120.7315349
+    },
+    {
+      "id": 5140757223,
+      "name": "大山內東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3078282,
+      "lng": 120.7304053,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5140757225,
+      "name": "義德里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3059948,
+      "lng": 120.7265872,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5140815425,
+      "name": "中科后里辦公室",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3166082,
+      "lng": 120.7230306,
+      "routes": [
+        "226"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5140815427,
+      "name": "后科南甲后136巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3152627,
+      "lng": 120.7280248
+    },
+    {
+      "id": 5140815429,
+      "name": "泉州厝公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3129998,
+      "lng": 120.7291949,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5140815431,
+      "name": "后里國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3102273,
+      "lng": 120.7302819,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5513779617,
+      "name": "麗寶樂園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3221932,
+      "lng": 120.6972481
+    },
+    {
+      "id": 6380530205,
+      "name": "花博接駁站 (森林園區)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3057821,
+      "lng": 120.7304418
+    },
+    {
+      "id": 6551100882,
+      "name": "南村中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3029319,
+      "lng": 120.7115319
+    },
+    {
+      "id": 6551100884,
+      "name": "南村昭宗路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3010032,
+      "lng": 120.7127041,
+      "routes": [
+        "211"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.302Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551120886,
+      "name": "南村橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2990059,
+      "lng": 120.7138118,
+      "routes": [
+        "211",
+        "市民小巴4延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551120945,
+      "name": "樟腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2961555,
+      "lng": 120.717693,
+      "routes": [
+        "211",
+        "市民小巴4延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.744Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6551120947,
+      "name": "一支線邊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2953488,
+      "lng": 120.7192567
+    },
+    {
+      "id": 6551120949,
+      "name": "東億新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2952339,
+      "lng": 120.7216036
+    },
+    {
+      "id": 7147952040,
+      "name": "后里東站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3092469,
+      "lng": 120.7345817
+    },
+    {
+      "id": 7999334601,
+      "name": "麗寶國際賽車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3174026,
+      "lng": 120.6852946
+    },
+    {
+      "id": 7999334605,
+      "name": "月眉東甲后路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3162734,
+      "lng": 120.6828631
+    },
+    {
+      "id": 7999334607,
+      "name": "眉山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3159752,
+      "lng": 120.6807227
+    },
+    {
+      "id": 8022349978,
+      "name": "教會前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3223888,
+      "lng": 120.7456765
+    },
+    {
+      "id": 8022349980,
+      "name": "集會所(福興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3220435,
+      "lng": 120.7432826
+    },
+    {
+      "id": 8022349982,
+      "name": "后科圳寮路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3143033,
+      "lng": 120.7400277
+    },
+    {
+      "id": 8022381620,
+      "name": "安眉公益巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3207487,
+      "lng": 120.6995827
+    },
+    {
+      "id": 8022381624,
+      "name": "安眉公會巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3217606,
+      "lng": 120.7015125
+    },
+    {
+      "id": 8022381626,
+      "name": "安眉月眉北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3226081,
+      "lng": 120.7027946
+    },
+    {
+      "id": 8022393595,
+      "name": "五崁腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3329054,
+      "lng": 120.7150308,
+      "routes": [
+        "211",
+        "211區",
+        "214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8022393604,
+      "name": "九股",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3336998,
+      "lng": 120.71949
+    },
+    {
+      "id": 8022393606,
+      "name": "尾社(安眉路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3331926,
+      "lng": 120.7232586
+    },
+    {
+      "id": 8022393608,
+      "name": "下城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3237013,
+      "lng": 120.739781
+    },
+    {
+      "id": 8022393610,
+      "name": "頂下城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3253083,
+      "lng": 120.7348832
+    },
+    {
+      "id": 8022393612,
+      "name": "發電廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3257286,
+      "lng": 120.7286431
+    },
+    {
+      "id": 8022393614,
+      "name": "三豐福美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3262285,
+      "lng": 120.7284982,
+      "routes": [
+        "226延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8022393620,
+      "name": "公館(安眉路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3320208,
+      "lng": 120.7295161
+    },
+    {
+      "id": 8022393636,
+      "name": "安眉福美路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3305764,
+      "lng": 120.7360741
+    },
+    {
+      "id": 8022458853,
+      "name": "三豐安眉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3329751,
+      "lng": 120.7299614
+    },
+    {
+      "id": 8022458884,
+      "name": "新店庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3414321,
+      "lng": 120.73226
+    },
+    {
+      "id": 8022536913,
+      "name": "三豐后科南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3183656,
+      "lng": 120.7250771
+    },
+    {
+      "id": 8244420024,
+      "name": "泰安車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3314972,
+      "lng": 120.7416983,
+      "routes": [
+        "839"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8359415337,
+      "name": "后神甲后721巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3135497,
+      "lng": 120.6808573
+    },
+    {
+      "id": 12111897755,
+      "name": "育英國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3109294,
+      "lng": 120.679362,
+      "routes": [
+        "市民小巴4",
+        "市民小巴4延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.924Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8359415340,
+      "name": "后神水門路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3037361,
+      "lng": 120.6789319
+    },
+    {
+      "id": 8359415341,
+      "name": "后神舊社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2947726,
+      "lng": 120.6770094,
+      "routes": [
+        "157",
+        "157延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253584601,
+      "name": "后科馬場路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2983696,
+      "lng": 120.731937,
+      "routes": [
+        "811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253584603,
+      "name": "后科七星",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2930468,
+      "lng": 120.7321358,
+      "routes": [
+        "811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253584605,
+      "name": "后里棒/壘球場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2891402,
+      "lng": 120.7315685,
+      "routes": [
+        "811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.924Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253584607,
+      "name": "星科七星",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2877128,
+      "lng": 120.7285721,
+      "routes": [
+        "811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10253588030,
+      "name": "內東梅里路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3059567,
+      "lng": 120.7308267,
+      "routes": [
+        "155",
+        "155副",
+        "811",
+        "813",
+        "813區1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.745Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949500,
+      "name": "太平里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3138325,
+      "lng": 120.6591345,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10254949502,
+      "name": "后里口庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3012094,
+      "lng": 120.6585919,
+      "routes": [
+        "黃19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.924Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173357,
+      "name": "馬場三豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2979666,
+      "lng": 120.7240143,
+      "routes": [
+        "155",
+        "155副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173359,
+      "name": "后里游泳池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2879583,
+      "lng": 120.7000435,
+      "routes": [
+        "888",
+        "黃18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173361,
+      "name": "后里花田綠廊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2865614,
+      "lng": 120.702784,
+      "routes": [
+        "888"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173363,
+      "name": "動物之家后里園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2860093,
+      "lng": 120.709845,
+      "routes": [
+        "888"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897747,
+      "name": "公館仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3120422,
+      "lng": 120.6644829,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897749,
+      "name": "五哩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3106047,
+      "lng": 120.6686847,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897751,
+      "name": "頂太平",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3099375,
+      "lng": 120.6728894,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897753,
+      "name": "頂口庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3104385,
+      "lng": 120.6749198
+    },
+    {
+      "id": 12111897757,
+      "name": "三線水門路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3098821,
+      "lng": 120.6849258,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897759,
+      "name": "眉山三線路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3076616,
+      "lng": 120.6894066
+    },
+    {
+      "id": 12111897761,
+      "name": "后里國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3086611,
+      "lng": 120.69323,
+      "routes": [
+        "226",
+        "226延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.303Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897763,
+      "name": "啟明學校宿舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3050561,
+      "lng": 120.7244547,
+      "routes": [
+        "市民小巴4",
+        "市民小巴4延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897767,
+      "name": "七星國小(大圳路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3012896,
+      "lng": 120.7102898,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897769,
+      "name": "臺水公司后里服務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2980671,
+      "lng": 120.7099055,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897771,
+      "name": "后里游泳池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2893927,
+      "lng": 120.6999794,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897772,
+      "name": "三重一路175巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2954499,
+      "lng": 120.6885191,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897774,
+      "name": "三重二路三重中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.2972041,
+      "lng": 120.6940517,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897776,
+      "name": "三重三路十三張路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3012983,
+      "lng": 120.6880633,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897778,
+      "name": "四塊厝(合安宮)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.305948,
+      "lng": 120.6829804,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.925Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897780,
+      "name": "慈濟后里聯絡處",
+      "type": "bus",
+      "city": "台中市",
+      "district": "后里區",
+      "lat": 24.3155347,
+      "lng": 120.6779581,
+      "routes": [
+        "黃18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.746Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

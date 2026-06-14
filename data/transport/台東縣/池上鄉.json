@@ -1,0 +1,287 @@
+{
+  "city": "台東縣",
+  "district": "池上鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-12T01:29:30.791Z",
+  "rev": 1,
+  "count": 20,
+  "items": [
+    {
+      "id": 2014766929,
+      "name": "池上",
+      "type": "train",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1263204,
+      "lng": 121.2194323
+    },
+    {
+      "id": 3032950954,
+      "name": "池上火車站",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1256905,
+      "lng": 121.2201507,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8165",
+        "8165A",
+        "8166",
+        "8166A",
+        "8173"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3032950955,
+      "name": "池上郵局",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.124214,
+      "lng": 121.2180525,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8165",
+        "8165A",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171176,
+      "name": "陸安",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1313008,
+      "lng": 121.1887721,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171177,
+      "name": "大同農場",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1261526,
+      "lng": 121.2069906,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171178,
+      "name": "池上鄉公所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1223032,
+      "lng": 121.2154139,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8165",
+        "8165A",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171179,
+      "name": "池上",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.123656,
+      "lng": 121.2175609,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8165",
+        "8165A",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171180,
+      "name": "慶豐",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1258789,
+      "lng": 121.2296419,
+      "routes": [
+        "8161",
+        "8173"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256339656,
+      "name": "錦園",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1035019,
+      "lng": 121.2221085
+    },
+    {
+      "id": 3256339657,
+      "name": "保安宮",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.098824,
+      "lng": 121.2198357
+    },
+    {
+      "id": 3256339658,
+      "name": "萬安",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0939442,
+      "lng": 121.2194819
+    },
+    {
+      "id": 3256339659,
+      "name": "上富興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0869658,
+      "lng": 121.2213358
+    },
+    {
+      "id": 3256339660,
+      "name": "富興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0840861,
+      "lng": 121.2215797
+    },
+    {
+      "id": 3256340961,
+      "name": "佛光寺",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0705372,
+      "lng": 121.2172509
+    },
+    {
+      "id": 3256340962,
+      "name": "振興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0440664,
+      "lng": 121.1958507
+    },
+    {
+      "id": 3256340963,
+      "name": "大水湖",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.0409416,
+      "lng": 121.1931041
+    },
+    {
+      "id": 3256348232,
+      "name": "新興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1037257,
+      "lng": 121.1999204
+    },
+    {
+      "id": 3541450489,
+      "name": "池上國中",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1134227,
+      "lng": 121.2071614
+    },
+    {
+      "id": 3541458523,
+      "name": "新興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.10789,
+      "lng": 121.2028719,
+      "routes": [
+        "8165",
+        "8165A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.284Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9869867005,
+      "name": "大坡國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "池上鄉",
+      "lat": 23.1254716,
+      "lng": 121.2300607
+    }
+  ]
+}

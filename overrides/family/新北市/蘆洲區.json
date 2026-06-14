@@ -1,0 +1,27 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-12T17:43:50.833Z",
+  "items": [
+    {
+      "id": 9952642955,
+      "name": "鄧麗君彩繪牆",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.0847278,
+      "lng": 121.4713543,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:43:50.831Z"
+    },
+    {
+      "id": 7071783,
+      "name": "淡水河口保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 25.1408199,
+      "lng": 121.4475341,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T17:43:50.833Z"
+    }
+  ]
+}

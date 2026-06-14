@@ -1,0 +1,67 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:09:02.243Z",
+  "items": [
+    {
+      "id": 8567101147,
+      "name": "電桿紅漆指示",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.9787511,
+      "lng": 120.6221661,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.234Z"
+    },
+    {
+      "id": 12222496049,
+      "name": "白水泉瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0195287,
+      "lng": 120.5548992,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.237Z"
+    },
+    {
+      "id": 13094410497,
+      "name": "火山出火口",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0227348,
+      "lng": 120.5816406,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.239Z"
+    },
+    {
+      "id": 1090683379,
+      "name": "金興吊橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.0012033,
+      "lng": 120.591501,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.240Z"
+    },
+    {
+      "id": 1352849612,
+      "name": "F-5戰鬥機",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9677832,
+      "lng": 120.5411142,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.242Z"
+    },
+    {
+      "id": 1481760736,
+      "name": "杉林夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.9699532,
+      "lng": 120.5415613,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:09:02.243Z"
+    }
+  ]
+}

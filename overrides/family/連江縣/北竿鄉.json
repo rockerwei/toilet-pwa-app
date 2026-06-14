@@ -1,0 +1,438 @@
+{
+  "city": "連江縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:57:36.999Z",
+  "items": [
+    {
+      "id": 2342030439,
+      "name": "一柱擎天碑",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2266775,
+      "lng": 119.9971594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.964Z"
+    },
+    {
+      "id": 2342030440,
+      "name": "北竿遊客中心入口",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2163337,
+      "lng": 119.9745609,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.967Z"
+    },
+    {
+      "id": 2342030448,
+      "name": "海上孔子像 BB 16",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2148544,
+      "lng": 120.011368,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.968Z"
+    },
+    {
+      "id": 2451212562,
+      "name": "午沙北海坑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2161534,
+      "lng": 119.9784695,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.970Z"
+    },
+    {
+      "id": 2463960484,
+      "name": "06據點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.228,
+      "lng": 120.0141594,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.972Z"
+    },
+    {
+      "id": 2463980776,
+      "name": "莒光堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2303502,
+      "lng": 119.9949802,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.974Z"
+    },
+    {
+      "id": 2463980807,
+      "name": "橋仔漁村展示館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 26.2350092,
+      "lng": 119.9935586,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.976Z"
+    },
+    {
+      "id": 4195531759,
+      "name": "馬祖播音站",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2250227,
+      "lng": 119.9790842,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.977Z"
+    },
+    {
+      "id": 5159887391,
+      "name": "英雄坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2786399,
+      "lng": 119.9902497,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.978Z"
+    },
+    {
+      "id": 5159887392,
+      "name": "忠坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.28291,
+      "lng": 119.9887626,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.979Z"
+    },
+    {
+      "id": 5159887395,
+      "name": "中沃",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2791765,
+      "lng": 119.9847261,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.979Z"
+    },
+    {
+      "id": 5159887396,
+      "name": "仁坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.27823,
+      "lng": 119.9821533,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.980Z"
+    },
+    {
+      "id": 5159887398,
+      "name": "南沃",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2758003,
+      "lng": 119.9855181,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.981Z"
+    },
+    {
+      "id": 5159887399,
+      "name": "鐵尖",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2721434,
+      "lng": 119.9789139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.982Z"
+    },
+    {
+      "id": 5159887400,
+      "name": "信坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2696598,
+      "lng": 119.9798258,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.982Z"
+    },
+    {
+      "id": 5159887401,
+      "name": "愛坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2731557,
+      "lng": 119.9815015,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.983Z"
+    },
+    {
+      "id": 5159887403,
+      "name": "義坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2683041,
+      "lng": 119.9828554,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.983Z"
+    },
+    {
+      "id": 5159887404,
+      "name": "和坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2698446,
+      "lng": 119.9878306,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.984Z"
+    },
+    {
+      "id": 5159887405,
+      "name": "東沃",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2728817,
+      "lng": 119.987444,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.985Z"
+    },
+    {
+      "id": 8783921763,
+      "name": "大胆據點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2212059,
+      "lng": 120.0088354,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.985Z"
+    },
+    {
+      "id": 9201675818,
+      "name": "大坵堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2446707,
+      "lng": 119.9978717,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.986Z"
+    },
+    {
+      "id": 10081057617,
+      "name": "蛤蠣島",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.1950224,
+      "lng": 119.9726976,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.987Z"
+    },
+    {
+      "id": 10956368260,
+      "name": "導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2445064,
+      "lng": 119.9961457,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.987Z"
+    },
+    {
+      "id": 10956404741,
+      "name": "指示牌 (←大坵碼頭,↓大坵堡,環島步道→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2476564,
+      "lng": 120.0015225,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.988Z"
+    },
+    {
+      "id": 10956404742,
+      "name": "飲水思源",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2483208,
+      "lng": 120.0025079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.988Z"
+    },
+    {
+      "id": 10956404862,
+      "name": "導覽地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2469519,
+      "lng": 120.0011582,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.989Z"
+    },
+    {
+      "id": 10956404863,
+      "name": "指示牌 (↙產業道路▪村莊▪碼頭,↓白石嶺烽火台,大坵堡▪村莊▪碼頭↑,後山環島步道↗)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2468077,
+      "lng": 120.0011023,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.989Z"
+    },
+    {
+      "id": 10956404877,
+      "name": "白石嶺烽火台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2463148,
+      "lng": 120.0015947,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.990Z"
+    },
+    {
+      "id": 10956404878,
+      "name": "馬祖唯一海上遊牧民族",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2463227,
+      "lng": 120.0017229,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.991Z"
+    },
+    {
+      "id": 10956404925,
+      "name": "指示牌 (↙村莊▪碼頭)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2446685,
+      "lng": 119.997908,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.991Z"
+    },
+    {
+      "id": 10956431025,
+      "name": "指示牌 (←村莊▪碼頭,大坵分校▪大坵堡↑)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2431176,
+      "lng": 119.996696,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.992Z"
+    },
+    {
+      "id": 10960196446,
+      "name": "Daqiu 全區導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2437368,
+      "lng": 119.9958863,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.992Z"
+    },
+    {
+      "id": 10960196482,
+      "name": "臨望大澳山外礁 BB 05",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2275721,
+      "lng": 120.0141427,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.993Z"
+    },
+    {
+      "id": 10960222143,
+      "name": "06據點 BB 06",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2279598,
+      "lng": 120.0141705,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.993Z"
+    },
+    {
+      "id": 11042608246,
+      "name": "北竿螺蚌山自然步道導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2200573,
+      "lng": 120.0086583,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.994Z"
+    },
+    {
+      "id": 11042608300,
+      "name": "三連嶼 BB 15",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2188448,
+      "lng": 120.0096554,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.995Z"
+    },
+    {
+      "id": 13288064905,
+      "name": "八吋砲陣地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2202266,
+      "lng": 119.9957497,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.995Z"
+    },
+    {
+      "id": 13288064987,
+      "name": "短坡山觀景臺",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2204371,
+      "lng": 119.9962846,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.996Z"
+    },
+    {
+      "id": 238452365,
+      "name": "北竿遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2160977,
+      "lng": 119.9747384,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.996Z",
+      "address": "210006連江縣北竿鄉坂里村47號"
+    },
+    {
+      "id": 238455440,
+      "name": "戰爭和平紀念館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 26.2206115,
+      "lng": 120.0086648,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.997Z"
+    },
+    {
+      "id": 238455441,
+      "name": "08據點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 26.2233325,
+      "lng": 120.0127426,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.997Z"
+    },
+    {
+      "id": 238459203,
+      "name": "芹壁鏡澳文史館",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 26.2242073,
+      "lng": 119.9824235,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.998Z"
+    },
+    {
+      "id": 1179954648,
+      "name": "大坵入口意象 - 梅花鹿",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 26.2443467,
+      "lng": 119.9960938,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:57:36.999Z"
+    }
+  ]
+}

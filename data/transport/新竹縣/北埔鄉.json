@@ -1,0 +1,629 @@
+{
+  "city": "新竹縣",
+  "district": "北埔鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 48,
+  "items": [
+    {
+      "id": 3359170724,
+      "name": "北埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7008417,
+      "lng": 121.0566959
+    },
+    {
+      "id": 3359242587,
+      "name": "小南坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6678198,
+      "lng": 121.0480161,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.660Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4552042008,
+      "name": "北埔老街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.700807,
+      "lng": 121.0558465
+    },
+    {
+      "id": 4642319289,
+      "name": "綠世界",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7125989,
+      "lng": 121.0704231
+    },
+    {
+      "id": 5740755810,
+      "name": "仁愛路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7032663,
+      "lng": 121.0511962,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.660Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740761627,
+      "name": "北埔國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7041082,
+      "lng": 121.0485274,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.660Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5740761629,
+      "name": "社官橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.702517,
+      "lng": 121.0445309,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.660Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743534867,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7006787,
+      "lng": 121.0547715,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743534869,
+      "name": "埔心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7010866,
+      "lng": 121.053248,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743649641,
+      "name": "正興茶廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7052461,
+      "lng": 121.0615548,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743649643,
+      "name": "北埔口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7030786,
+      "lng": 121.0591274,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743654035,
+      "name": "庄口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7084698,
+      "lng": 121.0677199,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743654037,
+      "name": "麻布樹排",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7081275,
+      "lng": 121.0661481,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743654039,
+      "name": "匯裕茶廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7060064,
+      "lng": 121.0637355,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743684045,
+      "name": "水磜口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7141788,
+      "lng": 121.0703579,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.661Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136324,
+      "name": "綠世界生態農場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.712774,
+      "lng": 121.070238
+    },
+    {
+      "id": 7740136326,
+      "name": "膨風茶文物館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7085065,
+      "lng": 121.067559,
+      "routes": [
+        "5700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998345,
+      "name": "洗砂廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6962913,
+      "lng": 121.0536146,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998347,
+      "name": "小分林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6929785,
+      "lng": 121.0547702,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998349,
+      "name": "大分林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6880107,
+      "lng": 121.0533202,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998351,
+      "name": "番婆坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6851498,
+      "lng": 121.0535657,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998353,
+      "name": "長平橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6804372,
+      "lng": 121.0545599,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998355,
+      "name": "九分子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6751457,
+      "lng": 121.05429,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998357,
+      "name": "濟化宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6703622,
+      "lng": 121.051359,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7759998359,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6686688,
+      "lng": 121.0499554,
+      "routes": [
+        "5627"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.662Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13051388935,
+      "name": "五指山遊客服務中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6428845,
+      "lng": 121.0898627
+    },
+    {
+      "id": 13051388936,
+      "name": "北埔冷泉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6633169,
+      "lng": 121.0728127
+    },
+    {
+      "id": 13051388937,
+      "name": "大坪國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6740423,
+      "lng": 121.0588545
+    },
+    {
+      "id": 13051388938,
+      "name": "南外社區活動中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6723957,
+      "lng": 121.0562269
+    },
+    {
+      "id": 13051388943,
+      "name": "大林社區活動中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6886699,
+      "lng": 121.0534631
+    },
+    {
+      "id": 13051388944,
+      "name": "南埔社區活動中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6960264,
+      "lng": 121.0419908
+    },
+    {
+      "id": 13051388946,
+      "name": "北埔國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.701149,
+      "lng": 121.0531596
+    },
+    {
+      "id": 13051388947,
+      "name": "北埔市場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6991754,
+      "lng": 121.0559553
+    },
+    {
+      "id": 13055349553,
+      "name": "北埔遊客中心/鄧南光影像紀念館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6986741,
+      "lng": 121.0582047
+    },
+    {
+      "id": 13055349554,
+      "name": "龍瑛宗文學館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7004221,
+      "lng": 121.0547079
+    },
+    {
+      "id": 13055349555,
+      "name": "雙安橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6965383,
+      "lng": 121.0536645
+    },
+    {
+      "id": 13055349565,
+      "name": "洗衫坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.690116,
+      "lng": 121.0531335
+    },
+    {
+      "id": 13055349566,
+      "name": "高崎崠步道/老頭擺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6842612,
+      "lng": 121.0542607
+    },
+    {
+      "id": 13055349573,
+      "name": "百年水車",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6951288,
+      "lng": 121.0485676
+    },
+    {
+      "id": 13055349574,
+      "name": "金剛寺/金鑑堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6937602,
+      "lng": 121.0419336
+    },
+    {
+      "id": 13055349576,
+      "name": "百分橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7010973,
+      "lng": 121.0497807
+    },
+    {
+      "id": 13055349584,
+      "name": "復古車莊園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7071716,
+      "lng": 121.0559721
+    },
+    {
+      "id": 13055349585,
+      "name": "水磜桐花步道",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7054177,
+      "lng": 121.0583852
+    },
+    {
+      "id": 13055349594,
+      "name": "SRC北埔印象莊園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.7123157,
+      "lng": 121.0704352
+    },
+    {
+      "id": 13055349595,
+      "name": "綠世界生態農場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6988039,
+      "lng": 121.0708595
+    },
+    {
+      "id": 13055349596,
+      "name": "六塘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6998748,
+      "lng": 121.0822795
+    },
+    {
+      "id": 13055349597,
+      "name": "大湖土地公",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6958008,
+      "lng": 121.0702446
+    },
+    {
+      "id": 13055393811,
+      "name": "甘家果園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "北埔鄉",
+      "lat": 24.6967634,
+      "lng": 121.0639802
+    }
+  ]
+}

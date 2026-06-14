@@ -1,0 +1,402 @@
+{
+  "city": "苗栗縣",
+  "district": "三義鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 25,
+  "items": [
+    {
+      "id": 290976540,
+      "name": "三義",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4205666,
+      "lng": 120.7742376
+    },
+    {
+      "id": 774940331,
+      "name": "勝興",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3880295,
+      "lng": 120.7817416
+    },
+    {
+      "id": 774940743,
+      "name": "魚藤坪",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3611632,
+      "lng": 120.7756342
+    },
+    {
+      "id": 3664186463,
+      "name": "伯公坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3579959,
+      "lng": 120.7333843
+    },
+    {
+      "id": 5202527173,
+      "name": "大坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4275947,
+      "lng": 120.7754007,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202527175,
+      "name": "三義火車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4211083,
+      "lng": 120.7736197,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202527176,
+      "name": "三義一橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4180408,
+      "lng": 120.7738396,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588569,
+      "name": "竹圍庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4354287,
+      "lng": 120.7764414,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202588571,
+      "name": "雙草湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4335191,
+      "lng": 120.776782,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714018564,
+      "name": "九華山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3758895,
+      "lng": 120.7487905
+    },
+    {
+      "id": 7714018567,
+      "name": "裕隆公司",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3854747,
+      "lng": 120.7534602
+    },
+    {
+      "id": 7714020000,
+      "name": "西湖口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3956381,
+      "lng": 120.7593343,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714020003,
+      "name": "水美",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3985113,
+      "lng": 120.7612956,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714020005,
+      "name": "八股",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.407409,
+      "lng": 120.7667881,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714020007,
+      "name": "加油站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4117688,
+      "lng": 120.7694972,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714020008,
+      "name": "市場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4130731,
+      "lng": 120.77171,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7819620310,
+      "name": "西湖渡假村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3899154,
+      "lng": 120.7610064,
+      "routes": [
+        "1617D",
+        "1617E"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875321,
+      "name": "大坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4260166,
+      "lng": 120.7749058,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875324,
+      "name": "新竹客運三義站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4153581,
+      "lng": 120.7729209,
+      "routes": [
+        "5664",
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875331,
+      "name": "僑成國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.4016315,
+      "lng": 120.7634835,
+      "routes": [
+        "5664A",
+        "5664B",
+        "5664C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875333,
+      "name": "西湖渡假村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3905319,
+      "lng": 120.7590631,
+      "routes": [
+        "5664A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875335,
+      "name": "西湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3824874,
+      "lng": 120.7586431,
+      "routes": [
+        "5664A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875337,
+      "name": "農場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3767168,
+      "lng": 120.7590734,
+      "routes": [
+        "5664A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875339,
+      "name": "八櫃",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3747526,
+      "lng": 120.7602915,
+      "routes": [
+        "5664A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8236875341,
+      "name": "國民住宅",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三義鄉",
+      "lat": 24.3734794,
+      "lng": 120.7614162,
+      "routes": [
+        "5664A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.098Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

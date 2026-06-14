@@ -1,0 +1,1699 @@
+{
+  "city": "宜蘭縣",
+  "district": "員山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 102,
+  "items": [
+    {
+      "id": 5108911235,
+      "name": "宜蘭職訓場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.691417,
+      "lng": 121.632396,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108911237,
+      "name": "冷水坑",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.6955647,
+      "lng": 121.6364273,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936765,
+      "name": "下湖口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7127058,
+      "lng": 121.6678051,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936768,
+      "name": "再連",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7122051,
+      "lng": 121.6719934,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936771,
+      "name": "上再連",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7111824,
+      "lng": 121.6655239,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936773,
+      "name": "玉雲宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.708934,
+      "lng": 121.6634533,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936775,
+      "name": "下粗溪口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7098002,
+      "lng": 121.6567719
+    },
+    {
+      "id": 5108936777,
+      "name": "化育",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7109869,
+      "lng": 121.6530329,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.737Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936779,
+      "name": "福德廟1",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7094079,
+      "lng": 121.6494951,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936810,
+      "name": "粗坑",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7071565,
+      "lng": 121.6472688,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936812,
+      "name": "粗坑路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7020832,
+      "lng": 121.6485576,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108936814,
+      "name": "中華村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.6992736,
+      "lng": 121.6432241,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108954584,
+      "name": "蓁巷村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.710865,
+      "lng": 121.6879258,
+      "routes": [
+        "1743",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108954586,
+      "name": "上深溝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7095834,
+      "lng": 121.6857599,
+      "routes": [
+        "1743",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108954589,
+      "name": "員山路三段路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7084528,
+      "lng": 121.6782564,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.122Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5108954590,
+      "name": "河堤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7094689,
+      "lng": 121.6759014,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027620,
+      "name": "金古路(員山機堡)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7463891,
+      "lng": 121.7285598
+    },
+    {
+      "id": 5109027725,
+      "name": "外員山",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7447608,
+      "lng": 121.725525,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027733,
+      "name": "員山鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7431116,
+      "lng": 121.7232773,
+      "routes": [
+        "722",
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027737,
+      "name": "佛祖廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.73994,
+      "lng": 121.7215204,
+      "routes": [
+        "722",
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027743,
+      "name": "尚德村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7369071,
+      "lng": 121.718452,
+      "routes": [
+        "722",
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027744,
+      "name": "尚德村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7374113,
+      "lng": 121.7193934,
+      "routes": [
+        "722",
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027745,
+      "name": "尚德萬營區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7355672,
+      "lng": 121.7168333,
+      "routes": [
+        "722",
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.738Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027750,
+      "name": "三閹二",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7317741,
+      "lng": 121.7162727
+    },
+    {
+      "id": 5109027752,
+      "name": "橫山頭休閒農業區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7304659,
+      "lng": 121.7161962
+    },
+    {
+      "id": 5109027754,
+      "name": "蓁巷路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7254667,
+      "lng": 121.711497,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027756,
+      "name": "關聖廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7227599,
+      "lng": 121.708623,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027758,
+      "name": "水源地(深溝水源生態園區)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7214199,
+      "lng": 121.7073946,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1786"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027760,
+      "name": "成功路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7182976,
+      "lng": 121.7017217,
+      "routes": [
+        "752",
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1786"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027762,
+      "name": "下深溝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7160061,
+      "lng": 121.6972719,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751",
+        "1786"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027763,
+      "name": "員山農會成功分部",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7154153,
+      "lng": 121.696081,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027766,
+      "name": "內城路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7151668,
+      "lng": 121.6951624,
+      "routes": [
+        "1743",
+        "1743A",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5109027769,
+      "name": "蚊煙路(金車酒廠)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7137182,
+      "lng": 121.6925096,
+      "routes": [
+        "1743",
+        "1744",
+        "1751"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401585908,
+      "name": "下深溝(蜂采館)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7088341,
+      "lng": 121.684577,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401585909,
+      "name": "內城路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7104776,
+      "lng": 121.6797101,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401585910,
+      "name": "太陽埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.714398,
+      "lng": 121.6833888,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401585911,
+      "name": "員山鄉農會",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7452699,
+      "lng": 121.7266086,
+      "routes": [
+        "722",
+        "752",
+        "1785"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613552,
+      "name": "八甲魚場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7288824,
+      "lng": 121.7123634,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613554,
+      "name": "北后寺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7275314,
+      "lng": 121.7107084,
+      "routes": [
+        "752"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613569,
+      "name": "榮光路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7171001,
+      "lng": 121.6924104,
+      "routes": [
+        "752",
+        "1786"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613571,
+      "name": "臺北榮總員山分院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7212701,
+      "lng": 121.688194
+    },
+    {
+      "id": 8401613573,
+      "name": "內城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7209022,
+      "lng": 121.6887774,
+      "routes": [
+        "1786"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613709,
+      "name": "三興廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7090522,
+      "lng": 121.7167085,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613711,
+      "name": "保民廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7155505,
+      "lng": 121.7189898,
+      "routes": [
+        "722",
+        "751"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613713,
+      "name": "三官宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7215259,
+      "lng": 121.7164182,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613714,
+      "name": "普門醫院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7213152,
+      "lng": 121.7223734,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613719,
+      "name": "石頭厝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7125377,
+      "lng": 121.7314191,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613770,
+      "name": "溪洲路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7146953,
+      "lng": 121.7391251,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8401613827,
+      "name": "七賢國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.719634,
+      "lng": 121.7430465,
+      "routes": [
+        "751"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.739Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089885,
+      "name": "鼻仔頭遊憩區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7302564,
+      "lng": 121.6989295,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089886,
+      "name": "大安路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7312674,
+      "lng": 121.6994002,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089887,
+      "name": "逸仙福德廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7329593,
+      "lng": 121.6995035,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089888,
+      "name": "逸仙社區活動中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7413699,
+      "lng": 121.7014776
+    },
+    {
+      "id": 8402089891,
+      "name": "員山衛生所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7442955,
+      "lng": 121.7240463,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089893,
+      "name": "員山公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7453784,
+      "lng": 121.7219482,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089896,
+      "name": "敬業新村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7472125,
+      "lng": 121.7196845,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089898,
+      "name": "員山國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7496831,
+      "lng": 121.7149309,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089900,
+      "name": "員山溫泉",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7493841,
+      "lng": 121.7130956,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089902,
+      "name": "湖東",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7469251,
+      "lng": 121.7068608,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089904,
+      "name": "螃蟹冒泡",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7449264,
+      "lng": 121.702179,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089907,
+      "name": "農會辦事處",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.744723,
+      "lng": 121.7005536,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089909,
+      "name": "湖北",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7453588,
+      "lng": 121.6983099,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089911,
+      "name": "明光寺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7458033,
+      "lng": 121.6950524,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089913,
+      "name": "大湖休閒農業區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7419253,
+      "lng": 121.6914502,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089914,
+      "name": "大湖國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7474488,
+      "lng": 121.6901077,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089916,
+      "name": "西山廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7478982,
+      "lng": 121.6884877,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089918,
+      "name": "林家莊",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7484804,
+      "lng": 121.686472,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089920,
+      "name": "隘界",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7486229,
+      "lng": 121.6849391,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089922,
+      "name": "隘界路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7491795,
+      "lng": 121.679454,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089924,
+      "name": "崩山湖",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7492282,
+      "lng": 121.6768818,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089964,
+      "name": "湖底路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7492927,
+      "lng": 121.6736644,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402089966,
+      "name": "淨水廠",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.749462,
+      "lng": 121.6712371,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090051,
+      "name": "圳頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7498323,
+      "lng": 121.6679379,
+      "routes": [
+        "753",
+        "1785"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090080,
+      "name": "九芎林",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7523957,
+      "lng": 121.6513042,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090082,
+      "name": "雙連埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.754231,
+      "lng": 121.6360418,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090084,
+      "name": "雙連埤2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7537783,
+      "lng": 121.6335829,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090086,
+      "name": "上埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7515407,
+      "lng": 121.6338333,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8402090090,
+      "name": "下埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7502184,
+      "lng": 121.6279663,
+      "routes": [
+        "753"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8416873171,
+      "name": "大湖遊樂區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7465828,
+      "lng": 121.6922495,
+      "routes": [
+        "1785"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8418291634,
+      "name": "榮源國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7187922,
+      "lng": 121.6873679
+    },
+    {
+      "id": 8421908930,
+      "name": "深溝龍",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.722928,
+      "lng": 121.7138869,
+      "routes": [
+        "1786"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8421908932,
+      "name": "深溝村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7229865,
+      "lng": 121.7221494,
+      "routes": [
+        "1786"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8421908938,
+      "name": "惠好橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7234908,
+      "lng": 121.7267588,
+      "routes": [
+        "1786"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8421908940,
+      "name": "惠德橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7296132,
+      "lng": 121.731922,
+      "routes": [
+        "1786"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099007031,
+      "name": "永廣站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7554127,
+      "lng": 121.712358,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099007033,
+      "name": "枕頭山",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7729231,
+      "lng": 121.720477,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099007035,
+      "name": "頭份村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7644257,
+      "lng": 121.7149671,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099007037,
+      "name": "慶安廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7686318,
+      "lng": 121.7190474,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099054458,
+      "name": "讚化宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7606603,
+      "lng": 121.7209518,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099054460,
+      "name": "雷公埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7574733,
+      "lng": 121.7176956,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11099140022,
+      "name": "同樂國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.763566,
+      "lng": 121.7264456,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11100879898,
+      "name": "同樂",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7644927,
+      "lng": 121.7304844,
+      "routes": [
+        "1789"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243097,
+      "name": "大安藥園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7706846,
+      "lng": 121.7301616,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243099,
+      "name": "湧泉池",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7673035,
+      "lng": 121.7289301,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243101,
+      "name": "結頭份",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.761667,
+      "lng": 121.7224462,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243103,
+      "name": "永廣廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7592918,
+      "lng": 121.7139745,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243104,
+      "name": "錦普觀光梨園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7746904,
+      "lng": 121.718755,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243106,
+      "name": "枕山路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7761348,
+      "lng": 121.7125159,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243108,
+      "name": "枕頭山休閒農業區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.7773433,
+      "lng": 121.7089038,
+      "routes": [
+        "綠16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.123Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243110,
+      "name": "望龍埤",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.779436,
+      "lng": 121.7004819,
+      "routes": [
+        "1789",
+        "綠16"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243112,
+      "name": "老媽媽醬油",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.780405,
+      "lng": 121.6965391,
+      "routes": [
+        "1789",
+        "綠16"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.740Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11407243114,
+      "name": "大礁溪橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "員山鄉",
+      "lat": 24.782505,
+      "lng": 121.6925048
+    }
+  ]
+}

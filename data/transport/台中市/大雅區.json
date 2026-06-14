@@ -1,0 +1,1481 @@
+{
+  "city": "台中市",
+  "district": "大雅區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 107,
+  "items": [
+    {
+      "id": 3428540196,
+      "name": "橫山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2101497,
+      "lng": 120.6304608,
+      "routes": [
+        "37",
+        "220",
+        "220繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.825Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3653633254,
+      "name": "楓樹腳(上楓國小)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2359958,
+      "lng": 120.667347
+    },
+    {
+      "id": 3700517255,
+      "name": "六寶里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2365072,
+      "lng": 120.6350591
+    },
+    {
+      "id": 3702490915,
+      "name": "中清雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2197839,
+      "lng": 120.6478453
+    },
+    {
+      "id": 3796779867,
+      "name": "大度山墓園寶塔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2278748,
+      "lng": 120.6132407,
+      "routes": [
+        "69繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779868,
+      "name": "大肚山墓園寶塔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2279123,
+      "lng": 120.6134734,
+      "routes": [
+        "357"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.999Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779875,
+      "name": "櫻花大邨",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2354407,
+      "lng": 120.6142074,
+      "routes": [
+        "357"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.000Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779877,
+      "name": "清泉崗靶場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2222813,
+      "lng": 120.6140289,
+      "routes": [
+        "69繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796779885,
+      "name": "東大中科路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2118281,
+      "lng": 120.613138
+    },
+    {
+      "id": 3796780313,
+      "name": "臺中高爾夫球場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2178104,
+      "lng": 120.6148899
+    },
+    {
+      "id": 3796829630,
+      "name": "福樂新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2418387,
+      "lng": 120.6288776,
+      "routes": [
+        "9",
+        "69",
+        "123",
+        "128",
+        "239"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796829631,
+      "name": "福樂新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2424915,
+      "lng": 120.6273923,
+      "routes": [
+        "9",
+        "9區",
+        "69",
+        "123",
+        "128",
+        "128區",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.826Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3796829633,
+      "name": "下山皮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2463851,
+      "lng": 120.638049,
+      "routes": [
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3961901855,
+      "name": "南大雅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2169682,
+      "lng": 120.6492426
+    },
+    {
+      "id": 3961911857,
+      "name": "台電大雅服務所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2200797,
+      "lng": 120.6585762
+    },
+    {
+      "id": 3961911859,
+      "name": "員寶庄福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2158114,
+      "lng": 120.6684116
+    },
+    {
+      "id": 3961911861,
+      "name": "國際花市",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2205398,
+      "lng": 120.6567796
+    },
+    {
+      "id": 3961911863,
+      "name": "大華國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2147532,
+      "lng": 120.6493526
+    },
+    {
+      "id": 3961911866,
+      "name": "大雅交流道",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2096567,
+      "lng": 120.6506787
+    },
+    {
+      "id": 3961911867,
+      "name": "大雅國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2214076,
+      "lng": 120.650526
+    },
+    {
+      "id": 3961911869,
+      "name": "惠明盲校",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2195021,
+      "lng": 120.661127
+    },
+    {
+      "id": 3961911871,
+      "name": "清泉醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2163592,
+      "lng": 120.6665303,
+      "routes": [
+        "14副",
+        "14副2",
+        "61",
+        "123"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3961911927,
+      "name": "昌平雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2161413,
+      "lng": 120.6678173
+    },
+    {
+      "id": 3961912394,
+      "name": "西寶里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2154852,
+      "lng": 120.6723661
+    },
+    {
+      "id": 3961912396,
+      "name": "雅潭雅環路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2211032,
+      "lng": 120.6530962,
+      "routes": [
+        "14副",
+        "14副2",
+        "63",
+        "123"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3961912397,
+      "name": "雅潭雅環路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2212008,
+      "lng": 120.6541745,
+      "routes": [
+        "14副",
+        "14副2",
+        "63",
+        "123"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.334Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3961912402,
+      "name": "馬岡厝加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2179728,
+      "lng": 120.6643773,
+      "routes": [
+        "14副",
+        "14副2",
+        "61",
+        "123"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3961912404,
+      "name": "龍善寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2122683,
+      "lng": 120.6498455
+    },
+    {
+      "id": 4081317297,
+      "name": "亞東公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2388413,
+      "lng": 120.632218
+    },
+    {
+      "id": 4081317302,
+      "name": "六張犁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2401736,
+      "lng": 120.6312701
+    },
+    {
+      "id": 4081317305,
+      "name": "和平清陽一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2430198,
+      "lng": 120.6345974
+    },
+    {
+      "id": 4081317309,
+      "name": "埔仔墘",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2409434,
+      "lng": 120.6308785,
+      "routes": [
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4081317310,
+      "name": "埔仔墘",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2414203,
+      "lng": 120.6318937
+    },
+    {
+      "id": 4081317311,
+      "name": "大明國小(中清路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2284323,
+      "lng": 120.6428627
+    },
+    {
+      "id": 4081317313,
+      "name": "大雅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2227662,
+      "lng": 120.6479436
+    },
+    {
+      "id": 4081317319,
+      "name": "泰聯公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2329946,
+      "lng": 120.6382268,
+      "routes": [
+        "6",
+        "6副",
+        "98",
+        "98繞",
+        "123",
+        "128",
+        "128區",
+        "239",
+        "500",
+        "500延",
+        "500延區1",
+        "500延區2",
+        "500延區3"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.829Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4081317323,
+      "name": "秀山里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2310095,
+      "lng": 120.6406094
+    },
+    {
+      "id": 4239241026,
+      "name": "下橫山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2077551,
+      "lng": 120.6439976,
+      "routes": [
+        "63",
+        "228"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4239241028,
+      "name": "中山中清路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2169633,
+      "lng": 120.6483008,
+      "routes": [
+        "63",
+        "228"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4239241030,
+      "name": "中山大同巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2051268,
+      "lng": 120.644444,
+      "routes": [
+        "63",
+        "228"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4239241037,
+      "name": "福志",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2109283,
+      "lng": 120.6452785
+    },
+    {
+      "id": 4601956797,
+      "name": "誼豐廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2288208,
+      "lng": 120.6719662,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4601956802,
+      "name": "頂三和",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.226964,
+      "lng": 120.6709006,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4601956812,
+      "name": "三和",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2225777,
+      "lng": 120.669529,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4601956821,
+      "name": "三和國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2202255,
+      "lng": 120.6687433
+    },
+    {
+      "id": 4601956831,
+      "name": "馬岡厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2150531,
+      "lng": 120.6681376
+    },
+    {
+      "id": 4601956834,
+      "name": "西員寶",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.210963,
+      "lng": 120.6730618,
+      "routes": [
+        "14",
+        "14延",
+        "14副",
+        "14副2"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4601956839,
+      "name": "東員寶",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2086429,
+      "lng": 120.6739722,
+      "routes": [
+        "14",
+        "14延",
+        "14副",
+        "14副2"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4602071836,
+      "name": "花眉",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2317831,
+      "lng": 120.6733348,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.335Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4686505064,
+      "name": "文雅里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2221219,
+      "lng": 120.6457467
+    },
+    {
+      "id": 4686914361,
+      "name": "秀山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2185654,
+      "lng": 120.638943,
+      "routes": [
+        "220",
+        "220繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4686914364,
+      "name": "富貴新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2197197,
+      "lng": 120.6426403,
+      "routes": [
+        "220",
+        "220繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4686925085,
+      "name": "永和六甲巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2082995,
+      "lng": 120.6295851,
+      "routes": [
+        "37",
+        "220",
+        "220繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4686926489,
+      "name": "上橫山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2128703,
+      "lng": 120.6333528,
+      "routes": [
+        "220",
+        "220繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4686926495,
+      "name": "土地廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.214136,
+      "lng": 120.6349349,
+      "routes": [
+        "220",
+        "220繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5267918791,
+      "name": "忠義里(中科實驗高中)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2310381,
+      "lng": 120.6239184
+    },
+    {
+      "id": 5267918805,
+      "name": "月祥路361巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2332441,
+      "lng": 120.6240481
+    },
+    {
+      "id": 5267918807,
+      "name": "忠義市場(原文館)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2350769,
+      "lng": 120.6243314
+    },
+    {
+      "id": 5267918809,
+      "name": "六寶公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2369966,
+      "lng": 120.6258898
+    },
+    {
+      "id": 5267918811,
+      "name": "月祥文化路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2407496,
+      "lng": 120.6286056
+    },
+    {
+      "id": 5267918813,
+      "name": "大明",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2269611,
+      "lng": 120.6447364,
+      "routes": [
+        "6",
+        "9",
+        "14副",
+        "14副2",
+        "61",
+        "123",
+        "128",
+        "156",
+        "239"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5267918815,
+      "name": "大雅分局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.224957,
+      "lng": 120.6467651
+    },
+    {
+      "id": 5706067431,
+      "name": "三叉路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2297464,
+      "lng": 120.6540589,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.831Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706067433,
+      "name": "下員林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2349329,
+      "lng": 120.6548944,
+      "routes": [
+        "98",
+        "98繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706067435,
+      "name": "綠點公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2388376,
+      "lng": 120.6560545,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.831Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706067438,
+      "name": "員林里二站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2411781,
+      "lng": 120.6573781,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.004Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706067440,
+      "name": "員林里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2454422,
+      "lng": 120.6575538,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.336Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706067442,
+      "name": "神林大林路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2487535,
+      "lng": 120.6563281,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.831Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706078247,
+      "name": "大榮橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.227586,
+      "lng": 120.6512171
+    },
+    {
+      "id": 5706078250,
+      "name": "雅洲新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.228872,
+      "lng": 120.6535962
+    },
+    {
+      "id": 5760197827,
+      "name": "下楓樹腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2332232,
+      "lng": 120.6637658
+    },
+    {
+      "id": 5760197830,
+      "name": "達聲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2315659,
+      "lng": 120.6594499
+    },
+    {
+      "id": 5760197834,
+      "name": "玉山銀行大雅分行",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.225126,
+      "lng": 120.647859
+    },
+    {
+      "id": 5760207734,
+      "name": "億鴻新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.238209,
+      "lng": 120.6704378,
+      "routes": [
+        "220",
+        "220繞",
+        "239",
+        "525",
+        "528",
+        "529"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.832Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5760207735,
+      "name": "億鴻新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2373139,
+      "lng": 120.6697887
+    },
+    {
+      "id": 5760228951,
+      "name": "牛埔仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2406572,
+      "lng": 120.6740293
+    },
+    {
+      "id": 5789132596,
+      "name": "中清文化路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2424997,
+      "lng": 120.6237962,
+      "routes": [
+        "9",
+        "9區",
+        "69",
+        "123",
+        "128",
+        "128區",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.337Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5789132597,
+      "name": "中清文化路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2421857,
+      "lng": 120.6249785,
+      "routes": [
+        "9",
+        "69",
+        "123",
+        "128",
+        "237",
+        "237區",
+        "238",
+        "239"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.337Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7043277014,
+      "name": "中科管理局(中科路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2096972,
+      "lng": 120.6180926
+    },
+    {
+      "id": 7726747367,
+      "name": "中科福雅路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2065924,
+      "lng": 120.6277169
+    },
+    {
+      "id": 7726832314,
+      "name": "科雅平和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2295165,
+      "lng": 120.6313258
+    },
+    {
+      "id": 7726832320,
+      "name": "日僑學校",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2265373,
+      "lng": 120.629569
+    },
+    {
+      "id": 8000152610,
+      "name": "東大月祥路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2199281,
+      "lng": 120.6154659
+    },
+    {
+      "id": 8841677618,
+      "name": "雅環保齡球館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2247344,
+      "lng": 120.6537342
+    },
+    {
+      "id": 8841706017,
+      "name": "雅環大榮路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2263571,
+      "lng": 120.6529524,
+      "routes": [
+        "61"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.337Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8841706117,
+      "name": "雅環民生路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.228411,
+      "lng": 120.6516197,
+      "routes": [
+        "98",
+        "98繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.337Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8841706217,
+      "name": "大雅區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2293236,
+      "lng": 120.6479742,
+      "routes": [
+        "61"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.337Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9631514059,
+      "name": "雅環雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2221524,
+      "lng": 120.6537805
+    },
+    {
+      "id": 9654656308,
+      "name": "原住民文化館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2356596,
+      "lng": 120.6222974,
+      "routes": [
+        "6副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9656489104,
+      "name": "中科實驗高中(平和路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2300926,
+      "lng": 120.6261564
+    },
+    {
+      "id": 9658765568,
+      "name": "大雅橋(中清東路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2201676,
+      "lng": 120.6485582,
+      "routes": [
+        "220繞",
+        "525",
+        "528",
+        "529"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130451,
+      "name": "大林路121巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2349462,
+      "lng": 120.6446064,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130453,
+      "name": "大林路241巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2419698,
+      "lng": 120.6497074,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130455,
+      "name": "大雅朝聖宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2476525,
+      "lng": 120.6530939,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.005Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130457,
+      "name": "大雅勝興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2473601,
+      "lng": 120.6626485,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.005Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049917,
+      "name": "雅環仁和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2179543,
+      "lng": 120.6534217,
+      "routes": [
+        "98繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.005Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049919,
+      "name": "怡安幼兒園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2216441,
+      "lng": 120.6568073,
+      "routes": [
+        "98繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049921,
+      "name": "新雅皇家",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2235468,
+      "lng": 120.6573355,
+      "routes": [
+        "98繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049923,
+      "name": "中華電信(雅楓里)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2259552,
+      "lng": 120.6567043,
+      "routes": [
+        "98繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049925,
+      "name": "神林南路62巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2276795,
+      "lng": 120.655574,
+      "routes": [
+        "98繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.833Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049929,
+      "name": "科雅西科雅七路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2171558,
+      "lng": 120.6204492
+    },
+    {
+      "id": 10231049931,
+      "name": "科雅三科雅路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2190485,
+      "lng": 120.6243215
+    },
+    {
+      "id": 10231049933,
+      "name": "科雅東科雅四路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.221466,
+      "lng": 120.6280246,
+      "routes": [
+        "69",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.834Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049935,
+      "name": "二期標準廠房",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2238034,
+      "lng": 120.6290031,
+      "routes": [
+        "69",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.834Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049937,
+      "name": "科雅中清路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2340898,
+      "lng": 120.6357692,
+      "routes": [
+        "98",
+        "98繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.834Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12097677789,
+      "name": "大雅公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2236062,
+      "lng": 120.646046,
+      "routes": [
+        "61"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.006Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12118752280,
+      "name": "科雅六東大路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大雅區",
+      "lat": 24.2140661,
+      "lng": 120.6180135
+    }
+  ]
+}

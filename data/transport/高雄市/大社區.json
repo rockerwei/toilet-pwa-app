@@ -1,0 +1,521 @@
+{
+  "city": "高雄市",
+  "district": "大社區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 29,
+  "items": [
+    {
+      "id": 2571314065,
+      "name": "大社農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7294721,
+      "lng": 120.3468913,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅62B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2571314073,
+      "name": "三中路口(三民路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7306887,
+      "lng": 120.343065,
+      "routes": [
+        "224",
+        "8048",
+        "紅62B",
+        "T801"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779025,
+      "name": "大社區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7303595,
+      "lng": 120.3468995,
+      "routes": [
+        "紅60區間",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B",
+        "T801"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717241634,
+      "name": "金龍路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.724005,
+      "lng": 120.3535079,
+      "routes": [
+        "紅60區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717241638,
+      "name": "民生路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7236784,
+      "lng": 120.3464009,
+      "routes": [
+        "紅60區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717241650,
+      "name": "大吉路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7334957,
+      "lng": 120.3543122,
+      "routes": [
+        "紅60區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717241653,
+      "name": "大新路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7252716,
+      "lng": 120.35146,
+      "routes": [
+        "紅60區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717241683,
+      "name": "新興路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7271309,
+      "lng": 120.3461215,
+      "routes": [
+        "紅60區間"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025467,
+      "name": "巨園建設",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7520051,
+      "lng": 120.341188,
+      "routes": [
+        "6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025472,
+      "name": "旗楠路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7476515,
+      "lng": 120.345163,
+      "routes": [
+        "6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025475,
+      "name": "玉皇宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7494287,
+      "lng": 120.3432239,
+      "routes": [
+        "6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2897025480,
+      "name": "遠東麗市",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7524012,
+      "lng": 120.3424345,
+      "routes": [
+        "6"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2968988308,
+      "name": "萬金松",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7474267,
+      "lng": 120.3463654,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007305,
+      "name": "大社中正路(保社里)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7466536,
+      "lng": 120.3508292,
+      "routes": [
+        "7A",
+        "96",
+        "8008",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007307,
+      "name": "保舍甲路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7443256,
+      "lng": 120.3487907,
+      "routes": [
+        "7A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007309,
+      "name": "光華路口(保社里)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7457078,
+      "lng": 120.3478297,
+      "routes": [
+        "7A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007313,
+      "name": "西塢食品",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7504299,
+      "lng": 120.3520069,
+      "routes": [
+        "7A",
+        "8008"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301709,
+      "name": "三奶里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7269625,
+      "lng": 120.3485138,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60區間",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301719,
+      "name": "林子邊",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7223032,
+      "lng": 120.3504192,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60區間",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3363301725,
+      "name": "翠屏路口(中山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.731592,
+      "lng": 120.3502736,
+      "routes": [
+        "96",
+        "紅60A",
+        "紅60B",
+        "橘16B",
+        "T801"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3469658416,
+      "name": "三民路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.724152,
+      "lng": 120.3492675,
+      "routes": [
+        "224",
+        "8008",
+        "8048",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "橘16B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3894648968,
+      "name": "翠屏路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7292596,
+      "lng": 120.3499059,
+      "routes": [
+        "紅60A",
+        "紅60B",
+        "橘16B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468120,
+      "name": "大社果菜市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7309895,
+      "lng": 120.3553385,
+      "routes": [
+        "96",
+        "8506",
+        "T801"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468122,
+      "name": "翠屏岩(和平路二段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7300559,
+      "lng": 120.3603901,
+      "routes": [
+        "8506"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.227Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468123,
+      "name": "翠屏岩(和平路二段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7287571,
+      "lng": 120.3608222
+    },
+    {
+      "id": 8377468126,
+      "name": "翠屏岩站(中山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7298959,
+      "lng": 120.3673588,
+      "routes": [
+        "96"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468132,
+      "name": "觀景山林站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7395825,
+      "lng": 120.3816784,
+      "routes": [
+        "96"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12921155973,
+      "name": "民權路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7347361,
+      "lng": 120.3486845,
+      "routes": [
+        "96",
+        "8008",
+        "紅60區間",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13358669026,
+      "name": "中山路(中正路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大社區",
+      "lat": 22.7319506,
+      "lng": 120.348188,
+      "routes": [
+        "8008",
+        "8506",
+        "紅60區間",
+        "紅60A",
+        "紅60B",
+        "紅62B",
+        "T801"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

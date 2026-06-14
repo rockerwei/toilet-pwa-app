@@ -1,0 +1,972 @@
+{
+  "city": "苗栗縣",
+  "district": "竹南鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 62,
+  "items": [
+    {
+      "id": 1362012027,
+      "name": "竹南",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6865595,
+      "lng": 120.8807486
+    },
+    {
+      "id": 3341483952,
+      "name": "竹南站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6865822,
+      "lng": 120.879965,
+      "routes": [
+        "101",
+        "101A",
+        "101C",
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806",
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.202Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3342151711,
+      "name": "竹南火車站(東站)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.685949,
+      "lng": 120.882022
+    },
+    {
+      "id": 3664003256,
+      "name": "海口里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6693936,
+      "lng": 120.849213,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.107Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505488470,
+      "name": "科學路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7143881,
+      "lng": 120.9211064
+    },
+    {
+      "id": 6505488472,
+      "name": "群創光電",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7135841,
+      "lng": 120.9158254
+    },
+    {
+      "id": 6505488477,
+      "name": "旭明光電",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7122775,
+      "lng": 120.914444
+    },
+    {
+      "id": 6505488479,
+      "name": "中強光電",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7115413,
+      "lng": 120.9168778
+    },
+    {
+      "id": 6505488481,
+      "name": "智晶光電",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7094838,
+      "lng": 120.9180937
+    },
+    {
+      "id": 6505488482,
+      "name": "達輝光電",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7092157,
+      "lng": 120.9163818
+    },
+    {
+      "id": 6505488483,
+      "name": "中美矽晶",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7092101,
+      "lng": 120.9136166
+    },
+    {
+      "id": 6505488785,
+      "name": "滯洪池",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7074838,
+      "lng": 120.9100536
+    },
+    {
+      "id": 6505488787,
+      "name": "動科所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7065827,
+      "lng": 120.9183953
+    },
+    {
+      "id": 6505488789,
+      "name": "標準廠房",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7064355,
+      "lng": 120.9201967
+    },
+    {
+      "id": 6832995834,
+      "name": "竹南東站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6859983,
+      "lng": 120.8824691
+    },
+    {
+      "id": 6832995835,
+      "name": "維新路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6830336,
+      "lng": 120.8819917,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6833000798,
+      "name": "公館里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6610364,
+      "lng": 120.8765388,
+      "routes": [
+        "5803",
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6833000805,
+      "name": "凱聚公司",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6571484,
+      "lng": 120.8713996,
+      "routes": [
+        "5803",
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.107Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835246649,
+      "name": "苗北藝文中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6906323,
+      "lng": 120.8862658,
+      "routes": [
+        "101",
+        "101A",
+        "101C",
+        "5804",
+        "5805A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835288637,
+      "name": "種畜廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7074714,
+      "lng": 120.9250465,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835330163,
+      "name": "天仁茶廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7158551,
+      "lng": 120.9195051,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6835330167,
+      "name": "頂大埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7105665,
+      "lng": 120.923802,
+      "routes": [
+        "5801",
+        "5801A",
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858571833,
+      "name": "山佳里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7021307,
+      "lng": 120.8800766,
+      "routes": [
+        "5803",
+        "5803A",
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858571835,
+      "name": "君毅中學",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7020649,
+      "lng": 120.8837767,
+      "routes": [
+        "5803",
+        "5803A",
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586497,
+      "name": "竹篙厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7044664,
+      "lng": 120.8891746,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586502,
+      "name": "國馨新村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7076913,
+      "lng": 120.8946195,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.107Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586504,
+      "name": "中大埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7098782,
+      "lng": 120.8977631
+    },
+    {
+      "id": 6858586507,
+      "name": "大埔工業區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7160817,
+      "lng": 120.9060591,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586517,
+      "name": "大地之愛",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7184426,
+      "lng": 120.9053805,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586521,
+      "name": "台元廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7237296,
+      "lng": 120.9043989,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586523,
+      "name": "正義路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7308167,
+      "lng": 120.9064561,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858586525,
+      "name": "口公館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7374235,
+      "lng": 120.9065044,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858596630,
+      "name": "福德路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6829824,
+      "lng": 120.8791432
+    },
+    {
+      "id": 6858596631,
+      "name": "教會",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6833102,
+      "lng": 120.8782876,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858596632,
+      "name": "教會前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6834137,
+      "lng": 120.8781239,
+      "routes": [
+        "1823",
+        "1823A",
+        "5803",
+        "5803A",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858596633,
+      "name": "大眾醫院",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6905531,
+      "lng": 120.8794624,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6858596634,
+      "name": "照南國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6947276,
+      "lng": 120.8795254,
+      "routes": [
+        "5803",
+        "5803A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6859261870,
+      "name": "竹南加油站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6844958,
+      "lng": 120.883365,
+      "routes": [
+        "1823",
+        "1823A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702686022,
+      "name": "山寮太子宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7006382,
+      "lng": 120.8744734,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702686028,
+      "name": "山佳國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7015752,
+      "lng": 120.8780636,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.203Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702701545,
+      "name": "史丹佛美語",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6986912,
+      "lng": 120.8876491,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702721919,
+      "name": "布查花園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6963177,
+      "lng": 120.8687255,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702721933,
+      "name": "立揚花園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6981782,
+      "lng": 120.8705159,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702721934,
+      "name": "汎世通",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.699778,
+      "lng": 120.8724779,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702746099,
+      "name": "全聯社",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6870365,
+      "lng": 120.8722928,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702748620,
+      "name": "勤興街口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6915011,
+      "lng": 120.8663665,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7702815330,
+      "name": "中興市場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.686911,
+      "lng": 120.8765897,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705007016,
+      "name": "善福堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.675795,
+      "lng": 120.8635595,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705007024,
+      "name": "中港派出所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6831566,
+      "lng": 120.8660352,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705007054,
+      "name": "竹南高中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6837757,
+      "lng": 120.8747712,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705007058,
+      "name": "龍鳳宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6929608,
+      "lng": 120.8669485,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705021266,
+      "name": "王爺廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6709984,
+      "lng": 120.8522353,
+      "routes": [
+        "5813"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7775279021,
+      "name": "竹南科學園區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7072607,
+      "lng": 120.9228161,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958884,
+      "name": "三泰金鑽",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6879445,
+      "lng": 120.8692991,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958889,
+      "name": "開元里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.67844,
+      "lng": 120.8658529,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8229958892,
+      "name": "港墘里",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.6712491,
+      "lng": 120.8629406,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241956711,
+      "name": "國家衛生研究院",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7071592,
+      "lng": 120.9153791,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10069850917,
+      "name": "竹南運動公園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.690645,
+      "lng": 120.8914524,
+      "routes": [
+        "5804"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12816235039,
+      "name": "光明宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.667354,
+      "lng": 120.8613094,
+      "routes": [
+        "5813",
+        "5813A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12816275481,
+      "name": "龍鳳漁港",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7003437,
+      "lng": 120.8599054,
+      "routes": [
+        "5813A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13051363524,
+      "name": "大同高中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7084816,
+      "lng": 120.8959347,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.108Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 692748004,
+      "name": "竹南園區轉運站",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "竹南鎮",
+      "lat": 24.7073172,
+      "lng": 120.923
+    }
+  ]
+}

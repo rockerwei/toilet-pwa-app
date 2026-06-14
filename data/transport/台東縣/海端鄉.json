@@ -1,0 +1,215 @@
+{
+  "city": "台東縣",
+  "district": "海端鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 11,
+  "items": [
+    {
+      "id": 3181171171,
+      "name": "山平路",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.0957726,
+      "lng": 121.1757494,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A",
+        "8178"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171172,
+      "name": "海端",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1006592,
+      "lng": 121.1767955,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A",
+        "8178"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171173,
+      "name": "隴下",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1086773,
+      "lng": 121.1740636,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A",
+        "8178"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171174,
+      "name": "初來",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1175408,
+      "lng": 121.1692595,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A",
+        "8178"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171175,
+      "name": "錦屏",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1286617,
+      "lng": 121.175987,
+      "routes": [
+        "8161",
+        "8163",
+        "8163A",
+        "8163B",
+        "8166",
+        "8166A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256332397,
+      "name": "初來檢查哨",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1254772,
+      "lng": 121.1624738,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256332398,
+      "name": "新武呂",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.135248,
+      "lng": 121.1285522,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256332399,
+      "name": "下馬",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1560499,
+      "lng": 121.0638945,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256332401,
+      "name": "天龍橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1730868,
+      "lng": 121.0419017,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256332402,
+      "name": "利稻",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1862258,
+      "lng": 121.0236178,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3544181967,
+      "name": "霧鹿",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "海端鄉",
+      "lat": 23.1632434,
+      "lng": 121.0505484,
+      "routes": [
+        "8178"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.286Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

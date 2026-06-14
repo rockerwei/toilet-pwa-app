@@ -1,0 +1,453 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:15:20.358Z",
+  "items": [
+    {
+      "id": 3300653576,
+      "name": "曙光橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9794913,
+      "lng": 121.6182125,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.320Z"
+    },
+    {
+      "id": 3755918935,
+      "name": "四八高地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0222916,
+      "lng": 121.6348905,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.325Z"
+    },
+    {
+      "id": 3757147266,
+      "name": "花蓮縣縣定古蹟-花蓮舊監獄遺跡",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9846358,
+      "lng": 121.603671,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.326Z"
+    },
+    {
+      "id": 3878115679,
+      "name": "海礦探索館",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0065931,
+      "lng": 121.6426962,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.329Z"
+    },
+    {
+      "id": 4086491623,
+      "name": "七星潭濱海自行車道路線導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9789485,
+      "lng": 121.6176205,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.331Z"
+    },
+    {
+      "id": 4264443511,
+      "name": "鯨世界賞鯨",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9992667,
+      "lng": 121.6325611,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.333Z"
+    },
+    {
+      "id": 4855740789,
+      "name": "七星潭濱海自行車道路線導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0261743,
+      "lng": 121.632476,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.334Z"
+    },
+    {
+      "id": 7672866784,
+      "name": "超好拍IG熱門景點",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0197969,
+      "lng": 121.640338,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.334Z"
+    },
+    {
+      "id": 9791842031,
+      "name": "奇萊生態小溪",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9772849,
+      "lng": 121.601076,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.335Z"
+    },
+    {
+      "id": 10228669194,
+      "name": "花蓮港燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9747328,
+      "lng": 121.6135476,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.336Z"
+    },
+    {
+      "id": 11416732269,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.025065,
+      "lng": 121.6319179,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.337Z"
+    },
+    {
+      "id": 11453290676,
+      "name": "花蓮港正門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9811257,
+      "lng": 121.6203464,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.338Z"
+    },
+    {
+      "id": 11453298297,
+      "name": "美崙車站舊址",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9867256,
+      "lng": 121.6275398,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.338Z"
+    },
+    {
+      "id": 11453298298,
+      "name": "新村車站舊址",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9830852,
+      "lng": 121.6238049,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.339Z"
+    },
+    {
+      "id": 11459504540,
+      "name": "原住民文化歷史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9889968,
+      "lng": 121.6277316,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.339Z"
+    },
+    {
+      "id": 11792329271,
+      "name": "奇萊鼻燈塔瞭望平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0166595,
+      "lng": 121.6434185,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.340Z"
+    },
+    {
+      "id": 12492085854,
+      "name": "後山水起水資源文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.9845023,
+      "lng": 121.6184284,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.341Z"
+    },
+    {
+      "id": 13851166487,
+      "name": "Visitor Information Center",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.9925453,
+      "lng": 121.6013675,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.342Z"
+    },
+    {
+      "id": 145564275,
+      "name": "忘憂亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.969616,
+      "lng": 121.6127657,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.342Z"
+    },
+    {
+      "id": 246820496,
+      "name": "36號燈塔民宿",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9724761,
+      "lng": 121.6144603,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.343Z"
+    },
+    {
+      "id": 375886402,
+      "name": "LFT7602 窄軌糖蜜車展示",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9751051,
+      "lng": 121.610283,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.343Z"
+    },
+    {
+      "id": 377259274,
+      "name": "花蓮市政館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9875485,
+      "lng": 121.6054287,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.344Z"
+    },
+    {
+      "id": 384521293,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.0066883,
+      "lng": 121.6399127,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.345Z"
+    },
+    {
+      "id": 384528453,
+      "name": "東13坑道入口（東13-011）",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0252974,
+      "lng": 121.6312068,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.345Z"
+    },
+    {
+      "id": 384528456,
+      "name": "東13坑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0255428,
+      "lng": 121.6307652,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.346Z"
+    },
+    {
+      "id": 384532686,
+      "name": "東13坑道入口（東13-009）",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0255242,
+      "lng": 121.6309511,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.346Z"
+    },
+    {
+      "id": 384532688,
+      "name": "東13坑道（東13-014）",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0255678,
+      "lng": 121.6310048,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.347Z"
+    },
+    {
+      "id": 384532690,
+      "name": "機槍堡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0255838,
+      "lng": 121.6310324,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.348Z"
+    },
+    {
+      "id": 435944264,
+      "name": "東13坑道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0250523,
+      "lng": 121.6314388,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.348Z"
+    },
+    {
+      "id": 435944268,
+      "name": "砲陣地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0248124,
+      "lng": 121.6316823,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.349Z"
+    },
+    {
+      "id": 698192079,
+      "name": "觀音台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9681685,
+      "lng": 121.6114897,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.349Z"
+    },
+    {
+      "id": 699477200,
+      "name": "奇萊鼻燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0159598,
+      "lng": 121.6438469,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.350Z"
+    },
+    {
+      "id": 712215293,
+      "name": "普照橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9629419,
+      "lng": 121.6074899,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.351Z"
+    },
+    {
+      "id": 916071002,
+      "name": "郭子究音樂文化館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9871616,
+      "lng": 121.6247338,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.351Z",
+      "address": "花蓮縣花蓮市民權七街一巷10號"
+    },
+    {
+      "id": 918983192,
+      "name": "中國廣播股份有限公司花蓮電台",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9830267,
+      "lng": 121.6147063,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.352Z",
+      "address": "花蓮縣花蓮市松園街96號"
+    },
+    {
+      "id": 1079152657,
+      "name": "大陳故事館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.0044568,
+      "lng": 121.6172083,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.352Z",
+      "address": "花蓮縣花蓮市民光71-1號"
+    },
+    {
+      "id": 1079152660,
+      "name": "美崙山公園生態展示館",
+      "facilityType": "eco_center",
+      "facilityLabel": "🌱 生態館",
+      "lat": 23.9920952,
+      "lng": 121.6112059,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.353Z"
+    },
+    {
+      "id": 1177997469,
+      "name": "花蓮農好基地",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0237413,
+      "lng": 121.6307591,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.354Z",
+      "address": "花蓮市花蓮市海岸路118號"
+    },
+    {
+      "id": 1234111056,
+      "name": "奇萊鼻燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.0159166,
+      "lng": 121.643593,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.354Z"
+    },
+    {
+      "id": 1234897966,
+      "name": "花蓮港燈塔",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9747827,
+      "lng": 121.6135316,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.355Z"
+    },
+    {
+      "id": 1241402410,
+      "name": "計量與綠能探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9901279,
+      "lng": 121.6324249,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.355Z"
+    },
+    {
+      "id": 1295717354,
+      "name": "觀景平台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.9943283,
+      "lng": 121.6148832,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.356Z"
+    },
+    {
+      "id": 1347596928,
+      "name": "花蓮縣防災教育館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.0202343,
+      "lng": 121.6319158,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.357Z",
+      "address": "花蓮縣花蓮市民心里華西127號"
+    },
+    {
+      "id": 18492124,
+      "name": "花蓮港放送局1944",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.9830094,
+      "lng": 121.6146834,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:15:20.357Z",
+      "address": "花蓮縣花蓮市民勤里1鄰松園街96號"
+    }
+  ]
+}

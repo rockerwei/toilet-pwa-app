@@ -1,0 +1,99 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:12:09.073Z",
+  "items": [
+    {
+      "id": 4524904366,
+      "name": "校園緊急電話位置圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.5669348,
+      "lng": 120.4732314,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.064Z"
+    },
+    {
+      "id": 5268961417,
+      "name": "民雄劉宅鬼屋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5305059,
+      "lng": 120.4266161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.067Z"
+    },
+    {
+      "id": 9340957521,
+      "name": "嘉義酒廠酒類文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.5213167,
+      "lng": 120.4439337,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.068Z",
+      "address": "621嘉義縣民雄鄉中山路3號"
+    },
+    {
+      "id": 11694354888,
+      "name": "校史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 23.5632659,
+      "lng": 120.4742823,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.069Z"
+    },
+    {
+      "id": 12446801201,
+      "name": "民雄日式招待所文創園區",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.5604846,
+      "lng": 120.4304865,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.070Z",
+      "address": "嘉義縣民雄鄉民權路50號"
+    },
+    {
+      "id": 491150763,
+      "name": "國家廣播文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 23.5647551,
+      "lng": 120.4294771,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.070Z"
+    },
+    {
+      "id": 790743156,
+      "name": "假山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.5578423,
+      "lng": 120.4352483,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.071Z"
+    },
+    {
+      "id": 943740984,
+      "name": "喜多郎17莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.5754422,
+      "lng": 120.4447675,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.072Z"
+    },
+    {
+      "id": 943740985,
+      "name": "喜多郎15莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.5783167,
+      "lng": 120.4405973,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:12:09.073Z"
+    }
+  ]
+}

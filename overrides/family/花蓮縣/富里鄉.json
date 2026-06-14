@@ -1,0 +1,207 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T23:24:30.031Z",
+  "items": [
+    {
+      "id": 3800295393,
+      "name": "六十石山風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.2213781,
+      "lng": 121.316174,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.009Z"
+    },
+    {
+      "id": 4047734773,
+      "name": "羅山瀑布頂端",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1809749,
+      "lng": 121.2957849,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.012Z"
+    },
+    {
+      "id": 4089949292,
+      "name": "達蘭埠(雲閔)黑暗部落住宿中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.2067601,
+      "lng": 121.3245548,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.013Z"
+    },
+    {
+      "id": 4102392289,
+      "name": "六十石山金針花海",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2189387,
+      "lng": 121.3053555,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.015Z"
+    },
+    {
+      "id": 4109178596,
+      "name": "安通越嶺道指示牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.2788384,
+      "lng": 121.3480658,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.017Z"
+    },
+    {
+      "id": 4270939081,
+      "name": "地圖解說牌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.1830615,
+      "lng": 121.2919618,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.019Z"
+    },
+    {
+      "id": 4911012022,
+      "name": "東部最大米倉",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2791354,
+      "lng": 121.3210634,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.020Z"
+    },
+    {
+      "id": 8410740318,
+      "name": "富里花海景觀區",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.2060898,
+      "lng": 121.2725314,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.021Z"
+    },
+    {
+      "id": 9528698517,
+      "name": "羅山桂竹林",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1870381,
+      "lng": 121.2879916,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.023Z"
+    },
+    {
+      "id": 10767840604,
+      "name": "花蓮",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 23.27841,
+      "lng": 121.37793,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.024Z"
+    },
+    {
+      "id": 402364597,
+      "name": "羅山瀑布頂端登山步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1829643,
+      "lng": 121.2921459,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.025Z"
+    },
+    {
+      "id": 407183163,
+      "name": "羅山瀑布頂端",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1807636,
+      "lng": 121.2968248,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.025Z"
+    },
+    {
+      "id": 407439535,
+      "name": "羅山瀑布頂端登山步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1800622,
+      "lng": 121.295576,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.026Z"
+    },
+    {
+      "id": 407439538,
+      "name": "羅山瀑布頂端登山步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1812944,
+      "lng": 121.2927914,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.027Z"
+    },
+    {
+      "id": 407441103,
+      "name": "瀑布底部廢棄步道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1821888,
+      "lng": 121.2943617,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.028Z"
+    },
+    {
+      "id": 427554463,
+      "name": "羅山瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1811063,
+      "lng": 121.2956154,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.028Z"
+    },
+    {
+      "id": 428826440,
+      "name": "瀑布頂端溼滑極易墜落",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1809153,
+      "lng": 121.2958103,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.029Z"
+    },
+    {
+      "id": 1363056260,
+      "name": "瀑布頂端溼滑極易墜落",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 23.1809842,
+      "lng": 121.2958578,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.030Z"
+    },
+    {
+      "id": 7022483,
+      "name": "海岸山脈野生動物重要棲息環境",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.1736847,
+      "lng": 121.3332549,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.030Z"
+    },
+    {
+      "id": 7075261,
+      "name": "花東沿海保護區",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 23.3605493,
+      "lng": 121.3802612,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T23:24:30.031Z"
+    }
+  ]
+}

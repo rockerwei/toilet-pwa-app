@@ -1,0 +1,2273 @@
+{
+  "city": "台中市",
+  "district": "太平區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 182,
+  "items": [
+    {
+      "id": 3227792011,
+      "name": "華盛頓中學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1588049,
+      "lng": 120.7441844
+    },
+    {
+      "id": 3227792013,
+      "name": "大興十九街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1575385,
+      "lng": 120.7423672
+    },
+    {
+      "id": 3227792015,
+      "name": "大興十五街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.157121,
+      "lng": 120.7380282
+    },
+    {
+      "id": 3227792017,
+      "name": "屯區藝文中心(大興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1564156,
+      "lng": 120.7350063
+    },
+    {
+      "id": 3227792021,
+      "name": "大興五街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1532295,
+      "lng": 120.7333235
+    },
+    {
+      "id": 3227792023,
+      "name": "大興一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1522353,
+      "lng": 120.7331915
+    },
+    {
+      "id": 3227792025,
+      "name": "叉路口(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1505536,
+      "lng": 120.7327572
+    },
+    {
+      "id": 3227792027,
+      "name": "國軍臺中總醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1503614,
+      "lng": 120.7304974
+    },
+    {
+      "id": 3687992372,
+      "name": "宜昌中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1480771,
+      "lng": 120.7158452
+    },
+    {
+      "id": 3687992374,
+      "name": "宜欣郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1497771,
+      "lng": 120.712571
+    },
+    {
+      "id": 3687992376,
+      "name": "新高兒童公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1514465,
+      "lng": 120.7109204,
+      "routes": [
+        "3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.339Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3687992378,
+      "name": "樹德廣三街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1540683,
+      "lng": 120.7118247,
+      "routes": [
+        "3",
+        "202"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.836Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3687992380,
+      "name": "樹德育才路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1563261,
+      "lng": 120.7122369
+    },
+    {
+      "id": 3687992382,
+      "name": "樹德育賢路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1575,
+      "lng": 120.7124942
+    },
+    {
+      "id": 3688026232,
+      "name": "宜欣國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1390785,
+      "lng": 120.7149651
+    },
+    {
+      "id": 3688026234,
+      "name": "新平仁和街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1370977,
+      "lng": 120.7154144,
+      "routes": [
+        "3",
+        "142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.339Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688026236,
+      "name": "新平溪洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1417954,
+      "lng": 120.7147124
+    },
+    {
+      "id": 3688026238,
+      "name": "賢德醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.14601,
+      "lng": 120.7143911
+    },
+    {
+      "id": 3688047417,
+      "name": "中太平",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1266899,
+      "lng": 120.7149739
+    },
+    {
+      "id": 3688047419,
+      "name": "中平國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1226478,
+      "lng": 120.7180943
+    },
+    {
+      "id": 3688047421,
+      "name": "太平中平路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1241348,
+      "lng": 120.7169189
+    },
+    {
+      "id": 3688047423,
+      "name": "太平國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1282118,
+      "lng": 120.7172565
+    },
+    {
+      "id": 3688049025,
+      "name": "太平農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1247958,
+      "lng": 120.7149129
+    },
+    {
+      "id": 3688049027,
+      "name": "新平永平路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1313095,
+      "lng": 120.7168662
+    },
+    {
+      "id": 3688049029,
+      "name": "精美社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1215482,
+      "lng": 120.7194047
+    },
+    {
+      "id": 3688049030,
+      "name": "精美社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1207999,
+      "lng": 120.7205349,
+      "routes": [
+        "3",
+        "249",
+        "289"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688049031,
+      "name": "長億二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1185368,
+      "lng": 120.7200968
+    },
+    {
+      "id": 3688049033,
+      "name": "長億六太平一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1153795,
+      "lng": 120.7195832
+    },
+    {
+      "id": 3688049035,
+      "name": "長億高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1135652,
+      "lng": 120.7214174,
+      "routes": [
+        "249"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.340Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3688058997,
+      "name": "太平親子館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1005343,
+      "lng": 120.7208385
+    },
+    {
+      "id": 3688059001,
+      "name": "幸福德隆",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1037711,
+      "lng": 120.7228315
+    },
+    {
+      "id": 3688059005,
+      "name": "慈明高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1076035,
+      "lng": 120.7250127,
+      "routes": [
+        "3",
+        "7",
+        "249",
+        "291",
+        "黃5"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3733198770,
+      "name": "崇正寶宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1334967,
+      "lng": 120.7180015,
+      "routes": [
+        "142",
+        "286",
+        "288"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3733198772,
+      "name": "東平中平路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1336333,
+      "lng": 120.7205132,
+      "routes": [
+        "286",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.837Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737158216,
+      "name": "一江橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1337371,
+      "lng": 120.7356209
+    },
+    {
+      "id": 3737158218,
+      "name": "七星",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1042414,
+      "lng": 120.7290131
+    },
+    {
+      "id": 3737158220,
+      "name": "三中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1464524,
+      "lng": 120.7334419
+    },
+    {
+      "id": 3737158222,
+      "name": "太平買菸場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1338645,
+      "lng": 120.724291
+    },
+    {
+      "id": 3737158224,
+      "name": "下太平",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1258382,
+      "lng": 120.7124151
+    },
+    {
+      "id": 3737162426,
+      "name": "下茶寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1228381,
+      "lng": 120.7342566,
+      "routes": [
+        "41"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.340Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737162428,
+      "name": "下廍仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1280658,
+      "lng": 120.7087655
+    },
+    {
+      "id": 3737162430,
+      "name": "中油太平站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1269723,
+      "lng": 120.7105236
+    },
+    {
+      "id": 3737162432,
+      "name": "中興東成功路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1330388,
+      "lng": 120.7251951
+    },
+    {
+      "id": 3737162434,
+      "name": "中茶寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1253715,
+      "lng": 120.7348145,
+      "routes": [
+        "280",
+        "286"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.340Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737162436,
+      "name": "亞姆拉公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1368912,
+      "lng": 120.7323142
+    },
+    {
+      "id": 3737162438,
+      "name": "仙宮府",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1290923,
+      "lng": 120.7356685
+    },
+    {
+      "id": 3737162443,
+      "name": "光隆",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1087835,
+      "lng": 120.7296831,
+      "routes": [
+        "41"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.341Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737162445,
+      "name": "冬瓜山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1204622,
+      "lng": 120.7337272
+    },
+    {
+      "id": 3737162447,
+      "name": "勤益科技大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1427147,
+      "lng": 120.7334143
+    },
+    {
+      "id": 3737162452,
+      "name": "和平橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1405063,
+      "lng": 120.7317111
+    },
+    {
+      "id": 3737162454,
+      "name": "坪林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1450709,
+      "lng": 120.7343294
+    },
+    {
+      "id": 3737162460,
+      "name": "太平分局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1416334,
+      "lng": 120.7325309
+    },
+    {
+      "id": 3737162461,
+      "name": "太平國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1490922,
+      "lng": 120.7341781
+    },
+    {
+      "id": 3737162465,
+      "name": "太平游泳池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1201127,
+      "lng": 120.7182855,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.341Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737162467,
+      "name": "太平運動場(長安醫院)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1306695,
+      "lng": 120.7212338
+    },
+    {
+      "id": 3737162469,
+      "name": "山腳(東平路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1347301,
+      "lng": 120.7319092
+    },
+    {
+      "id": 3737162474,
+      "name": "東平中興東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1341066,
+      "lng": 120.7264559
+    },
+    {
+      "id": 3737162478,
+      "name": "東平國小(東平路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1337635,
+      "lng": 120.7227916
+    },
+    {
+      "id": 3737162483,
+      "name": "水井前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1020057,
+      "lng": 120.7287897
+    },
+    {
+      "id": 3737162485,
+      "name": "洪厝庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1391452,
+      "lng": 120.7318798
+    },
+    {
+      "id": 3737162489,
+      "name": "牛角坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.0956391,
+      "lng": 120.7289282
+    },
+    {
+      "id": 3737162491,
+      "name": "光興正光街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1061335,
+      "lng": 120.7292107
+    },
+    {
+      "id": 3737162494,
+      "name": "福興橋 (光興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1169768,
+      "lng": 120.7328583
+    },
+    {
+      "id": 3737162523,
+      "name": "腦館(光興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1311388,
+      "lng": 120.7371908,
+      "routes": [
+        "41",
+        "286"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737163128,
+      "name": "茶寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1271471,
+      "lng": 120.7353735
+    },
+    {
+      "id": 3737163132,
+      "name": "車籠埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1123896,
+      "lng": 120.7310291,
+      "routes": [
+        "41",
+        "286",
+        "黃5"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3737163136,
+      "name": "長億六永成北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1183027,
+      "lng": 120.7166593
+    },
+    {
+      "id": 3737163138,
+      "name": "頂三叉",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1346767,
+      "lng": 120.7286085
+    },
+    {
+      "id": 3740251120,
+      "name": "平安里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1218997,
+      "lng": 120.7240961,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3740251122,
+      "name": "建國里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1244616,
+      "lng": 120.7268837,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3740251124,
+      "name": "東平社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1250116,
+      "lng": 120.7260291,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3740251326,
+      "name": "鵬儀太平路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1192644,
+      "lng": 120.7225636,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391779,
+      "name": "長億公園(永成北路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1178938,
+      "lng": 120.7151113,
+      "routes": [
+        "7",
+        "284"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.014Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768391781,
+      "name": "永成公園(永富街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1167188,
+      "lng": 120.7124885
+    },
+    {
+      "id": 3768391788,
+      "name": "工業德安街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1030972,
+      "lng": 120.717871
+    },
+    {
+      "id": 3768391790,
+      "name": "工業十七路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.105766,
+      "lng": 120.7165294
+    },
+    {
+      "id": 3768391792,
+      "name": "新仁一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1111431,
+      "lng": 120.709924
+    },
+    {
+      "id": 3768494310,
+      "name": "精武東振福路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.148168,
+      "lng": 120.7044091
+    },
+    {
+      "id": 3768494311,
+      "name": "精武東振福路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1484354,
+      "lng": 120.7054376,
+      "routes": [
+        "41"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.014Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768494313,
+      "name": "新福里(新福路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1494847,
+      "lng": 120.7031283,
+      "routes": [
+        "61",
+        "81"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3768494315,
+      "name": "新光里(新福路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1513913,
+      "lng": 120.7031927,
+      "routes": [
+        "61",
+        "81",
+        "85"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.342Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4074514499,
+      "name": "福興橋(光興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1167377,
+      "lng": 120.7326726
+    },
+    {
+      "id": 4394924711,
+      "name": "新福里(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1480267,
+      "lng": 120.7024006,
+      "routes": [
+        "41",
+        "56",
+        "56延",
+        "61",
+        "68",
+        "81",
+        "142",
+        "163",
+        "202",
+        "281延",
+        "301",
+        "302",
+        "302延",
+        "308",
+        "308副",
+        "308副繞"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.844Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4394969721,
+      "name": "中山路三段19巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1491539,
+      "lng": 120.7213271
+    },
+    {
+      "id": 4394969728,
+      "name": "宜欣社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1485823,
+      "lng": 120.7166244
+    },
+    {
+      "id": 4394970239,
+      "name": "精武社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1497471,
+      "lng": 120.7260846
+    },
+    {
+      "id": 4394970242,
+      "name": "遊樂大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1488956,
+      "lng": 120.7195262,
+      "routes": [
+        "41",
+        "68",
+        "74",
+        "74繞",
+        "163",
+        "243",
+        "249",
+        "956",
+        "956副"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4394970244,
+      "name": "坪林森林公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1499557,
+      "lng": 120.727838,
+      "routes": [
+        "41",
+        "74",
+        "74繞",
+        "241",
+        "249",
+        "956",
+        "956副"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.845Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4394992693,
+      "name": "東平里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1356641,
+      "lng": 120.7228264
+    },
+    {
+      "id": 4394992710,
+      "name": "福德祠(東村路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1375329,
+      "lng": 120.7241941,
+      "routes": [
+        "142"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.343Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4395013572,
+      "name": "中和東村三街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1367869,
+      "lng": 120.7238033
+    },
+    {
+      "id": 4395013576,
+      "name": "豐年社區五站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1394506,
+      "lng": 120.7244028
+    },
+    {
+      "id": 4409784462,
+      "name": "福德公園(環太東路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1484405,
+      "lng": 120.7243433
+    },
+    {
+      "id": 4409785492,
+      "name": "豐年社區一站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1447256,
+      "lng": 120.7247535
+    },
+    {
+      "id": 4409785493,
+      "name": "豐年社區三站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1413582,
+      "lng": 120.7246895
+    },
+    {
+      "id": 4409785494,
+      "name": "豐年社區二站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1436196,
+      "lng": 120.7251586
+    },
+    {
+      "id": 4409785495,
+      "name": "豐年社區四站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1407525,
+      "lng": 120.7245627
+    },
+    {
+      "id": 4410130227,
+      "name": "太順育德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1588506,
+      "lng": 120.7209363
+    },
+    {
+      "id": 4410130229,
+      "name": "新光國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1591284,
+      "lng": 120.7091443
+    },
+    {
+      "id": 6031334047,
+      "name": "新光國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1590724,
+      "lng": 120.7067054
+    },
+    {
+      "id": 4410130233,
+      "name": "新福振武路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1545839,
+      "lng": 120.7042972,
+      "routes": [
+        "81",
+        "85"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.343Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410130235,
+      "name": "新福新光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1569614,
+      "lng": 120.7056467,
+      "routes": [
+        "56延",
+        "81"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.016Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410130237,
+      "name": "新興樹德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1589568,
+      "lng": 120.7123845
+    },
+    {
+      "id": 4410130239,
+      "name": "樹孝太順路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1583928,
+      "lng": 120.7205604,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.343Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410131440,
+      "name": "育賢建和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1581113,
+      "lng": 120.7187056
+    },
+    {
+      "id": 4410131442,
+      "name": "育賢立功路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1588002,
+      "lng": 120.7153765
+    },
+    {
+      "id": 4588417727,
+      "name": "長安路417巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1520369,
+      "lng": 120.7262876,
+      "routes": [
+        "163"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.343Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588713899,
+      "name": "特二號中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1500863,
+      "lng": 120.7236061,
+      "routes": [
+        "241"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.016Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588713901,
+      "name": "萬和社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.152951,
+      "lng": 120.724601,
+      "routes": [
+        "75",
+        "75區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.343Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588713902,
+      "name": "新坪里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1556157,
+      "lng": 120.7262777
+    },
+    {
+      "id": 4588713903,
+      "name": "新坪里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1564166,
+      "lng": 120.7271661
+    },
+    {
+      "id": 4589171343,
+      "name": "育賢育誠街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1575388,
+      "lng": 120.7217381,
+      "routes": [
+        "241"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.846Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4589171345,
+      "name": "育賢育仁路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1572021,
+      "lng": 120.723795,
+      "routes": [
+        "75",
+        "75區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4590720582,
+      "name": "長安路398巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1536918,
+      "lng": 120.7272697,
+      "routes": [
+        "163"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4593736623,
+      "name": "長安路233巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1555123,
+      "lng": 120.7287831,
+      "routes": [
+        "163"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4593748162,
+      "name": "光華里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1568031,
+      "lng": 120.7328239,
+      "routes": [
+        "163"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4594102991,
+      "name": "新平國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.153495,
+      "lng": 120.7180724
+    },
+    {
+      "id": 4594251285,
+      "name": "樹孝育才路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1555105,
+      "lng": 120.7195861
+    },
+    {
+      "id": 4635118312,
+      "name": "新城里福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.150923,
+      "lng": 120.716468
+    },
+    {
+      "id": 4636858994,
+      "name": "如意新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1445928,
+      "lng": 120.7343934
+    },
+    {
+      "id": 4636897502,
+      "name": "興隆路一段39巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1145119,
+      "lng": 120.7282161,
+      "routes": [
+        "284"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.017Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4637589426,
+      "name": "麗園站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1561085,
+      "lng": 120.7299842,
+      "routes": [
+        "163"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4638961992,
+      "name": "太平區農會(興隆路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1124922,
+      "lng": 120.7303405
+    },
+    {
+      "id": 4643650590,
+      "name": "十甲宜昌路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1445301,
+      "lng": 120.712952
+    },
+    {
+      "id": 4676920075,
+      "name": "永豐路222巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1188456,
+      "lng": 120.7071883
+    },
+    {
+      "id": 4676920078,
+      "name": "永豐路108巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1213793,
+      "lng": 120.709198
+    },
+    {
+      "id": 4916634537,
+      "name": "金母橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1591249,
+      "lng": 120.7039493,
+      "routes": [
+        "19"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774886518,
+      "name": "腦館(長龍路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1309563,
+      "lng": 120.7396334,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774886519,
+      "name": "福嚴寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1309563,
+      "lng": 120.7416317,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774886521,
+      "name": "香蕉市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1306626,
+      "lng": 120.7446519,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774886523,
+      "name": "內城橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1264498,
+      "lng": 120.7478437
+    },
+    {
+      "id": 5774886525,
+      "name": "頭汴坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1245209,
+      "lng": 120.7490158,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5774886527,
+      "name": "頭汴國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1232345,
+      "lng": 120.7502215,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6853843124,
+      "name": "佳福四季水悅社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1534665,
+      "lng": 120.7017746
+    },
+    {
+      "id": 6853843126,
+      "name": "大河戀社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1559906,
+      "lng": 120.7034095
+    },
+    {
+      "id": 6853843128,
+      "name": "旱溪西天祥街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1602929,
+      "lng": 120.7038681
+    },
+    {
+      "id": 7972973537,
+      "name": "東平路715巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1337872,
+      "lng": 120.7128033,
+      "routes": [
+        "242"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972973538,
+      "name": "東平路715巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1333405,
+      "lng": 120.7139231,
+      "routes": [
+        "242"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972973539,
+      "name": "玉皇宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1333429,
+      "lng": 120.715401
+    },
+    {
+      "id": 7976077203,
+      "name": "頂頭汴坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1221365,
+      "lng": 120.7515344,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976112936,
+      "name": "福利社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1148609,
+      "lng": 120.7625717,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976144678,
+      "name": "草嶺橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.107269,
+      "lng": 120.7660747
+    },
+    {
+      "id": 7976144679,
+      "name": "三號橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1098177,
+      "lng": 120.7648864,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976144680,
+      "name": "吊橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1131815,
+      "lng": 120.762738,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976160720,
+      "name": "長龍吊橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1175648,
+      "lng": 120.7587777,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976160727,
+      "name": "龍眼腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1198991,
+      "lng": 120.7569042,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240015,
+      "name": "天圓彌勒院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.117795,
+      "lng": 120.8012773,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240030,
+      "name": "東汴國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.117473,
+      "lng": 120.7964855,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240035,
+      "name": "東汴社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1185086,
+      "lng": 120.7947153
+    },
+    {
+      "id": 7976240045,
+      "name": "長興橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1180949,
+      "lng": 120.7915476
+    },
+    {
+      "id": 7976240058,
+      "name": "荔枝頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1159356,
+      "lng": 120.7885113,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240100,
+      "name": "水壩頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1150029,
+      "lng": 120.7846181,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240102,
+      "name": "頂埔鹽林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1135279,
+      "lng": 120.7832529,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240104,
+      "name": "埔鹽林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1118081,
+      "lng": 120.7814947,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240106,
+      "name": "蝙蝠洞",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1091615,
+      "lng": 120.7802649,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.344Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240108,
+      "name": "五號橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1086743,
+      "lng": 120.780006,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240114,
+      "name": "仙子洞",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1071013,
+      "lng": 120.7784115,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240116,
+      "name": "清涼寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1059519,
+      "lng": 120.7766439,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240129,
+      "name": "四號橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1038928,
+      "lng": 120.7747248,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240131,
+      "name": "下湖",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.103031,
+      "lng": 120.7742178,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240133,
+      "name": "土地公崁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1028866,
+      "lng": 120.7725066,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7976240136,
+      "name": "佛恩寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1044217,
+      "lng": 120.7693389,
+      "routes": [
+        "287",
+        "288"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8390966796,
+      "name": "溪洲西宜昌路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1408657,
+      "lng": 120.7111172,
+      "routes": [
+        "249"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8700393117,
+      "name": "立德書院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1331755,
+      "lng": 120.7401561,
+      "routes": [
+        "241",
+        "242",
+        "246",
+        "246延",
+        "956副"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9605374787,
+      "name": "光華高工",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1340509,
+      "lng": 120.735774
+    },
+    {
+      "id": 9608365749,
+      "name": "吉星社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1327558,
+      "lng": 120.7435265,
+      "routes": [
+        "85",
+        "241",
+        "242",
+        "246",
+        "246延",
+        "956副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9629536067,
+      "name": "長安醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1314728,
+      "lng": 120.7196027
+    },
+    {
+      "id": 10270126158,
+      "name": "永豐路郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1141115,
+      "lng": 120.7039587
+    },
+    {
+      "id": 10270126160,
+      "name": "永豐路277巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1162906,
+      "lng": 120.7053737
+    },
+    {
+      "id": 10270126162,
+      "name": "永豐路28巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1241874,
+      "lng": 120.7128402
+    },
+    {
+      "id": 10270126164,
+      "name": "仁和街六巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1362167,
+      "lng": 120.7174232
+    },
+    {
+      "id": 10270126166,
+      "name": "宜欣公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1384484,
+      "lng": 120.7198135
+    },
+    {
+      "id": 10270126168,
+      "name": "宜富公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1443248,
+      "lng": 120.7219979
+    },
+    {
+      "id": 12089239742,
+      "name": "建興建成街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1283325,
+      "lng": 120.7258615,
+      "routes": [
+        "289"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.847Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12093986123,
+      "name": "市民大道宜佳街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1401665,
+      "lng": 120.7139772,
+      "routes": [
+        "249"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470464,
+      "name": "黃竹里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.0744804,
+      "lng": 120.775045,
+      "routes": [
+        "黃5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470466,
+      "name": "黃竹國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.0838131,
+      "lng": 120.7524172,
+      "routes": [
+        "黃5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.848Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470468,
+      "name": "光隆(公)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1088667,
+      "lng": 120.7296005,
+      "routes": [
+        "41"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.345Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470469,
+      "name": "自強新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1245485,
+      "lng": 120.7325475,
+      "routes": [
+        "黃5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872752,
+      "name": "華成曉園公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1535077,
+      "lng": 120.7265394
+    },
+    {
+      "id": 13094872753,
+      "name": "華成曉園公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1523892,
+      "lng": 120.7259102,
+      "routes": [
+        "68"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13120452610,
+      "name": "公車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "太平區",
+      "lat": 24.1507352,
+      "lng": 120.7304147
+    }
+  ]
+}

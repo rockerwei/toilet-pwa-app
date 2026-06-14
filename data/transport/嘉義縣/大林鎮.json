@@ -1,0 +1,953 @@
+{
+  "city": "嘉義縣",
+  "district": "大林鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 50,
+  "items": [
+    {
+      "id": 268936274,
+      "name": "大林",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6008136,
+      "lng": 120.455979
+    },
+    {
+      "id": 4272361469,
+      "name": "慈濟醫院",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5965449,
+      "lng": 120.457266,
+      "routes": [
+        "7005B",
+        "7135",
+        "7304A",
+        "7307A",
+        "7315A",
+        "7700",
+        "7701",
+        "幸福大林1路",
+        "幸福大林2路",
+        "幸福溪口3路"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470071638,
+      "name": "湖仔",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6173957,
+      "lng": 120.4649645,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470071654,
+      "name": "崇仁專校",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6209689,
+      "lng": 120.45901,
+      "routes": [
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470071656,
+      "name": "橋子頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6210279,
+      "lng": 120.4667428,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470248351,
+      "name": "大林轉運站",
+      "type": "bus_station",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6008344,
+      "lng": 120.4567972,
+      "routes": [
+        "113",
+        "7135",
+        "7304A",
+        "7700",
+        "7701",
+        "幸福大林1路",
+        "幸福大林2路",
+        "幸福大埔美1路",
+        "幸福大埔美1路A",
+        "幸福溪口3路"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470248357,
+      "name": "大林",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6022616,
+      "lng": 120.4538084,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.901Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470248368,
+      "name": "大林",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6037949,
+      "lng": 120.454292,
+      "routes": [
+        "6880",
+        "6880A",
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.387Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6470248371,
+      "name": "基督教會",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6052474,
+      "lng": 120.4554668
+    },
+    {
+      "id": 6470248373,
+      "name": "大林電信局",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6062688,
+      "lng": 120.4561273
+    },
+    {
+      "id": 7501714008,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5928006,
+      "lng": 120.5316355,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501714010,
+      "name": "新崎頂",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5927367,
+      "lng": 120.5300885,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501714012,
+      "name": "崎頂營區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5940862,
+      "lng": 120.5262932,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728330,
+      "name": "崎頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5984478,
+      "lng": 120.5155805,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.388Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728332,
+      "name": "互助社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.599673,
+      "lng": 120.5126541,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A",
+        "幸福大林2路"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728335,
+      "name": "集貨場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6005665,
+      "lng": 120.5104628,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728337,
+      "name": "油車店",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6016467,
+      "lng": 120.5082956,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728339,
+      "name": "大埔美",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6026427,
+      "lng": 120.5055677,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728341,
+      "name": "過溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6030944,
+      "lng": 120.5025181,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A",
+        "幸福大林2路"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728343,
+      "name": "變電所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6040517,
+      "lng": 120.4932766,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728345,
+      "name": "三和國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6050778,
+      "lng": 120.489445,
+      "routes": [
+        "7135",
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.389Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728347,
+      "name": "麗園社區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6049647,
+      "lng": 120.4850791,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728349,
+      "name": "林子前路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6052081,
+      "lng": 120.4806206,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728351,
+      "name": "水碓",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6051,
+      "lng": 120.4776996,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728353,
+      "name": "大林鎮公所",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6038661,
+      "lng": 120.4715842,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A",
+        "幸福大埔美1路",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728355,
+      "name": "老人養護中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6027355,
+      "lng": 120.4679418,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728357,
+      "name": "東大林",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6028806,
+      "lng": 120.4603618,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728359,
+      "name": "水源路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6056173,
+      "lng": 120.460327,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728361,
+      "name": "果菜市場",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6052241,
+      "lng": 120.4565571
+    },
+    {
+      "id": 7501728363,
+      "name": "大林國中",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6053138,
+      "lng": 120.4552871,
+      "routes": [
+        "7304",
+        "7304A",
+        "7304B",
+        "7307",
+        "7307A",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.390Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728366,
+      "name": "中油大林站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5992272,
+      "lng": 120.4500474,
+      "routes": [
+        "6880",
+        "6880A",
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7501728368,
+      "name": "昭慶禪寺",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5962934,
+      "lng": 120.4464143,
+      "routes": [
+        "6880",
+        "6880A",
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776356,
+      "name": "大枯園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5566469,
+      "lng": 120.5051239,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776358,
+      "name": "芹蕉園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5567514,
+      "lng": 120.5113265,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776360,
+      "name": "隆溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5546,
+      "lng": 120.5137619,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776362,
+      "name": "田寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5535502,
+      "lng": 120.5170181,
+      "routes": [
+        "7306"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776687,
+      "name": "南華大學",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5708832,
+      "lng": 120.4941335,
+      "routes": [
+        "幸福大埔美1路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.904Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7503776688,
+      "name": "南華九村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5726188,
+      "lng": 120.4870203,
+      "routes": [
+        "7309"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641445831,
+      "name": "排子路",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6128491,
+      "lng": 120.434103,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641658431,
+      "name": "陳井寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6080714,
+      "lng": 120.4125649,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641660960,
+      "name": "排路國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6120602,
+      "lng": 120.4221752,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641660974,
+      "name": "排子頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6128196,
+      "lng": 120.4240018
+    },
+    {
+      "id": 7641660976,
+      "name": "水汴頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6132178,
+      "lng": 120.4324052,
+      "routes": [
+        "7307",
+        "7307A",
+        "幸福大林1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13594772522,
+      "name": "大埔美園區服務中心",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5976133,
+      "lng": 120.5140436,
+      "routes": [
+        "113",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13597492761,
+      "name": "上銀科技",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5914709,
+      "lng": 120.5161022,
+      "routes": [
+        "幸福大埔美1路",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13601950053,
+      "name": "佐登妮絲城堡",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5869111,
+      "lng": 120.5092022,
+      "routes": [
+        "113",
+        "幸福大埔美1路",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13602022612,
+      "name": "老楊方程式",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5829977,
+      "lng": 120.5103314
+    },
+    {
+      "id": 13613886821,
+      "name": "蓋婭莊園",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5916417,
+      "lng": 120.5233736,
+      "routes": [
+        "幸福大埔美1路",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13614230570,
+      "name": "和大工業",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.5940985,
+      "lng": 120.518492,
+      "routes": [
+        "幸福大埔美1路",
+        "幸福大埔美1路A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 943800897,
+      "name": "大林驛站",
+      "type": "bus_station",
+      "city": "嘉義縣",
+      "district": "大林鎮",
+      "lat": 23.6123937,
+      "lng": 120.4399432,
+      "routes": [
+        "1618",
+        "1618F",
+        "1638",
+        "7307",
+        "7307A",
+        "幸福大林1路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.391Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

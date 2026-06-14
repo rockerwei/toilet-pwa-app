@@ -1,0 +1,169 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:27:08.792Z",
+  "items": [
+    {
+      "id": 3172765804,
+      "name": "女鬼橋",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.180631,
+      "lng": 120.6001443,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.780Z"
+    },
+    {
+      "id": 3659853342,
+      "name": "觀星廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2068126,
+      "lng": 120.5974585,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.782Z"
+    },
+    {
+      "id": 3659853343,
+      "name": "種子日晷",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2079895,
+      "lng": 120.5977014,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.784Z"
+    },
+    {
+      "id": 3715912823,
+      "name": "三隻乳牛",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1802064,
+      "lng": 120.6015025,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.786Z"
+    },
+    {
+      "id": 4083019213,
+      "name": "逢甲大學地圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1786671,
+      "lng": 120.646714,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.786Z"
+    },
+    {
+      "id": 4083023173,
+      "name": "減速慢行 標誌",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1790501,
+      "lng": 120.6466023,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.787Z"
+    },
+    {
+      "id": 4845216025,
+      "name": "松鼠坡",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.2046234,
+      "lng": 120.5985311,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.787Z"
+    },
+    {
+      "id": 4917759621,
+      "name": "Zero space 孵空間",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1662668,
+      "lng": 120.6442968,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.788Z",
+      "address": "臺中市西屯區臺灣大道三段308號"
+    },
+    {
+      "id": 8373931783,
+      "name": "廣福花海",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.199447,
+      "lng": 120.6424317,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.788Z"
+    },
+    {
+      "id": 10284310251,
+      "name": "自行車文化探索館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.208654,
+      "lng": 120.6113114,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.789Z",
+      "address": "臺中市西屯區東大路一段997號"
+    },
+    {
+      "id": 368297271,
+      "name": "臺中酒廠文物館",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.1648351,
+      "lng": 120.5990172,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.790Z"
+    },
+    {
+      "id": 368304683,
+      "name": "藝術中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.179863,
+      "lng": 120.5997491,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.790Z"
+    },
+    {
+      "id": 450771065,
+      "name": "逢甲夜市",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1778559,
+      "lng": 120.6457137,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.791Z"
+    },
+    {
+      "id": 840744308,
+      "name": "中央公園遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1793666,
+      "lng": 120.6560343,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.791Z"
+    },
+    {
+      "id": 857259180,
+      "name": "寶輝國際莊園 The Garden",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.1826109,
+      "lng": 120.6218161,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.792Z"
+    },
+    {
+      "id": 1308719760,
+      "name": "寶輝世紀莊園 The Park",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.1822805,
+      "lng": 120.6225079,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:27:08.792Z"
+    }
+  ]
+}

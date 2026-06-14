@@ -1,0 +1,198 @@
+{
+  "city": "基隆市",
+  "category": "family",
+  "updatedAt": "2026-06-12T20:16:12.472Z",
+  "items": [
+    {
+      "id": 1962240159,
+      "name": "仁愛區獅球嶺導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1219701,
+      "lng": 121.7351872,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.452Z"
+    },
+    {
+      "id": 1962246184,
+      "name": "獅球嶺砲台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1203135,
+      "lng": 121.7350065,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.457Z"
+    },
+    {
+      "id": 4842666123,
+      "name": "廟口夜市牌樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1285516,
+      "lng": 121.7428504,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.459Z"
+    },
+    {
+      "id": 5137000309,
+      "name": "往獅球嶺砲台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1242528,
+      "lng": 121.736411,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.461Z"
+    },
+    {
+      "id": 5137000310,
+      "name": "獅球嶺導覽圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1242517,
+      "lng": 121.7364046,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.463Z"
+    },
+    {
+      "id": 5137001635,
+      "name": "獅球嶺砲台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1202595,
+      "lng": 121.7350294,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.464Z"
+    },
+    {
+      "id": 5137001636,
+      "name": "往東砲台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1202781,
+      "lng": 121.7350306,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.465Z"
+    },
+    {
+      "id": 5220323140,
+      "name": "魴頂瀑布",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1122421,
+      "lng": 121.7395166,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.466Z"
+    },
+    {
+      "id": 5255834140,
+      "name": "基隆市旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1331372,
+      "lng": 121.7400358,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.466Z"
+    },
+    {
+      "id": 5355918874,
+      "name": "雞籠官道",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1281095,
+      "lng": 121.7419878,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.467Z"
+    },
+    {
+      "id": 6544894499,
+      "name": "往金山萬里、基隆西區公車上車站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1313067,
+      "lng": 121.73993,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.467Z"
+    },
+    {
+      "id": 6544894502,
+      "name": "客運終點站",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.131279,
+      "lng": 121.7404819,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.468Z"
+    },
+    {
+      "id": 7475453185,
+      "name": "獅球嶺西景觀台",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1264982,
+      "lng": 121.7335627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.468Z"
+    },
+    {
+      "id": 8405844244,
+      "name": "基隆市東岸旅遊服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.13069,
+      "lng": 121.7432363,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.469Z"
+    },
+    {
+      "id": 9542982852,
+      "name": "紅淡山步道導覽圖_A3線",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 25.1152513,
+      "lng": 121.7440838,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.469Z"
+    },
+    {
+      "id": 9542982911,
+      "name": "城門",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1158483,
+      "lng": 121.7461058,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.470Z"
+    },
+    {
+      "id": 9542983029,
+      "name": "展望",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1186303,
+      "lng": 121.7488966,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.470Z"
+    },
+    {
+      "id": 223361421,
+      "name": "基隆海洋廣場",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 25.1310691,
+      "lng": 121.7410664,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.471Z"
+    },
+    {
+      "id": 7662939,
+      "name": "陽明海洋文化藝術館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 25.1326011,
+      "lng": 121.7402119,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T20:16:12.472Z",
+      "address": "20041基隆市仁愛區港西街4號"
+    }
+  ]
+}

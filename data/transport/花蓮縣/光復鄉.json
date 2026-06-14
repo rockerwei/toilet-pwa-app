@@ -1,0 +1,296 @@
+{
+  "city": "花蓮縣",
+  "district": "光復鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 20,
+  "items": [
+    {
+      "id": 289125172,
+      "name": "光復",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6663549,
+      "lng": 121.4211642
+    },
+    {
+      "id": 3266659300,
+      "name": "光復國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6710559,
+      "lng": 121.4242192,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266660107,
+      "name": "光復站",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6652484,
+      "lng": 121.4256058,
+      "routes": [
+        "1121",
+        "1122",
+        "1125",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266660861,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6678623,
+      "lng": 121.426507
+    },
+    {
+      "id": 3266667078,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6791228,
+      "lng": 121.4191899
+    },
+    {
+      "id": 3266669501,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6842543,
+      "lng": 121.4105569
+    },
+    {
+      "id": 3266720429,
+      "name": "光復火車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6662558,
+      "lng": 121.4213521,
+      "routes": [
+        "1122",
+        "1125",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266720456,
+      "name": "大富",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6054693,
+      "lng": 121.3924215,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.072Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266720943,
+      "name": "光復糖廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6577603,
+      "lng": 121.4187071,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266721014,
+      "name": "大興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6308213,
+      "lng": 121.4064763,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266721419,
+      "name": "大全",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6506452,
+      "lng": 121.4166257,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266722631,
+      "name": "自強外獄",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.622535,
+      "lng": 121.4012299
+    },
+    {
+      "id": 3266722974,
+      "name": "富源國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.5889465,
+      "lng": 121.3836346,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414909,
+      "name": "敦厚路",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6651254,
+      "lng": 121.4256387
+    },
+    {
+      "id": 3268414910,
+      "name": "富田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6587882,
+      "lng": 121.4499695,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268414911,
+      "name": "東富",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6582824,
+      "lng": 121.4536927,
+      "routes": [
+        "1125"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282452952,
+      "name": "花蓮觀光糖廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6594279,
+      "lng": 121.4204136
+    },
+    {
+      "id": 3282452953,
+      "name": "大農大富平地森林園區站",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6146087,
+      "lng": 121.4166707
+    },
+    {
+      "id": 6801745189,
+      "name": "臺鐵光復站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6667364,
+      "lng": 121.4217406,
+      "routes": [
+        "1122",
+        "1125",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.164Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7485437421,
+      "name": "花蓮觀光糖廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "光復鄉",
+      "lat": 23.6575556,
+      "lng": 121.4215785,
+      "routes": [
+        "303B",
+        "303C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.073Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

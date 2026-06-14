@@ -1,0 +1,317 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-12T19:42:55.381Z",
+  "items": [
+    {
+      "id": 9169960324,
+      "name": "壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6982204,
+      "lng": 120.3073905,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.359Z"
+    },
+    {
+      "id": 9439190430,
+      "name": "大岩壁",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.6977739,
+      "lng": 120.3076986,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.361Z"
+    },
+    {
+      "id": 9869918430,
+      "name": "指示牌 (←大岩壁,大榕樹↓,觀景平台↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6974236,
+      "lng": 120.3076406,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.362Z"
+    },
+    {
+      "id": 9869918436,
+      "name": "半屏山 - 壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6977935,
+      "lng": 120.3077334,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.363Z"
+    },
+    {
+      "id": 9869918442,
+      "name": "A1指4 (←草原木階梯,翠華路步道口↓,大岩壁→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6983358,
+      "lng": 120.3074128,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.364Z"
+    },
+    {
+      "id": 9869955576,
+      "name": "指示牌 (↓翠華路步道口,↓大榕樹,瞭望台→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.698979,
+      "lng": 120.3079201,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.365Z"
+    },
+    {
+      "id": 9873961276,
+      "name": "指示牌 (↑瞭望台,←翠華路步道口,大榕樹↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6981651,
+      "lng": 120.3089785,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.366Z"
+    },
+    {
+      "id": 9873961277,
+      "name": "半屏山自然公園平面圖",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6981409,
+      "lng": 120.3090139,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.367Z"
+    },
+    {
+      "id": 9873961294,
+      "name": "A22指1 (↑北峰碉堡,←翠華路步道口,半屏湖步道口↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6983807,
+      "lng": 120.3102319,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.369Z"
+    },
+    {
+      "id": 9873961296,
+      "name": "半屏山 - 壽山國家自然公園",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6983378,
+      "lng": 120.3100958,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.369Z"
+    },
+    {
+      "id": 9873961298,
+      "name": "A1指8 (↑北峰碉堡,←翠華路步道口,半屏湖步道口↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6982798,
+      "lng": 120.3100636,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.370Z"
+    },
+    {
+      "id": 9873961300,
+      "name": "A1指7 (←翠華路步道口,瞭望台↑,半屏湖步道口→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6980506,
+      "lng": 120.3095471,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.370Z"
+    },
+    {
+      "id": 9873961304,
+      "name": "A1指6 (↑草原木階梯,瞭望台→,大岩壁↓)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6980479,
+      "lng": 120.3090986,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.371Z"
+    },
+    {
+      "id": 9873961314,
+      "name": "往瞭望台",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6974211,
+      "lng": 120.3076444,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.371Z"
+    },
+    {
+      "id": 10763276245,
+      "name": "A2-里16 1.6K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.695623,
+      "lng": 120.3074936,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.372Z"
+    },
+    {
+      "id": 10763276248,
+      "name": "A2-里17 1.7K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.696287,
+      "lng": 120.308134,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.372Z"
+    },
+    {
+      "id": 10763276250,
+      "name": "A2-里18 1.8K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6969344,
+      "lng": 120.3087527,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.372Z"
+    },
+    {
+      "id": 10763276254,
+      "name": "A2-里19 1.9K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6975778,
+      "lng": 120.3094432,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.373Z"
+    },
+    {
+      "id": 10763276257,
+      "name": "A2-里20 2.0K",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6982562,
+      "lng": 120.3100897,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.374Z"
+    },
+    {
+      "id": 10763478476,
+      "name": "展望",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7005778,
+      "lng": 120.3123226,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.374Z"
+    },
+    {
+      "id": 10763478503,
+      "name": "展望",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7011417,
+      "lng": 120.3136814,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.375Z"
+    },
+    {
+      "id": 10763515861,
+      "name": "展望",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7029107,
+      "lng": 120.3163321,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.375Z"
+    },
+    {
+      "id": 10772121677,
+      "name": "展望",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7038653,
+      "lng": 120.3169867,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.376Z"
+    },
+    {
+      "id": 10774420559,
+      "name": "A22指2 (↓瞭望台,北峰碉堡→)",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7009649,
+      "lng": 120.3138639,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.376Z"
+    },
+    {
+      "id": 11844710133,
+      "name": "半屏山是土砂捍止保安林",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.6983701,
+      "lng": 120.3102184,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.377Z"
+    },
+    {
+      "id": 12762244498,
+      "name": "海軍軍史館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.7047379,
+      "lng": 120.2898638,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.377Z"
+    },
+    {
+      "id": 13534440916,
+      "name": "楠梓水環境教育中心",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 22.7244751,
+      "lng": 120.2640627,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.378Z"
+    },
+    {
+      "id": 125934988,
+      "name": "援中港濕地",
+      "facilityType": "spot",
+      "facilityLabel": "📍 親子景點",
+      "lat": 22.7285928,
+      "lng": 120.267413,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.379Z"
+    },
+    {
+      "id": 287828056,
+      "name": "翠屏吊橋(封閉中)",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 22.7341799,
+      "lng": 120.3122175,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.380Z"
+    },
+    {
+      "id": 287982381,
+      "name": "遊客中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.7320216,
+      "lng": 120.3160495,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.380Z"
+    },
+    {
+      "id": 13968033,
+      "name": "半屏山自然風景區",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 22.6974383,
+      "lng": 120.3119621,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T19:42:55.381Z"
+    }
+  ]
+}

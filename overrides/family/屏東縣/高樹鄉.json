@@ -1,0 +1,37 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-12T22:38:09.484Z",
+  "items": [
+    {
+      "id": 2390501460,
+      "name": "幸福莊園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.7647089,
+      "lng": 120.6327232,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:09.480Z"
+    },
+    {
+      "id": 6615527375,
+      "name": "林業及自然保育署",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8796925,
+      "lng": 120.6453918,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:09.482Z"
+    },
+    {
+      "id": 11102483826,
+      "name": "尾寮山登山步道",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 22.8796492,
+      "lng": 120.6454302,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T22:38:09.484Z"
+    }
+  ]
+}

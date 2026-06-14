@@ -1,0 +1,1264 @@
+{
+  "city": "苗栗縣",
+  "district": "大湖鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 80,
+  "items": [
+    {
+      "id": 2956940750,
+      "name": "鄉公所前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4228128,
+      "lng": 120.8660139,
+      "routes": [
+        "5655",
+        "5656",
+        "5661",
+        "5663"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4304781711,
+      "name": "福德祠前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4231838,
+      "lng": 120.8680856,
+      "routes": [
+        "5655",
+        "5656",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613629904,
+      "name": "新開",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3462627,
+      "lng": 120.8269256,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613633168,
+      "name": "雙坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3538288,
+      "lng": 120.833001,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613633170,
+      "name": "中和",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3498335,
+      "lng": 120.8299687,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613647674,
+      "name": "校栗林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.361264,
+      "lng": 120.8372777,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613647680,
+      "name": "外雙坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3575188,
+      "lng": 120.8364156,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614141937,
+      "name": "下八份",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3692379,
+      "lng": 120.8404159,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614141959,
+      "name": "景山入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3665552,
+      "lng": 120.8418334,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614171870,
+      "name": "栗林國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3735465,
+      "lng": 120.842561,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614171872,
+      "name": "八份",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3727488,
+      "lng": 120.8407578,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614195865,
+      "name": "戶外教室",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3807434,
+      "lng": 120.8495569,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614195867,
+      "name": "四份",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3801082,
+      "lng": 120.8466018,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614204416,
+      "name": "復興寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3830764,
+      "lng": 120.8520822,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614212358,
+      "name": "九芎坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3954666,
+      "lng": 120.8605993,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614212360,
+      "name": "盛興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3913798,
+      "lng": 120.8597302,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614212363,
+      "name": "義和橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3858248,
+      "lng": 120.8542129,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614212365,
+      "name": "民和",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3876264,
+      "lng": 120.8559235,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614218952,
+      "name": "和興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3976113,
+      "lng": 120.8623608,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614241336,
+      "name": "南湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4004295,
+      "lng": 120.8674198,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614241374,
+      "name": "南湖國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3978904,
+      "lng": 120.8668928,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614249746,
+      "name": "水頭寮橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4052696,
+      "lng": 120.8652412,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614322782,
+      "name": "法寶寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4198049,
+      "lng": 120.8636394,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614322783,
+      "name": "大湖農工",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4198598,
+      "lng": 120.8633746
+    },
+    {
+      "id": 4614323556,
+      "name": "竹高屋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4171886,
+      "lng": 120.8630517,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614323560,
+      "name": "草崠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.41517,
+      "lng": 120.862695,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614323564,
+      "name": "老糖廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4120816,
+      "lng": 120.8648599,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4614323566,
+      "name": "工業區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4079614,
+      "lng": 120.865153,
+      "routes": [
+        "5655",
+        "5656A",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616074377,
+      "name": "大湖酒莊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4286199,
+      "lng": 120.867775,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616074379,
+      "name": "下街",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4266851,
+      "lng": 120.8670461,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616242504,
+      "name": "九寮坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4386383,
+      "lng": 120.8717601,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616242506,
+      "name": "八寮灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4354998,
+      "lng": 120.8703462,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616242508,
+      "name": "富興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4328222,
+      "lng": 120.8695985,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616252767,
+      "name": "水尾",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.444887,
+      "lng": 120.8739943,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616252769,
+      "name": "華興國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4436972,
+      "lng": 120.8739786,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616253640,
+      "name": "鄉城社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4421845,
+      "lng": 120.8734576,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616375449,
+      "name": "溫泉口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.451714,
+      "lng": 120.8740366,
+      "routes": [
+        "5656"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4616375450,
+      "name": "天后宮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4476632,
+      "lng": 120.8740017,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5258240046,
+      "name": "雪霸國家公園管理處",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4519299,
+      "lng": 120.8765942,
+      "routes": [
+        "101",
+        "101B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6356556459,
+      "name": "法雲寺口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4534667,
+      "lng": 120.8748815,
+      "routes": [
+        "5656",
+        "5656A",
+        "5657"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713844211,
+      "name": "清安入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4519475,
+      "lng": 120.8753076
+    },
+    {
+      "id": 8239476343,
+      "name": "新竹客運大湖站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4254975,
+      "lng": 120.8691714,
+      "routes": [
+        "5655",
+        "5656",
+        "5661",
+        "5663"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239476344,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4303421,
+      "lng": 120.8684103,
+      "routes": [
+        "5656",
+        "5656A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.103Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891942,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4221009,
+      "lng": 120.8680671,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891944,
+      "name": "改良場前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4237045,
+      "lng": 120.869648,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891946,
+      "name": "國中前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4253441,
+      "lng": 120.8703214,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891948,
+      "name": "社寮角",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4292243,
+      "lng": 120.8799117,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891950,
+      "name": "橫坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4303325,
+      "lng": 120.8830974,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891952,
+      "name": "屯兵營",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4290694,
+      "lng": 120.8866806,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891954,
+      "name": "香林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4297593,
+      "lng": 120.8911022,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891956,
+      "name": "茄苳樹下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4269459,
+      "lng": 120.8938118,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891964,
+      "name": "小南勢",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4221822,
+      "lng": 120.8979305,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891966,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4181262,
+      "lng": 120.8990013,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891968,
+      "name": "蔗蔀坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4164915,
+      "lng": 120.8997247,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891970,
+      "name": "下反水",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4144902,
+      "lng": 120.9001862,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891972,
+      "name": "大南勢",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4103322,
+      "lng": 120.9018424,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891974,
+      "name": "酒保",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.404219,
+      "lng": 120.9039781,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891976,
+      "name": "大南橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4009946,
+      "lng": 120.9087817
+    },
+    {
+      "id": 8239891978,
+      "name": "山羊窩",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3970288,
+      "lng": 120.91131,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891980,
+      "name": "珊湖山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.394302,
+      "lng": 120.9158283,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891982,
+      "name": "蠶種廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4491827,
+      "lng": 120.8777166
+    },
+    {
+      "id": 8239891984,
+      "name": "上溫泉口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4528863,
+      "lng": 120.8752257
+    },
+    {
+      "id": 8239891985,
+      "name": "水尾坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4457467,
+      "lng": 120.8815175
+    },
+    {
+      "id": 8239891987,
+      "name": "上坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4451389,
+      "lng": 120.8838555
+    },
+    {
+      "id": 8239891989,
+      "name": "龍美",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4435987,
+      "lng": 120.8933149
+    },
+    {
+      "id": 8239891991,
+      "name": "爆石",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.4441806,
+      "lng": 120.8961108
+    },
+    {
+      "id": 8239916389,
+      "name": "分水嶺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3605357,
+      "lng": 120.8692476,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916391,
+      "name": "上禾埕",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3637564,
+      "lng": 120.8676095,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916393,
+      "name": "大禾埕",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3675095,
+      "lng": 120.8680953,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916395,
+      "name": "托沙尾",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3694817,
+      "lng": 120.8651034,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.198Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916397,
+      "name": "武榮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3746179,
+      "lng": 120.8644204,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916400,
+      "name": "水流東口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3769823,
+      "lng": 120.8650477,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916403,
+      "name": "隆世橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3785498,
+      "lng": 120.8647021,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916405,
+      "name": "武樂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3807968,
+      "lng": 120.8664527,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916407,
+      "name": "東興口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3828598,
+      "lng": 120.8670755,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916409,
+      "name": "淋漓坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.384091,
+      "lng": 120.8670225,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916411,
+      "name": "小邦口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3870341,
+      "lng": 120.867343,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916413,
+      "name": "淋漓樹下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3911937,
+      "lng": 120.8675097,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916415,
+      "name": "青果前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3952544,
+      "lng": 120.8675393,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10006073594,
+      "name": "石門",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "大湖鄉",
+      "lat": 24.3647436,
+      "lng": 120.8407205,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.199Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

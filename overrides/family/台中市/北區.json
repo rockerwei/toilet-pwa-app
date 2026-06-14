@@ -1,0 +1,88 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:26:26.089Z",
+  "items": [
+    {
+      "id": 2341523748,
+      "name": "更樓",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1452196,
+      "lng": 120.6848067,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.078Z"
+    },
+    {
+      "id": 2341523751,
+      "name": "砲台山",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1449251,
+      "lng": 120.683453,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.080Z"
+    },
+    {
+      "id": 3296169007,
+      "name": "臺中神社鳥居",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1444763,
+      "lng": 120.6849926,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.082Z"
+    },
+    {
+      "id": 6249830311,
+      "name": "綜合服務中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.1566445,
+      "lng": 120.6666945,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.083Z"
+    },
+    {
+      "id": 9453528522,
+      "name": "國立自然科學博物館(博館路)",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.15683,
+      "lng": 120.66509,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.084Z"
+    },
+    {
+      "id": 322820685,
+      "name": "湖心亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1436522,
+      "lng": 120.6842104,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.087Z"
+    },
+    {
+      "id": 322993347,
+      "name": "望月亭",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.1449729,
+      "lng": 120.6844259,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.088Z"
+    },
+    {
+      "id": 820348064,
+      "name": "臺中放送局",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.149861,
+      "lng": 120.6908772,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:26:26.089Z",
+      "address": "404臺中市北區電台街1號"
+    }
+  ]
+}

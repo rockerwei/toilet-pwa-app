@@ -1,0 +1,59 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-12T18:15:27.017Z",
+  "items": [
+    {
+      "id": 10828716040,
+      "name": "八塊厝民俗藝術村",
+      "facilityType": "culture",
+      "facilityLabel": "🎨 藝文場館",
+      "lat": 24.9550547,
+      "lng": 121.3019884,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:15:27.010Z"
+    },
+    {
+      "id": 12758896544,
+      "name": "森林學堂",
+      "facilityType": "tourist_attraction",
+      "facilityLabel": "🧭 旅遊景點",
+      "lat": 24.9548108,
+      "lng": 121.3008387,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:15:27.012Z"
+    },
+    {
+      "id": 205948736,
+      "name": "巧克力共和國",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9418642,
+      "lng": 121.2902638,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:15:27.014Z",
+      "address": "桃園市八德區瑞興里4鄰巧克力街177號"
+    },
+    {
+      "id": 513494392,
+      "name": "桃園馬祖會館",
+      "facilityType": "science",
+      "facilityLabel": "🔬 博物館",
+      "lat": 24.9349036,
+      "lng": 121.2987899,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:15:27.016Z",
+      "address": "桃園市八德區瑞發里18鄰介壽路二段973巷15號"
+    },
+    {
+      "id": 1336516381,
+      "name": "大湳埤塘生態公園管理中心",
+      "facilityType": "visitor_center",
+      "facilityLabel": "🛎 旅客中心",
+      "lat": 24.9561033,
+      "lng": 121.3104799,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-12T18:15:27.017Z"
+    }
+  ]
+}

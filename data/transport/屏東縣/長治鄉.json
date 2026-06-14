@@ -1,0 +1,133 @@
+{
+  "city": "屏東縣",
+  "district": "長治鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 9,
+  "items": [
+    {
+      "id": 5539032368,
+      "name": "繁華村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.7020806,
+      "lng": 120.5753137
+    },
+    {
+      "id": 5539032378,
+      "name": "繁昌村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.7056572,
+      "lng": 120.5760926,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819184744,
+      "name": "下繁昌",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.709927,
+      "lng": 120.579991,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.852Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819184748,
+      "name": "繁華國校",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.7020747,
+      "lng": 120.5724929
+    },
+    {
+      "id": 6819184751,
+      "name": "大區園",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.6987231,
+      "lng": 120.5621141
+    },
+    {
+      "id": 6819286438,
+      "name": "德協",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.6948529,
+      "lng": 120.5497867,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A",
+        "8229"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.852Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819286440,
+      "name": "上德協",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.6960457,
+      "lng": 120.5541909,
+      "routes": [
+        "8227",
+        "8227A",
+        "8228",
+        "8228A",
+        "8229"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.852Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9212551781,
+      "name": "香揚",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.6662577,
+      "lng": 120.5125552
+    },
+    {
+      "id": 11621480369,
+      "name": "公車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "長治鄉",
+      "lat": 22.7100242,
+      "lng": 120.5330884
+    }
+  ]
+}
