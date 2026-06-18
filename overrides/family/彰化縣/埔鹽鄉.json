@@ -1,0 +1,36 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:7",
+      "name": "稻香休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.998398,
+      "lng": 120.472714,
+      "source": "coa",
+      "sourceId": "7",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣埔鹽鄉埔鹽村彰水路2段169巷23號",
+      "phone": "04-866-1118"
+    },
+    {
+      "id": "coa:510",
+      "name": "長頸鹿休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.994112,
+      "lng": 120.456341,
+      "source": "coa",
+      "sourceId": "510",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣埔鹽鄉西湖村新生路建471號"
+    }
+  ]
+}

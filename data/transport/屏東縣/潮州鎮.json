@@ -1,0 +1,461 @@
+{
+  "city": "屏東縣",
+  "district": "潮州鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 25,
+  "items": [
+    {
+      "id": 5069932216,
+      "name": "仙林路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5240956,
+      "lng": 120.531148,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5069932220,
+      "name": "武丁",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5167766,
+      "lng": 120.5310273,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5069933726,
+      "name": "檨子腳",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5097768,
+      "lng": 120.5316389
+    },
+    {
+      "id": 5071093674,
+      "name": "四維路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5527611,
+      "lng": 120.5455904,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8240"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071093680,
+      "name": "四維路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5560877,
+      "lng": 120.548467,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8240"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071093681,
+      "name": "三星里",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5601277,
+      "lng": 120.551852,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8240"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071899732,
+      "name": "潮州",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5499793,
+      "lng": 120.5360618
+    },
+    {
+      "id": 5071899733,
+      "name": "新生路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5514457,
+      "lng": 120.5391946,
+      "routes": [
+        "1773",
+        "1780",
+        "8208",
+        "8208B",
+        "8237",
+        "8239"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071899739,
+      "name": "光復路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5385666,
+      "lng": 120.5353805,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071899742,
+      "name": "民治路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5435621,
+      "lng": 120.5362603
+    },
+    {
+      "id": 5071899745,
+      "name": "潮州",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5486775,
+      "lng": 120.5382492
+    },
+    {
+      "id": 5071915391,
+      "name": "延平北門路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5595878,
+      "lng": 120.5399671,
+      "routes": [
+        "1773",
+        "1780",
+        "8237",
+        "8239"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071915395,
+      "name": "朝昇路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5566327,
+      "lng": 120.5402018
+    },
+    {
+      "id": 5071915400,
+      "name": "潮州日式文化園區",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5531054,
+      "lng": 120.5403426,
+      "routes": [
+        "606",
+        "1773",
+        "1780",
+        "8208",
+        "8208B",
+        "8237",
+        "8239"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.841Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816226168,
+      "name": "陽光小站",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5223159,
+      "lng": 120.5262924
+    },
+    {
+      "id": 9062895086,
+      "name": "潮州轉運站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5507713,
+      "lng": 120.536297,
+      "routes": [
+        "518A",
+        "519",
+        "605",
+        "605A",
+        "606",
+        "607",
+        "1773",
+        "1780",
+        "8208",
+        "8208B",
+        "8209",
+        "8210",
+        "8211",
+        "8211A",
+        "8212",
+        "8212A",
+        "8213",
+        "8213A",
+        "8215",
+        "8215A",
+        "8237",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8239",
+        "8240",
+        "小黃公車707",
+        "小黃公車708",
+        "小黃公車709",
+        "小黃公車710",
+        "小黃公車733B",
+        "小黃公車736",
+        "小黃公車736A",
+        "小黃公車736CC",
+        "小黃公車736EE"
+      ],
+      "routeCount": 36,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.842Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11242932174,
+      "name": "南方小站",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5275754,
+      "lng": 120.5363435
+    },
+    {
+      "id": 12995453198,
+      "name": "潮州鎮公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5496,
+      "lng": 120.5437933,
+      "routes": [
+        "607",
+        "8209",
+        "8211",
+        "8211A",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C",
+        "8240",
+        "小黃公車707",
+        "小黃公車708",
+        "小黃公車733B",
+        "小黃公車736",
+        "小黃公車736A",
+        "小黃公車736CC",
+        "小黃公車736EE"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12995453200,
+      "name": "潮州游泳池",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5465961,
+      "lng": 120.5488824,
+      "routes": [
+        "607",
+        "8211",
+        "8211A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12995459504,
+      "name": "光春國中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.534092,
+      "lng": 120.5408013,
+      "routes": [
+        "8210"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12995459506,
+      "name": "潮州鐵道園區",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5265769,
+      "lng": 120.5362652,
+      "routes": [
+        "607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964507,
+      "name": "五魁寮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.56177,
+      "lng": 120.53172,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964511,
+      "name": "潮昇路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.55634,
+      "lng": 120.53986,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734964512,
+      "name": "日新職校",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.55705,
+      "lng": 120.53562,
+      "routes": [
+        "8208",
+        "8208B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.843Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739974601,
+      "name": "潮州高中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "潮州鎮",
+      "lat": 22.5489,
+      "lng": 120.5466,
+      "routes": [
+        "8208B",
+        "8213A",
+        "8215A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.195Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

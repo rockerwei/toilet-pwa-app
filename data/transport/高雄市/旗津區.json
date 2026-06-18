@@ -1,0 +1,664 @@
+{
+  "city": "高雄市",
+  "district": "旗津區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 41,
+  "items": [
+    {
+      "id": 1329952984,
+      "name": "北汕巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5988558,
+      "lng": 120.2775436,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493567,
+      "name": "頂風埤",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5831938,
+      "lng": 120.2902797,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493568,
+      "name": "水肥處理廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5844355,
+      "lng": 120.2892336,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493585,
+      "name": "污水處理廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5866046,
+      "lng": 120.2873351,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493586,
+      "name": "南汕里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5855373,
+      "lng": 120.2882668,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997487,
+      "name": "中洲三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6016918,
+      "lng": 120.2768858,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997488,
+      "name": "中洲路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6060652,
+      "lng": 120.2736599,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997490,
+      "name": "勞動女性紀念公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.594409,
+      "lng": 120.2807328,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997492,
+      "name": "地藏王廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.596161,
+      "lng": 120.2811933,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997493,
+      "name": "天后宮(通山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6128084,
+      "lng": 120.268908,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997494,
+      "name": "天聖宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5965268,
+      "lng": 120.279177,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997495,
+      "name": "旗后燈塔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6142256,
+      "lng": 120.2671891,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997496,
+      "name": "旗津國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6082024,
+      "lng": 120.2721204,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997498,
+      "name": "旗津市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6122657,
+      "lng": 120.2695843,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997500,
+      "name": "旗津輪渡站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6141879,
+      "lng": 120.2692965,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997501,
+      "name": "橡膠廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5947642,
+      "lng": 120.2823206,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997502,
+      "name": "海岸公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6022903,
+      "lng": 120.275214,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997503,
+      "name": "烏松",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5986994,
+      "lng": 120.2799138,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997504,
+      "name": "電信局(旗津)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6035052,
+      "lng": 120.2753758,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2625997506,
+      "name": "頂烏松",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6003199,
+      "lng": 120.2779776,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011262,
+      "name": "三陽造船廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5796552,
+      "lng": 120.293206,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011264,
+      "name": "中洲二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5828038,
+      "lng": 120.2908224,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011265,
+      "name": "中洲國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5781172,
+      "lng": 120.2944265,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011267,
+      "name": "中興里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5744551,
+      "lng": 120.2972474,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011270,
+      "name": "大汕國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5877245,
+      "lng": 120.2883419,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011271,
+      "name": "大汕頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5858422,
+      "lng": 120.2893108,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011272,
+      "name": "天鳳宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5815963,
+      "lng": 120.2916558,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011274,
+      "name": "廣濟宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5757624,
+      "lng": 120.2962066,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011275,
+      "name": "廣濟宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5770104,
+      "lng": 120.2954183
+    },
+    {
+      "id": 2626011276,
+      "name": "敦和街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5710218,
+      "lng": 120.2998492,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011278,
+      "name": "旗津三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5913934,
+      "lng": 120.2833315,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011279,
+      "name": "旗津國中(旗津二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5887604,
+      "lng": 120.2856659,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011281,
+      "name": "旗津漁港",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5903677,
+      "lng": 120.2866182
+    },
+    {
+      "id": 2626011284,
+      "name": "海星幼稚園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5926242,
+      "lng": 120.28398,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011285,
+      "name": "海洋探索館(旗津漁港停車場)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5889332,
+      "lng": 120.2880824
+    },
+    {
+      "id": 2626011286,
+      "name": "旗津醫院(清靜寺)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5909901,
+      "lng": 120.2852452,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.257Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011289,
+      "name": "風車公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.589988,
+      "lng": 120.2845828,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2626011290,
+      "name": "鳳天宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.5725376,
+      "lng": 120.2988585,
+      "routes": [
+        "35",
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3880041022,
+      "name": "活動中心(旗津區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6107201,
+      "lng": 120.2707191,
+      "routes": [
+        "紅9A旗津幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3880041024,
+      "name": "旗津海水浴場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6101906,
+      "lng": 120.2680744,
+      "routes": [
+        "35"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3880041025,
+      "name": "福壽宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "旗津區",
+      "lat": 22.6073637,
+      "lng": 120.2705289,
+      "routes": [
+        "35"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.457Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

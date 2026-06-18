@@ -1,0 +1,49 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000210",
+      "name": "豐丘葡萄觀光果園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.666361,
+      "lng": 120.873711,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000210",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣信義鄉豐丘村敦福路136號"
+    },
+    {
+      "id": "tdx:C1_376480000A_000224",
+      "name": "信義鄉農會梅子夢工廠",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.6887,
+      "lng": 120.861771,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000224",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣信義鄉明德村新開巷11號"
+    },
+    {
+      "id": "tdx:C1_376480000A_000320",
+      "name": "草坪頭玉山茶園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.55962,
+      "lng": 120.874992,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000320",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣信義鄉同富村太平巷113-1號"
+    }
+  ]
+}

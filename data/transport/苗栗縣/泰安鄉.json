@@ -1,0 +1,110 @@
+{
+  "city": "苗栗縣",
+  "district": "泰安鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-12T02:09:53.408Z",
+  "rev": 1,
+  "count": 8,
+  "items": [
+    {
+      "id": 3152160395,
+      "name": "梅園國小站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.3886543,
+      "lng": 120.9719884
+    },
+    {
+      "id": 3663141821,
+      "name": "中興",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.3937953,
+      "lng": 120.9197668,
+      "routes": [
+        "5661"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3663146799,
+      "name": "清安",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.447502,
+      "lng": 120.9059182
+    },
+    {
+      "id": 5125908622,
+      "name": "泰安溫泉停車場",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.4712056,
+      "lng": 120.9773755
+    },
+    {
+      "id": 8242232625,
+      "name": "上士林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.3460133,
+      "lng": 120.9343422,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.613Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242232627,
+      "name": "士林村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.3447196,
+      "lng": 120.9274024
+    },
+    {
+      "id": 9990368354,
+      "name": "觀霧遊客中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.5058623,
+      "lng": 121.1133739,
+      "routes": [
+        "觀光8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9990368359,
+      "name": "觀霧山莊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "泰安鄉",
+      "lat": 24.5051226,
+      "lng": 121.1147905,
+      "routes": [
+        "觀光8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.106Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

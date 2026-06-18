@@ -1,0 +1,35 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376450000A_000990",
+      "name": "葛瑞絲香草田",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.58572,
+      "lng": 120.882401,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000990",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "362苗栗縣頭屋鄉明德路12鄰156號"
+    },
+    {
+      "id": "tdx:C1_376450000A_000996",
+      "name": "雅聞七里香玫瑰森林",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.60008,
+      "lng": 120.885223,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000996",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣頭屋鄉明德路226號"
+    }
+  ]
+}

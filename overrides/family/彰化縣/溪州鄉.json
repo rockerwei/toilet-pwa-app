@@ -1,0 +1,37 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:10",
+      "name": "彰化休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.854128,
+      "lng": 120.5055,
+      "source": "coa",
+      "sourceId": "10",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣溪州鄉溪州村中央路三段138號",
+      "phone": "04-8899812"
+    },
+    {
+      "id": "coa:157",
+      "name": "菁芩休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.834151,
+      "lng": 120.54893,
+      "source": "coa",
+      "sourceId": "157",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣溪州鄉成功村庒北巷７號",
+      "phone": "0958-893-396"
+    }
+  ]
+}

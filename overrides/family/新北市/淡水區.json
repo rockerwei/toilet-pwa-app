@@ -1,0 +1,67 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:503",
+      "name": "原豐休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.187654,
+      "lng": 121.476543,
+      "source": "coa",
+      "sourceId": "503",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市淡水區忠寮里演戲埔腳12號",
+      "phone": "0985-480276(預約制)"
+    },
+    {
+      "id": "coa:22",
+      "name": "北新有機休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.185203,
+      "lng": 121.472911,
+      "source": "coa",
+      "sourceId": "22",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市淡水區忠寮里7鄰演戲埔腳13號",
+      "phone": "(02)2623-1428"
+    },
+    {
+      "id": "coa:507",
+      "name": "天空小品休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.185203,
+      "lng": 121.472911,
+      "source": "coa",
+      "sourceId": "507",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市淡水區竹圍子8-10號",
+      "phone": "(02)2625-7366(預約制)"
+    },
+    {
+      "id": "coa:523",
+      "name": "淡水小奈良休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.248611,
+      "lng": 121.4725,
+      "source": "coa",
+      "sourceId": "523",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市淡水區屯山里石頭厝3號之8",
+      "phone": "0910-369005"
+    }
+  ]
+}

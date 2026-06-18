@@ -1,0 +1,687 @@
+{
+  "city": "台南市",
+  "district": "西港區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 36,
+  "items": [
+    {
+      "id": 2977465090,
+      "name": "頂中洲",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1371122,
+      "lng": 120.1966431,
+      "routes": [
+        "藍幹線 安平工業區→佳里",
+        "藍幹線 佳里→安平工業區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.188Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2977465092,
+      "name": "北西港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1304056,
+      "lng": 120.20112,
+      "routes": [
+        "藍幹線 安平工業區→佳里",
+        "藍幹線 佳里→安平工業區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.188Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2977465094,
+      "name": "南西港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1186496,
+      "lng": 120.2036823,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 臺南轉運站→西港→麻豆→下營公所",
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港",
+        "藍幹線 安平工業區→佳里",
+        "藍幹線 佳里→安平工業區"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.188Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2977465096,
+      "name": "期美科技公司",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1267167,
+      "lng": 120.2024117,
+      "routes": [
+        "藍幹線 安平工業區→佳里"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.773Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2977465100,
+      "name": "西港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1219221,
+      "lng": 120.2031459,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 西港→麻豆",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 麻豆→西港",
+        "橘11 臺南轉運站→西港→麻豆→下營公所",
+        "橘11-1 下營區公所→麻豆→臺南轉運站",
+        "橘11-1 麻豆→臺南轉運站",
+        "橘11-1 麻豆→臺南轉運站(經成大醫院)",
+        "橘11-1 臺南轉運站→麻豆",
+        "橘11-1 臺南轉運站→麻豆(經成大醫院)",
+        "橘11-1 臺南轉運站→麻豆→下營區公所",
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港",
+        "藍30 西港→佳里",
+        "藍30 佳里→西港",
+        "藍幹線 安平工業區→佳里",
+        "藍幹線 佳里→安平工業區"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3063009987,
+      "name": "北極殿",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.0880825,
+      "lng": 120.1859329,
+      "routes": [
+        "9路 東溪埔寮福安宮→臺南轉運站",
+        "9路 東溪埔寮福安宮→臺南轉運站(繞公親里)",
+        "9路 臺南轉運站→東溪埔寮福安宮",
+        "9路 臺南轉運站→東溪埔寮福安宮(繞公親里)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3063009988,
+      "name": "新復里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.0840543,
+      "lng": 120.1863138,
+      "routes": [
+        "9路 東溪埔寮福安宮→臺南轉運站",
+        "9路 東溪埔寮福安宮→臺南轉運站(繞公親里)",
+        "9路 臺南轉運站→東溪埔寮福安宮",
+        "9路 臺南轉運站→東溪埔寮福安宮(繞公親里)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3063009990,
+      "name": "溪埔寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.085931,
+      "lng": 120.1861006,
+      "routes": [
+        "9路 東溪埔寮福安宮→臺南轉運站",
+        "9路 東溪埔寮福安宮→臺南轉運站(繞公親里)",
+        "9路 臺南轉運站→東溪埔寮福安宮",
+        "9路 臺南轉運站→東溪埔寮福安宮(繞公親里)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3098142023,
+      "name": "太西",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1423369,
+      "lng": 120.2249512,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 西港→麻豆",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 麻豆→西港",
+        "橘11 臺南轉運站→西港→麻豆→下營公所"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3098142025,
+      "name": "後營",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1393408,
+      "lng": 120.2177438,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 西港→麻豆",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 麻豆→西港",
+        "橘11 臺南轉運站→西港→麻豆→下營公所",
+        "橘11-1 下營區公所→麻豆→臺南轉運站",
+        "橘11-1 麻豆→臺南轉運站",
+        "橘11-1 麻豆→臺南轉運站(經成大醫院)",
+        "橘11-1 臺南轉運站→麻豆",
+        "橘11-1 臺南轉運站→麻豆(經成大醫院)",
+        "橘11-1 臺南轉運站→麻豆→下營區公所",
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3098142027,
+      "name": "西港國中",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1234579,
+      "lng": 120.2049991,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 西港→麻豆",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 麻豆→西港",
+        "橘11 臺南轉運站→西港→麻豆→下營公所"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105328407,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1283311,
+      "lng": 120.1800511,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105328417,
+      "name": "蛤西港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1315909,
+      "lng": 120.179802,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3105328419,
+      "name": "西劉厝",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1274528,
+      "lng": 120.1768451,
+      "routes": [
+        "藍21 九塊厝→義合→佳里",
+        "藍21 佳里→義合→九塊厝",
+        "藍22 九塊厝→七十二份→佳里",
+        "藍22 佳里→七十二份→九塊厝"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3120399220,
+      "name": "東溪埔寮福安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.0935898,
+      "lng": 120.1916582,
+      "routes": [
+        "9路 東溪埔寮福安宮→臺南轉運站",
+        "9路 東溪埔寮福安宮→臺南轉運站(繞公親里)",
+        "9路 臺南轉運站→東溪埔寮福安宮",
+        "9路 臺南轉運站→東溪埔寮福安宮(繞公親里)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674890,
+      "name": "掘子頭玄天宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1174916,
+      "lng": 120.2055783,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674892,
+      "name": "雙張廍",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1196275,
+      "lng": 120.2132702,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674894,
+      "name": "下面厝",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1205974,
+      "lng": 120.2161503,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674896,
+      "name": "港東里活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1225231,
+      "lng": 120.2159905,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674898,
+      "name": "八份天聖宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1276648,
+      "lng": 120.221005,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674900,
+      "name": "東竹林",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1280105,
+      "lng": 120.2258901,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3685674902,
+      "name": "檨子林鳳安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1341668,
+      "lng": 120.2318328,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.189Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3731754754,
+      "name": "西港里",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1269442,
+      "lng": 120.2098387,
+      "routes": [
+        "橘11 下營公所→麻豆→西港→和順",
+        "橘11 下營公所→麻豆→西港→臺南轉運站",
+        "橘11 下營公所→麻豆→港口→和順→臺南",
+        "橘11 西港→麻豆",
+        "橘11 和順→西港→麻豆→下營公所",
+        "橘11 麻豆→西港",
+        "橘11 臺南轉運站→西港→麻豆→下營公所"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8285678923,
+      "name": "三合寮三安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1351877,
+      "lng": 120.228108,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806586,
+      "name": "後營三房",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1425554,
+      "lng": 120.2176046,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806588,
+      "name": "營西巷子角",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1446355,
+      "lng": 120.2154291,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806590,
+      "name": "金砂施寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1498512,
+      "lng": 120.208368,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806593,
+      "name": "金砂金安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1558035,
+      "lng": 120.2075913,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806596,
+      "name": "金砂新寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1559769,
+      "lng": 120.201842,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10824806599,
+      "name": "金砂下宅子",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1534526,
+      "lng": 120.195595,
+      "routes": [
+        "藍29 西港→奇美佳里分院",
+        "藍29 奇美佳里分院→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473057185,
+      "name": "慶安宮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1210966,
+      "lng": 120.2015813,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473057187,
+      "name": "南海",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1185327,
+      "lng": 120.1973979,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473057191,
+      "name": "大竹林",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1223568,
+      "lng": 120.1859336,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473057195,
+      "name": "永樂里新港",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1079584,
+      "lng": 120.1849651,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473057198,
+      "name": "永樂里活動中心",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1040146,
+      "lng": 120.178894,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12473097001,
+      "name": "大塭寮",
+      "type": "bus",
+      "city": "台南市",
+      "district": "西港區",
+      "lat": 23.1053156,
+      "lng": 120.1776781,
+      "routes": [
+        "藍30 西港→佳里",
+        "藍30 佳里→西港"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.190Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

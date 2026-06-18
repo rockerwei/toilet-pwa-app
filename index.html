@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>廁所咧｜廁所・醫療・親子・交通 全台生活地圖</title>
+    <meta name="description" content="廁所咧整合全台公共廁所、醫療院所、親子景點與交通站點，依你所在位置排序最近地點並提供導航。定位即用、免安裝。" />
+    <link rel="canonical" href="https://rockerwei.github.io/toilet-pwa-app/" />
+
+    <!-- hreflang（多語系 SPA：所有語言指向同一 URL，由 JS 切換語言） -->
+    <link rel="alternate" hreflang="zh-TW" href="https://rockerwei.github.io/toilet-pwa-app/" />
+    <link rel="alternate" hreflang="en" href="https://rockerwei.github.io/toilet-pwa-app/" />
+    <link rel="alternate" hreflang="ja" href="https://rockerwei.github.io/toilet-pwa-app/" />
+    <link rel="alternate" hreflang="ko" href="https://rockerwei.github.io/toilet-pwa-app/" />
+    <link rel="alternate" hreflang="x-default" href="https://rockerwei.github.io/toilet-pwa-app/" />
+
+    <!-- Open Graph（Facebook / LINE / Threads / Discord 分享預覽；scraper 不跑 JS，靜態 head 即生效） -->
+    <meta property="og:title" content="廁所咧｜廁所・醫療・親子・交通 全台生活地圖" />
+    <meta property="og:description" content="整合全台廁所、醫療、親子景點與交通站點的家庭生活地圖。定位即用、免安裝，帶孩子出門最方便。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rockerwei.github.io/toilet-pwa-app/" />
+    <meta property="og:image" content="https://rockerwei.github.io/toilet-pwa-app/og-zh.png?v=1" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="廁所咧" />
+    <meta property="og:locale" content="zh_TW" />
+
+    <!-- Twitter Card（X / Discord 大圖卡） -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="廁所咧｜廁所・醫療・親子・交通 全台生活地圖" />
+    <meta name="twitter:description" content="整合全台廁所、醫療、親子景點與交通站點的家庭生活地圖。定位即用、免安裝。" />
+    <meta name="twitter:image" content="https://rockerwei.github.io/toilet-pwa-app/og-zh.png?v=1" />
+
+    <!-- PWA manifest（Android / 現代瀏覽器） -->
+    <link id="app-manifest" rel="manifest" href="/toilet-pwa-app/manifest.json" />
+    <script>
+      (() => {
+        const raw = (navigator.languages && navigator.languages[0]) || navigator.language || "en";
+        const base = raw.trim().toLowerCase().split("-")[0];
+        const currentDeviceLang = base === "zh" ? "zh-TW" : (base === "ja" ? "ja" : (base === "ko" ? "ko" : "en"));
+        let locale = currentDeviceLang;
+        try {
+          const lastDeviceLang = localStorage.getItem("lastDeviceLang");
+          const lastManualLang = localStorage.getItem("lastManualLang");
+          if (currentDeviceLang === lastDeviceLang && ["zh-TW", "en", "ja", "ko"].includes(lastManualLang)) locale = lastManualLang;
+          if (currentDeviceLang !== lastDeviceLang) localStorage.removeItem("lastManualLang");
+          localStorage.setItem("lastDeviceLang", currentDeviceLang);
+        } catch (_) { /* storage 不可用時跟隨裝置語系 */ }
+        window.__APP_BOOT_LOCALE__ = locale;
+        document.documentElement.lang = locale;
+        document.getElementById("app-manifest").setAttribute("href", locale === "zh-TW" ? "manifest.json" : `manifest-${locale}.json`);
+      })();
+    </script>
+    <meta name="theme-color" content="#f687b3" />
+
+    <!-- 瀏覽器分頁 favicon -->
+    <link rel="icon" type="image/png" href="/toilet-pwa-app/icons/icon-192.png?v=3" />
+
+    <!-- iOS PWA 設定 -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="廁所咧" />
+    <link rel="apple-touch-icon" href="/toilet-pwa-app/icons/icon-192.png?v=3" />
+
+    <!-- App Shell Loading Screen
+         HTML 解析完即顯示，不等 React / JS bundle / API / SW。
+         React mount 後由 App.tsx useEffect fade out 並移除，不影響點擊。
+         自給自足：所有樣式 inline，不依賴任何外部 CSS / JS / 字型。 -->
+    <style>
+      #app-loading {
+        position: fixed; inset: 0; z-index: 9999;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        background: linear-gradient(160deg, #fdeef6 0%, #f3e8fb 100%);
+        padding: max(32px, env(safe-area-inset-top, 32px)) 24px max(32px, env(safe-area-inset-bottom, 32px));
+        transition: opacity 0.3s ease;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        text-align: center;
+      }
+      #app-loading img {
+        width: min(260px, 60vmin);
+        height: auto;
+        border-radius: 20px;
+        display: block;
+      }
+      #app-loading .al-title {
+        font-size: 26px; font-weight: 800; color: #e91e8c; margin: 18px 0 5px;
+      }
+      #app-loading .al-sub {
+        font-size: 13px; color: #a47e96; letter-spacing: 0.02em;
+      }
+      #app-loading .al-dots {
+        display: flex; gap: 7px; margin-top: 28px;
+      }
+      #app-loading .al-dots span {
+        width: 8px; height: 8px; border-radius: 50%; background: #f687b3;
+        animation: al-pulse 1.4s ease-in-out infinite;
+      }
+      #app-loading .al-dots span:nth-child(2) { animation-delay: 0.2s; }
+      #app-loading .al-dots span:nth-child(3) { animation-delay: 0.4s; }
+      @keyframes al-pulse {
+        0%, 80%, 100% { opacity: 0.3; transform: scale(0.75); }
+        40% { opacity: 1; transform: scale(1); }
+      }
+    </style>
+    <script type="module" crossorigin src="/toilet-pwa-app/assets/index-87zS9I_Y.js"></script>
+    <link rel="stylesheet" crossorigin href="/toilet-pwa-app/assets/index-SorpUbP0.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- App Shell Loading Screen（React mount 後由 App.tsx 移除） -->
+    <div id="app-loading">
+      <img src="/toilet-pwa-app/icons/muxi-labs-splash.png" alt="MuXi Labs" width="260" height="260" />
+      <div class="al-title">廁所咧</div>
+      <div class="al-sub">載入中...</div>
+      <div class="al-dots"><span></span><span></span><span></span></div>
+    </div>
+    <script>
+      (() => {
+        const locale = window.__APP_BOOT_LOCALE__ || "en";
+        const splash = { "zh-TW": ["廁所咧", "載入中..."], en: ["Toilet Map", "Loading..."], ja: ["トイレどこ？", "読み込み中..."], ko: ["화장실 어디?", "불러오는 중..."] }[locale];
+        const root = document.getElementById("app-loading");
+        root.querySelector(".al-title").textContent = splash[0];
+        root.querySelector(".al-sub").textContent = splash[1];
+      })();
+    </script>
+    <!-- Schema.org JSON-LD（AEO：讓 AI 引擎能解讀本站用途；scraper 不跑 JS，放 static HTML） -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebApplication",
+          "@id": "https://rockerwei.github.io/toilet-pwa-app/#webapp",
+          "name": "廁所咧",
+          "url": "https://rockerwei.github.io/toilet-pwa-app/",
+          "description": "廁所咧整合全台公共廁所、醫療院所、親子景點與交通站點，依你所在位置排序最近地點並提供導航。定位即用、免安裝。",
+          "applicationCategory": "LifestyleApplication",
+          "operatingSystem": "Any",
+          "browserRequirements": "Requires JavaScript",
+          "inLanguage": ["zh-TW", "en", "ja", "ko"],
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "TWD"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "@id": "https://rockerwei.github.io/toilet-pwa-app/#org",
+            "name": "MuXi Labs"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://rockerwei.github.io/toilet-pwa-app/#website",
+          "name": "廁所咧",
+          "url": "https://rockerwei.github.io/toilet-pwa-app/",
+          "description": "整合全台廁所、醫療、親子景點與交通站點的家庭生活地圖。定位即用、免安裝，帶孩子出門最方便。",
+          "inLanguage": ["zh-TW", "en", "ja", "ko"],
+          "publisher": {
+            "@id": "https://rockerwei.github.io/toilet-pwa-app/#org"
+          }
+        }
+      ]
+    }
+    </script>
+  </body>
+</html>

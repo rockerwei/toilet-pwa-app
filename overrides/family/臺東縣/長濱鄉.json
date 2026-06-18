@@ -1,0 +1,36 @@
+{
+  "city": "臺東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:54",
+      "name": "竹湖山居自然生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.277893,
+      "lng": 121.428511,
+      "source": "coa",
+      "sourceId": "54",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣長濱鄉台東縣竹湖村移民路1鄰41號",
+      "phone": "08-983-2383"
+    },
+    {
+      "id": "coa:559",
+      "name": "日暉休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.311389,
+      "lng": 121.454167,
+      "source": "coa",
+      "sourceId": "559",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣長濱鄉長濱村28鄰城子埔5-21號"
+    }
+  ]
+}

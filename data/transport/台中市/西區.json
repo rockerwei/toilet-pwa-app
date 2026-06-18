@@ -1,0 +1,1189 @@
+{
+  "city": "台中市",
+  "district": "西區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 97,
+  "items": [
+    {
+      "id": 1629241760,
+      "name": "茄苳腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.149115,
+      "lng": 120.6716021
+    },
+    {
+      "id": 2293784506,
+      "name": "美術館(五權西路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1401914,
+      "lng": 120.6636906
+    },
+    {
+      "id": 2320046567,
+      "name": "臺中教育大學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1446821,
+      "lng": 120.6719469
+    },
+    {
+      "id": 2536535400,
+      "name": "國光客運",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1505149,
+      "lng": 120.6705618
+    },
+    {
+      "id": 2641897099,
+      "name": "西屯太原路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1633636,
+      "lng": 120.6629202
+    },
+    {
+      "id": 2986004690,
+      "name": "臺中醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1406985,
+      "lng": 120.676551
+    },
+    {
+      "id": 2986004692,
+      "name": "臺中州廳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.138915,
+      "lng": 120.6785892
+    },
+    {
+      "id": 2986008174,
+      "name": "忠孝國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.137253,
+      "lng": 120.674046
+    },
+    {
+      "id": 3053446405,
+      "name": "忠明國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1577557,
+      "lng": 120.6580318
+    },
+    {
+      "id": 3053540949,
+      "name": "中正國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.152719,
+      "lng": 120.6670973
+    },
+    {
+      "id": 3053540954,
+      "name": "科博館(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1550746,
+      "lng": 120.6631422
+    },
+    {
+      "id": 3347257251,
+      "name": "科學博物館(健行路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1563218,
+      "lng": 120.6631092
+    },
+    {
+      "id": 3053540957,
+      "name": "科學博物館(臺灣大道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1559617,
+      "lng": 120.6621798
+    },
+    {
+      "id": 3053540968,
+      "name": "臺灣大道民權路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1515447,
+      "lng": 120.6687184
+    },
+    {
+      "id": 3053540970,
+      "name": "茄苳腳(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1492081,
+      "lng": 120.6715962
+    },
+    {
+      "id": 3053540971,
+      "name": "茄苳腳(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1499518,
+      "lng": 120.6710228
+    },
+    {
+      "id": 3183035349,
+      "name": "臺中刑務所演武場(國漫館)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1347323,
+      "lng": 120.6736795
+    },
+    {
+      "id": 3183035350,
+      "name": "臺中科大民生校區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1389362,
+      "lng": 120.6760951
+    },
+    {
+      "id": 3183035355,
+      "name": "民權繼光街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1368939,
+      "lng": 120.6809268
+    },
+    {
+      "id": 3318779241,
+      "name": "臺中女中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1358894,
+      "lng": 120.6780325
+    },
+    {
+      "id": 3323239978,
+      "name": "美術館(美村路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1394485,
+      "lng": 120.6617564,
+      "routes": [
+        "11",
+        "23",
+        "30副",
+        "56",
+        "75",
+        "75副",
+        "89"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.053Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3323239988,
+      "name": "公益公園(公益路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1509637,
+      "lng": 120.6580057
+    },
+    {
+      "id": 3323239990,
+      "name": "公益中美街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1509372,
+      "lng": 120.6600362
+    },
+    {
+      "id": 3323239992,
+      "name": "草悟道(市民廣場)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1509153,
+      "lng": 120.6645608
+    },
+    {
+      "id": 3323239996,
+      "name": "大墩文化中心(英才路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1423093,
+      "lng": 120.6653254,
+      "routes": [
+        "5",
+        "51"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.421Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3323240008,
+      "name": "五權自立街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1428223,
+      "lng": 120.6683814
+    },
+    {
+      "id": 3323240010,
+      "name": "五權民生路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1446571,
+      "lng": 120.6702786,
+      "routes": [
+        "5",
+        "11",
+        "30",
+        "30延",
+        "30副",
+        "56",
+        "56延"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.054Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3347257240,
+      "name": "民權中華路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1423013,
+      "lng": 120.6746689
+    },
+    {
+      "id": 3347257242,
+      "name": "向上國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1424367,
+      "lng": 120.6618013,
+      "routes": [
+        "23",
+        "89"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3347257243,
+      "name": "向上國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1438402,
+      "lng": 120.6615386
+    },
+    {
+      "id": 3347257245,
+      "name": "美村向上路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1461083,
+      "lng": 120.661749,
+      "routes": [
+        "11",
+        "23",
+        "71",
+        "89"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3347257247,
+      "name": "美村向上北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1481524,
+      "lng": 120.661762
+    },
+    {
+      "id": 3347257249,
+      "name": "美村公益路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1504804,
+      "lng": 120.6618013
+    },
+    {
+      "id": 3347257258,
+      "name": "忠明高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1579501,
+      "lng": 120.6640393
+    },
+    {
+      "id": 3387062467,
+      "name": "地方法院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1339801,
+      "lng": 120.6756699
+    },
+    {
+      "id": 3387062475,
+      "name": "光明國中(公館路46巷)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1336967,
+      "lng": 120.672864,
+      "routes": [
+        "8",
+        "15",
+        "55",
+        "900"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.422Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3387062477,
+      "name": "林森三民路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1360759,
+      "lng": 120.6723047
+    },
+    {
+      "id": 3387062479,
+      "name": "忠信國小(林森路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.139352,
+      "lng": 120.6685635
+    },
+    {
+      "id": 3387064999,
+      "name": "三民林森路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1358066,
+      "lng": 120.6724472
+    },
+    {
+      "id": 3387065005,
+      "name": "公館(三民路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.13302,
+      "lng": 120.6697191,
+      "routes": [
+        "26",
+        "99",
+        "99延",
+        "158",
+        "6933"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.056Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3437576220,
+      "name": "向上忠明南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466505,
+      "lng": 120.6580857
+    },
+    {
+      "id": 3439386395,
+      "name": "美村忠誠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.152877,
+      "lng": 120.6615879,
+      "routes": [
+        "72"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.057Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3439386397,
+      "name": "廣三SOGO(美村路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1546163,
+      "lng": 120.6620829
+    },
+    {
+      "id": 3469522883,
+      "name": "東興國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1547273,
+      "lng": 120.6531643
+    },
+    {
+      "id": 3469522886,
+      "name": "東興公益路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1515872,
+      "lng": 120.6531592
+    },
+    {
+      "id": 3469736088,
+      "name": "柳川西民生路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1409446,
+      "lng": 120.6724767
+    },
+    {
+      "id": 3473267917,
+      "name": "五權西忠明南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1399175,
+      "lng": 120.6583967
+    },
+    {
+      "id": 3473267919,
+      "name": "五權臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1470447,
+      "lng": 120.6730703,
+      "routes": [
+        "5",
+        "32",
+        "40",
+        "45",
+        "45延",
+        "45延1",
+        "45區",
+        "56",
+        "101",
+        "850"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.424Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3561446188,
+      "name": "互助新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466523,
+      "lng": 120.6621522
+    },
+    {
+      "id": 3561446190,
+      "name": "向上東興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466493,
+      "lng": 120.6527681
+    },
+    {
+      "id": 3561446192,
+      "name": "向上英才路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.146584,
+      "lng": 120.6660288,
+      "routes": [
+        "27",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.424Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3561446294,
+      "name": "向上中興街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466362,
+      "lng": 120.6634133,
+      "routes": [
+        "5",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3561446316,
+      "name": "頂麻園(向上市場)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466414,
+      "lng": 120.6598162
+    },
+    {
+      "id": 3566156201,
+      "name": "向上精誠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1466114,
+      "lng": 120.6554981
+    },
+    {
+      "id": 3608270257,
+      "name": "英才郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1451334,
+      "lng": 120.6651564
+    },
+    {
+      "id": 3638090613,
+      "name": "英才公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1539129,
+      "lng": 120.6700256
+    },
+    {
+      "id": 3638129858,
+      "name": "美術園道(五權五街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1364901,
+      "lng": 120.6634829,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.424Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3638129860,
+      "name": "美村五權五街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1367121,
+      "lng": 120.6617432
+    },
+    {
+      "id": 3638129862,
+      "name": "五權五廊街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1381939,
+      "lng": 120.6658016
+    },
+    {
+      "id": 3639085362,
+      "name": "忠明臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1585788,
+      "lng": 120.6607436,
+      "routes": [
+        "52",
+        "52副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.060Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639141605,
+      "name": "大勇國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1347147,
+      "lng": 120.6574065
+    },
+    {
+      "id": 3639141609,
+      "name": "土庫停車場(國美館)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1409743,
+      "lng": 120.6571882
+    },
+    {
+      "id": 3639141611,
+      "name": "忠明南精誠七街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1539366,
+      "lng": 120.6578279
+    },
+    {
+      "id": 3639141615,
+      "name": "忠明南五權西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1376843,
+      "lng": 120.6571923,
+      "routes": [
+        "52",
+        "52副",
+        "79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.425Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639141616,
+      "name": "忠明南五權西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1385599,
+      "lng": 120.6574466,
+      "routes": [
+        "52",
+        "52副",
+        "79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.425Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639141617,
+      "name": "忠明南向上路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1461734,
+      "lng": 120.6574904
+    },
+    {
+      "id": 3659768194,
+      "name": "大墩向上南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1452864,
+      "lng": 120.6498119
+    },
+    {
+      "id": 3659768211,
+      "name": "下麻園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1450278,
+      "lng": 120.6516537,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.425Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3659768219,
+      "name": "萬壽棒球場(東興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1454148,
+      "lng": 120.6530459
+    },
+    {
+      "id": 3771967026,
+      "name": "英才公益路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1503827,
+      "lng": 120.6651618
+    },
+    {
+      "id": 3771967028,
+      "name": "英才臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1533459,
+      "lng": 120.6672455,
+      "routes": [
+        "51"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.426Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3771967030,
+      "name": "英才向上北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1485141,
+      "lng": 120.6651614,
+      "routes": [
+        "27",
+        "51"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.061Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3834482458,
+      "name": "民權路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1492394,
+      "lng": 120.6699455
+    },
+    {
+      "id": 4284740013,
+      "name": "五權公館路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1361116,
+      "lng": 120.6658231
+    },
+    {
+      "id": 4284740015,
+      "name": "五權樂群街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1329752,
+      "lng": 120.6670248
+    },
+    {
+      "id": 4612042513,
+      "name": "土庫",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1347193,
+      "lng": 120.6559345
+    },
+    {
+      "id": 4612056080,
+      "name": "崇倫國中(南屯路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.133848,
+      "lng": 120.6578903
+    },
+    {
+      "id": 4612056081,
+      "name": "南屯美村路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1321227,
+      "lng": 120.6620495
+    },
+    {
+      "id": 4612056085,
+      "name": "靜和醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1332009,
+      "lng": 120.6596787
+    },
+    {
+      "id": 4612056087,
+      "name": "永安市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1320843,
+      "lng": 120.6648349
+    },
+    {
+      "id": 4612056292,
+      "name": "三民西民興街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1299786,
+      "lng": 120.6635333,
+      "routes": [
+        "202",
+        "203",
+        "270",
+        "271",
+        "276",
+        "277"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.426Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634772804,
+      "name": "民權臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1517975,
+      "lng": 120.6706083,
+      "routes": [
+        "37",
+        "45",
+        "45延",
+        "45延1",
+        "45區",
+        "86",
+        "86E",
+        "86W"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.064Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4674916782,
+      "name": "五權柳川西路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1343019,
+      "lng": 120.6659513
+    },
+    {
+      "id": 4754491528,
+      "name": "美村五權八街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1341305,
+      "lng": 120.6618084,
+      "routes": [
+        "23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.427Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838178489,
+      "name": "向上民權路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1468266,
+      "lng": 120.6691369,
+      "routes": [
+        "19",
+        "27",
+        "290",
+        "290繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.064Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5275325856,
+      "name": "公益精誠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1507368,
+      "lng": 120.6556727
+    },
+    {
+      "id": 7973534393,
+      "name": "公館公園(自由路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1318682,
+      "lng": 120.6699496,
+      "routes": [
+        "23",
+        "89",
+        "202",
+        "203",
+        "270",
+        "271",
+        "276",
+        "277"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.427Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8829707198,
+      "name": "中山站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1492812,
+      "lng": 120.6700147,
+      "routes": [
+        "1619",
+        "1619B",
+        "1620A",
+        "1620B",
+        "1623",
+        "1625",
+        "1625A",
+        "1625C",
+        "1871",
+        "1872",
+        "1873"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.183Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9006612841,
+      "name": "奉順宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.131293,
+      "lng": 120.6664415,
+      "routes": [
+        "202",
+        "203",
+        "270",
+        "271",
+        "276",
+        "277"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.427Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9629536074,
+      "name": "五權車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1289533,
+      "lng": 120.6665624
+    },
+    {
+      "id": 9631668244,
+      "name": "公益臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1507609,
+      "lng": 120.6684373
+    },
+    {
+      "id": 9646439665,
+      "name": "地方法院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1348255,
+      "lng": 120.6766034,
+      "routes": [
+        "50",
+        "59",
+        "59延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.428Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9654656291,
+      "name": "東興大墩十二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1496853,
+      "lng": 120.6531421
+    },
+    {
+      "id": 10262969392,
+      "name": "朝陽三民路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.134428,
+      "lng": 120.6713455,
+      "routes": [
+        "900",
+        "900跳蛙公車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.065Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10855522321,
+      "name": "中山代售處",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1497204,
+      "lng": 120.6714644,
+      "routes": [
+        "1805",
+        "1826",
+        "1827",
+        "1827B",
+        "1851",
+        "1852A",
+        "1860",
+        "1861",
+        "1863",
+        "1866",
+        "1866B",
+        "1870"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.185Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12097677777,
+      "name": "忠誠公園（忠明路）",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1606155,
+      "lng": 120.6622254,
+      "routes": [
+        "52",
+        "52副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.185Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872763,
+      "name": "愛麗絲國際大飯店",
+      "type": "bus",
+      "city": "台中市",
+      "district": "西區",
+      "lat": 24.1367693,
+      "lng": 120.6674987,
+      "routes": [
+        "25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.185Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

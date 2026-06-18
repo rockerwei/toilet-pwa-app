@@ -1,0 +1,459 @@
+{
+  "city": "彰化縣",
+  "district": "埤頭鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 28,
+  "items": [
+    {
+      "id": 4002703129,
+      "name": "十一號",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.9156875,
+      "lng": 120.4716081,
+      "routes": [
+        "6715",
+        "6715A",
+        "6743",
+        "6743A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4410238572,
+      "name": "交流道",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8832123,
+      "lng": 120.4986208
+    },
+    {
+      "id": 4410238581,
+      "name": "東埔尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8843389,
+      "lng": 120.495716,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736332998,
+      "name": "西合興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8931509,
+      "lng": 120.451989,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736333000,
+      "name": "合興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8919774,
+      "lng": 120.458246,
+      "routes": [
+        "15路",
+        "6709",
+        "6743",
+        "6743A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736333002,
+      "name": "東合興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8911228,
+      "lng": 120.4628252
+    },
+    {
+      "id": 4736333014,
+      "name": "平原村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8902811,
+      "lng": 120.4695945,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736333016,
+      "name": "埤頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8894161,
+      "lng": 120.4762594,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736333521,
+      "name": "東埤頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8889611,
+      "lng": 120.4816212,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736333541,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8881187,
+      "lng": 120.4871487,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4736355311,
+      "name": "十三甲",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8943666,
+      "lng": 120.4433783,
+      "routes": [
+        "6709"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4741960525,
+      "name": "沙崙路口",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.9118794,
+      "lng": 120.4695224,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4744746304,
+      "name": "路口厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8467237,
+      "lng": 120.4587781,
+      "routes": [
+        "1630C",
+        "6707",
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4744746308,
+      "name": "庄內村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8470224,
+      "lng": 120.4640842,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4744746310,
+      "name": "中和村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8471782,
+      "lng": 120.4682766,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4744746312,
+      "name": "斗六甲",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8477492,
+      "lng": 120.4752804,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4745233618,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8478813,
+      "lng": 120.4529063,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5401297720,
+      "name": "稻米博物館",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8700501,
+      "lng": 120.4585084,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.229Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5401298022,
+      "name": "大湖厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8642086,
+      "lng": 120.4583904,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463770058,
+      "name": "東合興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8912159,
+      "lng": 120.4593131,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463770062,
+      "name": "庄仔橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8993698,
+      "lng": 120.4628979,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463770064,
+      "name": "周厝崙",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.9033669,
+      "lng": 120.4650155,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463786435,
+      "name": "水菜藍",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8801478,
+      "lng": 120.4587874,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463862324,
+      "name": "水尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8271781,
+      "lng": 120.4635349,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463863801,
+      "name": "田頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8387119,
+      "lng": 120.4588357,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6463863803,
+      "name": "路口厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.846381,
+      "lng": 120.4576474,
+      "routes": [
+        "1630C",
+        "6707",
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464178941,
+      "name": "水尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8322324,
+      "lng": 120.4686391,
+      "routes": [
+        "6881",
+        "6882"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.885Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7707462765,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埤頭鄉",
+      "lat": 23.8738886,
+      "lng": 120.4588571
+    }
+  ]
+}

@@ -1,0 +1,1050 @@
+{
+  "city": "新竹縣",
+  "district": "芎林鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 61,
+  "items": [
+    {
+      "id": 2632370456,
+      "name": "台汽客運水利大樓站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7503756,
+      "lng": 121.0973532
+    },
+    {
+      "id": 3311572670,
+      "name": "芎林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7768615,
+      "lng": 121.0780572,
+      "routes": [
+        "0551",
+        "5614",
+        "5615",
+        "5615A",
+        "5633",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311572672,
+      "name": "文昌廟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7725751,
+      "lng": 121.0832136,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311649002,
+      "name": "敏實科大一站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7751534,
+      "lng": 121.0877376,
+      "routes": [
+        "5615",
+        "5615A",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3340976203,
+      "name": "芎林站（統聯）",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.770682,
+      "lng": 121.0769951
+    },
+    {
+      "id": 3340976204,
+      "name": "芎林站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7715491,
+      "lng": 121.0765303
+    },
+    {
+      "id": 3667119868,
+      "name": "華聯廠前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7913591,
+      "lng": 121.0613017,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3667119870,
+      "name": "下山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7909594,
+      "lng": 121.0634296,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "快捷8號",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779410475,
+      "name": "農路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7315293,
+      "lng": 121.123011,
+      "routes": [
+        "5614",
+        "5631"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779425499,
+      "name": "五龍",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7346561,
+      "lng": 121.1203864,
+      "routes": [
+        "5614",
+        "5631",
+        "快捷6號B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779425502,
+      "name": "石吼口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7329874,
+      "lng": 121.1215854,
+      "routes": [
+        "5614",
+        "5631"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779433765,
+      "name": "十股林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7426878,
+      "lng": 121.1067098,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779433771,
+      "name": "永秀橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7393821,
+      "lng": 121.1109182,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779452656,
+      "name": "上新鳳",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7604789,
+      "lng": 121.0913461,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.718Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779455090,
+      "name": "芎林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7631751,
+      "lng": 121.0885808,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.718Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846385978,
+      "name": "秀堤",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.724583,
+      "lng": 121.1249435,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7287740936,
+      "name": "敏實科大站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7783162,
+      "lng": 121.0917688,
+      "routes": [
+        "5615",
+        "5615A",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136293,
+      "name": "文山三民路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7888151,
+      "lng": 121.0673288,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136314,
+      "name": "牛欄滄",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.737447,
+      "lng": 121.1291398,
+      "routes": [
+        "快捷6號B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.718Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136315,
+      "name": "茄苳伯公",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7416274,
+      "lng": 121.1345507,
+      "routes": [
+        "快捷6號B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136316,
+      "name": "石爺石娘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7451711,
+      "lng": 121.1384038,
+      "routes": [
+        "快捷6號B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.718Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136320,
+      "name": "文林閣",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7725293,
+      "lng": 121.0832714,
+      "routes": [
+        "5700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.718Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925510,
+      "name": "下田洋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7899302,
+      "lng": 121.0661264,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925512,
+      "name": "田洋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7886864,
+      "lng": 121.0680569,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925514,
+      "name": "縣農會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7872526,
+      "lng": 121.0695159,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925516,
+      "name": "集會所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7852289,
+      "lng": 121.0721388,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.707Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925518,
+      "name": "上山(綠獅社區)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7839914,
+      "lng": 121.0743775,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925520,
+      "name": "柵門口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7817584,
+      "lng": 121.0757913,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925522,
+      "name": "農倉前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7794484,
+      "lng": 121.0762511,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925534,
+      "name": "文山街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7751761,
+      "lng": 121.0804941,
+      "routes": [
+        "5614",
+        "5615",
+        "5615A",
+        "5633",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925536,
+      "name": "五股林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7700909,
+      "lng": 121.0854117,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925538,
+      "name": "新鳳",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7661958,
+      "lng": 121.0883298,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925540,
+      "name": "芎林國中前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7637509,
+      "lng": 121.0887096
+    },
+    {
+      "id": 7745925542,
+      "name": "燥坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7585966,
+      "lng": 121.0931339,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925544,
+      "name": "拱橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7565121,
+      "lng": 121.0944935,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925546,
+      "name": "碧溪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7548087,
+      "lng": 121.0955736,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925548,
+      "name": "下碧溪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7526593,
+      "lng": 121.097227,
+      "routes": [
+        "5614",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925550,
+      "name": "下店子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7512701,
+      "lng": 121.0978984,
+      "routes": [
+        "5614",
+        "5631",
+        "5633",
+        "5633A",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925552,
+      "name": "福昌宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7488306,
+      "lng": 121.0990904,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925558,
+      "name": "石潭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7472986,
+      "lng": 121.1011504,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925560,
+      "name": "永興口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7458172,
+      "lng": 121.1033777,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925562,
+      "name": "王爺宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7374844,
+      "lng": 121.1123582,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925564,
+      "name": "葉屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.735497,
+      "lng": 121.1144815,
+      "routes": [
+        "5614",
+        "5631",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925566,
+      "name": "秀湖",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7338824,
+      "lng": 121.1168409,
+      "routes": [
+        "5614",
+        "5631"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925568,
+      "name": "華興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7767589,
+      "lng": 121.0911227,
+      "routes": [
+        "5615",
+        "5615A",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925570,
+      "name": "芎林國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7730142,
+      "lng": 121.0833862,
+      "routes": [
+        "5615",
+        "5615A",
+        "5633A",
+        "芎林－高鐵線",
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7747900658,
+      "name": "柑園岡",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7916785,
+      "lng": 121.0834169,
+      "routes": [
+        "0551"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7747900660,
+      "name": "謝屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7897941,
+      "lng": 121.0828604,
+      "routes": [
+        "0551"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7747900662,
+      "name": "磚窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7854767,
+      "lng": 121.0799651,
+      "routes": [
+        "0551"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7747900664,
+      "name": "兆棋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7828637,
+      "lng": 121.0793402,
+      "routes": [
+        "0551"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.708Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7747900681,
+      "name": "油茶園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7816651,
+      "lng": 121.0974098
+    },
+    {
+      "id": 7747900683,
+      "name": "光復橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7831142,
+      "lng": 121.0994495
+    },
+    {
+      "id": 7748172985,
+      "name": "興隆",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7843232,
+      "lng": 121.100862
+    },
+    {
+      "id": 7748173001,
+      "name": "大興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7852382,
+      "lng": 121.1031671
+    },
+    {
+      "id": 7748173003,
+      "name": "水坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7852316,
+      "lng": 121.109443
+    },
+    {
+      "id": 10310271989,
+      "name": "五龍國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7362121,
+      "lng": 121.1239678,
+      "routes": [
+        "快捷6號B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10845753807,
+      "name": "福昌街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7564705,
+      "lng": 121.0945475,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10845753809,
+      "name": "石潭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7503609,
+      "lng": 121.097265,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.709Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10888966955,
+      "name": "恩霖堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7744886,
+      "lng": 121.0819055,
+      "routes": [
+        "5700"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11627034327,
+      "name": "竹北綠獅",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7818413,
+      "lng": 121.0687459,
+      "routes": [
+        "60A",
+        "61B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12787676986,
+      "name": "五龍天橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "芎林鄉",
+      "lat": 24.7349743,
+      "lng": 121.1195817,
+      "routes": [
+        "芎林鄉幸福小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.719Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

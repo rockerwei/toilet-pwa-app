@@ -1,0 +1,467 @@
+{
+  "city": "彰化縣",
+  "district": "福興鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 24,
+  "items": [
+    {
+      "id": 2090687176,
+      "name": "農會前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0491047,
+      "lng": 120.439986,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305458934,
+      "name": "半路店",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0472084,
+      "lng": 120.4671836,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305458936,
+      "name": "英發公司",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0464329,
+      "lng": 120.46314,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305485184,
+      "name": "下番婆",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0457459,
+      "lng": 120.4600819,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305485194,
+      "name": "三泰公司",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0461474,
+      "lng": 120.4526338,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305485196,
+      "name": "福興公所",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0477258,
+      "lng": 120.4454104,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934",
+        "9018",
+        "9018A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524607,
+      "name": "社尾橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0281635,
+      "lng": 120.4421462,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524612,
+      "name": "菜園腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0300522,
+      "lng": 120.4408102,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524614,
+      "name": "教會前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0317744,
+      "lng": 120.4385745,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524616,
+      "name": "下西勢",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0355359,
+      "lng": 120.4364858,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524622,
+      "name": "西勢",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0395042,
+      "lng": 120.4357649,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726524656,
+      "name": "西勢國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0443242,
+      "lng": 120.4370463,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753383602,
+      "name": "農場",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0145457,
+      "lng": 120.3892641,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753415753,
+      "name": "麥嶼厝橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0191268,
+      "lng": 120.3967564,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.263Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753432761,
+      "name": "麥嶼厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0199221,
+      "lng": 120.4012366,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753448661,
+      "name": "水門",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0212276,
+      "lng": 120.4049648,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753452607,
+      "name": "管嶼國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0279625,
+      "lng": 120.4121106,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753459630,
+      "name": "管嶼厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0291129,
+      "lng": 120.4131744,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753477822,
+      "name": "中泰",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0334515,
+      "lng": 120.4179226,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753483936,
+      "name": "福南",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0398414,
+      "lng": 120.4235391,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753495299,
+      "name": "福興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0474899,
+      "lng": 120.4292864,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753495310,
+      "name": "福北",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0429584,
+      "lng": 120.4263903,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4858248244,
+      "name": "下三汴頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0165239,
+      "lng": 120.4885335,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4858248246,
+      "name": "福興工業區",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "福興鄉",
+      "lat": 24.0120718,
+      "lng": 120.4865415,
+      "routes": [
+        "19路A",
+        "23路",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.948Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

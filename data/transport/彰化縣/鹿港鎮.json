@@ -1,0 +1,930 @@
+{
+  "city": "彰化縣",
+  "district": "鹿港鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 55,
+  "items": [
+    {
+      "id": 2074396338,
+      "name": "派出所前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.108185,
+      "lng": 120.4583516,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.967Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2079494103,
+      "name": "彰化客運鹿港站",
+      "type": "bus_station",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0606247,
+      "lng": 120.4365518,
+      "routes": [
+        "1652",
+        "1652B",
+        "9018",
+        "9018A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2083284377,
+      "name": "草港尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1071181,
+      "lng": 120.4565467,
+      "routes": [
+        "6902",
+        "6903",
+        "6903A",
+        "6904"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3304329765,
+      "name": "合作社",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0558611,
+      "lng": 120.4340147,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3304329766,
+      "name": "鹿港南區遊客中心",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0503804,
+      "lng": 120.4371118
+    },
+    {
+      "id": 3304329767,
+      "name": "彰化縣旅遊服務中心",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0587326,
+      "lng": 120.4347559
+    },
+    {
+      "id": 3304329768,
+      "name": "勞教學苑(統一渡假村)",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0636908,
+      "lng": 120.4357034,
+      "routes": [
+        "6936",
+        "6936A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305399428,
+      "name": "崎溝子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0491038,
+      "lng": 120.4795899,
+      "routes": [
+        "1652",
+        "1652B",
+        "6900",
+        "6933",
+        "6933A",
+        "6934",
+        "9018",
+        "9018A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305458932,
+      "name": "強宇公司",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0485557,
+      "lng": 120.4733454,
+      "routes": [
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.968Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305485203,
+      "name": "火車站前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.050406,
+      "lng": 120.437174
+    },
+    {
+      "id": 3305485205,
+      "name": "市場前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0535617,
+      "lng": 120.4353423,
+      "routes": [
+        "6路",
+        "6704",
+        "6704A",
+        "6705",
+        "6705A",
+        "6708",
+        "6708A",
+        "6900",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.969Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3305485207,
+      "name": "公所前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.056833,
+      "lng": 120.4351828
+    },
+    {
+      "id": 3305485209,
+      "name": "鹿基醫院",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0603748,
+      "lng": 120.4380096,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A",
+        "6708",
+        "6708A",
+        "6900",
+        "6901",
+        "6901A",
+        "6902",
+        "6902A",
+        "6933",
+        "6933A",
+        "6934"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3309736806,
+      "name": "臺灣玻璃館",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0683898,
+      "lng": 120.3952224
+    },
+    {
+      "id": 3990003783,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0774078,
+      "lng": 120.4007783
+    },
+    {
+      "id": 4365030793,
+      "name": "地藏王廟",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0481309,
+      "lng": 120.4370897,
+      "routes": [
+        "6路",
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114718,
+      "name": "學子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0708451,
+      "lng": 120.4572232,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114720,
+      "name": "廖厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.081989,
+      "lng": 120.4743746,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114726,
+      "name": "橋南",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0846278,
+      "lng": 120.4790258,
+      "routes": [
+        "9路A",
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114728,
+      "name": "港後橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0653183,
+      "lng": 120.4488809,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114730,
+      "name": "澎湖厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0732646,
+      "lng": 120.4608723,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365114732,
+      "name": "烏標庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0675347,
+      "lng": 120.4518829,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365115236,
+      "name": "農場前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0799271,
+      "lng": 120.4710379,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365115238,
+      "name": "頂厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0627896,
+      "lng": 120.4450547,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365115240,
+      "name": "頂番婆",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0859179,
+      "lng": 120.4813701,
+      "routes": [
+        "6901",
+        "6901A",
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365115243,
+      "name": "鹿港水廠",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0607201,
+      "lng": 120.4419574,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4365115245,
+      "name": "麻井溝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0769053,
+      "lng": 120.4661509,
+      "routes": [
+        "6901",
+        "6901A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4366809903,
+      "name": "工作站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0851543,
+      "lng": 120.4840144,
+      "routes": [
+        "6901",
+        "6901A",
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4366809907,
+      "name": "港墘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0824536,
+      "lng": 120.4880333,
+      "routes": [
+        "6901",
+        "6901A",
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4366809909,
+      "name": "溝墘",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0836737,
+      "lng": 120.4859908,
+      "routes": [
+        "6901",
+        "6901A",
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4626046073,
+      "name": "王爺厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0659987,
+      "lng": 120.4366081,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4626073548,
+      "name": "戲院前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0604729,
+      "lng": 120.432326,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.970Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726441958,
+      "name": "鹿港",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0594636,
+      "lng": 120.4336878
+    },
+    {
+      "id": 4726445867,
+      "name": "中學前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0512807,
+      "lng": 120.4366754,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A",
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753502031,
+      "name": "國小前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0508492,
+      "lng": 120.4321323,
+      "routes": [
+        "6708",
+        "6708A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753542839,
+      "name": "顏厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0713669,
+      "lng": 120.4396569,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753552625,
+      "name": "海墘厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0806432,
+      "lng": 120.4432427,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753552632,
+      "name": "柯厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0749882,
+      "lng": 120.4414946,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753555590,
+      "name": "竹圍子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0855425,
+      "lng": 120.4450279,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753555592,
+      "name": "海埔厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0830583,
+      "lng": 120.443949,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753562852,
+      "name": "新厝社區",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0919522,
+      "lng": 120.448088,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753562860,
+      "name": "浮景",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.089846,
+      "lng": 120.4479985,
+      "routes": [
+        "6902",
+        "6902A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753571632,
+      "name": "草中里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1026884,
+      "lng": 120.4538346,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.280Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4753571636,
+      "name": "洋子厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0990684,
+      "lng": 120.4505818,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.280Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754063018,
+      "name": "頂山寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1182356,
+      "lng": 120.4565182,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754063020,
+      "name": "烏瓦厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1144924,
+      "lng": 120.4558932,
+      "routes": [
+        "6902",
+        "6904"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764143340,
+      "name": "草港中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1053973,
+      "lng": 120.4633093,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764143356,
+      "name": "草港國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1070358,
+      "lng": 120.4609311,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780393542,
+      "name": "埔尾巷",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0894976,
+      "lng": 120.4788868,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780401990,
+      "name": "萬興宮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0914204,
+      "lng": 120.4768537,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780401992,
+      "name": "頭崙埔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0931711,
+      "lng": 120.4748726,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780402000,
+      "name": "椹橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0963738,
+      "lng": 120.4713964,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780402002,
+      "name": "鹿鳴國中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.0986986,
+      "lng": 120.469311,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6780402014,
+      "name": "頭庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.1017309,
+      "lng": 120.4664773,
+      "routes": [
+        "6903",
+        "6903A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.971Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12269100774,
+      "name": "鹿港站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "鹿港鎮",
+      "lat": 24.060632,
+      "lng": 120.4364982
+    }
+  ]
+}

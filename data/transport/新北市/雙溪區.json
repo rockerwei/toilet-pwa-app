@@ -1,0 +1,1481 @@
+{
+  "city": "新北市",
+  "district": "雙溪區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 77,
+  "items": [
+    {
+      "id": 289131166,
+      "name": "雙溪",
+      "type": "train",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0388277,
+      "lng": 121.8669739
+    },
+    {
+      "id": 289131366,
+      "name": "牡丹",
+      "type": "train",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0585151,
+      "lng": 121.8520609
+    },
+    {
+      "id": 3353306132,
+      "name": "內柑腳",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.017045,
+      "lng": 121.8067275,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.597Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3353306133,
+      "name": "柑腳",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0178275,
+      "lng": 121.8081084,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.597Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361352184,
+      "name": "外柑活動中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0178408,
+      "lng": 121.808147,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.597Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361352186,
+      "name": "分坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0183711,
+      "lng": 121.8100855,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.597Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373110,
+      "name": "平水",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0207578,
+      "lng": 121.8135565,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.597Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373122,
+      "name": "彎穹",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.02474,
+      "lng": 121.821319,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373153,
+      "name": "吊橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0270979,
+      "lng": 121.8263122,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373178,
+      "name": "上林",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0291198,
+      "lng": 121.8313761,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373757,
+      "name": "竹寮坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0349103,
+      "lng": 121.8419721,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373763,
+      "name": "林厝前",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0348248,
+      "lng": 121.8444963,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373773,
+      "name": "平林活動中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0352965,
+      "lng": 121.8497911,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373787,
+      "name": "白灰厝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0364947,
+      "lng": 121.8534171,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373789,
+      "name": "平林里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0374498,
+      "lng": 121.8568888,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373898,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0380113,
+      "lng": 121.8588807,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361373911,
+      "name": "雙溪火車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.038543,
+      "lng": 121.8661285,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F813澳底",
+        "F813雙溪火車站",
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心",
+        "F823分水崙",
+        "F823區南山社區",
+        "F823福隆",
+        "F825"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.598Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3998586859,
+      "name": "梅竹蹊路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0369314,
+      "lng": 121.8606039,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3998586958,
+      "name": "綜合市場",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0353261,
+      "lng": 121.8644279,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3998586959,
+      "name": "雙溪中學",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0359357,
+      "lng": 121.8617999,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3998586960,
+      "name": "雙溪高中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0348584,
+      "lng": 121.8631958,
+      "routes": [
+        "F811貢寮環保公園",
+        "F815灣潭",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆",
+        "F825"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4140111335,
+      "name": "番仔坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0313726,
+      "lng": 121.8341375,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4140111336,
+      "name": "上林社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0314814,
+      "lng": 121.834051,
+      "routes": [
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4201277366,
+      "name": "灣潭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9288308,
+      "lng": 121.8114259,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4400785155,
+      "name": "十三層老樹",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0806519,
+      "lng": 121.854631,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5326354036,
+      "name": "牡丹車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0588453,
+      "lng": 121.8519857,
+      "routes": [
+        "F812十三層老樹",
+        "F813澳底",
+        "F813雙溪火車站"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6688060020,
+      "name": "坪溪頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.929558,
+      "lng": 121.8306557,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400508,
+      "name": "嗎哪山莊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0172778,
+      "lng": 121.8036245,
+      "routes": [
+        "F812十三層老樹",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400541,
+      "name": "赤皮崙",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0190419,
+      "lng": 121.7941958,
+      "routes": [
+        "F816三十一號橋",
+        "F816澳底醫療救護中心",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400626,
+      "name": "辭職嶺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9996432,
+      "lng": 121.8459,
+      "routes": [
+        "F815灣潭"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.635Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400627,
+      "name": "虎豹潭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9726977,
+      "lng": 121.8276147,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400917,
+      "name": "泰和樓",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.031031,
+      "lng": 121.85812,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400918,
+      "name": "分駐所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.035877,
+      "lng": 121.8649868,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400921,
+      "name": "泰平里3鄰",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9813075,
+      "lng": 121.8402141,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400923,
+      "name": "芉蓁坑路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9824257,
+      "lng": 121.845597,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400926,
+      "name": "辭職嶺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.998665,
+      "lng": 121.8458653,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400927,
+      "name": "聖寶宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.940162,
+      "lng": 121.8328212,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400928,
+      "name": "頂雙溪道班房",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0239132,
+      "lng": 121.8729789,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400929,
+      "name": "保成坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9660914,
+      "lng": 121.8196335,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400931,
+      "name": "公館大橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0206039,
+      "lng": 121.8807975,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400932,
+      "name": "丁子蘭坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0206694,
+      "lng": 121.8763826,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400933,
+      "name": "深庫佛寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0037874,
+      "lng": 121.8285204
+    },
+    {
+      "id": 8432400935,
+      "name": "長源(威惠廟)",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.014823,
+      "lng": 121.8047802,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400936,
+      "name": "盤山坑路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.000752,
+      "lng": 121.7797078,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400938,
+      "name": "大瀨",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0240896,
+      "lng": 121.8272698,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400940,
+      "name": "新寮子路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.030564,
+      "lng": 121.8376351,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400942,
+      "name": "茶花莊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.031408,
+      "lng": 121.8462142,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400944,
+      "name": "內挖路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0369367,
+      "lng": 121.8632006,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.599Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400946,
+      "name": "內盤山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.9958824,
+      "lng": 121.7732423,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "F812十三層老樹"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401055,
+      "name": "仙公廟",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.026635,
+      "lng": 121.883321,
+      "routes": [
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401083,
+      "name": "嶺頭觀日",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0561239,
+      "lng": 121.8887457,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F813澳底",
+        "F815嶺頭觀目",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401084,
+      "name": "三港慈安宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.053334,
+      "lng": 121.879446,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F813澳底",
+        "F815嶺頭觀目",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401085,
+      "name": "水尾",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.047969,
+      "lng": 121.8691575,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F813澳底",
+        "F815嶺頭觀目",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401086,
+      "name": "三港8鄰",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0539145,
+      "lng": 121.8838255,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F813澳底",
+        "F815嶺頭觀目",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401556,
+      "name": "明天宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.032273,
+      "lng": 121.866316,
+      "routes": [
+        "F811貢寮環保公園"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401557,
+      "name": "後寮子路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.978867,
+      "lng": 121.832013,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401559,
+      "name": "壽山宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 24.967867,
+      "lng": 121.8206167,
+      "routes": [
+        "F815嶺頭觀目",
+        "F815雙溪火車站",
+        "F815灣潭"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401560,
+      "name": "魚行社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.032033,
+      "lng": 121.87055,
+      "routes": [
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401561,
+      "name": "長源1鄰",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.014367,
+      "lng": 121.8011963,
+      "routes": [
+        "F812十三層老樹"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401562,
+      "name": "下坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.008652,
+      "lng": 121.7966853,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401564,
+      "name": "上坑口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.01198,
+      "lng": 121.8007475,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401566,
+      "name": "牡丹里29鄰",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.05674,
+      "lng": 121.864678,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401567,
+      "name": "燦光分校",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.054418,
+      "lng": 121.8654362,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401569,
+      "name": "慈安宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.053287,
+      "lng": 121.8795821,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福",
+        "F813澳底",
+        "F815嶺頭觀目",
+        "F816三十一號橋",
+        "F816澳底醫療救護中心"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401594,
+      "name": "三貂石壁坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.067892,
+      "lng": 121.836109,
+      "routes": [
+        "F813澳底",
+        "F813雙溪火車站"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401596,
+      "name": "頂坪路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.044,
+      "lng": 121.864598,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401598,
+      "name": "石頭厝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0469804,
+      "lng": 121.8621036,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401599,
+      "name": "石筍路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0499784,
+      "lng": 121.8605003,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401601,
+      "name": "聖南寺口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.052712,
+      "lng": 121.8577358,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401603,
+      "name": "12鄰廣場",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0561112,
+      "lng": 121.8529338,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401605,
+      "name": "慶雲宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.056415,
+      "lng": 121.8507981,
+      "routes": [
+        "F812十三層老樹",
+        "F812盤山坑路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401607,
+      "name": "牡丹橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.061813,
+      "lng": 121.8522089,
+      "routes": [
+        "F812十三層老樹"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401608,
+      "name": "定福",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0637377,
+      "lng": 121.8506543,
+      "routes": [
+        "F812盤山坑路"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11011690755,
+      "name": "長源",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0148414,
+      "lng": 121.8046615,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11393858881,
+      "name": "八股",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0218386,
+      "lng": 121.8834761,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13701007034,
+      "name": "平水",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0208846,
+      "lng": 121.8123347,
+      "routes": [
+        "780內盤山",
+        "780雙溪火車站",
+        "781長源",
+        "781雙溪火車站",
+        "782長源",
+        "782雙溪火車站",
+        "F812十三層老樹",
+        "F812盤山坑路",
+        "F823分水崙",
+        "F823區東興宮",
+        "F823區南山社區",
+        "F823福隆"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13708594014,
+      "name": "共和橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "雙溪區",
+      "lat": 25.0316932,
+      "lng": 121.867796,
+      "routes": [
+        "F811貢寮環保公園",
+        "F811澳底臻信福"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.600Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

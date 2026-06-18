@@ -1,0 +1,66 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000405",
+      "name": "「借問站」全家便利商店-名間金交流店",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.84716,
+      "lng": 120.697327,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000405",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣名間鄉彰南路243號"
+    },
+    {
+      "id": "coa:170",
+      "name": "森十八休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.854321,
+      "lng": 120.634123,
+      "source": "coa",
+      "sourceId": "170",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣名間鄉田仔村田仔巷16-8號",
+      "phone": "04-9227-3797"
+    },
+    {
+      "id": "coa:393",
+      "name": "咱兜休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.834444,
+      "lng": 120.649278,
+      "source": "coa",
+      "sourceId": "393",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣名間鄉三崙村19鄰弓鞋巷23-16號",
+      "phone": "0932-046-334"
+    },
+    {
+      "id": "coa:447",
+      "name": "水鏡農莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.876793,
+      "lng": 120.686523,
+      "source": "coa",
+      "sourceId": "447",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "南投縣名間鄉新街村客庄巷17-6號",
+      "phone": "0911-609-911"
+    }
+  ]
+}

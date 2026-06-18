@@ -1,0 +1,65 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "tdx:C1_382000000A_403102",
+      "name": "安美得傷口照護產業文化館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 25.065559,
+      "lng": 121.448441,
+      "source": "tdx",
+      "sourceId": "C1_382000000A_403102",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新北市248五股區五權路七巷6號8樓"
+    },
+    {
+      "id": "coa:505",
+      "name": "成台休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.076543,
+      "lng": 121.412341,
+      "source": "coa",
+      "sourceId": "505",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市五股區福德里19鄰工九路33之100號",
+      "phone": "無"
+    },
+    {
+      "id": "coa:563",
+      "name": "上竹林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.091234,
+      "lng": 121.401234,
+      "source": "coa",
+      "sourceId": "563",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市五股區中直路崩山巷5之6號"
+    },
+    {
+      "id": "coa:139",
+      "name": "準休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.076241,
+      "lng": 121.438511,
+      "source": "coa",
+      "sourceId": "139",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "新北市五股區新五路二段70號",
+      "phone": "02-2292-2466"
+    }
+  ]
+}

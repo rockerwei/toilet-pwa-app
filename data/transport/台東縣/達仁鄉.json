@@ -1,0 +1,104 @@
+{
+  "city": "台東縣",
+  "district": "達仁鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 8,
+  "items": [
+    {
+      "id": 3174111046,
+      "name": "萬應公祠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2952937,
+      "lng": 120.8881857,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.287Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111047,
+      "name": "安朔",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2947446,
+      "lng": 120.8843999,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.287Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111048,
+      "name": "安朔國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.294082,
+      "lng": 120.8689596
+    },
+    {
+      "id": 3256813361,
+      "name": "森永",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2834551,
+      "lng": 120.8665414
+    },
+    {
+      "id": 3901306243,
+      "name": "森永",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2780064,
+      "lng": 120.8644543
+    },
+    {
+      "id": 3901306244,
+      "name": "歸田",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.272992,
+      "lng": 120.8617879
+    },
+    {
+      "id": 3901306245,
+      "name": "陶然莊",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2616282,
+      "lng": 120.848631
+    },
+    {
+      "id": 3901306246,
+      "name": "壽卡",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "達仁鄉",
+      "lat": 22.2469695,
+      "lng": 120.8355362
+    }
+  ]
+}

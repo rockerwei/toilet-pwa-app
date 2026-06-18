@@ -1,0 +1,3443 @@
+{
+  "city": "桃園市",
+  "district": "大園區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 206,
+  "items": [
+    {
+      "id": 1256740763,
+      "name": "領航",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0241007,
+      "lng": 121.2210937,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "老街溪站 - 台北車站",
+        "老街溪站 - 機場第一航廈站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.795Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 1257929926,
+      "name": "橫山",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0364919,
+      "lng": 121.2157962,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "老街溪站 - 台北車站",
+        "老街溪站 - 機場第一航廈站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.795Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 1259801820,
+      "name": "桃園客運大園新站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0571676,
+      "lng": 121.2046494
+    },
+    {
+      "id": 2137539865,
+      "name": "桃園客運大園站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0628448,
+      "lng": 121.2013543
+    },
+    {
+      "id": 2426379674,
+      "name": "桃園機場第二航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0779311,
+      "lng": 121.2326511,
+      "routes": [
+        "706",
+        "706A",
+        "706B",
+        "1250",
+        "1623",
+        "1623A",
+        "1627",
+        "1661",
+        "1661A",
+        "1819",
+        "1819B",
+        "1840",
+        "1841",
+        "1842",
+        "1843",
+        "1860",
+        "1960",
+        "1961",
+        "1961A",
+        "1962",
+        "1968",
+        "5059",
+        "5089"
+      ],
+      "routeCount": 23,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068967,
+      "name": "下水尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0697464,
+      "lng": 121.2612172,
+      "routes": [
+        "238",
+        "1819B",
+        "1841",
+        "1842",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5023",
+        "5059",
+        "5250",
+        "5250A",
+        "GR"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068975,
+      "name": "崁上",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0842619,
+      "lng": 121.2557634,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5059",
+        "5250",
+        "5250A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068978,
+      "name": "崁下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0790695,
+      "lng": 121.2588057,
+      "routes": [
+        "238",
+        "703",
+        "1819B",
+        "1841",
+        "1842",
+        "1961A",
+        "5059",
+        "5250",
+        "5250A",
+        "GR"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068979,
+      "name": "崁中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0824132,
+      "lng": 121.2571414,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5059"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068980,
+      "name": "菓林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0747487,
+      "lng": 121.2603227,
+      "routes": [
+        "238",
+        "703",
+        "1819B",
+        "1841",
+        "1842",
+        "1961A",
+        "5059",
+        "5250",
+        "5250A",
+        "GR"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068982,
+      "name": "樹仔坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0872661,
+      "lng": 121.254221,
+      "routes": [
+        "238",
+        "703",
+        "1819B",
+        "1841",
+        "1842",
+        "1961A",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5059",
+        "5250",
+        "5250A"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068985,
+      "name": "桃園機場貨運站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0877853,
+      "lng": 121.2443708,
+      "routes": [
+        "1819B",
+        "1841",
+        "1842",
+        "1961A",
+        "5059"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2948068986,
+      "name": "桃園機場航郵中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0866351,
+      "lng": 121.2420581,
+      "routes": [
+        "1819B",
+        "1841",
+        "1842",
+        "5059"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849668,
+      "name": "三和社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.073844,
+      "lng": 121.2596765,
+      "routes": [
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5023"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849673,
+      "name": "下店子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.089577,
+      "lng": 121.2527327,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849674,
+      "name": "下拔子林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0803466,
+      "lng": 121.2559883
+    },
+    {
+      "id": 2949849676,
+      "name": "同心家園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0759456,
+      "lng": 121.2581136,
+      "routes": [
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5023"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849678,
+      "name": "工程處",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1021638,
+      "lng": 121.2483562,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849681,
+      "name": "復興空廚",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.095164,
+      "lng": 121.2499748,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849682,
+      "name": "拔子林",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0779378,
+      "lng": 121.2575733
+    },
+    {
+      "id": 2949849683,
+      "name": "菓林國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0780517,
+      "lng": 121.257268,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849686,
+      "name": "田寮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1045429,
+      "lng": 121.2470798,
+      "routes": [
+        "238",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849687,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1058701,
+      "lng": 121.2435556,
+      "routes": [
+        "238",
+        "5015",
+        "5016",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849688,
+      "name": "竹圍活動中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1085736,
+      "lng": 121.2417526,
+      "routes": [
+        "5015",
+        "5016",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2949849692,
+      "name": "過田",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1060511,
+      "lng": 121.2455558,
+      "routes": [
+        "238",
+        "703",
+        "5015",
+        "5019",
+        "5022",
+        "5022A",
+        "5022B",
+        "5250",
+        "5250A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2951067844,
+      "name": "大園車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0634241,
+      "lng": 121.199291,
+      "routes": [
+        "706A",
+        "5015",
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5082",
+        "5086",
+        "5086A",
+        "5086C",
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2952054328,
+      "name": "埔心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0538089,
+      "lng": 121.2242781,
+      "routes": [
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2952054331,
+      "name": "建國十一村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0553468,
+      "lng": 121.2268109,
+      "routes": [
+        "5023",
+        "5078"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3081494773,
+      "name": "中油街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0313035,
+      "lng": 121.2329308,
+      "routes": [
+        "206",
+        "206A",
+        "206B",
+        "206C",
+        "206D",
+        "206E",
+        "302"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.798Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3081494788,
+      "name": "大園國際高中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0211313,
+      "lng": 121.2199086,
+      "routes": [
+        "206B",
+        "206C",
+        "208",
+        "208A",
+        "302",
+        "707",
+        "707B",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3081494796,
+      "name": "寶聰牧場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0277206,
+      "lng": 121.2299215,
+      "routes": [
+        "206",
+        "206A",
+        "206B",
+        "206C",
+        "206D",
+        "206E",
+        "302",
+        "707",
+        "707B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.808Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3081494811,
+      "name": "民生社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0199691,
+      "lng": 121.2223092
+    },
+    {
+      "id": 3081494823,
+      "name": "鐘厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0239372,
+      "lng": 121.2261579
+    },
+    {
+      "id": 3199631165,
+      "name": "下海湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1131352,
+      "lng": 121.2522102,
+      "routes": [
+        "5021",
+        "L309",
+        "L309A",
+        "L309B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200002386,
+      "name": "國際社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1008204,
+      "lng": 121.2396487,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200002388,
+      "name": "業峰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1023301,
+      "lng": 121.2408281,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3200002390,
+      "name": "農會辦公室",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.103569,
+      "lng": 121.2420292,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3205101279,
+      "name": "坡堵",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.090304,
+      "lng": 121.2292483,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3205101281,
+      "name": "海方厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0918941,
+      "lng": 121.2312922,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3205101283,
+      "name": "瓦窯",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0949234,
+      "lng": 121.2344497,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3205101285,
+      "name": "西海洋社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0984599,
+      "lng": 121.2375722,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3205101287,
+      "name": "電通館",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0999591,
+      "lng": 121.2388522,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617363,
+      "name": "下坡堵",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0877329,
+      "lng": 121.2260839,
+      "routes": [
+        "238",
+        "5015"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617365,
+      "name": "保和中藥",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0643191,
+      "lng": 121.1971362,
+      "routes": [
+        "238"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617367,
+      "name": "北門口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.066598,
+      "lng": 121.1982851,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617369,
+      "name": "呂厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0738232,
+      "lng": 121.2087966,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617371,
+      "name": "坡腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0849308,
+      "lng": 121.2219832,
+      "routes": [
+        "238",
+        "5015"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617373,
+      "name": "埔頂仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0827519,
+      "lng": 121.2187899,
+      "routes": [
+        "238",
+        "5015"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617375,
+      "name": "航空城聯合服務中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0710252,
+      "lng": 121.2051284,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617377,
+      "name": "大埔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0750193,
+      "lng": 121.2109766,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617379,
+      "name": "工作站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0674006,
+      "lng": 121.1994024
+    },
+    {
+      "id": 3208617381,
+      "name": "後厝國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0808826,
+      "lng": 121.2159581,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617383,
+      "name": "後厝里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0768003,
+      "lng": 121.2121601,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617385,
+      "name": "後厝社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.078621,
+      "lng": 121.2134886,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617387,
+      "name": "明門公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.086469,
+      "lng": 121.224223,
+      "routes": [
+        "238",
+        "5015"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.809Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3208617389,
+      "name": "湳仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0687961,
+      "lng": 121.2015049,
+      "routes": [
+        "5015"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209176752,
+      "name": "三塊石",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0742087,
+      "lng": 121.2508968,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209176754,
+      "name": "三石里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0761403,
+      "lng": 121.2531998,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209176756,
+      "name": "五股仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0722621,
+      "lng": 121.2485917,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209176759,
+      "name": "基地醫院",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0572462,
+      "lng": 121.2296729,
+      "routes": [
+        "5023",
+        "5078"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178561,
+      "name": "大園農會",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0626258,
+      "lng": 121.2013795,
+      "routes": [
+        "706A",
+        "1842",
+        "1961",
+        "1961A",
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5086",
+        "5086A",
+        "5086C",
+        "5089"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178563,
+      "name": "大牛欄",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0608412,
+      "lng": 121.2346195,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.799Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178565,
+      "name": "快樂新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0551715,
+      "lng": 121.2210398,
+      "routes": [
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178568,
+      "name": "里界",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0638117,
+      "lng": 121.2383362,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178570,
+      "name": "林厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0697312,
+      "lng": 121.2456113,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178572,
+      "name": "楊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0672869,
+      "lng": 121.2427031,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178574,
+      "name": "橋頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0585296,
+      "lng": 121.2314734,
+      "routes": [
+        "5023",
+        "5078"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178576,
+      "name": "橫山橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0600269,
+      "lng": 121.2085238,
+      "routes": [
+        "1842",
+        "1961",
+        "1961A",
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5086",
+        "5086A",
+        "5086C",
+        "5089"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178578,
+      "name": "橫峰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0605453,
+      "lng": 121.2068553,
+      "routes": [
+        "1842",
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5086",
+        "5086A",
+        "5086C",
+        "5089"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.810Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178579,
+      "name": "橫峰",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0609746,
+      "lng": 121.2059064,
+      "routes": [
+        "1842",
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5086",
+        "5086A",
+        "5086C",
+        "5089"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178580,
+      "name": "海豐",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0564245,
+      "lng": 121.2171221,
+      "routes": [
+        "5023",
+        "5040",
+        "5040A",
+        "5040B",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178581,
+      "name": "王厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0650795,
+      "lng": 121.2399121,
+      "routes": [
+        "5023"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209178584,
+      "name": "陳康國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0597171,
+      "lng": 121.2311375,
+      "routes": [
+        "5078"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.800Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209277623,
+      "name": "大園舊站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0639867,
+      "lng": 121.1967661,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5082"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.800Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209277625,
+      "name": "敏盛醫院",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0618277,
+      "lng": 121.1952163
+    },
+    {
+      "id": 3209285347,
+      "name": "黃金城社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0592671,
+      "lng": 121.1960721,
+      "routes": [
+        "5077",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209285349,
+      "name": "淨蓮寺",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0570916,
+      "lng": 121.1963715,
+      "routes": [
+        "5077",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209285351,
+      "name": "崙後",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0534955,
+      "lng": 121.1930256,
+      "routes": [
+        "5077",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209285353,
+      "name": "崙後坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0510169,
+      "lng": 121.1909552,
+      "routes": [
+        "238",
+        "5077",
+        "5082"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209285355,
+      "name": "崙頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0480904,
+      "lng": 121.1884503,
+      "routes": [
+        "238",
+        "5077",
+        "5082"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209285357,
+      "name": "溪海國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0466346,
+      "lng": 121.1865924,
+      "routes": [
+        "238",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209346528,
+      "name": "中厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0097817,
+      "lng": 121.2138743,
+      "routes": [
+        "170",
+        "172",
+        "172A",
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3237520345,
+      "name": "岡崎",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0105485,
+      "lng": 121.2277888,
+      "routes": [
+        "172A",
+        "208",
+        "208A",
+        "5017",
+        "5078",
+        "5118",
+        "L209"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.811Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3237520347,
+      "name": "寶城",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0076221,
+      "lng": 121.2280363
+    },
+    {
+      "id": 3494925810,
+      "name": "桃園機場第二航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0767207,
+      "lng": 121.2331253
+    },
+    {
+      "id": 3495046900,
+      "name": "桃園機場第一航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.080364,
+      "lng": 121.2371046,
+      "routes": [
+        "706",
+        "706A",
+        "706B",
+        "1250",
+        "1623",
+        "1627",
+        "1661",
+        "1661A",
+        "1819",
+        "1819B",
+        "1840",
+        "1841",
+        "1842",
+        "1843",
+        "1860",
+        "1960",
+        "1961",
+        "1961A",
+        "1962",
+        "1968",
+        "5059",
+        "5089"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.812Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3495048207,
+      "name": "桃園機場第一航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.081086,
+      "lng": 121.236396,
+      "routes": [
+        "706",
+        "706A",
+        "706B",
+        "1250",
+        "1623",
+        "1627",
+        "1661",
+        "1661A",
+        "1819",
+        "1819B",
+        "1840",
+        "1841",
+        "1842",
+        "1843",
+        "1860",
+        "1960",
+        "1961",
+        "1961A",
+        "1962",
+        "1968",
+        "5059",
+        "5089"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.812Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3495049297,
+      "name": "桃園機場第一航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0818345,
+      "lng": 121.2379679
+    },
+    {
+      "id": 3984004164,
+      "name": "機場諾富特旅館",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0690872,
+      "lng": 121.2208939
+    },
+    {
+      "id": 4305604089,
+      "name": "第二航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0778706,
+      "lng": 121.2313249
+    },
+    {
+      "id": 4305604189,
+      "name": "第一航廈",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0809184,
+      "lng": 121.238634
+    },
+    {
+      "id": 4653351589,
+      "name": "大園",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0558139,
+      "lng": 121.2106496,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "老街溪站 - 台北車站",
+        "老街溪站 - 機場第一航廈站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.801Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4653352235,
+      "name": "機場旅館",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0691793,
+      "lng": 121.2206257,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "老街溪站 - 台北車站",
+        "老街溪站 - 機場第一航廈站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.801Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4653352237,
+      "name": "機場第二航廈",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0772273,
+      "lng": 121.2322564,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "老街溪站 - 台北車站",
+        "老街溪站 - 機場第一航廈站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4653352238,
+      "name": "機場第一航廈",
+      "type": "airport_metro",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.080498,
+      "lng": 121.2383976,
+      "lines": [
+        "台北車站 - 老街溪站",
+        "台北車站 - 機場第二航廈站",
+        "老街溪站 - 台北車站"
+      ],
+      "lineCount": 3,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5747705774,
+      "name": "竹圍站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.110204,
+      "lng": 121.2418205,
+      "routes": [
+        "5015",
+        "5016",
+        "5022",
+        "5022A",
+        "5022B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6215492947,
+      "name": "捷運大園站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0563526,
+      "lng": 121.2096422
+    },
+    {
+      "id": 6255562476,
+      "name": "機場旅館",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0663203,
+      "lng": 121.2185658,
+      "routes": [
+        "1623",
+        "1623A",
+        "1627"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448741927,
+      "name": "浮圳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0549773,
+      "lng": 121.1584778,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448749734,
+      "name": "桃禧航空城酒店",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0619373,
+      "lng": 121.1756627,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448749737,
+      "name": "南港",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0613202,
+      "lng": 121.1734928,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448749740,
+      "name": "崙頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.058023,
+      "lng": 121.1663501,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448749742,
+      "name": "大同公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0575577,
+      "lng": 121.1646268,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448749752,
+      "name": "大同社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0561582,
+      "lng": 121.161215,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448819028,
+      "name": "冾溪橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0656644,
+      "lng": 121.1838569,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448819029,
+      "name": "冾溪橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.065074,
+      "lng": 121.1830603,
+      "routes": [
+        "5040",
+        "5040A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448819030,
+      "name": "林厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0646597,
+      "lng": 121.1821443
+    },
+    {
+      "id": 7448819031,
+      "name": "新長發",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0642516,
+      "lng": 121.1810634
+    },
+    {
+      "id": 7448819033,
+      "name": "新長發",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0633356,
+      "lng": 121.1783852,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448841535,
+      "name": "大園區公所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0634887,
+      "lng": 121.1956117,
+      "routes": [
+        "238",
+        "5040",
+        "5040A",
+        "5040B",
+        "5077",
+        "5082"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448841536,
+      "name": "葉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0651821,
+      "lng": 121.1923259,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448841537,
+      "name": "電信局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0638385,
+      "lng": 121.1933425,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448841554,
+      "name": "上田心仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0654469,
+      "lng": 121.188827,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448841564,
+      "name": "田心仔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0656486,
+      "lng": 121.1862548,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448989459,
+      "name": "埔心國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0494578,
+      "lng": 121.2240189,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7448989847,
+      "name": "大埔心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0447303,
+      "lng": 121.2236461
+    },
+    {
+      "id": 7449033161,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0408653,
+      "lng": 121.225993,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7449113288,
+      "name": "奈德公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0373489,
+      "lng": 121.2325926,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5078"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7449113289,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0390233,
+      "lng": 121.2288845,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7940560904,
+      "name": "國際路三段",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0954927,
+      "lng": 121.23375
+    },
+    {
+      "id": 7940565802,
+      "name": "竹圍(福元宮)",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1078005,
+      "lng": 121.2419126,
+      "routes": [
+        "703"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.803Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7940607889,
+      "name": "7-11國航門市",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0704743,
+      "lng": 121.1964133,
+      "routes": [
+        "238"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7985081923,
+      "name": "福德宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0192331,
+      "lng": 121.2158556,
+      "routes": [
+        "208",
+        "208A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7985081927,
+      "name": "青昇路一段132巷口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0140256,
+      "lng": 121.2262143,
+      "routes": [
+        "172A",
+        "208",
+        "208A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7985081944,
+      "name": "上岡崎",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.008638,
+      "lng": 121.2275313,
+      "routes": [
+        "172A",
+        "208",
+        "208A",
+        "5017",
+        "5078",
+        "5118"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7987261011,
+      "name": "李厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0285125,
+      "lng": 121.2127845,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7987261015,
+      "name": "頂橫山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0259193,
+      "lng": 121.213282,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7987261018,
+      "name": "慶皇公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0238887,
+      "lng": 121.2136763,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7987261021,
+      "name": "三陽公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0205224,
+      "lng": 121.213865,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988827106,
+      "name": "橫山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0351046,
+      "lng": 121.2124881
+    },
+    {
+      "id": 7988827118,
+      "name": "青埔花墅",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0318603,
+      "lng": 121.2120321,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988874672,
+      "name": "統帥社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0500155,
+      "lng": 121.2095766,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.803Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988874678,
+      "name": "下大坡腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0455735,
+      "lng": 121.2117599,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988874680,
+      "name": "大坡腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0421946,
+      "lng": 121.2114876,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988949668,
+      "name": "頂南門",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0602645,
+      "lng": 121.1988866,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988949673,
+      "name": "尖山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0591638,
+      "lng": 121.2022018
+    },
+    {
+      "id": 7988949682,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0571714,
+      "lng": 121.2042806
+    },
+    {
+      "id": 7988952990,
+      "name": "湳子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0543115,
+      "lng": 121.2070714,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.815Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7988952994,
+      "name": "上湳子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0513349,
+      "lng": 121.2096557,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8400703586,
+      "name": "坑果幸福路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0811147,
+      "lng": 121.2612085,
+      "routes": [
+        "5015",
+        "5019",
+        "5022A",
+        "GR"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8400703598,
+      "name": "崁下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0781282,
+      "lng": 121.2596677,
+      "routes": [
+        "238",
+        "703",
+        "1819B",
+        "1841",
+        "1842",
+        "1961A",
+        "5059",
+        "5250",
+        "5250A",
+        "GR"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8449987405,
+      "name": "創價學會",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0193534,
+      "lng": 121.2222011,
+      "routes": [
+        "208",
+        "208A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8449987407,
+      "name": "大成大智路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0230757,
+      "lng": 121.2177399,
+      "routes": [
+        "208",
+        "208A",
+        "302",
+        "707",
+        "707B",
+        "5089"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8449987409,
+      "name": "大安街口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0213829,
+      "lng": 121.2152374,
+      "routes": [
+        "208",
+        "208A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.804Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9026624799,
+      "name": "圳頭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0890389,
+      "lng": 121.1995714
+    },
+    {
+      "id": 9026642764,
+      "name": "呂厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0913897,
+      "lng": 121.2025673
+    },
+    {
+      "id": 9026642766,
+      "name": "楊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0905195,
+      "lng": 121.2013566
+    },
+    {
+      "id": 9224014543,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0336073,
+      "lng": 121.1777344,
+      "routes": [
+        "238",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9224014545,
+      "name": "紅土厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.030655,
+      "lng": 121.1790061,
+      "routes": [
+        "238",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9224014547,
+      "name": "崎頂路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0289651,
+      "lng": 121.1818131,
+      "routes": [
+        "5082"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9224180470,
+      "name": "雙溪口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0389852,
+      "lng": 121.1824949,
+      "routes": [
+        "238",
+        "5082"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251775,
+      "name": "草席厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0183757,
+      "lng": 121.1938791,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251776,
+      "name": "草厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0234725,
+      "lng": 121.1939628,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251777,
+      "name": "柴梳崙",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0265667,
+      "lng": 121.195119,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251778,
+      "name": "埔頂坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0294121,
+      "lng": 121.1957987,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251779,
+      "name": "草仔坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0336235,
+      "lng": 121.1955521,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251780,
+      "name": "李厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0359999,
+      "lng": 121.1950825,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251781,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0379122,
+      "lng": 121.1944185,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251782,
+      "name": "莊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0421346,
+      "lng": 121.1938917,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251783,
+      "name": "溪海",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0465549,
+      "lng": 121.1925768,
+      "routes": [
+        "5077"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10182251784,
+      "name": "崙頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0484483,
+      "lng": 121.1899451,
+      "routes": [
+        "238",
+        "5077",
+        "5082"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11876550565,
+      "name": "捷運領航站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0230244,
+      "lng": 121.2215204,
+      "routes": [
+        "206C",
+        "302",
+        "707",
+        "707B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.804Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11883928143,
+      "name": "三民坑菓路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0796851,
+      "lng": 121.2587281,
+      "routes": [
+        "5015",
+        "5019",
+        "5022A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11883956599,
+      "name": "竹圍福海宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1048881,
+      "lng": 121.2431081,
+      "routes": [
+        "238",
+        "5015",
+        "5019"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246019,
+      "name": "富榮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0134009,
+      "lng": 121.2278142,
+      "routes": [
+        "5017",
+        "5078"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.804Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246021,
+      "name": "五福",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0160521,
+      "lng": 121.2285728,
+      "routes": [
+        "5078",
+        "5118"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246023,
+      "name": "五塊厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0212135,
+      "lng": 121.2309139,
+      "routes": [
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246025,
+      "name": "五權國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.023363,
+      "lng": 121.2308272,
+      "routes": [
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246027,
+      "name": "五權",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0258609,
+      "lng": 121.2305641,
+      "routes": [
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.816Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11899246029,
+      "name": "五權牧場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0268282,
+      "lng": 121.2304673
+    },
+    {
+      "id": 11899246031,
+      "name": "埔心街郵局",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0515706,
+      "lng": 121.2242889,
+      "routes": [
+        "5040",
+        "5040A",
+        "5040B",
+        "5078",
+        "5086",
+        "5086A",
+        "5086C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11909867082,
+      "name": "遠雄自貿港",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0989764,
+      "lng": 121.2551673,
+      "routes": [
+        "703",
+        "5022A",
+        "5250",
+        "5250A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11909867084,
+      "name": "遠雄加值園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0932551,
+      "lng": 121.2561984,
+      "routes": [
+        "5250",
+        "5250A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11909867085,
+      "name": "遠雄加值園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0923538,
+      "lng": 121.255252,
+      "routes": [
+        "703",
+        "5022A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11909905550,
+      "name": "竹圍總站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1061178,
+      "lng": 121.2399892,
+      "routes": [
+        "703"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11912054221,
+      "name": "沙崙廟",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0933678,
+      "lng": 121.223648,
+      "routes": [
+        "5019"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11912054223,
+      "name": "沙崙",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0938598,
+      "lng": 121.2220644,
+      "routes": [
+        "5019"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11951414763,
+      "name": "第一航廈",
+      "type": "lrt",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0798462,
+      "lng": 121.2380095
+    },
+    {
+      "id": 11951446996,
+      "name": "第二航廈",
+      "type": "lrt",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0764579,
+      "lng": 121.233632
+    },
+    {
+      "id": 12066200318,
+      "name": "捷運領航站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0240414,
+      "lng": 121.2208302,
+      "routes": [
+        "206B",
+        "206C",
+        "302",
+        "707",
+        "707B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12192280330,
+      "name": "南門",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.063398,
+      "lng": 121.1973199,
+      "routes": [
+        "706A",
+        "5087",
+        "5087A",
+        "5089"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12815218358,
+      "name": "長榮空運倉儲",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0909107,
+      "lng": 121.2480394,
+      "routes": [
+        "1819B",
+        "1841",
+        "1842",
+        "5059"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12815218359,
+      "name": "桃園機場加油站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0897094,
+      "lng": 121.2482873,
+      "routes": [
+        "1819B",
+        "1841",
+        "1842",
+        "5059"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12871349305,
+      "name": "青埔國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.006976,
+      "lng": 121.2135791,
+      "routes": [
+        "5087",
+        "5087A",
+        "5089",
+        "L209"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.817Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13919535326,
+      "name": "李厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.081354,
+      "lng": 121.200943
+    },
+    {
+      "id": 13919535327,
+      "name": "福德寺",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.084122,
+      "lng": 121.198148
+    },
+    {
+      "id": 13919535330,
+      "name": "戴厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.07697,
+      "lng": 121.20365
+    },
+    {
+      "id": 13919535332,
+      "name": "福忠宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0890473,
+      "lng": 121.1995306
+    },
+    {
+      "id": 13919535333,
+      "name": "光明社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.108846,
+      "lng": 121.252237
+    },
+    {
+      "id": 13919535335,
+      "name": "沙崙產業園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.100921,
+      "lng": 121.210247
+    },
+    {
+      "id": 13919535336,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0988554,
+      "lng": 121.214549
+    },
+    {
+      "id": 13919535337,
+      "name": "竹圍國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.103258,
+      "lng": 121.244407
+    },
+    {
+      "id": 13919535338,
+      "name": "頂古亭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0866117,
+      "lng": 121.1971257
+    },
+    {
+      "id": 13919535339,
+      "name": "沙崙休憩場所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1099639,
+      "lng": 121.2329204
+    },
+    {
+      "id": 13919535340,
+      "name": "海巡大隊路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.111308,
+      "lng": 121.238642
+    },
+    {
+      "id": 13919535342,
+      "name": "福元宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1080274,
+      "lng": 121.2421051
+    },
+    {
+      "id": 13919535343,
+      "name": "下古亭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.092814,
+      "lng": 121.204065
+    },
+    {
+      "id": 13919535344,
+      "name": "油庫大園站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0977769,
+      "lng": 121.2090556
+    },
+    {
+      "id": 13919535345,
+      "name": "樣新商店",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.098469,
+      "lng": 121.2284225
+    },
+    {
+      "id": 13919535346,
+      "name": "圳頭國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.072991,
+      "lng": 121.2056644
+    },
+    {
+      "id": 13919535347,
+      "name": "牛乳集中站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1020439,
+      "lng": 121.2321199
+    },
+    {
+      "id": 13919535349,
+      "name": "萬善祠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.094243,
+      "lng": 121.203825
+    },
+    {
+      "id": 13919535352,
+      "name": "坡腳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.0788184,
+      "lng": 121.2027583
+    },
+    {
+      "id": 13919535354,
+      "name": "竹圍國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.108707,
+      "lng": 121.2391745
+    },
+    {
+      "id": 13919535356,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.082736,
+      "lng": 121.1996247
+    },
+    {
+      "id": 13919535362,
+      "name": "海巡大隊路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "大園區",
+      "lat": 25.1114403,
+      "lng": 121.2376407
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "city": "雲林縣",
+  "district": "大埤鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 4,
+  "items": [
+    {
+      "id": 6469294321,
+      "name": "八卦窯",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "大埤鄉",
+      "lat": 23.6612359,
+      "lng": 120.4742208,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469304259,
+      "name": "柳樹腳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "大埤鄉",
+      "lat": 23.6324854,
+      "lng": 120.4679525,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469304261,
+      "name": "石龜溪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "大埤鄉",
+      "lat": 23.6434406,
+      "lng": 120.4704496,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469304264,
+      "name": "喬英紡織廠",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "大埤鄉",
+      "lat": 23.6522563,
+      "lng": 120.4723218,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.312Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

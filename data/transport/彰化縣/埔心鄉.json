@@ -1,0 +1,240 @@
+{
+  "city": "彰化縣",
+  "district": "埔心鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 12,
+  "items": [
+    {
+      "id": 4416462243,
+      "name": "溝皂",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9492787,
+      "lng": 120.5650732
+    },
+    {
+      "id": 4726402680,
+      "name": "彰化醫院",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9492079,
+      "lng": 120.5266648,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.225Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726402684,
+      "name": "許厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9498257,
+      "lng": 120.5317865,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726403608,
+      "name": "正成",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9539833,
+      "lng": 120.554615,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690742,
+      "name": "瓦窯厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.955578,
+      "lng": 120.5589635,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690745,
+      "name": "柳橋",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9523888,
+      "lng": 120.5491576,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690748,
+      "name": "埔心",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.952925,
+      "lng": 120.5439939,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690751,
+      "name": "義民",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9525579,
+      "lng": 120.539986,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690755,
+      "name": "允強",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9489585,
+      "lng": 120.5288063,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.226Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690757,
+      "name": "舊館國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9480932,
+      "lng": 120.5258237,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690760,
+      "name": "舊館",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.949554,
+      "lng": 120.5200437,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.880Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726690762,
+      "name": "芭蕉腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔心鄉",
+      "lat": 23.9506888,
+      "lng": 120.5157908,
+      "routes": [
+        "20路",
+        "20路延－B",
+        "20路A",
+        "20路A延－C",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

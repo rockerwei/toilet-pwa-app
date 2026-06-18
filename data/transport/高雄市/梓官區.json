@@ -1,0 +1,669 @@
+{
+  "city": "高雄市",
+  "district": "梓官區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 40,
+  "items": [
+    {
+      "id": 2598039550,
+      "name": "廣澤市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7306758,
+      "lng": 120.2515031
+    },
+    {
+      "id": 2598039573,
+      "name": "蚵寮國小(南赤崁)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7345204,
+      "lng": 120.2493591,
+      "routes": [
+        "8017"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2599779028,
+      "name": "赤崁南路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7374112,
+      "lng": 120.2477825,
+      "routes": [
+        "8017"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617434044,
+      "name": "漯底公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7673436,
+      "lng": 120.2561171,
+      "routes": [
+        "紅75"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655203,
+      "name": "中正路(通安路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.731286,
+      "lng": 120.2541566,
+      "routes": [
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655207,
+      "name": "亞熱帶",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7435387,
+      "lng": 120.2626667,
+      "routes": [
+        "8021",
+        "8043",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655213,
+      "name": "代天府",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7373992,
+      "lng": 120.2592965,
+      "routes": [
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.260Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655218,
+      "name": "保安宮(梓官)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7293633,
+      "lng": 120.2559017,
+      "routes": [
+        "紅53梓官幹線-主",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655229,
+      "name": "典寶橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7384302,
+      "lng": 120.2643654,
+      "routes": [
+        "8017",
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655241,
+      "name": "嘉好路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7347866,
+      "lng": 120.2546032,
+      "routes": [
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655247,
+      "name": "大舍南路(典寶橋)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7387864,
+      "lng": 120.2645693,
+      "routes": [
+        "8021",
+        "8043",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655251,
+      "name": "大舍西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7456523,
+      "lng": 120.2590917,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823856,
+      "name": "大舍甲農會(大舍西路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7471058,
+      "lng": 120.261112,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655266,
+      "name": "梓官區農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7322833,
+      "lng": 120.2505931
+    },
+    {
+      "id": 2749655280,
+      "name": "蚵仔寮漁港",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7269497,
+      "lng": 120.2557286,
+      "routes": [
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655284,
+      "name": "赤崁(梓官)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7374054,
+      "lng": 120.2477949,
+      "routes": [
+        "8017"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655288,
+      "name": "赤崁東路(北赤崁)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7407171,
+      "lng": 120.2515124,
+      "routes": [
+        "8017",
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2749655296,
+      "name": "赤東圖書館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7390497,
+      "lng": 120.248918
+    },
+    {
+      "id": 2749655301,
+      "name": "通港路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7259794,
+      "lng": 120.2584927,
+      "routes": [
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099951,
+      "name": "中崙路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7615605,
+      "lng": 120.2727744,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099964,
+      "name": "信義路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7624304,
+      "lng": 120.2625132,
+      "routes": [
+        "8021",
+        "8043",
+        "紅75",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099980,
+      "name": "梓官區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7606575,
+      "lng": 120.2667197,
+      "routes": [
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76",
+        "紅78"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099982,
+      "name": "梓官國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7603398,
+      "lng": 120.2639073,
+      "routes": [
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2973099984,
+      "name": "梓義第三公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7610415,
+      "lng": 120.2693498,
+      "routes": [
+        "紅72(部分繞駛南訓中心)",
+        "紅75",
+        "紅76"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889907945,
+      "name": "中正路一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7365723,
+      "lng": 120.2502128,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889907946,
+      "name": "中正路二",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7383338,
+      "lng": 120.2495222,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889907947,
+      "name": "嘉展路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7343765,
+      "lng": 120.2520298,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889907948,
+      "name": "通安路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7330796,
+      "lng": 120.2544758,
+      "routes": [
+        "紅53梓官幹線-主"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049705,
+      "name": "南梓官",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7575471,
+      "lng": 120.2675161,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049707,
+      "name": "同安",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7517434,
+      "lng": 120.2657154,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049709,
+      "name": "大舍北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7481332,
+      "lng": 120.261341,
+      "routes": [
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049711,
+      "name": "大舍甲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7482746,
+      "lng": 120.2631587,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049716,
+      "name": "平安街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7572714,
+      "lng": 120.2623961,
+      "routes": [
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910049718,
+      "name": "梓官",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7599181,
+      "lng": 120.2671492,
+      "routes": [
+        "8017",
+        "8021",
+        "8043",
+        "紅53梓官幹線-副",
+        "紅72(部分繞駛南訓中心)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922209,
+      "name": "北梓官",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7622723,
+      "lng": 120.2669209,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731922211,
+      "name": "春木工廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7654084,
+      "lng": 120.2673662,
+      "routes": [
+        "8017",
+        "紅78"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978213,
+      "name": "牛路溝公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7273709,
+      "lng": 120.2601666,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823861,
+      "name": "赤崁社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7436577,
+      "lng": 120.2559492,
+      "routes": [
+        "紅53梓官幹線-副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8370823862,
+      "name": "木業公司(梓官)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.7437211,
+      "lng": 120.2558067
+    },
+    {
+      "id": 8370823866,
+      "name": "茄冬坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "梓官區",
+      "lat": 22.735083,
+      "lng": 120.2538648,
+      "routes": [
+        "8017"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.464Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

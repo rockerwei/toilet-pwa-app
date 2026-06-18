@@ -1,0 +1,1036 @@
+{
+  "city": "台中市",
+  "district": "大肚區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 71,
+  "items": [
+    {
+      "id": 263012008,
+      "name": "大肚",
+      "type": "train",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1543321,
+      "lng": 120.5421809
+    },
+    {
+      "id": 3444470335,
+      "name": "追分",
+      "type": "train",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1202267,
+      "lng": 120.5701241
+    },
+    {
+      "id": 3448036896,
+      "name": "追分",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1212833,
+      "lng": 120.5702168,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617",
+        "黃21"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.801Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3448036902,
+      "name": "追分國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1222206,
+      "lng": 120.5677325,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617",
+        "黃21"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3448036911,
+      "name": "南追分",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1190728,
+      "lng": 120.5761005
+    },
+    {
+      "id": 3448036926,
+      "name": "追分郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1248241,
+      "lng": 120.5617353
+    },
+    {
+      "id": 3448036932,
+      "name": "山仔頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.12382,
+      "lng": 120.5638626,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617",
+        "黃21"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.802Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3448036934,
+      "name": "福山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1225593,
+      "lng": 120.566145
+    },
+    {
+      "id": 3459369328,
+      "name": "山陽一站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1695586,
+      "lng": 120.5421239
+    },
+    {
+      "id": 3459369330,
+      "name": "山陽",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1652866,
+      "lng": 120.5426578
+    },
+    {
+      "id": 3459369332,
+      "name": "北頂街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1599844,
+      "lng": 120.5436772,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "180",
+        "352",
+        "352延",
+        "617"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.803Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3661148864,
+      "name": "大肚區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1509766,
+      "lng": 120.5454533
+    },
+    {
+      "id": 3661148875,
+      "name": "文昌沙田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1511814,
+      "lng": 120.5448199,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.323Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3661148877,
+      "name": "大肚車站(華山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.153998,
+      "lng": 120.5428191
+    },
+    {
+      "id": 4057882237,
+      "name": "巧聖先師",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1746467,
+      "lng": 120.5814137,
+      "routes": [
+        "67",
+        "67繞",
+        "323",
+        "325",
+        "355"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.804Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4057910992,
+      "name": "中富國宅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1594555,
+      "lng": 120.5743696
+    },
+    {
+      "id": 4057910994,
+      "name": "井子頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1616238,
+      "lng": 120.5754592
+    },
+    {
+      "id": 4057910997,
+      "name": "幸福新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1578,
+      "lng": 120.5734656
+    },
+    {
+      "id": 4057911000,
+      "name": "東海駕訓班",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1664992,
+      "lng": 120.5777942,
+      "routes": [
+        "323",
+        "325",
+        "355",
+        "360",
+        "360副"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.804Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4057911003,
+      "name": "瑞井里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1635339,
+      "lng": 120.576398
+    },
+    {
+      "id": 4057911005,
+      "name": "竹仔腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1650046,
+      "lng": 120.577212
+    },
+    {
+      "id": 4057911088,
+      "name": "自強新城(遊園路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1725692,
+      "lng": 120.5805918
+    },
+    {
+      "id": 4057911090,
+      "name": "臺中區監理所(遊園路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1555166,
+      "lng": 120.5723391
+    },
+    {
+      "id": 4057911093,
+      "name": "蔗廍(遊園路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1704354,
+      "lng": 120.5797549
+    },
+    {
+      "id": 4057911095,
+      "name": "遊園中蔗路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1686331,
+      "lng": 120.5789369
+    },
+    {
+      "id": 4372089554,
+      "name": "大肚",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1496388,
+      "lng": 120.5458146
+    },
+    {
+      "id": 4372089557,
+      "name": "平和東沙田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.148398,
+      "lng": 120.5464262,
+      "routes": [
+        "325"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4372089559,
+      "name": "榮華",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1619563,
+      "lng": 120.5433041
+    },
+    {
+      "id": 4372090089,
+      "name": "育英平和東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1491261,
+      "lng": 120.5482447,
+      "routes": [
+        "325"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4372090091,
+      "name": "自治育英路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1517277,
+      "lng": 120.5477827,
+      "routes": [
+        "325"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4372090093,
+      "name": "頂街(沙田路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1586268,
+      "lng": 120.5439746,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "180",
+        "245",
+        "245繞",
+        "352",
+        "352延",
+        "617"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.805Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4373267939,
+      "name": "大道國中(沙田路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1466881,
+      "lng": 120.5463711
+    },
+    {
+      "id": 4373267941,
+      "name": "崁仔腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1369832,
+      "lng": 120.5520365,
+      "routes": [
+        "93",
+        "102",
+        "105",
+        "105區1",
+        "180",
+        "617"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4373267942,
+      "name": "崁仔腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1376515,
+      "lng": 120.5511916,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4373267943,
+      "name": "新興里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1407019,
+      "lng": 120.5491747
+    },
+    {
+      "id": 4373267945,
+      "name": "沙田自由路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1437082,
+      "lng": 120.5476278,
+      "routes": [
+        "352",
+        "352延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4373267947,
+      "name": "沙田路918巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1347705,
+      "lng": 120.5533133,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4373267949,
+      "name": "營埔里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1276004,
+      "lng": 120.5571708
+    },
+    {
+      "id": 4373268008,
+      "name": "興國公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1263487,
+      "lng": 120.5597148,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "105副",
+        "180",
+        "245",
+        "245繞",
+        "617"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.806Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883568,
+      "name": "南寮里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1759551,
+      "lng": 120.5704694
+    },
+    {
+      "id": 4634883574,
+      "name": "南寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1729086,
+      "lng": 120.5757144,
+      "routes": [
+        "290"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883576,
+      "name": "自強文化城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1717731,
+      "lng": 120.5748829,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883579,
+      "name": "中蔗遊園路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.169071,
+      "lng": 120.5785857,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883581,
+      "name": "瑞峰國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1697366,
+      "lng": 120.575015,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883583,
+      "name": "蔗廍(太平路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1704101,
+      "lng": 120.5745802,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875794,
+      "name": "份仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.166227,
+      "lng": 120.5310595,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875796,
+      "name": "成功里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1731229,
+      "lng": 120.5306572,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776886261,
+      "name": "磺溪里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1512496,
+      "lng": 120.5384302,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776886267,
+      "name": "汴子頭尾",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1529971,
+      "lng": 120.5328458,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776886268,
+      "name": "汴子頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1548546,
+      "lng": 120.531325,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776886271,
+      "name": "永順國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1586725,
+      "lng": 120.5323309,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776886273,
+      "name": "永順",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1611723,
+      "lng": 120.5317649,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6069849086,
+      "name": "社腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.132854,
+      "lng": 120.5537778
+    },
+    {
+      "id": 9633851380,
+      "name": "望高寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1440965,
+      "lng": 120.5789721
+    },
+    {
+      "id": 9633851382,
+      "name": "白陽山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1397455,
+      "lng": 120.5841286,
+      "routes": [
+        "99延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9656209537,
+      "name": "大道國中校門口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1475855,
+      "lng": 120.5498936,
+      "routes": [
+        "105副",
+        "245繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10271530709,
+      "name": "蔗南路180巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1740404,
+      "lng": 120.572703,
+      "routes": [
+        "290繞",
+        "361"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12117284955,
+      "name": "向上工業區28路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.171964,
+      "lng": 120.5822441
+    },
+    {
+      "id": 12132184606,
+      "name": "自由仁德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.14671,
+      "lng": 120.5490188,
+      "routes": [
+        "245繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736330,
+      "name": "船頭三街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1211098,
+      "lng": 120.5531821,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736331,
+      "name": "營埔福興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.120702,
+      "lng": 120.560054,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736333,
+      "name": "營埔一街133巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1182055,
+      "lng": 120.5607009,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736335,
+      "name": "南榮路478巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1153993,
+      "lng": 120.5670115,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736337,
+      "name": "順安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.11269,
+      "lng": 120.57438,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736339,
+      "name": "興和路77巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1147069,
+      "lng": 120.5775056,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736341,
+      "name": "王福街1052巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1273711,
+      "lng": 120.5630753,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736343,
+      "name": "家美滿社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1250985,
+      "lng": 120.5665618,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736345,
+      "name": "王福街678巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1234289,
+      "lng": 120.5701494,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736347,
+      "name": "王田莊中福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1223436,
+      "lng": 120.5746221,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736349,
+      "name": "天和宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1208073,
+      "lng": 120.5788498,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.807Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736351,
+      "name": "王田",
+      "type": "bus",
+      "city": "台中市",
+      "district": "大肚區",
+      "lat": 24.1226822,
+      "lng": 120.5826007,
+      "routes": [
+        "黃21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.980Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

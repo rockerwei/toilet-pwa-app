@@ -1,0 +1,168 @@
+{
+  "city": "彰化縣",
+  "district": "溪州鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 10,
+  "items": [
+    {
+      "id": 4502723689,
+      "name": "大橋組",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8676676,
+      "lng": 120.5118221,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.916Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4741996343,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8508703,
+      "lng": 120.4989065
+    },
+    {
+      "id": 4744746314,
+      "name": "坑厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8475891,
+      "lng": 120.4776797,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5126069054,
+      "name": "舊眉村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.863098,
+      "lng": 120.5080669,
+      "routes": [
+        "8路",
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.917Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5397867581,
+      "name": "正新輪胎",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8508335,
+      "lng": 120.4863471,
+      "routes": [
+        "6707"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5397870624,
+      "name": "明道之星",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8632091,
+      "lng": 120.5078155
+    },
+    {
+      "id": 6463862323,
+      "name": "水尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.827102,
+      "lng": 120.4633391,
+      "routes": [
+        "6715",
+        "6715A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.917Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464175175,
+      "name": "服務站前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8530631,
+      "lng": 120.4935843,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.917Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464175182,
+      "name": "國光",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8525016,
+      "lng": 120.4897159,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464178946,
+      "name": "溪墘厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "溪州鄉",
+      "lat": 23.8480565,
+      "lng": 120.4821011,
+      "routes": [
+        "6707",
+        "6881",
+        "6882"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.917Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

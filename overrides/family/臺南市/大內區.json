@@ -1,0 +1,22 @@
+{
+  "city": "臺南市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:333",
+      "name": "走馬瀨休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.131389,
+      "lng": 120.428611,
+      "source": "coa",
+      "sourceId": "333",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺南市大內區二溪里唭子瓦60號",
+      "phone": "06-576-0121"
+    }
+  ]
+}

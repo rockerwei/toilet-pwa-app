@@ -1,0 +1,21 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:553",
+      "name": "幻日休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.321389,
+      "lng": 120.554167,
+      "source": "coa",
+      "sourceId": "553",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市清水區美堤街126號"
+    }
+  ]
+}

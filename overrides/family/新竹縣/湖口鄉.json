@@ -1,0 +1,49 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376440000A_000085",
+      "name": "濟生Beauty新竹觀光工廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.872,
+      "lng": 121.017998,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000085",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣湖口鄉光復路10-1號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000086",
+      "name": "木酢達人",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.877199,
+      "lng": 121.057999,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000086",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣湖口鄉中正路三段162巷16號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000247",
+      "name": "湖口老街",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.876801,
+      "lng": 121.055,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000247",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣湖口鄉湖鏡村湖口老街"
+    }
+  ]
+}

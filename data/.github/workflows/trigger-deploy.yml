@@ -1,0 +1,33 @@
+name: Trigger site deploy
+
+# 本 repo（toilet-pwa-app-data）只存靜態 JSON、沒有 build。
+# 每當資料更新 push 進 main（不論是本機 SourceTree 手動 push，或 source repo 的
+# update-toilets-data workflow 用 PAT push），就去「戳」source repo 的 Deploy workflow，
+# 讓它抓最新資料重新 build + 部署到 GitHub Pages → 達成「push 資料即上線」。
+#
+# 需要 secret：SOURCE_DISPATCH_PAT（fine-grained PAT，授權 toilet-pwa-app-source- 的 Actions: Read and write）。
+#
+# 註：source 的 deploy.yml 有 concurrency cancel-in-progress，故短時間內多次觸發
+#     （如 CI 逐縣市 push）只會保留最後一次完成，不會疊一堆部署。
+
+on:
+  push:
+    branches: [main]
+
+# 同一時間只保留一個觸發，避免連續 push 各自排隊
+concurrency:
+  group: trigger-deploy
+  cancel-in-progress: true
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch source repo deploy
+        env:
+          GH_TOKEN: ${{ secrets.SOURCE_DISPATCH_PAT }}
+        run: |
+          gh workflow run "Deploy to GitHub Pages" \
+            --repo rockerwei/toilet-pwa-app-source- \
+            --ref main
+          echo "✅ 已觸發 source repo 的 Deploy（抓最新資料重新部署）"

@@ -1,0 +1,559 @@
+{
+  "city": "高雄市",
+  "district": "美濃區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 33,
+  "items": [
+    {
+      "id": 3472933118,
+      "name": "美濃站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.9016746,
+      "lng": 120.5416071,
+      "routes": [
+        "E01B旗美國道快捷",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "E28高旗美濃快線",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "JOY H31",
+        "T510",
+        "T518寶山-旗山醫院",
+        "T518B"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157938,
+      "name": "竹仔門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8693036,
+      "lng": 120.5824053,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157940,
+      "name": "龍肚路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.875245,
+      "lng": 120.5739595,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.490Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157942,
+      "name": "龍肚",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8785928,
+      "lng": 120.5695133
+    },
+    {
+      "id": 8198157944,
+      "name": "龍肚國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8795037,
+      "lng": 120.5707778
+    },
+    {
+      "id": 8198157946,
+      "name": "龍肚(文化街口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8830078,
+      "lng": 120.5761754
+    },
+    {
+      "id": 8198157948,
+      "name": "橫山尾(美濃)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8797831,
+      "lng": 120.5634747,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157950,
+      "name": "小山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8819118,
+      "lng": 120.5587971,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157952,
+      "name": "共榮橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8850246,
+      "lng": 120.5549144,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157954,
+      "name": "高美醫專",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8879411,
+      "lng": 120.5511737,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157955,
+      "name": "高美醫專",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8888468,
+      "lng": 120.5511205,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157956,
+      "name": "萊爾富(美濃城門)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8933064,
+      "lng": 120.5488491
+    },
+    {
+      "id": 8198157958,
+      "name": "成功路(美濃)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8935745,
+      "lng": 120.547795,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157960,
+      "name": "美濃國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8956703,
+      "lng": 120.5441253,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157962,
+      "name": "美濃區公所(衛生所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8953185,
+      "lng": 120.5426621,
+      "routes": [
+        "8220",
+        "8220A",
+        "E28高旗美濃快線",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "JOY H31"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613078,
+      "name": "福義街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8911774,
+      "lng": 120.5085623,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613080,
+      "name": "舊茶亭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8938561,
+      "lng": 120.513928,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613082,
+      "name": "福安",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8963928,
+      "lng": 120.5193276,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613084,
+      "name": "雷音寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8979421,
+      "lng": 120.522337,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613085,
+      "name": "雷音寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8986231,
+      "lng": 120.5233473,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613086,
+      "name": "廣善堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.9021642,
+      "lng": 120.5318332,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613088,
+      "name": "泰安路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.9019436,
+      "lng": 120.5386409,
+      "routes": [
+        "8220",
+        "8220A",
+        "E01B旗美國道快捷",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205613090,
+      "name": "中正路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.9017587,
+      "lng": 120.5411727
+    },
+    {
+      "id": 8205613092,
+      "name": "合和里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8968214,
+      "lng": 120.5422955,
+      "routes": [
+        "8220",
+        "8220A",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "E28高旗美濃快線",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "JOY H31"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998856,
+      "name": "崙仔頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8854937,
+      "lng": 120.5090408,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998857,
+      "name": "旗美商工",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8864187,
+      "lng": 120.5199219,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998859,
+      "name": "中壇橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8866768,
+      "lng": 120.5259976,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998861,
+      "name": "中壇廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.886565,
+      "lng": 120.529458,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998863,
+      "name": "中美旅社",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8862678,
+      "lng": 120.5327073,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998865,
+      "name": "中壇",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8871108,
+      "lng": 120.5346977,
+      "routes": [
+        "8220",
+        "8220A",
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998870,
+      "name": "下中壇",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8886436,
+      "lng": 120.5361488,
+      "routes": [
+        "8220",
+        "8220A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8205998872,
+      "name": "水廠(中壇)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.8891971,
+      "lng": 120.5370608,
+      "routes": [
+        "E28高旗美濃快線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 340086585,
+      "name": "高雄客運美濃站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "美濃區",
+      "lat": 22.9017604,
+      "lng": 120.5416087,
+      "routes": [
+        "E01B旗美國道快捷",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "E28高旗美濃快線",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "JOY H31",
+        "T510",
+        "T518寶山-旗山醫院",
+        "T518B"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.491Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

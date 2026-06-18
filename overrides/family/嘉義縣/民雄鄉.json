@@ -1,0 +1,37 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:423",
+      "name": "香草山樂齡休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.535981,
+      "lng": 120.485141,
+      "source": "coa",
+      "sourceId": "423",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣民雄鄉豐收村15鄰好收1之52號",
+      "phone": "0918-119365"
+    },
+    {
+      "id": "coa:28",
+      "name": "松山鄉村健康生活休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.535081,
+      "lng": 120.485141,
+      "source": "coa",
+      "sourceId": "28",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "嘉義縣民雄鄉松山村松山村松子腳48-15號",
+      "phone": "052722342"
+    }
+  ]
+}

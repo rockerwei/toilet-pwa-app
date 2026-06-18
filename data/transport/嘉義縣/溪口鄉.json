@@ -1,0 +1,198 @@
+{
+  "city": "嘉義縣",
+  "district": "溪口鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 9,
+  "items": [
+    {
+      "id": 6475485501,
+      "name": "三疊溪",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.5911144,
+      "lng": 120.4441237,
+      "routes": [
+        "6880",
+        "6880A",
+        "7304",
+        "7304A",
+        "7304B",
+        "7315",
+        "7315A",
+        "7700",
+        "7701",
+        "幸福溪口3路"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641478502,
+      "name": "溪口農會",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.6039694,
+      "lng": 120.3978503,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A",
+        "幸福溪口1路",
+        "幸福溪口2路",
+        "幸福溪口3路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7641478504,
+      "name": "溪口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.6043454,
+      "lng": 120.3992799,
+      "routes": [
+        "7203",
+        "7203A",
+        "7204",
+        "7204A",
+        "7307",
+        "7307A",
+        "7316",
+        "7316A",
+        "幸福溪口1路",
+        "幸福溪口2路",
+        "幸福溪口3路"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643733632,
+      "name": "溪口國中",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.6057439,
+      "lng": 120.4035701,
+      "routes": [
+        "7307",
+        "7307A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643751180,
+      "name": "溪口國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.6030452,
+      "lng": 120.3948797,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A",
+        "幸福溪口1路",
+        "幸福溪口2路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643753238,
+      "name": "柴林路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.6004043,
+      "lng": 120.392683,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643767090,
+      "name": "崙尾",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.5900636,
+      "lng": 120.3797816,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643770558,
+      "name": "東崙尾",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.591343,
+      "lng": 120.381702,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A",
+        "幸福溪口2路"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643787459,
+      "name": "天赦庄",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "溪口鄉",
+      "lat": 23.587683,
+      "lng": 120.3727166,
+      "routes": [
+        "7307",
+        "7307A",
+        "7316",
+        "7316A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.464Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:24",
+      "name": "松竹園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.129339,
+      "lng": 120.781198,
+      "source": "coa",
+      "sourceId": "24",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市太平區汴里北田路323巷39號",
+      "phone": "04-23930072"
+    },
+    {
+      "id": "coa:65",
+      "name": "全一休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.135405,
+      "lng": 120.785369,
+      "source": "coa",
+      "sourceId": "65",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市太平區北田路283號",
+      "phone": "0938-383-027"
+    }
+  ]
+}

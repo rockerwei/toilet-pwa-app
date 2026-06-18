@@ -1,0 +1,2219 @@
+{
+  "city": "台中市",
+  "district": "東勢區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 135,
+  "items": [
+    {
+      "id": 2272262013,
+      "name": "燥坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1672769,
+      "lng": 120.8669523
+    },
+    {
+      "id": 2272387529,
+      "name": "慶福里(天公廟)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1931766,
+      "lng": 120.8391301
+    },
+    {
+      "id": 2760675787,
+      "name": "統聯客運東勢站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2584944,
+      "lng": 120.8241761,
+      "routes": [
+        "1617",
+        "1617A",
+        "1617C",
+        "1617D"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3009680766,
+      "name": "東勢游泳池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2615708,
+      "lng": 120.8235184,
+      "routes": [
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "206延",
+        "207",
+        "207繞",
+        "208",
+        "209",
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.027Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3009730826,
+      "name": "東勢",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2586238,
+      "lng": 120.8277344
+    },
+    {
+      "id": 3870566528,
+      "name": "楓樹下",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1623205,
+      "lng": 120.851149,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "267",
+        "821",
+        "850"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.859Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3870573873,
+      "name": "大同橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1645461,
+      "lng": 120.8633021
+    },
+    {
+      "id": 3870573882,
+      "name": "馬鞍寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.17147,
+      "lng": 120.8396534
+    },
+    {
+      "id": 3870583924,
+      "name": "下段",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1886992,
+      "lng": 120.840334
+    },
+    {
+      "id": 3870591601,
+      "name": "大茅埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2038729,
+      "lng": 120.839674,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.860Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430857456,
+      "name": "下新社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2651467,
+      "lng": 120.8257457,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.355Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430857458,
+      "name": "下新",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2664509,
+      "lng": 120.82487,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.355Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430857460,
+      "name": "新豐新寧街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2626023,
+      "lng": 120.8245478,
+      "routes": [
+        "90",
+        "90延",
+        "206",
+        "206延",
+        "207",
+        "208",
+        "209",
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278",
+        "865"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.861Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430857462,
+      "name": "東蘭西門巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2683671,
+      "lng": 120.8234203,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866912,
+      "name": "八分",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2717473,
+      "lng": 120.8220168,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866914,
+      "name": "東蘭光明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2730334,
+      "lng": 120.8210566,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866916,
+      "name": "東蘭大明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2809421,
+      "lng": 120.8130461,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866918,
+      "name": "校栗埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2816606,
+      "lng": 120.8107401,
+      "routes": [
+        "208",
+        "208繞",
+        "258",
+        "260",
+        "261",
+        "黃2"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.861Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866920,
+      "name": "田中央(東蘭路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2753373,
+      "lng": 120.8189685,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4430866922,
+      "name": "福成橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2788948,
+      "lng": 120.8161414,
+      "routes": [
+        "208",
+        "208繞",
+        "258",
+        "260",
+        "261",
+        "黃2"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.864Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612168202,
+      "name": "民誠宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2850547,
+      "lng": 120.8012295,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612168204,
+      "name": "石城橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.285232,
+      "lng": 120.7980551,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612168206,
+      "name": "下校栗埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2841049,
+      "lng": 120.8032156,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612168209,
+      "name": "三清宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2834026,
+      "lng": 120.8079397,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612313645,
+      "name": "上石城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2884176,
+      "lng": 120.7962875,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612313647,
+      "name": "石城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2866647,
+      "lng": 120.7957537,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612325927,
+      "name": "石壁坑口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3031386,
+      "lng": 120.8002683
+    },
+    {
+      "id": 4612325928,
+      "name": "石壁坑口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3023613,
+      "lng": 120.800853,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612325929,
+      "name": "石排",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2991467,
+      "lng": 120.802343
+    },
+    {
+      "id": 4612325950,
+      "name": "頂上",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2944529,
+      "lng": 120.8007271,
+      "routes": [
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404836,
+      "name": "暗山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3034398,
+      "lng": 120.8067059
+    },
+    {
+      "id": 4974340114,
+      "name": "天冷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1610037,
+      "lng": 120.8604038
+    },
+    {
+      "id": 4974341722,
+      "name": "天冷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1620538,
+      "lng": 120.8604454,
+      "routes": [
+        "850"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974347163,
+      "name": "老楓樹下",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1630827,
+      "lng": 120.8471745
+    },
+    {
+      "id": 4974347584,
+      "name": "東關湖楓路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1679872,
+      "lng": 120.8428817
+    },
+    {
+      "id": 4974354996,
+      "name": "水簡頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1757177,
+      "lng": 120.8390481
+    },
+    {
+      "id": 4974355544,
+      "name": "上段",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1843827,
+      "lng": 120.840487
+    },
+    {
+      "id": 4974356310,
+      "name": "成功新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2066456,
+      "lng": 120.8395535
+    },
+    {
+      "id": 5769898287,
+      "name": "東勢果菜市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.250809,
+      "lng": 120.8281222
+    },
+    {
+      "id": 5769898293,
+      "name": "東勢河濱公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2524499,
+      "lng": 120.8268964
+    },
+    {
+      "id": 5769898295,
+      "name": "鯉魚伯公公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2550727,
+      "lng": 120.825271,
+      "routes": [
+        "850"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5769898299,
+      "name": "東關正二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2578629,
+      "lng": 120.8241284,
+      "routes": [
+        "850"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.356Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5769950931,
+      "name": "新盛里(東勢高工)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2431934,
+      "lng": 120.8335523
+    },
+    {
+      "id": 5770336691,
+      "name": "尾社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2386762,
+      "lng": 120.834707
+    },
+    {
+      "id": 5770376258,
+      "name": "三鑫公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2349806,
+      "lng": 120.8357182,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.868Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5770394812,
+      "name": "東勢老人會館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2609159,
+      "lng": 120.8268991
+    },
+    {
+      "id": 5770394817,
+      "name": "東新國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2636473,
+      "lng": 120.826234,
+      "routes": [
+        "90",
+        "90延",
+        "208",
+        "258",
+        "260",
+        "261"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.358Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5770815344,
+      "name": "新伯公",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2288463,
+      "lng": 120.8373329
+    },
+    {
+      "id": 5770816860,
+      "name": "東關福山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.231867,
+      "lng": 120.8362734
+    },
+    {
+      "id": 5770840339,
+      "name": "上城里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2180336,
+      "lng": 120.8383642
+    },
+    {
+      "id": 5770840457,
+      "name": "下城里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2224928,
+      "lng": 120.8384313
+    },
+    {
+      "id": 5770840459,
+      "name": "詒新",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2250134,
+      "lng": 120.8382556
+    },
+    {
+      "id": 5770850543,
+      "name": "頭汴角",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2125039,
+      "lng": 120.8391193,
+      "routes": [
+        "90延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.034Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5770891257,
+      "name": "石角口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2469595,
+      "lng": 120.8320988,
+      "routes": [
+        "90",
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "206延",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "250",
+        "251",
+        "252",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.871Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5770891258,
+      "name": "石角口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2482729,
+      "lng": 120.8317485
+    },
+    {
+      "id": 5770891260,
+      "name": "東勢南站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2488929,
+      "lng": 120.8313797,
+      "routes": [
+        "90",
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "206延",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "250",
+        "251",
+        "252",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.872Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5770891261,
+      "name": "東勢南站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.249662,
+      "lng": 120.8306783
+    },
+    {
+      "id": 5770891278,
+      "name": "中嵙口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2525233,
+      "lng": 120.8297744
+    },
+    {
+      "id": 5770891280,
+      "name": "南平里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2544748,
+      "lng": 120.829521,
+      "routes": [
+        "90",
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "206延",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "250",
+        "251",
+        "252",
+        "253",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.874Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6615612797,
+      "name": "上城街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2150088,
+      "lng": 120.8381898
+    },
+    {
+      "id": 6865000674,
+      "name": "九公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.215076,
+      "lng": 120.8840521,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6865017879,
+      "name": "大雪山賞鳥協會（八公里）",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2185939,
+      "lng": 120.8794329,
+      "routes": [
+        "251",
+        "252",
+        "889"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.038Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6865017881,
+      "name": "大南坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2141698,
+      "lng": 120.8828121,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6865017883,
+      "name": "十公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2178819,
+      "lng": 120.8890508,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6865162086,
+      "name": "十一公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2203735,
+      "lng": 120.887198,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7601884627,
+      "name": "東坑豐勢路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.24717,
+      "lng": 120.8329671
+    },
+    {
+      "id": 7603186226,
+      "name": "大雪山後門",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2449321,
+      "lng": 120.8370155,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7603186256,
+      "name": "高簡",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2449293,
+      "lng": 120.8405919,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7603186258,
+      "name": "上高簡",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2447144,
+      "lng": 120.8427528,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.359Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7603275810,
+      "name": "中坑坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2388632,
+      "lng": 120.8787674
+    },
+    {
+      "id": 7603275811,
+      "name": "檢查站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2403204,
+      "lng": 120.8732971,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7713935607,
+      "name": "林梨宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2737312,
+      "lng": 120.8460474,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142840,
+      "name": "東勢林業文化園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2447197,
+      "lng": 120.8328354
+    },
+    {
+      "id": 8242142842,
+      "name": "東勢",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2574798,
+      "lng": 120.8282183
+    },
+    {
+      "id": 8242142844,
+      "name": "大安溪(東蘭路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3038285,
+      "lng": 120.8114364,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142850,
+      "name": "第一橫三民街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2516265,
+      "lng": 120.8306559,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142852,
+      "name": "泰昌里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2511488,
+      "lng": 120.836588,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142854,
+      "name": "圓通精舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2509541,
+      "lng": 120.8395396,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142859,
+      "name": "玉山高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2518264,
+      "lng": 120.8422865,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142861,
+      "name": "瓦斯中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2530869,
+      "lng": 120.8461294,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142863,
+      "name": "中嵙",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2552612,
+      "lng": 120.8503268,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142865,
+      "name": "大願寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2586653,
+      "lng": 120.8523778,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142867,
+      "name": "頂中嵙",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2584428,
+      "lng": 120.8553664,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142869,
+      "name": "下橫龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.259747,
+      "lng": 120.863645,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142871,
+      "name": "橫龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2590513,
+      "lng": 120.8669121,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142873,
+      "name": "大彎",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2607575,
+      "lng": 120.8708786,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142875,
+      "name": "羅厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2585779,
+      "lng": 120.8739699,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8242142877,
+      "name": "牛欄坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2580989,
+      "lng": 120.8762128,
+      "routes": [
+        "253"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012466446,
+      "name": "新田口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3067477,
+      "lng": 120.7997927,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012466449,
+      "name": "上圓屯",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3053348,
+      "lng": 120.80726,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012466451,
+      "name": "永盛巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3045208,
+      "lng": 120.8113222,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012682265,
+      "name": "水尾",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3149388,
+      "lng": 120.7750681,
+      "routes": [
+        "260"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012682267,
+      "name": "新興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3146516,
+      "lng": 120.7769738,
+      "routes": [
+        "260"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012682712,
+      "name": "明正國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3103447,
+      "lng": 120.7910514,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012682714,
+      "name": "下圓屯",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.309109,
+      "lng": 120.7945007,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012695121,
+      "name": "明正里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.311463,
+      "lng": 120.7854751,
+      "routes": [
+        "260",
+        "261"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012703517,
+      "name": "和興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3136458,
+      "lng": 120.7790968,
+      "routes": [
+        "260"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012703519,
+      "name": "明安橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.3134502,
+      "lng": 120.7804835,
+      "routes": [
+        "260"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10012703521,
+      "name": "新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.311837,
+      "lng": 120.7835077,
+      "routes": [
+        "260"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10242983884,
+      "name": "馬鞍後池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.1806442,
+      "lng": 120.8398061,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216236,
+      "name": "東勢林場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2815341,
+      "lng": 120.8721001,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.360Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216237,
+      "name": "爽文坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.278959,
+      "lng": 120.8601127,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216239,
+      "name": "東新果園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2779511,
+      "lng": 120.8574293,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216241,
+      "name": "龍安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2754436,
+      "lng": 120.8511322,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216243,
+      "name": "宏覺寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2732024,
+      "lng": 120.8498288,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10247216246,
+      "name": "伯公龍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2659867,
+      "lng": 120.8373065
+    },
+    {
+      "id": 10247216248,
+      "name": "福壽祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2646017,
+      "lng": 120.8340658,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731995,
+      "name": "十二公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2208746,
+      "lng": 120.894143,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265731998,
+      "name": "七公里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2240758,
+      "lng": 120.8782545,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265732000,
+      "name": "小南坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2276152,
+      "lng": 120.8789042,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265732002,
+      "name": "上小南坑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2295341,
+      "lng": 120.8789212,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265732004,
+      "name": "下楊桃樹腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2341411,
+      "lng": 120.8777067,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265732006,
+      "name": "楊桃樹腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2372536,
+      "lng": 120.8784048,
+      "routes": [
+        "251",
+        "252"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763209,
+      "name": "坪埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2412467,
+      "lng": 120.8681866,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763211,
+      "name": "石橋頭前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2399845,
+      "lng": 120.8637744,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763213,
+      "name": "雲仙洞",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2370263,
+      "lng": 120.8611935,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763215,
+      "name": "上石角",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2362769,
+      "lng": 120.854258,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763217,
+      "name": "石角國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2389196,
+      "lng": 120.8515833,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763219,
+      "name": "石角",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2405137,
+      "lng": 120.8499251,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763221,
+      "name": "古靈堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2411843,
+      "lng": 120.8478956,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10265763223,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2431202,
+      "lng": 120.8459058,
+      "routes": [
+        "250",
+        "251",
+        "252"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002710,
+      "name": "埤頭里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2845714,
+      "lng": 120.760544,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002712,
+      "name": "石岡壩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2840733,
+      "lng": 120.7675553,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002714,
+      "name": "頂埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2848741,
+      "lng": 120.7707772,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002716,
+      "name": "圳寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2868637,
+      "lng": 120.7776027,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002718,
+      "name": "長庚橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2858473,
+      "lng": 120.7812115,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002720,
+      "name": "泰興里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2852129,
+      "lng": 120.7883546,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266002722,
+      "name": "石城國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2852751,
+      "lng": 120.7919725,
+      "routes": [
+        "黃2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.877Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10966334582,
+      "name": "公車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.257402,
+      "lng": 120.8283395
+    },
+    {
+      "id": 12078216066,
+      "name": "東勢幼稚園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2565017,
+      "lng": 120.8251506,
+      "routes": [
+        "850"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.361Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996482,
+      "name": "十里坡生態莊園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.216797,
+      "lng": 120.8897107,
+      "routes": [
+        "251",
+        "252",
+        "889"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.041Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12102044798,
+      "name": "東勢林場收費站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2853788,
+      "lng": 120.8674754,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12102044800,
+      "name": "四角林路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2849533,
+      "lng": 120.8647515,
+      "routes": [
+        "209"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872744,
+      "name": "東興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.2200991,
+      "lng": 120.8388683,
+      "routes": [
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "207",
+        "207繞",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "821",
+        "850"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.879Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 271107182,
+      "name": "豐原客運東勢站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "東勢區",
+      "lat": 24.257487,
+      "lng": 120.8285461,
+      "routes": [
+        "90",
+        "90延",
+        "153",
+        "153延",
+        "153副",
+        "153區",
+        "206",
+        "206延",
+        "207",
+        "207繞",
+        "208",
+        "208繞",
+        "209",
+        "250",
+        "251",
+        "252",
+        "253",
+        "258",
+        "260",
+        "261",
+        "263",
+        "264",
+        "265",
+        "266",
+        "266繞1",
+        "266繞2",
+        "267",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278",
+        "821",
+        "865臨",
+        "黃2"
+      ],
+      "routeCount": 38,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.881Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

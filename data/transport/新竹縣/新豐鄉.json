@@ -1,0 +1,1062 @@
+{
+  "city": "新竹縣",
+  "district": "新豐鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 73,
+  "items": [
+    {
+      "id": 418760215,
+      "name": "新豐",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8692766,
+      "lng": 120.9965344
+    },
+    {
+      "id": 966556484,
+      "name": "新豐",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8703986,
+      "lng": 120.9969512,
+      "routes": [
+        "5606",
+        "5612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 971548144,
+      "name": "公車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9023315,
+      "lng": 120.9870468
+    },
+    {
+      "id": 3311224206,
+      "name": "新庄子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.901825,
+      "lng": 120.9870605,
+      "routes": [
+        "5606",
+        "5606A",
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311224208,
+      "name": "永寧宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9018986,
+      "lng": 120.9848405,
+      "routes": [
+        "5606A",
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311224210,
+      "name": "新豐球場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8797345,
+      "lng": 120.9825296,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311224212,
+      "name": "小叮噹入口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.872766,
+      "lng": 120.9854665,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311344450,
+      "name": "球場入口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8654331,
+      "lng": 120.9909139,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311344451,
+      "name": "明新科技大學",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8648509,
+      "lng": 120.9918294,
+      "routes": [
+        "68路A",
+        "5606",
+        "5606A",
+        "5612"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311344456,
+      "name": "山崎國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8722651,
+      "lng": 120.9966979,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3311344457,
+      "name": "山崎國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8711253,
+      "lng": 120.9982828,
+      "routes": [
+        "5612"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3334126308,
+      "name": "後湖",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.932734,
+      "lng": 120.9969922,
+      "routes": [
+        "5027",
+        "5027A",
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3335635051,
+      "name": "埔和國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9205125,
+      "lng": 120.9815828,
+      "routes": [
+        "5611A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3662768626,
+      "name": "明新科大",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8654191,
+      "lng": 120.9910598,
+      "routes": [
+        "快捷5號A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3665419177,
+      "name": "後湖",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9333878,
+      "lng": 120.998249,
+      "routes": [
+        "5027",
+        "5027A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588546876,
+      "name": "明新社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8677948,
+      "lng": 120.9940507,
+      "routes": [
+        "5606",
+        "5612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588546882,
+      "name": "鳳山寺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8808963,
+      "lng": 121.008156
+    },
+    {
+      "id": 4588546887,
+      "name": "南陽公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.882128,
+      "lng": 121.010183
+    },
+    {
+      "id": 4588547601,
+      "name": "氰垵公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8839706,
+      "lng": 121.0122476
+    },
+    {
+      "id": 4588547604,
+      "name": "陸橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8858841,
+      "lng": 121.0145433
+    },
+    {
+      "id": 4588547608,
+      "name": "士林電機",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8884845,
+      "lng": 121.0187478
+    },
+    {
+      "id": 4588650118,
+      "name": "精密公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8681409,
+      "lng": 120.9890424,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650121,
+      "name": "營門口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8707092,
+      "lng": 120.9869474,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650123,
+      "name": "福陽社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.873909,
+      "lng": 120.9850498
+    },
+    {
+      "id": 4588650129,
+      "name": "鳳爐地",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8774601,
+      "lng": 120.9839158,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650131,
+      "name": "新典公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8832894,
+      "lng": 120.9772195,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650133,
+      "name": "山仔頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8840709,
+      "lng": 120.9751116,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650135,
+      "name": "坑仔口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8904671,
+      "lng": 120.9751041,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650137,
+      "name": "五分車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8935748,
+      "lng": 120.9765876,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650139,
+      "name": "紅崎頂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8985647,
+      "lng": 120.9803091,
+      "routes": [
+        "5606A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650141,
+      "name": "重興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8970398,
+      "lng": 120.9871472,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650143,
+      "name": "大埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8928626,
+      "lng": 120.9873173,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650145,
+      "name": "永興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8916039,
+      "lng": 120.9875227,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650147,
+      "name": "象鼻",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8886063,
+      "lng": 120.9875243,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650149,
+      "name": "新豐華城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8858978,
+      "lng": 120.9898006,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650151,
+      "name": "關聖宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8833133,
+      "lng": 120.994051,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650157,
+      "name": "光星廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8778129,
+      "lng": 120.993929,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.672Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650160,
+      "name": "新竹企銀",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8746331,
+      "lng": 120.9944989,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588650162,
+      "name": "華豐戲院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.872746,
+      "lng": 120.9949792,
+      "routes": [
+        "5606"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588709523,
+      "name": "農會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9033867,
+      "lng": 120.9852773,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588709533,
+      "name": "加油站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.907194,
+      "lng": 120.9833734,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588709544,
+      "name": "紅毛",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.911585,
+      "lng": 120.9811067,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588709558,
+      "name": "億順",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9157857,
+      "lng": 120.9824784,
+      "routes": [
+        "5611"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588710697,
+      "name": "坡頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9189231,
+      "lng": 120.9852187,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588710699,
+      "name": "埔和",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9230448,
+      "lng": 120.9887205,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588710701,
+      "name": "教堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9178003,
+      "lng": 120.9782605,
+      "routes": [
+        "5611A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4588710703,
+      "name": "大庄",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9167204,
+      "lng": 120.9775696,
+      "routes": [
+        "5611A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631891266,
+      "name": "鄭厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9320133,
+      "lng": 121.000634,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631891282,
+      "name": "日昇廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9308973,
+      "lng": 121.0064521,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631891284,
+      "name": "青埔子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9317642,
+      "lng": 121.0096583,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631891286,
+      "name": "新竹農場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9302759,
+      "lng": 121.0167849,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910208,
+      "name": "精華國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.930943,
+      "lng": 121.0218922,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910210,
+      "name": "福興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9307374,
+      "lng": 121.0262815,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910212,
+      "name": "十一股",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9304263,
+      "lng": 121.0301693,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910244,
+      "name": "褔龍宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.92924,
+      "lng": 121.0339085,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4631910246,
+      "name": "圓山子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9287503,
+      "lng": 121.0375635,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5227921981,
+      "name": "紅毛港",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9107312,
+      "lng": 120.9699832
+    },
+    {
+      "id": 5227921982,
+      "name": "池府王爺廟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9097981,
+      "lng": 120.9759833
+    },
+    {
+      "id": 5227921984,
+      "name": "新豐車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8691306,
+      "lng": 120.9957072
+    },
+    {
+      "id": 6505772315,
+      "name": "中崙三元宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.899974,
+      "lng": 120.9979224
+    },
+    {
+      "id": 6505772316,
+      "name": "瑞興國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9119755,
+      "lng": 121.0091412
+    },
+    {
+      "id": 6505772317,
+      "name": "青埔村9鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9201164,
+      "lng": 121.0215827
+    },
+    {
+      "id": 6505772318,
+      "name": "福龍宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9299707,
+      "lng": 121.0366852
+    },
+    {
+      "id": 6505772319,
+      "name": "後厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9261941,
+      "lng": 120.9907824
+    },
+    {
+      "id": 6505772321,
+      "name": "下罟寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9110365,
+      "lng": 120.9702827
+    },
+    {
+      "id": 6505772322,
+      "name": "池和宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.910016,
+      "lng": 120.976485
+    },
+    {
+      "id": 6505772323,
+      "name": "新豐鄉衛生所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8990031,
+      "lng": 120.9869635
+    },
+    {
+      "id": 6505772324,
+      "name": "榮華新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8834914,
+      "lng": 120.9939559
+    },
+    {
+      "id": 6505772325,
+      "name": "鳳蓮宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.8715393,
+      "lng": 120.993111
+    },
+    {
+      "id": 7679381410,
+      "name": "電台",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.928389,
+      "lng": 120.9927656,
+      "routes": [
+        "5611",
+        "5611A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7679390862,
+      "name": "深坑橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9393711,
+      "lng": 121.0027172,
+      "routes": [
+        "5027",
+        "5027A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7679390864,
+      "name": "鄭厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.9350072,
+      "lng": 121.0011274,
+      "routes": [
+        "5027",
+        "5027A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.673Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9990031762,
+      "name": "明新科技大學",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "新豐鄉",
+      "lat": 24.863951,
+      "lng": 120.990907,
+      "routes": [
+        "68路A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.692Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

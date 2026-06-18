@@ -1,0 +1,694 @@
+{
+  "city": "高雄市",
+  "district": "田寮區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 40,
+  "items": [
+    {
+      "id": 3783441754,
+      "name": "下尾仔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8249022,
+      "lng": 120.4009136,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444170,
+      "name": "埤子尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8239044,
+      "lng": 120.4064888,
+      "routes": [
+        "紅68A(假日延駛石頭廟)",
+        "T603D(平日預約)",
+        "T603E(每周一到周六預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444178,
+      "name": "崗山路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8406402,
+      "lng": 120.3538217,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444180,
+      "name": "柑提",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.83859,
+      "lng": 120.3519768,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.273Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444182,
+      "name": "水蛙潭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8298258,
+      "lng": 120.4073197,
+      "routes": [
+        "紅68A(假日延駛石頭廟)",
+        "T603D(平日預約)",
+        "T603E(每周一到周六預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444184,
+      "name": "灰窯(田寮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8321379,
+      "lng": 120.3489734,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444186,
+      "name": "牛稠埔(田寮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8357221,
+      "lng": 120.3694137,
+      "routes": [
+        "紅68A(假日延駛石頭廟)",
+        "T603D(平日預約)",
+        "T603E(每周一到周六預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444188,
+      "name": "牛路彎",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8286336,
+      "lng": 120.3910616
+    },
+    {
+      "id": 3783444190,
+      "name": "田寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8380242,
+      "lng": 120.4065062,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444191,
+      "name": "田寮入口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8324284,
+      "lng": 120.3896433,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.274Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444193,
+      "name": "田洋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8361455,
+      "lng": 120.3662327,
+      "routes": [
+        "紅68A(假日延駛石頭廟)",
+        "T603C(每周二、四、五預約)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444195,
+      "name": "祖師田",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8324411,
+      "lng": 120.4058026,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444197,
+      "name": "秋菊園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8402651,
+      "lng": 120.3557968,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444201,
+      "name": "部洋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8394018,
+      "lng": 120.3610844,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3783444203,
+      "name": "部洋廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8400388,
+      "lng": 120.3584687,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875655769,
+      "name": "內門路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8866694,
+      "lng": 120.4336269,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875655777,
+      "name": "馬頭山頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8851987,
+      "lng": 120.4429595,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875655779,
+      "name": "鹿埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8885005,
+      "lng": 120.42175,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875655781,
+      "name": "鹿埔分校",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8854781,
+      "lng": 120.424925,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875681057,
+      "name": "南勢崎頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8923549,
+      "lng": 120.3981644,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875681059,
+      "name": "古亭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8934031,
+      "lng": 120.4033971,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875681061,
+      "name": "古亭水庫",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8941029,
+      "lng": 120.3996861,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698626,
+      "name": "北勢宅",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8793059,
+      "lng": 120.3840994,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698630,
+      "name": "古亭橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.886961,
+      "lng": 120.3949958,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698636,
+      "name": "崇德國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8782492,
+      "lng": 120.3796247,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698638,
+      "name": "崇德市場(消防隊)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.877036,
+      "lng": 120.3816296,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698640,
+      "name": "崗安路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8726225,
+      "lng": 120.3594917,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)",
+        "T601(每週三發車)",
+        "T603B(每周二、四、五預約)",
+        "T603C(每周二、四、五預約)"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698645,
+      "name": "崗山頭溫泉",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8740651,
+      "lng": 120.3569766,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "8049",
+        "8049區間車",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698649,
+      "name": "大群停車場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8861694,
+      "lng": 120.3917499
+    },
+    {
+      "id": 3875698651,
+      "name": "日月禪寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8856927,
+      "lng": 120.3904076,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698655,
+      "name": "營盤頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8786318,
+      "lng": 120.3770937,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698757,
+      "name": "田寮教會(市場)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8737241,
+      "lng": 120.3603171,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698761,
+      "name": "竹山",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8778463,
+      "lng": 120.3689695,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3875698763,
+      "name": "糖廠(西德社區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8787692,
+      "lng": 120.3742944,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906477808,
+      "name": "田寮區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8711103,
+      "lng": 120.359077,
+      "routes": [
+        "紅70A",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3906517999,
+      "name": "隆后宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8943075,
+      "lng": 120.402783,
+      "routes": [
+        "紅70B(延駛隆后宮)",
+        "T603A(每周二、四、五預約)",
+        "T603B(每周二、四、五預約)",
+        "T603F(每周一到周五預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8461567078,
+      "name": "菜堂寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8303493,
+      "lng": 120.3466402,
+      "routes": [
+        "紅68A(假日延駛石頭廟)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11795732121,
+      "name": "月世界",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8849227,
+      "lng": 120.3883868,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11795732122,
+      "name": "月世界",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8834821,
+      "lng": 120.3870031,
+      "routes": [
+        "8012",
+        "8042(假日延駛台南機場)",
+        "紅70B(延駛隆后宮)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13042634201,
+      "name": "石頭廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "田寮區",
+      "lat": 22.8354584,
+      "lng": 120.3868188,
+      "routes": [
+        "T603C(每周二、四、五預約)",
+        "T603D(平日預約)",
+        "T603E(每周一到周六預約)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.488Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376440000A_000191",
+      "name": "十二寮休閒農業區",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.674801,
+      "lng": 120.992996,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000191",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣峨眉鄉13鄰21號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000192",
+      "name": "富興茶葉展售中心",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.6966,
+      "lng": 120.985001,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000192",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣峨眉鄉12鄰22-6號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000193",
+      "name": "背影橘舍觀光果園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.698,
+      "lng": 121.001999,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000193",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣峨眉鄉石井村4鄰27-6號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000194",
+      "name": "松芸軒咖啡莊",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.6691,
+      "lng": 120.991997,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000194",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣峨眉鄉湖光村12鄰1-2號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000202",
+      "name": "十二寮雲雀山莊",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.6709,
+      "lng": 120.989998,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000202",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣峨眉鄉湖光村12鄰2-8號"
+    }
+  ]
+}

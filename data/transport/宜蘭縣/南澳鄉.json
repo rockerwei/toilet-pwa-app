@@ -1,0 +1,70 @@
+{
+  "city": "宜蘭縣",
+  "district": "南澳鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 5,
+  "items": [
+    {
+      "id": 3268825388,
+      "name": "金洋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "南澳鄉",
+      "lat": 24.4262871,
+      "lng": 121.7499596,
+      "routes": [
+        "南澳線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.121Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3949466805,
+      "name": "漢本",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "南澳鄉",
+      "lat": 24.3338033,
+      "lng": 121.7681257
+    },
+    {
+      "id": 3951206312,
+      "name": "東澳",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "南澳鄉",
+      "lat": 24.5177786,
+      "lng": 121.830712
+    },
+    {
+      "id": 5785405206,
+      "name": "南澳鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "南澳鄉",
+      "lat": 24.4653929,
+      "lng": 121.8029013
+    },
+    {
+      "id": 7126035026,
+      "name": "東澳火車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "南澳鄉",
+      "lat": 24.5185036,
+      "lng": 121.8311115,
+      "routes": [
+        "東澳線（紫線）",
+        "東澳線（紫線）A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.121Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

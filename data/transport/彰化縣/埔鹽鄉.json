@@ -1,0 +1,567 @@
+{
+  "city": "彰化縣",
+  "district": "埔鹽鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 28,
+  "items": [
+    {
+      "id": 4640050728,
+      "name": "新水",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9765857,
+      "lng": 120.4426015,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640050730,
+      "name": "朴鼎金",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9720517,
+      "lng": 120.4417968,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640050815,
+      "name": "西斗車員",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9814333,
+      "lng": 120.4327174,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640050817,
+      "name": "天盛",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9831107,
+      "lng": 120.429024,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640050819,
+      "name": "東石埤",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9884751,
+      "lng": 120.4231648,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640120328,
+      "name": "斗車員",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9803873,
+      "lng": 120.4358625,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4640120330,
+      "name": "東斗車員",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9790823,
+      "lng": 120.4373498,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641364218,
+      "name": "永樂村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0016377,
+      "lng": 120.4283374,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641364220,
+      "name": "新石埤村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9911898,
+      "lng": 120.4260508,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641364222,
+      "name": "北石埤村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9904049,
+      "lng": 120.423109,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641364232,
+      "name": "石埤村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9897391,
+      "lng": 120.4218705,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641378239,
+      "name": "蘆厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0223246,
+      "lng": 120.4448636,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641378252,
+      "name": "下庄仔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0209098,
+      "lng": 120.4451398,
+      "routes": [
+        "6704",
+        "6704A",
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.881Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641378255,
+      "name": "永平村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0179741,
+      "lng": 120.4399518,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4641406593,
+      "name": "外崙仔腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0101697,
+      "lng": 120.4302218,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726540590,
+      "name": "東大有",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0141708,
+      "lng": 120.4551697,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726540594,
+      "name": "竹頭角",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0155244,
+      "lng": 120.4523132,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726540596,
+      "name": "大有",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0166808,
+      "lng": 120.449879,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726579867,
+      "name": "埔鹽下",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.990492,
+      "lng": 120.4670846,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726579869,
+      "name": "埔鹽",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0003071,
+      "lng": 120.4630117,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4726579889,
+      "name": "好修",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0067979,
+      "lng": 120.4599883,
+      "routes": [
+        "6705",
+        "6705A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4855264485,
+      "name": "閭山道院",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9832861,
+      "lng": 120.4783541,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4855346123,
+      "name": "崑崙村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9857355,
+      "lng": 120.4785016,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.882Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4855608435,
+      "name": "崙仔腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.988542,
+      "lng": 120.4783469,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4855612129,
+      "name": "埔鹽",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.9962614,
+      "lng": 120.47649,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4855612131,
+      "name": "埔鹽國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 23.992395,
+      "lng": 120.4768825,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4856265722,
+      "name": "光明加油站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0024728,
+      "lng": 120.4798019,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.883Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4856291131,
+      "name": "廓仔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "埔鹽鄉",
+      "lat": 24.0096682,
+      "lng": 120.4854137,
+      "routes": [
+        "19路A",
+        "6713",
+        "6714",
+        "6715",
+        "6715A",
+        "6716",
+        "6716A",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738C"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.884Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "city": "宜蘭縣",
+  "district": "五結鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 72,
+  "items": [
+    {
+      "id": 289440210,
+      "name": "二結",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7060004,
+      "lng": 121.7742103
+    },
+    {
+      "id": 3610528541,
+      "name": "中福村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6839803,
+      "lng": 121.7932996,
+      "routes": [
+        "243A",
+        "243B",
+        "421A",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.726Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3610528542,
+      "name": "五結站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6884108,
+      "lng": 121.7911514,
+      "routes": [
+        "1570",
+        "1570A",
+        "1879",
+        "1879A",
+        "1879C",
+        "1879D",
+        "1917",
+        "1917A",
+        "1917B",
+        "9028",
+        "9028B",
+        "9028D"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.726Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113122489,
+      "name": "中興國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6922334,
+      "lng": 121.7697251,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "621",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.727Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113122493,
+      "name": "石油公司",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6982306,
+      "lng": 121.7687863,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.727Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113122497,
+      "name": "學進村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7033966,
+      "lng": 121.7705378,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.727Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113122500,
+      "name": "南橋頭",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7099074,
+      "lng": 121.7727506,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.727Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5113128536,
+      "name": "羅東林場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6866746,
+      "lng": 121.7710394,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "1766",
+        "紅2"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606640248,
+      "name": "傳藝中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6873338,
+      "lng": 121.8255928
+    },
+    {
+      "id": 5606640251,
+      "name": "錦眾村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7005895,
+      "lng": 121.8222776
+    },
+    {
+      "id": 5606640253,
+      "name": "自強二橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6965589,
+      "lng": 121.8235919
+    },
+    {
+      "id": 5796397658,
+      "name": "中正西路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6998645,
+      "lng": 121.7687233,
+      "routes": [
+        "621"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397660,
+      "name": "二結",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7034137,
+      "lng": 121.7679843,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "621",
+        "781",
+        "1766",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397670,
+      "name": "二結王公廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.706462,
+      "lng": 121.7689915,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "紅2"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397671,
+      "name": "慈林文教",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7091862,
+      "lng": 121.7713129,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "紅2"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397682,
+      "name": "二結村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7060356,
+      "lng": 121.7714578,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397689,
+      "name": "中興文創 (四結)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6949993,
+      "lng": 121.7696929,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "621",
+        "781",
+        "1572",
+        "1572A",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.728Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397693,
+      "name": "清水橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6899683,
+      "lng": 121.770483,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "621",
+        "781",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5796397696,
+      "name": "二結郵局",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7026936,
+      "lng": 121.7682646,
+      "routes": [
+        "621",
+        "綠線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5800858569,
+      "name": "龍之園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6683002,
+      "lng": 121.819641
+    },
+    {
+      "id": 5800858571,
+      "name": "青仔地",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6681417,
+      "lng": 121.8177755,
+      "routes": [
+        "421A",
+        "1797",
+        "綠21",
+        "綠21A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5800858574,
+      "name": "下橄欖社",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6735015,
+      "lng": 121.8083703
+    },
+    {
+      "id": 5800858575,
+      "name": "冬山河親水公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6722719,
+      "lng": 121.8116802
+    },
+    {
+      "id": 5800891065,
+      "name": "利澤老街",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6685268,
+      "lng": 121.822688
+    },
+    {
+      "id": 5800891067,
+      "name": "公車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6689266,
+      "lng": 121.8274757
+    },
+    {
+      "id": 5800891068,
+      "name": "養鴨中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6737575,
+      "lng": 121.8276635
+    },
+    {
+      "id": 5801459032,
+      "name": "橄欖社",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6731774,
+      "lng": 121.8014315
+    },
+    {
+      "id": 6810744520,
+      "name": "新社",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6786686,
+      "lng": 121.8272102
+    },
+    {
+      "id": 6810744522,
+      "name": "利澤國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6657116,
+      "lng": 121.8280444
+    },
+    {
+      "id": 6810744524,
+      "name": "利澤工業區1 (利興三路)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.662967,
+      "lng": 121.8285647
+    },
+    {
+      "id": 6810744562,
+      "name": "利澤工業區2 (利興一路)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6485749,
+      "lng": 121.8332344
+    },
+    {
+      "id": 6811555534,
+      "name": "大閘門",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.692485,
+      "lng": 121.831725,
+      "routes": [
+        "472",
+        "1791",
+        "1797A",
+        "綠線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555537,
+      "name": "大眾廟-傳藝中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6922554,
+      "lng": 121.8282026,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555546,
+      "name": "大眾橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6922529,
+      "lng": 121.8200514,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555548,
+      "name": "下孝威",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6925332,
+      "lng": 121.8160334,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555550,
+      "name": "孝威",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6944072,
+      "lng": 121.8112698,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555552,
+      "name": "協和村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6908809,
+      "lng": 121.806694,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555576,
+      "name": "宏國木業",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6880284,
+      "lng": 121.8033385,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555578,
+      "name": "協和北路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6863017,
+      "lng": 121.800887,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811555584,
+      "name": "五結",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6847773,
+      "lng": 121.7976737,
+      "routes": [
+        "243A",
+        "243B",
+        "421A",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811582292,
+      "name": "福興村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6834186,
+      "lng": 121.7899007,
+      "routes": [
+        "421A",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.729Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811582294,
+      "name": "義芳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.68288,
+      "lng": 121.7867517
+    },
+    {
+      "id": 6811582296,
+      "name": "慈濟精舍",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.68293,
+      "lng": 121.7856735,
+      "routes": [
+        "421A",
+        "1791",
+        "1797",
+        "1797A",
+        "綠21",
+        "綠21A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811582298,
+      "name": "東和食品廠",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6827655,
+      "lng": 121.7827338,
+      "routes": [
+        "421A",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6811582302,
+      "name": "興盛村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6823024,
+      "lng": 121.7773077,
+      "routes": [
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303031,
+      "name": "新店",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6717274,
+      "lng": 121.8259529,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303033,
+      "name": "仙水寺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6742839,
+      "lng": 121.8306863,
+      "routes": [
+        "472",
+        "1791",
+        "1797A",
+        "綠線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303040,
+      "name": "開山廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.675516,
+      "lng": 121.8321039,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303042,
+      "name": "季水村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.678342,
+      "lng": 121.8337481,
+      "routes": [
+        "472",
+        "1791",
+        "1797A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303044,
+      "name": "清水大鎮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6838561,
+      "lng": 121.8336931,
+      "routes": [
+        "472",
+        "1791",
+        "1797A",
+        "綠線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303046,
+      "name": "王爺廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6875324,
+      "lng": 121.8334222,
+      "routes": [
+        "472"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816303047,
+      "name": "清水",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6907286,
+      "lng": 121.8342993,
+      "routes": [
+        "472"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816668678,
+      "name": "成興村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6504959,
+      "lng": 121.8272933,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724792,
+      "name": "成興廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6526485,
+      "lng": 121.8267703,
+      "routes": [
+        "121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724806,
+      "name": "成興",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6552166,
+      "lng": 121.8257162,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724815,
+      "name": "下興南路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6579797,
+      "lng": 121.824988,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724817,
+      "name": "下福村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6605708,
+      "lng": 121.8243898,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A",
+        "紅線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724823,
+      "name": "下福活動中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6625112,
+      "lng": 121.823801,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.730Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816724825,
+      "name": "利澤簡",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6663673,
+      "lng": 121.8225083,
+      "routes": [
+        "121",
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6818681405,
+      "name": "五結國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6869622,
+      "lng": 121.7973183,
+      "routes": [
+        "621"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6818681407,
+      "name": "五結農會",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6853196,
+      "lng": 121.7979138,
+      "routes": [
+        "472"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6818681410,
+      "name": "五結市中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6844166,
+      "lng": 121.7978869,
+      "routes": [
+        "621",
+        "綠21",
+        "綠21A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6818681416,
+      "name": "萬善堂",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6779081,
+      "lng": 121.800372,
+      "routes": [
+        "421A",
+        "1797"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8357323705,
+      "name": "國民南路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6843843,
+      "lng": 121.7948145,
+      "routes": [
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8419998075,
+      "name": "五結站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6902203,
+      "lng": 121.7912938,
+      "routes": [
+        "1570",
+        "1879",
+        "1879A",
+        "1879C",
+        "1879D",
+        "1917",
+        "1917A",
+        "1917B",
+        "9028",
+        "9028B",
+        "9028D"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481653201,
+      "name": "赫蒂法莊園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6547205,
+      "lng": 121.8313891
+    },
+    {
+      "id": 9481653203,
+      "name": "獅子城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6834144,
+      "lng": 121.7898819
+    },
+    {
+      "id": 9481653205,
+      "name": "國立傳統藝術中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6862847,
+      "lng": 121.8242598,
+      "routes": [
+        "621"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9500049907,
+      "name": "永和寺",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6926148,
+      "lng": 121.7633602,
+      "routes": [
+        "羅東3"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9500049909,
+      "name": "清水溝",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.692103,
+      "lng": 121.7637438,
+      "routes": [
+        "1794",
+        "1794A",
+        "1794B",
+        "1794C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11170226163,
+      "name": "二結",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.7051413,
+      "lng": 121.7677215,
+      "routes": [
+        "271",
+        "271A",
+        "471",
+        "621",
+        "781",
+        "1766",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.731Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13704960277,
+      "name": "公園路2",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "五結鄉",
+      "lat": 24.6867733,
+      "lng": 121.8089651,
+      "routes": [
+        "621"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.118Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "city": "屏東縣",
+  "district": "佳冬鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 13,
+  "items": [
+    {
+      "id": 1021638246,
+      "name": "佳冬",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4138262,
+      "lng": 120.5475793
+    },
+    {
+      "id": 4238954209,
+      "name": "佳冬火車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4141725,
+      "lng": 120.5477753,
+      "routes": [
+        "小黃公車737"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.159Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895267337,
+      "name": "六根村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4168964,
+      "lng": 120.5455582,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895267342,
+      "name": "賢昌",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4195433,
+      "lng": 120.5411607,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895267377,
+      "name": "羌園",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4285088,
+      "lng": 120.527747,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895518311,
+      "name": "佳冬農會",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4121815,
+      "lng": 120.5570313,
+      "routes": [
+        "1780",
+        "9117",
+        "9117A",
+        "9188",
+        "小黃公車737",
+        "小黃公車739"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895518314,
+      "name": "慈恩寺",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.413828,
+      "lng": 120.5532172,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895518319,
+      "name": "佳冬",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4152017,
+      "lng": 120.5489445,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188",
+        "小黃公車737"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.789Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895523156,
+      "name": "佳冬農校",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4099871,
+      "lng": 120.5631991,
+      "routes": [
+        "1780",
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.790Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056914733,
+      "name": "水底寮",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4558753,
+      "lng": 120.5516589
+    },
+    {
+      "id": 5056914735,
+      "name": "武丁潭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4541748,
+      "lng": 120.5533674,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.790Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056914742,
+      "name": "昌隆",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4433666,
+      "lng": 120.5618271,
+      "routes": [
+        "8239"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.790Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6796971456,
+      "name": "昌隆",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "佳冬鄉",
+      "lat": 22.4483196,
+      "lng": 120.5574229
+    }
+  ]
+}

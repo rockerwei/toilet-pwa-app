@@ -1,0 +1,2360 @@
+{
+  "city": "高雄市",
+  "district": "苓雅區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 121,
+  "items": [
+    {
+      "id": 1080438925,
+      "name": "市政大樓(四維三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6200013,
+      "lng": 120.3115357,
+      "routes": [
+        "36",
+        "90民族幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "紅21",
+        "綠2"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1080438933,
+      "name": "苓雅路口(中山二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6195725,
+      "lng": 120.3025463,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "224",
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305101365,
+      "name": "高雄女中(英雄路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6204055,
+      "lng": 120.2937537,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "52C",
+        "77昌福幹線(繞三民高中)",
+        "83",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214",
+        "224"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761537,
+      "name": "三多三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.615447,
+      "lng": 120.308819,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "黃1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761538,
+      "name": "八五大樓",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6123108,
+      "lng": 120.3000606,
+      "routes": [
+        "83",
+        "100百貨幹線",
+        "黃1",
+        "綠1"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.492Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761540,
+      "name": "大遠百百貨(捷運三多商圈站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6134293,
+      "lng": 120.3032353,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "83",
+        "100百貨幹線",
+        "黃1",
+        "綠1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761542,
+      "name": "成功國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6137504,
+      "lng": 120.297708,
+      "routes": [
+        "83",
+        "100百貨幹線",
+        "214",
+        "黃1"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761545,
+      "name": "新光三越(捷運三多商圈站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6145326,
+      "lng": 120.3060196,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "90民族幹線",
+        "100百貨幹線",
+        "黃1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761546,
+      "name": "漢神百貨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6191677,
+      "lng": 120.2956564,
+      "routes": [
+        "11",
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761548,
+      "name": "自強三路口(三多四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.612632,
+      "lng": 120.3010026,
+      "routes": [
+        "83",
+        "100百貨幹線",
+        "黃1",
+        "綠1"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761550,
+      "name": "苓雅市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6167922,
+      "lng": 120.2965387,
+      "routes": [
+        "83",
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208261,
+      "name": "三信家商",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6219922,
+      "lng": 120.3292975,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "81",
+        "100百貨幹線",
+        "8001"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208263,
+      "name": "三多市場(三多三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6171468,
+      "lng": 120.3137831,
+      "routes": [
+        "25",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208265,
+      "name": "五塊厝(武慶三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6215177,
+      "lng": 120.3316626,
+      "routes": [
+        "100百貨幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.276Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8057987306,
+      "name": "五權國小",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6211709,
+      "lng": 120.32518,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.277Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 2475208270,
+      "name": "仁愛三街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.61598,
+      "lng": 120.3103712,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "黃1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.493Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208271,
+      "name": "光華路口(光華夜市)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6183357,
+      "lng": 120.3180979,
+      "routes": [
+        "11",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "綠1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208273,
+      "name": "和平路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6193393,
+      "lng": 120.3214667,
+      "routes": [
+        "11",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "綠1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208275,
+      "name": "國際商工(輕軌五權國小站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6210533,
+      "lng": 120.3264872,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "8001"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208284,
+      "name": "三多復興路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6166322,
+      "lng": 120.3123414,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "黃1"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208285,
+      "name": "林德官(三和市場)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6189318,
+      "lng": 120.3202205,
+      "routes": [
+        "11",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線",
+        "綠1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208287,
+      "name": "武慶三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6196991,
+      "lng": 120.3318722,
+      "routes": [
+        "100百貨幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2478951412,
+      "name": "海邊青年路口(輕軌光榮碼頭站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6180961,
+      "lng": 120.2933682,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2478951415,
+      "name": "光華五福路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6268713,
+      "lng": 120.3142507,
+      "routes": [
+        "90民族幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2478951416,
+      "name": "實踐大學(高雄城區中心)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6128759,
+      "lng": 120.2935951,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2676526330,
+      "name": "捷運三多商圈站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6150403,
+      "lng": 120.3038384
+    },
+    {
+      "id": 2478951425,
+      "name": "輕軌高雄展覽館站(新光碼頭)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6109372,
+      "lng": 120.2987993,
+      "routes": [
+        "214",
+        "綠1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2478951431,
+      "name": "輕軌旅運中心站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6118354,
+      "lng": 120.2933604,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.277Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2478951434,
+      "name": "興中二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6157103,
+      "lng": 120.3035707,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "90民族幹線",
+        "9117",
+        "9117A",
+        "紅21"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393231,
+      "name": "中正高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6259785,
+      "lng": 120.3379742,
+      "routes": [
+        "50五福幹線",
+        "8505",
+        "E09區間",
+        "E09A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393233,
+      "name": "建軍站(捷運衛武營站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6249717,
+      "lng": 120.3433539,
+      "routes": [
+        "11",
+        "50五福幹線",
+        "52A",
+        "53",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "73",
+        "87",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8001",
+        "紅21",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘8",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11B",
+        "E09區間"
+      ],
+      "routeCount": 26,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393235,
+      "name": "衛武營國家藝術文化中心(三多路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6245361,
+      "lng": 120.3408608,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393236,
+      "name": "國軍高雄總醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6264449,
+      "lng": 120.3423241,
+      "routes": [
+        "53",
+        "73",
+        "87",
+        "紅21",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘8",
+        "橘11A",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393241,
+      "name": "衛武社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6269963,
+      "lng": 120.3442629,
+      "routes": [
+        "30",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "橘8",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2532281820,
+      "name": "三多四路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6133407,
+      "lng": 120.301926,
+      "routes": [
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "205中華幹線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2532281876,
+      "name": "苓洲國小(中華四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.614545,
+      "lng": 120.3016708,
+      "routes": [
+        "205中華幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2532281881,
+      "name": "苓雅路口(中華四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6175717,
+      "lng": 120.3005041,
+      "routes": [
+        "205中華幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281200,
+      "name": "廈門街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6257984,
+      "lng": 120.3147103,
+      "routes": [
+        "90民族幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.278Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281202,
+      "name": "復華中學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6205305,
+      "lng": 120.3143129,
+      "routes": [
+        "90民族幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "8001",
+        "紅21"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281204,
+      "name": "忠孝路口(四維三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6184317,
+      "lng": 120.3080892,
+      "routes": [
+        "90民族幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "紅21"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281209,
+      "name": "興中路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6175795,
+      "lng": 120.311216,
+      "routes": [
+        "36"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281211,
+      "name": "苓雅一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6224983,
+      "lng": 120.3159921,
+      "routes": [
+        "11",
+        "90民族幹線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281213,
+      "name": "苓雅國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6175032,
+      "lng": 120.3053174,
+      "routes": [
+        "90民族幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "224",
+        "紅21"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281216,
+      "name": "青年路口(光華一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6233787,
+      "lng": 120.3159174
+    },
+    {
+      "id": 2557024817,
+      "name": "中正體育場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6237228,
+      "lng": 120.3353467,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2557024824,
+      "name": "五塊厝(三多一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6228234,
+      "lng": 120.3317349,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "81",
+        "100百貨幹線",
+        "8001"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2557024832,
+      "name": "衛武營都會公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6240156,
+      "lng": 120.3375906,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2557024855,
+      "name": "輔仁路口(三多一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6235924,
+      "lng": 120.3339993,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "81",
+        "8001"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130592,
+      "name": "五福中正路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6294386,
+      "lng": 120.3203965,
+      "routes": [
+        "50五福幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130595,
+      "name": "輕軌凱旋公園站(中正一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6296095,
+      "lng": 120.3239114,
+      "routes": [
+        "50五福幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130597,
+      "name": "捷運五塊厝站(中正一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6292378,
+      "lng": 120.328246,
+      "routes": [
+        "50五福幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.279Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130599,
+      "name": "捷運苓雅運動園區站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6273235,
+      "lng": 120.3338172,
+      "routes": [
+        "50五福幹線",
+        "1610A",
+        "1610B",
+        "1610C",
+        "1621",
+        "1650D",
+        "1651",
+        "1660",
+        "1838",
+        "1838A",
+        "1862",
+        "1862A",
+        "1872",
+        "1872A",
+        "7512C",
+        "7512F",
+        "7513A",
+        "7513B",
+        "7513D",
+        "7513F",
+        "7513G",
+        "7513H",
+        "7513I",
+        "7513J",
+        "7513K",
+        "8505",
+        "9127",
+        "9188"
+      ],
+      "routeCount": 28,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130619,
+      "name": "自來水公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6276883,
+      "lng": 120.3149578,
+      "routes": [
+        "50五福幹線",
+        "52A",
+        "72",
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130621,
+      "name": "高雄文化中心(五福國中)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6285252,
+      "lng": 120.317587,
+      "routes": [
+        "50五福幹線",
+        "52A",
+        "72",
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "82",
+        "82公車式小黃",
+        "168環東",
+        "168環東區間",
+        "紅21",
+        "綠2"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2558130625,
+      "name": "麗尊酒店",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6270402,
+      "lng": 120.3131516,
+      "routes": [
+        "50五福幹線",
+        "52A",
+        "72",
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "綠2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559495188,
+      "name": "和平一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6324064,
+      "lng": 120.3172132,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "82",
+        "82公車式小黃",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559495189,
+      "name": "憲政路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6336518,
+      "lng": 120.3260653,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "綠2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559495191,
+      "name": "捷運文化中心站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6296242,
+      "lng": 120.3180884,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "82",
+        "82公車式小黃",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559495193,
+      "name": "聖功醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6326757,
+      "lng": 120.3246671,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "81",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "168環東",
+        "168環東區間",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559495195,
+      "name": "道明中學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6330799,
+      "lng": 120.3227714,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2676526322,
+      "name": "英明三多二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6190625,
+      "lng": 120.3236263,
+      "routes": [
+        "綠1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2676526342,
+      "name": "英明國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6159451,
+      "lng": 120.3249838,
+      "routes": [
+        "綠1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2682024075,
+      "name": "輕軌五權國小站(凱旋二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6211182,
+      "lng": 120.3249616,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "100百貨幹線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2682024082,
+      "name": "同慶路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6272974,
+      "lng": 120.320524,
+      "routes": [
+        "52A",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21",
+        "綠1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2682024139,
+      "name": "凱旋醫院(高師大)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6235439,
+      "lng": 120.3240058,
+      "routes": [
+        "52A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756915,
+      "name": "中正國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6309689,
+      "lng": 120.3343588,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756934,
+      "name": "大仁國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6326292,
+      "lng": 120.3292461,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756956,
+      "name": "建國一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6295821,
+      "lng": 120.3390399,
+      "routes": [
+        "53",
+        "73",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "紅21",
+        "橘18"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756987,
+      "name": "福德市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6328585,
+      "lng": 120.3273818,
+      "routes": [
+        "81",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689757021,
+      "name": "行仁路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6259787,
+      "lng": 120.3430945,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "橘18"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689757023,
+      "name": "輔仁路口(建國一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6317982,
+      "lng": 120.3318687,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "紅21"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689757025,
+      "name": "鳳山行政中心(中山西路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6281025,
+      "lng": 120.343998,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "紅21",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘8",
+        "橘11A",
+        "橘11B"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717246290,
+      "name": "三多二路口(光華夜市)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6187541,
+      "lng": 120.3174479,
+      "routes": [
+        "11",
+        "72",
+        "綠1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717246296,
+      "name": "光華路口(四維二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6216531,
+      "lng": 120.3172104,
+      "routes": [
+        "72",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21",
+        "綠1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717246298,
+      "name": "四維路口(光華一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6204287,
+      "lng": 120.316793,
+      "routes": [
+        "11",
+        "72",
+        "綠1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717246300,
+      "name": "師範大學(和平校區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6253032,
+      "lng": 120.319715,
+      "routes": [
+        "72",
+        "82",
+        "82公車式小黃",
+        "綠1"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.500Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717246302,
+      "name": "廣東一街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6224645,
+      "lng": 120.3196062,
+      "routes": [
+        "72",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "8001",
+        "紅21",
+        "綠1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717251130,
+      "name": "林西街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6175833,
+      "lng": 120.3227132,
+      "routes": [
+        "82",
+        "82公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991379,
+      "name": "四維國小(民權一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6225441,
+      "lng": 120.3122315,
+      "routes": [
+        "11",
+        "25",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "8001",
+        "黃1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991388,
+      "name": "國民市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6221235,
+      "lng": 120.3089043,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991409,
+      "name": "林森二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6161796,
+      "lng": 120.3080227,
+      "routes": [
+        "26A",
+        "26B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991419,
+      "name": "民權路口(青年一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6228151,
+      "lng": 120.3108947,
+      "routes": [
+        "11",
+        "綠2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991439,
+      "name": "青年一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6213282,
+      "lng": 120.3065374,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2722991448,
+      "name": "青年路口(林森二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6207351,
+      "lng": 120.3063396,
+      "routes": [
+        "26A",
+        "26B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2725377634,
+      "name": "民權一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6247448,
+      "lng": 120.3116154,
+      "routes": [
+        "25",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "黃1",
+        "綠2"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728676137,
+      "name": "輕軌衛生局站(凱旋二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6245544,
+      "lng": 120.323615,
+      "routes": [
+        "52A",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21",
+        "綠1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.501Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728676143,
+      "name": "長青服務中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6231195,
+      "lng": 120.3217119,
+      "routes": [
+        "82",
+        "82公車式小黃",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "紅21",
+        "綠1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2733357116,
+      "name": "中華四路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6165189,
+      "lng": 120.3020957,
+      "routes": [
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2733357121,
+      "name": "四維一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6246496,
+      "lng": 120.326077
+    },
+    {
+      "id": 2733357124,
+      "name": "建國一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6323085,
+      "lng": 120.328179,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2733357128,
+      "name": "福安路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6281338,
+      "lng": 120.3273007,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2733357130,
+      "name": "自強三路口(四維四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6154522,
+      "lng": 120.2988296,
+      "routes": [
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428259,
+      "name": "三多一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6226091,
+      "lng": 120.3359521,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428261,
+      "name": "仁德街口(青年二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6195184,
+      "lng": 120.3009836,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428263,
+      "name": "仁智街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.620245,
+      "lng": 120.3032506,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428273,
+      "name": "武昌路口(武營路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6180536,
+      "lng": 120.3364093,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428278,
+      "name": "武營路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6203816,
+      "lng": 120.336226,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428289,
+      "name": "青年二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6186675,
+      "lng": 120.2983708,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2766223872,
+      "name": "福德三路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6218347,
+      "lng": 120.3275638,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2766223875,
+      "name": "福東國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6241417,
+      "lng": 120.3266697,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.502Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2802936740,
+      "name": "五權街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6201576,
+      "lng": 120.3217533,
+      "routes": [
+        "82",
+        "82公車式小黃",
+        "8001"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.503Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2839798228,
+      "name": "正義路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6310988,
+      "lng": 120.3391838
+    },
+    {
+      "id": 2839798233,
+      "name": "臺鐵正義站(正義路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6334066,
+      "lng": 120.3410263,
+      "routes": [
+        "53",
+        "73"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.503Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3180192132,
+      "name": "建軍站(澄清路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6257209,
+      "lng": 120.3441972
+    },
+    {
+      "id": 3470829697,
+      "name": "圖書總館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6110946,
+      "lng": 120.3011321,
+      "routes": [
+        "214",
+        "紅21"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.503Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4186665689,
+      "name": "和欣客運中正站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6282609,
+      "lng": 120.3311102
+    },
+    {
+      "id": 4579273016,
+      "name": "高雄展覽館",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6101061,
+      "lng": 120.2980082,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.283Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4579363124,
+      "name": "三多商圈",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6141528,
+      "lng": 120.3044216,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.283Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4581486084,
+      "name": "文化中心",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6302695,
+      "lng": 120.3176229,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.283Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4581491487,
+      "name": "五塊厝",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6294745,
+      "lng": 120.3276476,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.284Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4581492319,
+      "name": "苓雅運動園區",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6272511,
+      "lng": 120.3346396,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.284Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4581495519,
+      "name": "衛武營",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6251886,
+      "lng": 120.3407993,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.284Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4801892825,
+      "name": "旅運中心",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6116371,
+      "lng": 120.2933482,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.284Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4804112980,
+      "name": "光榮碼頭",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6166858,
+      "lng": 120.2931506,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.284Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5777156178,
+      "name": "中正站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6280168,
+      "lng": 120.3318398,
+      "routes": [
+        "1610",
+        "1610A",
+        "1610B",
+        "1610C",
+        "1610E",
+        "1610G",
+        "1621",
+        "1621D",
+        "1621E",
+        "1650D",
+        "1651",
+        "1660",
+        "1838",
+        "1838A",
+        "1862",
+        "1862A",
+        "1872",
+        "1872A",
+        "7512",
+        "7512B",
+        "7512E",
+        "7513",
+        "7513A",
+        "7513B",
+        "7513D",
+        "7513E",
+        "7513F",
+        "7513G",
+        "7513H",
+        "7513I",
+        "7513J",
+        "7513K"
+      ],
+      "routeCount": 32,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777469565,
+      "name": "國光客運中正站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6279698,
+      "lng": 120.3318036,
+      "routes": [
+        "1610",
+        "1610A",
+        "1610B",
+        "1610C",
+        "1610E",
+        "1610G",
+        "1621",
+        "1621D",
+        "1621E",
+        "1650D",
+        "1651",
+        "1660",
+        "1838",
+        "1838A",
+        "1862",
+        "1862A",
+        "1872",
+        "1872A",
+        "7512",
+        "7512B",
+        "7512E",
+        "7513",
+        "7513A",
+        "7513B",
+        "7513D",
+        "7513E",
+        "7513F",
+        "7513G",
+        "7513H",
+        "7513I",
+        "7513J",
+        "7513K"
+      ],
+      "routeCount": 32,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.506Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8057987305,
+      "name": "凱旋武昌",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6168915,
+      "lng": 120.3268268,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.285Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8057987307,
+      "name": "衛生局",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6251751,
+      "lng": 120.3236496,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.285Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8057987308,
+      "name": "凱旋公園",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6294128,
+      "lng": 120.322824,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.285Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8441963048,
+      "name": "四維永泰路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6145048,
+      "lng": 120.2960296,
+      "routes": [
+        "黃1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.285Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13458136135,
+      "name": "正義路口(建國一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "苓雅區",
+      "lat": 22.6297148,
+      "lng": 120.3390946
+    }
+  ]
+}

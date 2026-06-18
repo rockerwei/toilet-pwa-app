@@ -1,0 +1,736 @@
+{
+  "city": "新竹縣",
+  "district": "五峰鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 54,
+  "items": [
+    {
+      "id": 3359272847,
+      "name": "五峰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.632495,
+      "lng": 121.119877
+    },
+    {
+      "id": 3359284486,
+      "name": "清泉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5750194,
+      "lng": 121.1038204
+    },
+    {
+      "id": 6505772293,
+      "name": "清泉口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5793982,
+      "lng": 121.1037975,
+      "routes": [
+        "5630",
+        "5630A",
+        "醫專6號"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925244,
+      "name": "五峰檢查站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6444446,
+      "lng": 121.1236627
+    },
+    {
+      "id": 7755925245,
+      "name": "南口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6394089,
+      "lng": 121.126636,
+      "routes": [
+        "5630",
+        "5630A",
+        "花園線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925247,
+      "name": "十八兒",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6367254,
+      "lng": 121.1242083,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925249,
+      "name": "林家莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6345294,
+      "lng": 121.1192484,
+      "routes": [
+        "5630",
+        "5630A",
+        "花園線"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925251,
+      "name": "葛家莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6297458,
+      "lng": 121.11926,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925253,
+      "name": "農倉前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6287785,
+      "lng": 121.1180462,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925255,
+      "name": "泰平",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6299343,
+      "lng": 121.1087736,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925257,
+      "name": "隘口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6272543,
+      "lng": 121.105899,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925259,
+      "name": "大隘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6253917,
+      "lng": 121.1039398,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925261,
+      "name": "朱家莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6234885,
+      "lng": 121.1022761,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925263,
+      "name": "平石",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6213421,
+      "lng": 121.1016135,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925265,
+      "name": "高峰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6199499,
+      "lng": 121.1021183,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925267,
+      "name": "茅圃",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6164769,
+      "lng": 121.1023685,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925269,
+      "name": "上茅圃",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6149013,
+      "lng": 121.1035961,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925271,
+      "name": "上白蘭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6120368,
+      "lng": 121.1070836,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925273,
+      "name": "桃山口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5993905,
+      "lng": 121.1091994,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925276,
+      "name": "派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5964307,
+      "lng": 121.1091443,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925277,
+      "name": "桃山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5962044,
+      "lng": 121.1085018,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925279,
+      "name": "士林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5859141,
+      "lng": 121.106576,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925281,
+      "name": "中白蘭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5810426,
+      "lng": 121.1041742,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9990368349,
+      "name": "五峰清泉",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5750719,
+      "lng": 121.1038097
+    },
+    {
+      "id": 9990368350,
+      "name": "雲山民宿",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5388049,
+      "lng": 121.126468,
+      "routes": [
+        "觀光8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9990368352,
+      "name": "雪霸休閒農場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5261131,
+      "lng": 121.1139173,
+      "routes": [
+        "觀光8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747273490,
+      "name": "五峰鄉公所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6307774,
+      "lng": 121.1192782,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747273491,
+      "name": "五峰儲蓄互助社",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6278558,
+      "lng": 121.1191045
+    },
+    {
+      "id": 12747273492,
+      "name": "真耶穌教會五峰教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.628463,
+      "lng": 121.1196048
+    },
+    {
+      "id": 12747273493,
+      "name": "和平橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6255326,
+      "lng": 121.1200497
+    },
+    {
+      "id": 12747273494,
+      "name": "和平部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6200892,
+      "lng": 121.1140376
+    },
+    {
+      "id": 12747273495,
+      "name": "達谷婻教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.627338,
+      "lng": 121.1457364
+    },
+    {
+      "id": 12747273496,
+      "name": "竹林村辦公處",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6246208,
+      "lng": 121.1477227
+    },
+    {
+      "id": 12747273497,
+      "name": "公車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6311351,
+      "lng": 121.1536714
+    },
+    {
+      "id": 12747273498,
+      "name": "真耶穌教會花園教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6449534,
+      "lng": 121.1516416
+    },
+    {
+      "id": 12747273499,
+      "name": "花園部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6462818,
+      "lng": 121.1507978,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747273500,
+      "name": "上比來",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6503176,
+      "lng": 121.1433991,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345101,
+      "name": "樂賀安教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6475805,
+      "lng": 121.1279481,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345102,
+      "name": "五峰消防分隊花園小隊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6458082,
+      "lng": 121.1262448,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345107,
+      "name": "花園國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.647888,
+      "lng": 121.1511645,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345109,
+      "name": "天湖部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6522572,
+      "lng": 121.1597931,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345111,
+      "name": "天湖",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6609335,
+      "lng": 121.173084,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.681Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345112,
+      "name": "大鹿林道起點",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5673455,
+      "lng": 121.0940029
+    },
+    {
+      "id": 12747345114,
+      "name": "艾利風災紀念碑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5652418,
+      "lng": 121.0896744
+    },
+    {
+      "id": 12747345115,
+      "name": "白蘭部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5766361,
+      "lng": 121.0949066
+    },
+    {
+      "id": 12747345117,
+      "name": "鳥嘴山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5791147,
+      "lng": 121.0883954
+    },
+    {
+      "id": 12747345119,
+      "name": "迦南山莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.5852789,
+      "lng": 121.0898094
+    },
+    {
+      "id": 12747345120,
+      "name": "十八兒路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6367192,
+      "lng": 121.1239596,
+      "routes": [
+        "花園線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.659Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747345122,
+      "name": "上舊十八兒",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6433804,
+      "lng": 121.1158311
+    },
+    {
+      "id": 12747345124,
+      "name": "上林家莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.646555,
+      "lng": 121.112907
+    },
+    {
+      "id": 12747345126,
+      "name": "櫻之林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6318689,
+      "lng": 121.0921155
+    },
+    {
+      "id": 12747345128,
+      "name": "鵝公髻山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6248098,
+      "lng": 121.0901405
+    },
+    {
+      "id": 12747345130,
+      "name": "斯卡嵐慕露營區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6139032,
+      "lng": 121.0932064
+    },
+    {
+      "id": 12747345132,
+      "name": "涼山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "五峰鄉",
+      "lat": 24.6091857,
+      "lng": 121.1005865
+    }
+  ]
+}

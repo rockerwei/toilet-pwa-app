@@ -1,0 +1,36 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376430000A_001575",
+      "name": "自然接觸保養品亮點體驗園",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.911739,
+      "lng": 121.134438,
+      "source": "tdx",
+      "sourceId": "C1_376430000A_001575",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "桃園市326楊梅區楊湖路一段351號"
+    },
+    {
+      "id": "coa:172",
+      "name": "江陵日觀休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.912341,
+      "lng": 121.134123,
+      "source": "coa",
+      "sourceId": "172",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "桃園市楊梅區西高山頂15-2號",
+      "phone": "03-4750606"
+    }
+  ]
+}

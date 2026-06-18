@@ -1,0 +1,1744 @@
+{
+  "city": "新北市",
+  "district": "鶯歌區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 102,
+  "items": [
+    {
+      "id": 3248126215,
+      "name": "國際新城",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9764864,
+      "lng": 121.3360206
+    },
+    {
+      "id": 3248126216,
+      "name": "委員會",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9778144,
+      "lng": 121.3355825
+    },
+    {
+      "id": 3313882505,
+      "name": "阿南坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9625479,
+      "lng": 121.3770477,
+      "routes": [
+        "702",
+        "847繞",
+        "F651"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.601Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882506,
+      "name": "茶山",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.958969,
+      "lng": 121.3718141,
+      "routes": [
+        "702"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882507,
+      "name": "牛灶坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.95661,
+      "lng": 121.3647011,
+      "routes": [
+        "702",
+        "F651"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.601Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882508,
+      "name": "高明寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9570508,
+      "lng": 121.3621869,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882509,
+      "name": "北鶯社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9571258,
+      "lng": 121.3580527,
+      "routes": [
+        "939副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.636Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882510,
+      "name": "北鶯",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9571782,
+      "lng": 121.3543409
+    },
+    {
+      "id": 3313882512,
+      "name": "中鶯",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.954836,
+      "lng": 121.3521676,
+      "routes": [
+        "702",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "981",
+        "981繞",
+        "5101"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.601Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882513,
+      "name": "南鶯集會所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.954009,
+      "lng": 121.351401
+    },
+    {
+      "id": 3313882515,
+      "name": "國慶街",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9530945,
+      "lng": 121.350983,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "917",
+        "917延",
+        "939副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.601Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882517,
+      "name": "尖山路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9510108,
+      "lng": 121.3520507
+    },
+    {
+      "id": 3313882518,
+      "name": "陶瓷博物館",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9495711,
+      "lng": 121.352637,
+      "routes": [
+        "702",
+        "731",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "917",
+        "917延",
+        "939副",
+        "981",
+        "981繞",
+        "幸福巴士F652延伸線",
+        "鶯歌火車站-中正紀念堂",
+        "鶯歌火車站-松山機場",
+        "F652"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.605Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3313882519,
+      "name": "客家文化園區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9410434,
+      "lng": 121.3560927,
+      "routes": [
+        "702",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "981",
+        "981繞",
+        "F630長庚醫院林口總院",
+        "F630長福停車場"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4178627541,
+      "name": "北鶯社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9564262,
+      "lng": 121.3568833,
+      "routes": [
+        "702",
+        "731",
+        "939副",
+        "981",
+        "981繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4178627545,
+      "name": "公車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9479183,
+      "lng": 121.3530437
+    },
+    {
+      "id": 4178627546,
+      "name": "公車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.948836,
+      "lng": 121.3528885
+    },
+    {
+      "id": 4178627550,
+      "name": "鐵橋下",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9531663,
+      "lng": 121.3525502,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.637Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4178627553,
+      "name": "阿四坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9582942,
+      "lng": 121.3700404,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.637Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4178627554,
+      "name": "陶瓷博物館",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9505022,
+      "lng": 121.3524308,
+      "routes": [
+        "702",
+        "731",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "917",
+        "917延",
+        "939副",
+        "981",
+        "981繞",
+        "幸福巴士F652延伸線",
+        "鶯歌火車站-中正紀念堂",
+        "鶯歌火車站-松山機場",
+        "F652"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4802842933,
+      "name": "鶯歌",
+      "type": "train",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9545536,
+      "lng": 121.3551582
+    },
+    {
+      "id": 5040164273,
+      "name": "福安",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9636859,
+      "lng": 121.3333751,
+      "routes": [
+        "265",
+        "265D",
+        "F656",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5040164275,
+      "name": "忠孝",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9653273,
+      "lng": 121.3322956
+    },
+    {
+      "id": 5040164290,
+      "name": "華隆",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.966624,
+      "lng": 121.3314442
+    },
+    {
+      "id": 5040164292,
+      "name": "金財神社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9680832,
+      "lng": 121.3302058
+    },
+    {
+      "id": 5040164303,
+      "name": "天合社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.973221,
+      "lng": 121.324738
+    },
+    {
+      "id": 5202310568,
+      "name": "永吉公園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9602597,
+      "lng": 121.3350588,
+      "routes": [
+        "265",
+        "265D",
+        "981",
+        "981繞",
+        "F656",
+        "F657昌福國小",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.606Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202310570,
+      "name": "永吉街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9591423,
+      "lng": 121.3369617,
+      "routes": [
+        "265",
+        "265D",
+        "981",
+        "981繞",
+        "F656",
+        "F657昌福國小",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202343116,
+      "name": "永智街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9550401,
+      "lng": 121.337454,
+      "routes": [
+        "265",
+        "265D",
+        "981",
+        "981繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202343118,
+      "name": "永昌里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9534635,
+      "lng": 121.3403504,
+      "routes": [
+        "F656"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.638Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202343120,
+      "name": "鶯歌國中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9517277,
+      "lng": 121.3426045,
+      "routes": [
+        "265",
+        "265D",
+        "731"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202343522,
+      "name": "鶯歌三號公園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.953413,
+      "lng": 121.3476199
+    },
+    {
+      "id": 5202343524,
+      "name": "建國路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9535661,
+      "lng": 121.3501775,
+      "routes": [
+        "265",
+        "265D",
+        "731",
+        "917",
+        "917延"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202343530,
+      "name": "鐵橋腳",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9528807,
+      "lng": 121.3532047
+    },
+    {
+      "id": 5202343532,
+      "name": "東鶯里辦公處",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9542692,
+      "lng": 121.3556523,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.638Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202401689,
+      "name": "大湖",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9768437,
+      "lng": 121.3324344,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202401691,
+      "name": "國際路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9755006,
+      "lng": 121.3339762,
+      "routes": [
+        "幸福巴士F652延伸線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.638Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5202401693,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9734162,
+      "lng": 121.3363753
+    },
+    {
+      "id": 7131662231,
+      "name": "鶯歌區公所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.955716,
+      "lng": 121.354322,
+      "routes": [
+        "702",
+        "939副",
+        "5101",
+        "幸福巴士F652延伸線",
+        "F652",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7131662237,
+      "name": "文昌街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.953995,
+      "lng": 121.350553,
+      "routes": [
+        "731",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "917",
+        "917延",
+        "939副",
+        "鶯歌火車站-中正紀念堂",
+        "鶯歌火車站-松山機場"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7131662238,
+      "name": "國慶街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.955893,
+      "lng": 121.34878,
+      "routes": [
+        "731",
+        "917",
+        "917延",
+        "981",
+        "981繞",
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.607Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7131662239,
+      "name": "建國國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.955067,
+      "lng": 121.3469728,
+      "routes": [
+        "917",
+        "917延",
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7131662240,
+      "name": "鶯歌火車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9550959,
+      "lng": 121.3549543,
+      "routes": [
+        "265",
+        "265D",
+        "702",
+        "731",
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "917",
+        "917延",
+        "939副",
+        "981",
+        "981繞",
+        "鶯歌火車站-中正紀念堂",
+        "鶯歌火車站-松山機場",
+        "F651",
+        "F651平日加開班次",
+        "F653A",
+        "F653B",
+        "F656"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936025128,
+      "name": "中正三路406巷",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9346972,
+      "lng": 121.3253547,
+      "routes": [
+        "851延駛邱厝巷",
+        "5101",
+        "F651"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936025130,
+      "name": "福德橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9346132,
+      "lng": 121.3234605,
+      "routes": [
+        "5101"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936026859,
+      "name": "頂橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.936582,
+      "lng": 121.3297959,
+      "routes": [
+        "5101"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936026861,
+      "name": "中正三路291巷口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9363096,
+      "lng": 121.3293748,
+      "routes": [
+        "851延駛邱厝巷",
+        "F651"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936026863,
+      "name": "橋仔頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9352309,
+      "lng": 121.3278499
+    },
+    {
+      "id": 7936057845,
+      "name": "亞洛美精靈國度觀光工廠",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.938597,
+      "lng": 121.3335724,
+      "routes": [
+        "851延駛邱厝巷",
+        "F651"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936057846,
+      "name": "三口坡",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9379112,
+      "lng": 121.3321575,
+      "routes": [
+        "5101"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936057848,
+      "name": "宏洲磁磚觀光工廠",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9374394,
+      "lng": 121.3311142,
+      "routes": [
+        "851延駛邱厝巷",
+        "F651"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936089625,
+      "name": "加油站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.950329,
+      "lng": 121.35144,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936089626,
+      "name": "東陽宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9495034,
+      "lng": 121.349659,
+      "routes": [
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936090390,
+      "name": "麗新社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9428204,
+      "lng": 121.3394344,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936090394,
+      "name": "二橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9415946,
+      "lng": 121.3388886,
+      "routes": [
+        "5101"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936090396,
+      "name": "二橋國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9406966,
+      "lng": 121.3376547,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651平日加開班次"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936090399,
+      "name": "鶯歌高職",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9394191,
+      "lng": 121.3354231,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.608Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936101646,
+      "name": "一二三幼稚園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9483908,
+      "lng": 121.3461962
+    },
+    {
+      "id": 7936101650,
+      "name": "尖山路181號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9474691,
+      "lng": 121.3445225,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936101653,
+      "name": "尖山活動中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9463869,
+      "lng": 121.3427483,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "5101",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7936101655,
+      "name": "尖山國中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9455247,
+      "lng": 121.3417129
+    },
+    {
+      "id": 7936101657,
+      "name": "尖山路300-3號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9439476,
+      "lng": 121.3404483,
+      "routes": [
+        "851",
+        "851不經二甲",
+        "851延駛邱厝巷",
+        "F651",
+        "F651平日加開班次"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432380486,
+      "name": "鄭厝巷口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9336793,
+      "lng": 121.3318211,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432380487,
+      "name": "鄭厝巷",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9344963,
+      "lng": 121.3291091,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432380511,
+      "name": "中國砂輪",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.956947,
+      "lng": 121.351427,
+      "routes": [
+        "917",
+        "917延",
+        "939副",
+        "981",
+        "981繞",
+        "幸福巴士F652延伸線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400032,
+      "name": "林長壽圖書館",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.957052,
+      "lng": 121.3495203,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400033,
+      "name": "北鶯公園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.957062,
+      "lng": 121.359804,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.640Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400503,
+      "name": "昌福國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9561464,
+      "lng": 121.3396566,
+      "routes": [
+        "981",
+        "981繞",
+        "F656",
+        "F657昌福國小",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401041,
+      "name": "鳳鳴國中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.967246,
+      "lng": 121.332249,
+      "routes": [
+        "265",
+        "265D",
+        "981",
+        "981繞",
+        "F656",
+        "F657昌福國小",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401054,
+      "name": "鶯歌區公所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.956357,
+      "lng": 121.353589,
+      "routes": [
+        "702",
+        "939副",
+        "5101",
+        "幸福巴士F652延伸線",
+        "F652",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401075,
+      "name": "大湖路與湖山路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.972759,
+      "lng": 121.3419359,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.609Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401076,
+      "name": "余厝巷口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.961765,
+      "lng": 121.342772,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401077,
+      "name": "中山路292號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9569219,
+      "lng": 121.344019,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401078,
+      "name": "育樂街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.955766,
+      "lng": 121.343521,
+      "routes": [
+        "731",
+        "981",
+        "981繞",
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401080,
+      "name": "名湖社區",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.970548,
+      "lng": 121.345214,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401081,
+      "name": "中湖街70號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.972882,
+      "lng": 121.347204,
+      "routes": [
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401082,
+      "name": "大湖路148號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.964371,
+      "lng": 121.342634,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401136,
+      "name": "惠隆宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.954088,
+      "lng": 121.345075,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401380,
+      "name": "東湖里辦公處",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.972236,
+      "lng": 121.351529,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401382,
+      "name": "中山路249巷",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.957108,
+      "lng": 121.345631,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401384,
+      "name": "三湖宮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.971341,
+      "lng": 121.35277,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401385,
+      "name": "鳳鳴國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.969434,
+      "lng": 121.334869,
+      "routes": [
+        "981",
+        "981繞",
+        "F656",
+        "F657昌福國小"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401386,
+      "name": "鳳鳴活動中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.967864,
+      "lng": 121.333066,
+      "routes": [
+        "F656",
+        "F657昌福國小"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401388,
+      "name": "永和街174巷",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.970376,
+      "lng": 121.336003,
+      "routes": [
+        "F656",
+        "F657昌福國小"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401389,
+      "name": "二甲里辦公處",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.934572,
+      "lng": 121.337231,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.640Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401390,
+      "name": "二甲里高速公路橋下",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.936342,
+      "lng": 121.340365,
+      "routes": [
+        "F651"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.640Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401391,
+      "name": "湖山分駐所",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.972971,
+      "lng": 121.345677,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401393,
+      "name": "西湖街289巷旁",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9685343,
+      "lng": 121.3395717,
+      "routes": [
+        "F653B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.640Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401394,
+      "name": "西湖街225號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.964083,
+      "lng": 121.3384667,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401395,
+      "name": "池塘邊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.973619,
+      "lng": 121.349676,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401396,
+      "name": "鶯歌幼兒園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.971638,
+      "lng": 121.3461318,
+      "routes": [
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401399,
+      "name": "中山高架橋橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.959721,
+      "lng": 121.33953,
+      "routes": [
+        "F653A",
+        "F653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401400,
+      "name": "大湖路358號",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.972545,
+      "lng": 121.346312,
+      "routes": [
+        "F653A",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401402,
+      "name": "大竹圍",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.977619,
+      "lng": 121.347433,
+      "routes": [
+        "F653A",
+        "F653B",
+        "F655長庚醫院(總院)",
+        "F655鶯歌區公所"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9857478314,
+      "name": "建國路與鶯桃路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9519243,
+      "lng": 121.3419664,
+      "routes": [
+        "F656"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9857478316,
+      "name": "永新巷口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9531652,
+      "lng": 121.340801
+    },
+    {
+      "id": 9857493618,
+      "name": "農會 (永昌里)",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9544206,
+      "lng": 121.338386,
+      "routes": [
+        "F656"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9857511100,
+      "name": "成功街口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9569412,
+      "lng": 121.3586859,
+      "routes": [
+        "731",
+        "F651"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.610Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11273632685,
+      "name": "三鶯轉運站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9548944,
+      "lng": 121.3583404,
+      "routes": [
+        "731",
+        "917延",
+        "939副",
+        "981繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12385961680,
+      "name": "鳳鳴車站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9723669,
+      "lng": 121.3366881,
+      "routes": [
+        "幸福巴士F652延伸線",
+        "F653A",
+        "F653B",
+        "F656",
+        "F657昌福國小",
+        "F657長庚醫院(總院)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12397928321,
+      "name": "鳳鳴",
+      "type": "train",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9724968,
+      "lng": 121.3367973
+    },
+    {
+      "id": 13734623704,
+      "name": "新北市美術館站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "鶯歌區",
+      "lat": 24.9533528,
+      "lng": 121.3570532,
+      "routes": [
+        "731",
+        "917延",
+        "939副",
+        "981繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.611Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

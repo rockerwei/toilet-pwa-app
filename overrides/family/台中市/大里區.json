@@ -1,0 +1,49 @@
+{
+  "city": "台中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_387000000A_000939",
+      "name": "臺灣印刷探索館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.08716,
+      "lng": 120.69651,
+      "source": "tdx",
+      "sourceId": "C1_387000000A_000939",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "臺中市412大里區中興路一段288號"
+    },
+    {
+      "id": "tdx:C1_387000000A_001645",
+      "name": "3點1刻故事館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.10445,
+      "lng": 120.665466,
+      "source": "tdx",
+      "sourceId": "C1_387000000A_001645",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "臺中市412大里區東興路506號"
+    },
+    {
+      "id": "tdx:C1_387000000A_001647",
+      "name": "丸文食品觀光工廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.10084,
+      "lng": 120.715187,
+      "source": "tdx",
+      "sourceId": "C1_387000000A_001647",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "臺中市412大里區工業十一路156號"
+    }
+  ]
+}

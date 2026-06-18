@@ -1,0 +1,37 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:56",
+      "name": "阿里磅生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.265241,
+      "lng": 121.564128,
+      "source": "coa",
+      "sourceId": "56",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市石門區阿里磅84號",
+      "phone": "02-2638-2745"
+    },
+    {
+      "id": "coa:501",
+      "name": "海園教育休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.29134,
+      "lng": 121.564128,
+      "source": "coa",
+      "sourceId": "501",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市石門區海園路38號",
+      "phone": "無"
+    }
+  ]
+}

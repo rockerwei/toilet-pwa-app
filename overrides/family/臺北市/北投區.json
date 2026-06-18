@@ -1,0 +1,37 @@
+{
+  "city": "臺北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:178",
+      "name": "二崎生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.154321,
+      "lng": 121.523412,
+      "source": "coa",
+      "sourceId": "178",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺北市北投區大屯里復興三路355巷39號",
+      "phone": "02-2891-7787"
+    },
+    {
+      "id": "coa:303",
+      "name": "柏泰園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.112341,
+      "lng": 121.501234,
+      "source": "coa",
+      "sourceId": "303",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺北市北投區立賢路 77 號",
+      "phone": "0915-313-233"
+    }
+  ]
+}

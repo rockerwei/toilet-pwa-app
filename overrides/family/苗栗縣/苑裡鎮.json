@@ -1,0 +1,80 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376450000A_000979",
+      "name": "藺子工作室",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.444361,
+      "lng": 120.653526,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000979",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣苑裡鎮天下路127 號"
+    },
+    {
+      "id": "tdx:C1_376450000A_000991",
+      "name": "愛情果園(苑裡鎮農會)",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.41353,
+      "lng": 120.68544,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000991",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣苑裡鎮彎麗路98號"
+    },
+    {
+      "id": "coa:355",
+      "name": "初色休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.402341,
+      "lng": 120.732145,
+      "source": "coa",
+      "sourceId": "355",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "苗栗縣苑裡鎮蕉埔里5鄰蕉埔52-3號",
+      "phone": "037-747096"
+    },
+    {
+      "id": "coa:280",
+      "name": "吉平休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.405678,
+      "lng": 120.734123,
+      "source": "coa",
+      "sourceId": "280",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "苗栗縣苑裡鎮蕉埔里4鄰蕉埔45之1號",
+      "phone": "037-862509"
+    },
+    {
+      "id": "coa:502",
+      "name": "揚昊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.394142,
+      "lng": 120.7393092,
+      "source": "coa",
+      "sourceId": "502",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "苗栗縣苑裡鎮蕉埔里蕉埔86之7號",
+      "phone": "037-747711"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:471",
+      "name": "美村休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.698124,
+      "lng": 121.802135,
+      "source": "coa",
+      "sourceId": "471",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣五結鄉大吉村大吉一路269號",
+      "phone": "03-960-4869"
+    },
+    {
+      "id": "coa:439",
+      "name": "莫內花園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.695321,
+      "lng": 121.801124,
+      "source": "coa",
+      "sourceId": "439",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣五結鄉大吉村1鄰大吉一路79號",
+      "phone": "0978-259906"
+    },
+    {
+      "id": "coa:131",
+      "name": "香草星空休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.691234,
+      "lng": 121.812341,
+      "source": "coa",
+      "sourceId": "131",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣五結鄉大眾五路310號",
+      "phone": "03-9600123"
+    },
+    {
+      "id": "coa:472",
+      "name": "謝記休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.685352,
+      "lng": 121.779972,
+      "source": "coa",
+      "sourceId": "472",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣五結鄉協和村公園路88號",
+      "phone": "03-950-4646"
+    }
+  ]
+}

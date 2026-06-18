@@ -1,0 +1,607 @@
+{
+  "city": "屏東縣",
+  "district": "新園鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 32,
+  "items": [
+    {
+      "id": 4254126502,
+      "name": "內庄",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.5262509,
+      "lng": 120.4625146,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9127"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893809358,
+      "name": "五房",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4970078,
+      "lng": 120.4416896,
+      "routes": [
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893857772,
+      "name": "下烏龍",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.485675,
+      "lng": 120.458715,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9117",
+        "9117A",
+        "9127"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893857776,
+      "name": "中烏龍",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4893602,
+      "lng": 120.4589094,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9117",
+        "9117A",
+        "9127"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893857778,
+      "name": "烏龍農會",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4904283,
+      "lng": 120.459128,
+      "routes": [
+        "520",
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9117",
+        "9117A",
+        "9127"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893857781,
+      "name": "臥龍路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4917517,
+      "lng": 120.4578097,
+      "routes": [
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4893857783,
+      "name": "興龍路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4952062,
+      "lng": 120.4465324,
+      "routes": [
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4894218030,
+      "name": "鹽琉線船運服務中心",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.470429,
+      "lng": 120.4372965,
+      "routes": [
+        "608",
+        "9127G",
+        "小黃公車712",
+        "小黃公車736A",
+        "小黃公車736CC",
+        "小黃公車736DD",
+        "小黃公車736EE"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845219,
+      "name": "新吉庄",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.53465,
+      "lng": 120.46038,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.827Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845221,
+      "name": "後大厝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.55228,
+      "lng": 120.46625,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845222,
+      "name": "港仔墘",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.537064,
+      "lng": 120.459912,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845224,
+      "name": "瓦磘仔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.5575,
+      "lng": 120.46931,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845225,
+      "name": "仙公廟",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.542549,
+      "lng": 120.460463,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845226,
+      "name": "下新吉庄",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.532586,
+      "lng": 120.460905,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202F"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.184Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845228,
+      "name": "新園鄉公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.545294,
+      "lng": 120.462041,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845239,
+      "name": "上烏龍",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.49339,
+      "lng": 120.45945,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845240,
+      "name": "南興路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.49892,
+      "lng": 120.4604,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845247,
+      "name": "港西",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.51002,
+      "lng": 120.46207,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F",
+        "9127"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731845248,
+      "name": "上港西",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.51388,
+      "lng": 120.46237,
+      "routes": [
+        "8202",
+        "8202A",
+        "8202B",
+        "8202C",
+        "8202F"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13731980675,
+      "name": "鹽埔村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.481407,
+      "lng": 120.445717,
+      "routes": [
+        "8202F"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.184Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116939,
+      "name": "下瓦磘",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.54851,
+      "lng": 120.47094,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116941,
+      "name": "瓦磘國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.551125,
+      "lng": 120.474449,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116953,
+      "name": "五房",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.499792,
+      "lng": 120.437522,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116955,
+      "name": "五房路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.5078428,
+      "lng": 120.4383483,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116957,
+      "name": "頂五房",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.504022,
+      "lng": 120.437638,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.184Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116959,
+      "name": "五房工業區",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.514461,
+      "lng": 120.44477,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116961,
+      "name": "港崗",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.52172,
+      "lng": 120.45138,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116963,
+      "name": "新園",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.52603,
+      "lng": 120.454534,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116965,
+      "name": "鹽洲國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.48786,
+      "lng": 120.44131,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.828Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116967,
+      "name": "中興村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.49516,
+      "lng": 120.43818,
+      "routes": [
+        "8203",
+        "小黃公車712"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.829Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116971,
+      "name": "進德大橋",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.4746,
+      "lng": 120.44461,
+      "routes": [
+        "8203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.829Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13734116973,
+      "name": "鹽埔村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新園鄉",
+      "lat": 22.480828,
+      "lng": 120.443974,
+      "routes": [
+        "8202F",
+        "8203"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.829Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,1514 @@
+{
+  "city": "台中市",
+  "district": "龍井區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 108,
+  "items": [
+    {
+      "id": 2985608575,
+      "name": "坪頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1857603,
+      "lng": 120.5861111
+    },
+    {
+      "id": 2985608576,
+      "name": "坪頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1864837,
+      "lng": 120.5854578
+    },
+    {
+      "id": 2985608585,
+      "name": "東海停車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1839729,
+      "lng": 120.584911
+    },
+    {
+      "id": 2985608587,
+      "name": "新庄里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1794957,
+      "lng": 120.5832412
+    },
+    {
+      "id": 3077215012,
+      "name": "坪頂(專用道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1861296,
+      "lng": 120.5860505
+    },
+    {
+      "id": 3440813984,
+      "name": "下坪頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1871841,
+      "lng": 120.5828698
+    },
+    {
+      "id": 3440814498,
+      "name": "東海街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1849693,
+      "lng": 120.5879824
+    },
+    {
+      "id": 3440814573,
+      "name": "台糖公營學苑",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1834884,
+      "lng": 120.5914193
+    },
+    {
+      "id": 3450848999,
+      "name": "龍井",
+      "type": "train",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1975317,
+      "lng": 120.5431394
+    },
+    {
+      "id": 3450849005,
+      "name": "龍井車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1969631,
+      "lng": 120.5463627
+    },
+    {
+      "id": 3451431167,
+      "name": "莊頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1772444,
+      "lng": 120.5351686
+    },
+    {
+      "id": 3451431168,
+      "name": "茄投奉天宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1787142,
+      "lng": 120.529745
+    },
+    {
+      "id": 3451431174,
+      "name": "茄投中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1794284,
+      "lng": 120.527305
+    },
+    {
+      "id": 3451431176,
+      "name": "茄投尾",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.180146,
+      "lng": 120.524273
+    },
+    {
+      "id": 3451431179,
+      "name": "上莊頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1770192,
+      "lng": 120.5330348
+    },
+    {
+      "id": 3451432939,
+      "name": "龍井區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.192378,
+      "lng": 120.5458281
+    },
+    {
+      "id": 3451432971,
+      "name": "龍井加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1892977,
+      "lng": 120.5456923,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "180",
+        "352",
+        "352延",
+        "617",
+        "675",
+        "677"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.248Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3451432980,
+      "name": "龍崗",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1863868,
+      "lng": 120.5453383
+    },
+    {
+      "id": 3451432985,
+      "name": "深水",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1823733,
+      "lng": 120.545363
+    },
+    {
+      "id": 3451432989,
+      "name": "村內入口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1789067,
+      "lng": 120.5445353
+    },
+    {
+      "id": 3451432991,
+      "name": "竹坑口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1767326,
+      "lng": 120.5441534
+    },
+    {
+      "id": 3457542152,
+      "name": "龍山國小(山腳里)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2136982,
+      "lng": 120.5518982
+    },
+    {
+      "id": 3457542156,
+      "name": "南山腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.210508,
+      "lng": 120.5505438
+    },
+    {
+      "id": 3457542158,
+      "name": "鷺山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2078399,
+      "lng": 120.5493535
+    },
+    {
+      "id": 3457542160,
+      "name": "龍目井",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2031428,
+      "lng": 120.5482737
+    },
+    {
+      "id": 3457542162,
+      "name": "龍泉",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1994419,
+      "lng": 120.5468351
+    },
+    {
+      "id": 3486473288,
+      "name": "國際遠東街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1885652,
+      "lng": 120.5965707
+    },
+    {
+      "id": 3486474543,
+      "name": "遠東街園中園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1901079,
+      "lng": 120.5911641,
+      "routes": [
+        "324",
+        "324區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3486474545,
+      "name": "遠東街風采風",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.190836,
+      "lng": 120.5883198
+    },
+    {
+      "id": 3486474547,
+      "name": "遠東街169巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1893868,
+      "lng": 120.5943368,
+      "routes": [
+        "324",
+        "324區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3486521501,
+      "name": "遊園北路都會皇家",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1912994,
+      "lng": 120.5902048
+    },
+    {
+      "id": 3486521503,
+      "name": "遊園北路寶莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1908489,
+      "lng": 120.5927909
+    },
+    {
+      "id": 3558886068,
+      "name": "永順宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1826398,
+      "lng": 120.5759246,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753854,
+      "name": "天母櫻城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1934378,
+      "lng": 120.5639587,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753863,
+      "name": "水裡社公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1988066,
+      "lng": 120.5637112,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753869,
+      "name": "裕國社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1955484,
+      "lng": 120.563916,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641753873,
+      "name": "龍沙橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1999894,
+      "lng": 120.5633394,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3720792794,
+      "name": "東海商圈",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1811683,
+      "lng": 120.5913074,
+      "routes": [
+        "323",
+        "361"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.250Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3720792795,
+      "name": "陽明別墅",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1813968,
+      "lng": 120.5868595,
+      "routes": [
+        "323"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3720792798,
+      "name": "新興遊園南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1818382,
+      "lng": 120.5850161,
+      "routes": [
+        "323"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3720792801,
+      "name": "磐頂教會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1768545,
+      "lng": 120.5822298,
+      "routes": [
+        "323",
+        "325",
+        "352",
+        "352延",
+        "355",
+        "360",
+        "360副",
+        "361"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797857141,
+      "name": "中興向上路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1848521,
+      "lng": 120.5761098,
+      "routes": [
+        "658",
+        "658延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797857143,
+      "name": "中興臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1874181,
+      "lng": 120.5787596,
+      "routes": [
+        "658",
+        "658延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797857144,
+      "name": "中興臺灣大道口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1869215,
+      "lng": 120.5777071,
+      "routes": [
+        "658",
+        "658延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3834358565,
+      "name": "國際藝術街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1872021,
+      "lng": 120.5956248,
+      "routes": [
+        "324區"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4057882238,
+      "name": "巧聖先師",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1751642,
+      "lng": 120.5814365,
+      "routes": [
+        "67",
+        "67繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4379133804,
+      "name": "沙田中華路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1738298,
+      "lng": 120.5434679,
+      "routes": [
+        "93",
+        "105",
+        "105延",
+        "180",
+        "352",
+        "352延",
+        "617"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883569,
+      "name": "南寮里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1758474,
+      "lng": 120.5702722
+    },
+    {
+      "id": 4634883570,
+      "name": "四箴國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.178933,
+      "lng": 120.5756192,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4634883573,
+      "name": "自強新城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1758596,
+      "lng": 120.5756621,
+      "routes": [
+        "290",
+        "290繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776524119,
+      "name": "一號橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2090804,
+      "lng": 120.5239972,
+      "routes": [
+        "237",
+        "237區",
+        "361",
+        "677",
+        "677區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776524121,
+      "name": "忠和",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2108582,
+      "lng": 120.5246155,
+      "routes": [
+        "237",
+        "237區",
+        "361",
+        "677",
+        "677區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776524124,
+      "name": "崙仔頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2131616,
+      "lng": 120.5252922,
+      "routes": [
+        "237",
+        "237區",
+        "361",
+        "677",
+        "677區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776524125,
+      "name": "高園子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2149844,
+      "lng": 120.5260089,
+      "routes": [
+        "237",
+        "237區",
+        "361",
+        "677",
+        "677區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776524128,
+      "name": "海尾巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.218524,
+      "lng": 120.5271596,
+      "routes": [
+        "237",
+        "237區",
+        "361",
+        "677",
+        "677區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.251Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776829799,
+      "name": "二號橋(中央路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1972824,
+      "lng": 120.5231792
+    },
+    {
+      "id": 5776829801,
+      "name": "海埔厝庄頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.202557,
+      "lng": 120.5234876
+    },
+    {
+      "id": 5776829804,
+      "name": "龍井市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2040102,
+      "lng": 120.5235171,
+      "routes": [
+        "237",
+        "237區",
+        "677",
+        "677區",
+        "黃11"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776829837,
+      "name": "三德",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2062976,
+      "lng": 120.5235976,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875801,
+      "name": "龍井國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1832898,
+      "lng": 120.5306411,
+      "routes": [
+        "677",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875803,
+      "name": "南田中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1865563,
+      "lng": 120.5297291,
+      "routes": [
+        "677",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875805,
+      "name": "福田宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1902949,
+      "lng": 120.5304721,
+      "routes": [
+        "677",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875813,
+      "name": "田中社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1933752,
+      "lng": 120.5309173
+    },
+    {
+      "id": 5776875820,
+      "name": "龍北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1949117,
+      "lng": 120.5308101
+    },
+    {
+      "id": 5776875822,
+      "name": "臨港東中央路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1961643,
+      "lng": 120.5237049,
+      "routes": [
+        "677"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776875825,
+      "name": "臨港東中央路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1962646,
+      "lng": 120.5247858
+    },
+    {
+      "id": 7139800988,
+      "name": "臨港東西濱路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1980641,
+      "lng": 120.5147651,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139800990,
+      "name": "龍二橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1966943,
+      "lng": 120.5226937,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139800992,
+      "name": "三港護岸路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1975215,
+      "lng": 120.504393,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139800994,
+      "name": "麗水",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2007601,
+      "lng": 120.4981703,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139800995,
+      "name": "龍港國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.198502,
+      "lng": 120.5004689
+    },
+    {
+      "id": 7139800999,
+      "name": "福田里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1896208,
+      "lng": 120.5165139,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801000,
+      "name": "龍津",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.199828,
+      "lng": 120.5235869
+    },
+    {
+      "id": 7139801006,
+      "name": "臨港東西濱路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.198069,
+      "lng": 120.5165192,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801009,
+      "name": "福田社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.197264,
+      "lng": 120.5187938,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801016,
+      "name": "田尾厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1829662,
+      "lng": 120.5219306
+    },
+    {
+      "id": 7139801021,
+      "name": "海埔仔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1933813,
+      "lng": 120.5127373,
+      "routes": [
+        "237"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801026,
+      "name": "田仔內",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1998537,
+      "lng": 120.5088146,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8292034614,
+      "name": "中央南護岸路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1874493,
+      "lng": 120.5215618
+    },
+    {
+      "id": 8292083818,
+      "name": "福田",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1894874,
+      "lng": 120.5216745
+    },
+    {
+      "id": 8292083821,
+      "name": "中央南舊車路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.19258,
+      "lng": 120.5222028
+    },
+    {
+      "id": 8292083823,
+      "name": "庄尾福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1949043,
+      "lng": 120.5226186
+    },
+    {
+      "id": 10258142091,
+      "name": "龍津高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2043532,
+      "lng": 120.5209275,
+      "routes": [
+        "105延",
+        "361",
+        "675",
+        "黃11"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539267,
+      "name": "遊園北遠東街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1912576,
+      "lng": 120.5875523,
+      "routes": [
+        "352",
+        "352延",
+        "355"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539269,
+      "name": "坪頂(遊園北路口)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1868581,
+      "lng": 120.5860561,
+      "routes": [
+        "352",
+        "352延",
+        "355"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259539271,
+      "name": "向上中沙路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1777979,
+      "lng": 120.5757988
+    },
+    {
+      "id": 10259539273,
+      "name": "向上南新路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1811374,
+      "lng": 120.5746715
+    },
+    {
+      "id": 10259539275,
+      "name": "向上西屯路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1833799,
+      "lng": 120.5744558,
+      "routes": [
+        "352",
+        "352延",
+        "675"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12049083161,
+      "name": "龍社路中社六街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2019607,
+      "lng": 120.5603971,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.252Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12117284957,
+      "name": "向上遊園路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1759093,
+      "lng": 120.5820868
+    },
+    {
+      "id": 12128566867,
+      "name": "南寮王母宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1776892,
+      "lng": 120.5711931,
+      "routes": [
+        "361"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566869,
+      "name": "水師寮兒童公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1914146,
+      "lng": 120.5490141,
+      "routes": [
+        "361"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566871,
+      "name": "龍崗一站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.192567,
+      "lng": 120.5468504,
+      "routes": [
+        "361",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566873,
+      "name": "永忠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2210913,
+      "lng": 120.5321101,
+      "routes": [
+        "361"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.328Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470470,
+      "name": "三港路427巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2057571,
+      "lng": 120.5127977,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470474,
+      "name": "龍津國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2010172,
+      "lng": 120.5204105,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470476,
+      "name": "中央路一段3巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1986226,
+      "lng": 120.5195988,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470477,
+      "name": "龍井三德游泳池",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2031341,
+      "lng": 120.5253187,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470479,
+      "name": "龍泉國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1965606,
+      "lng": 120.5483853,
+      "routes": [
+        "黃11",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470481,
+      "name": "龍目井126巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.198706,
+      "lng": 120.5475487,
+      "routes": [
+        "黃11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483405,
+      "name": "龍新路216巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1947091,
+      "lng": 120.5490678,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483407,
+      "name": "龍井國中(觀光路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1923046,
+      "lng": 120.5443299,
+      "routes": [
+        "黃11",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483409,
+      "name": "觀光路135巷",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1921107,
+      "lng": 120.5385541,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.253Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483412,
+      "name": "龍井區農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1808506,
+      "lng": 120.529266,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.254Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483414,
+      "name": "福頭崙巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1898837,
+      "lng": 120.5166187,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.254Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483416,
+      "name": "福田社區活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.1927276,
+      "lng": 120.5176068,
+      "routes": [
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.254Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483418,
+      "name": "麗水里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.2027069,
+      "lng": 120.5014017,
+      "routes": [
+        "黃11",
+        "黃24",
+        "黃24延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.254Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13586418115,
+      "name": "南社路二段",
+      "type": "bus",
+      "city": "台中市",
+      "district": "龍井區",
+      "lat": 24.193548,
+      "lng": 120.5619919,
+      "routes": [
+        "353"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.328Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

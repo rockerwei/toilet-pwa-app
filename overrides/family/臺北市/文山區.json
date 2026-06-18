@@ -1,0 +1,52 @@
+{
+  "city": "臺北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:442",
+      "name": "慈音山莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.976543,
+      "lng": 121.567891,
+      "source": "coa",
+      "sourceId": "442",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺北市文山區老泉街26巷11-2號",
+      "phone": "02-2937-5256"
+    },
+    {
+      "id": "coa:52",
+      "name": "杏花林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.974411,
+      "lng": 121.558315,
+      "source": "coa",
+      "sourceId": "52",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市文山區老泉街45巷30號",
+      "phone": "02-2939-4866"
+    },
+    {
+      "id": "coa:270",
+      "name": "老泉養生休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.970255,
+      "lng": 121.551829,
+      "source": "coa",
+      "sourceId": "270",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市文山區老泉街26巷12號",
+      "phone": "02-2936-1230"
+    }
+  ]
+}

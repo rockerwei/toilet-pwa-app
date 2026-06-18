@@ -1,0 +1,242 @@
+{
+  "city": "屏東縣",
+  "district": "滿州鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 13,
+  "items": [
+    {
+      "id": 4920999145,
+      "name": "公館(恆)",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 21.9918935,
+      "lng": 120.8330594,
+      "routes": [
+        "103",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4920999147,
+      "name": "海墘",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 21.9897904,
+      "lng": 120.8418913,
+      "routes": [
+        "103",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4920999149,
+      "name": "茶山",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 21.9906571,
+      "lng": 120.8395011,
+      "routes": [
+        "103",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4931849406,
+      "name": "永港國小 (正門)",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0061514,
+      "lng": 120.8171339,
+      "routes": [
+        "103",
+        "303",
+        "303A",
+        "304",
+        "304A",
+        "幸福滿州1路",
+        "幸福滿州8路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4931849407,
+      "name": "新庄路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0052319,
+      "lng": 120.8162561
+    },
+    {
+      "id": 4931849409,
+      "name": "橋頭路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0007033,
+      "lng": 120.8195995,
+      "routes": [
+        "103",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.193Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4931849411,
+      "name": "港口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 21.9909345,
+      "lng": 120.8240251,
+      "routes": [
+        "103",
+        "303"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4931967309,
+      "name": "下滿州",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.00724,
+      "lng": 120.8271217,
+      "routes": [
+        "303",
+        "303A",
+        "304",
+        "304A",
+        "幸福滿州1路",
+        "幸福滿州8路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4938768816,
+      "name": "滿州",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0213231,
+      "lng": 120.8388993
+    },
+    {
+      "id": 4972084528,
+      "name": "永靖",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0051193,
+      "lng": 120.8096304,
+      "routes": [
+        "103",
+        "303",
+        "303A",
+        "304",
+        "304A",
+        "幸福滿州1路",
+        "幸福滿州8路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4972538754,
+      "name": "大崎",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0086027,
+      "lng": 120.7901086,
+      "routes": [
+        "103",
+        "303",
+        "303A",
+        "304",
+        "304A",
+        "幸福滿州1路",
+        "幸福滿州8路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4972538756,
+      "name": "和興路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0093512,
+      "lng": 120.7951713,
+      "routes": [
+        "103",
+        "303",
+        "303A",
+        "304",
+        "304A",
+        "幸福滿州1路",
+        "幸福滿州8路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4972538761,
+      "name": "春興路口(七孔瀑布)",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "滿州鄉",
+      "lat": 22.0074426,
+      "lng": 120.8063963,
+      "routes": [
+        "103",
+        "303",
+        "303A",
+        "304",
+        "304A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.840Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

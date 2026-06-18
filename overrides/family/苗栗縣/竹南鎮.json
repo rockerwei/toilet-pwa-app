@@ -1,0 +1,51 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376450000A_000043",
+      "name": "四方牧場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.72163,
+      "lng": 120.891853,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000043",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣竹南鎮崎頂里東崎頂9之6號"
+    },
+    {
+      "id": "coa:202",
+      "name": "三灣星光休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.681234,
+      "lng": 120.876543,
+      "source": "coa",
+      "sourceId": "202",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "苗栗縣竹南鎮",
+      "phone": "03-3019907"
+    },
+    {
+      "id": "coa:277",
+      "name": "金椿休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.661234,
+      "lng": 120.912341,
+      "source": "coa",
+      "sourceId": "277",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "苗栗縣竹南鎮永和村三鄰石馬店18-3號",
+      "phone": "03-7831195"
+    }
+  ]
+}

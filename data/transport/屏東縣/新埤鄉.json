@@ -1,0 +1,55 @@
+{
+  "city": "屏東縣",
+  "district": "新埤鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 3,
+  "items": [
+    {
+      "id": 5056935863,
+      "name": "沙崙",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新埤鄉",
+      "lat": 22.4757459,
+      "lng": 120.5454626,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.829Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056935872,
+      "name": "新埤",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新埤鄉",
+      "lat": 22.4701916,
+      "lng": 120.54773,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.829Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056935874,
+      "name": "明真寺",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "新埤鄉",
+      "lat": 22.4659368,
+      "lng": 120.5492629
+    }
+  ]
+}

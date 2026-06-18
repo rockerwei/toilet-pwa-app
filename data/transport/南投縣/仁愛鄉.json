@@ -1,0 +1,1321 @@
+{
+  "city": "南投縣",
+  "district": "仁愛鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 74,
+  "items": [
+    {
+      "id": 3124088809,
+      "name": "碧湖",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0264886,
+      "lng": 121.1367231,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3124090695,
+      "name": "楓林口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0034138,
+      "lng": 121.065689,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3124090696,
+      "name": "下松林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9950457,
+      "lng": 121.0768958,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3124090698,
+      "name": "壽亭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0391795,
+      "lng": 121.1581242,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3125053946,
+      "name": "武嶺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1372816,
+      "lng": 121.2754533,
+      "routes": [
+        "6658A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3125625894,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0063851,
+      "lng": 121.0936549,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283640060,
+      "name": "松泉崗",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.218014,
+      "lng": 121.3052228
+    },
+    {
+      "id": 3283644287,
+      "name": "日新崗",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1984359,
+      "lng": 121.3047561
+    },
+    {
+      "id": 3283645045,
+      "name": "碧綠溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.2233904,
+      "lng": 121.2897975
+    },
+    {
+      "id": 5105854384,
+      "name": "南豐",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9959921,
+      "lng": 121.070559,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5105877262,
+      "name": "楓樹林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0003929,
+      "lng": 121.0810706,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.382Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5106911520,
+      "name": "南山溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0045314,
+      "lng": 121.0885204,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5106912722,
+      "name": "新內山加油站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0029057,
+      "lng": 121.0849223,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5106975155,
+      "name": "仁愛橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0079396,
+      "lng": 121.1119884,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5106975157,
+      "name": "眉溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0115524,
+      "lng": 121.1025524,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107013646,
+      "name": "霧社",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0222325,
+      "lng": 121.1321077,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107013648,
+      "name": "保護站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0178569,
+      "lng": 121.1307384,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107013650,
+      "name": "板下",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0165162,
+      "lng": 121.1245868,
+      "routes": [
+        "6658",
+        "6659",
+        "6660",
+        "6660A",
+        "6661",
+        "6661A",
+        "6663",
+        "6664"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107032834,
+      "name": "仁愛國中",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0321512,
+      "lng": 121.1421646,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107120121,
+      "name": "檢查站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0391559,
+      "lng": 121.1452532
+    },
+    {
+      "id": 5107373401,
+      "name": "清境龍莊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0377002,
+      "lng": 121.157309,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.642Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107373403,
+      "name": "五里坡",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0344196,
+      "lng": 121.1493798,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107373406,
+      "name": "茲心園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0334225,
+      "lng": 121.1543988,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107373409,
+      "name": "以馬內利",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0368086,
+      "lng": 121.1468351,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107409314,
+      "name": "清境農場旅服中心",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0467898,
+      "lng": 121.1559606,
+      "routes": [
+        "2",
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107409317,
+      "name": "國民賓館",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0443538,
+      "lng": 121.1556052,
+      "routes": [
+        "2",
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107409319,
+      "name": "定遠新村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0457402,
+      "lng": 121.1582968,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107409322,
+      "name": "清境國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0438137,
+      "lng": 121.158001,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107409325,
+      "name": "見晴山莊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0411094,
+      "lng": 121.1581372,
+      "routes": [
+        "6658",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107418128,
+      "name": "觀山牧區",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0547453,
+      "lng": 121.1621135,
+      "routes": [
+        "2",
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107421438,
+      "name": "青青草原",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0593168,
+      "lng": 121.1637939,
+      "routes": [
+        "2",
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107462606,
+      "name": "娜嚕灣",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0627799,
+      "lng": 121.1675866,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107462608,
+      "name": "蘋果園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0649853,
+      "lng": 121.1673921,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107511623,
+      "name": "松崗",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0742082,
+      "lng": 121.1689103,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107511625,
+      "name": "挪威森林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0721389,
+      "lng": 121.1686984,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107511627,
+      "name": "富嘉果園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0665698,
+      "lng": 121.1678857,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107511629,
+      "name": "仁莊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0680931,
+      "lng": 121.1678937,
+      "routes": [
+        "6658",
+        "6658A",
+        "6659",
+        "6664"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107527853,
+      "name": "翠峰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1053785,
+      "lng": 121.1974034
+    },
+    {
+      "id": 5107527855,
+      "name": "翠峰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1061894,
+      "lng": 121.1985554,
+      "routes": [
+        "6658",
+        "6658A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107527857,
+      "name": "道班房",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1043005,
+      "lng": 121.1952348,
+      "routes": [
+        "6658",
+        "6658A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107527859,
+      "name": "梅峰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0896746,
+      "lng": 121.1744537,
+      "routes": [
+        "6658",
+        "6658A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107538062,
+      "name": "鳶峰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1180912,
+      "lng": 121.2371765,
+      "routes": [
+        "6658A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107574010,
+      "name": "日新崗",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.2020335,
+      "lng": 121.2971306
+    },
+    {
+      "id": 5810172780,
+      "name": "麒麟橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9238248,
+      "lng": 121.0019709,
+      "routes": [
+        "1",
+        "1A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5810175273,
+      "name": "卓社入口處",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9160954,
+      "lng": 121.0178456,
+      "routes": [
+        "1",
+        "1A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5810195091,
+      "name": "法治",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.910424,
+      "lng": 121.0479601,
+      "routes": [
+        "1",
+        "1A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.643Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5810195093,
+      "name": "帝納",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9109549,
+      "lng": 121.0455702,
+      "routes": [
+        "1",
+        "1A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5810195095,
+      "name": "界山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.913261,
+      "lng": 121.0426701,
+      "routes": [
+        "1",
+        "1A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5816804846,
+      "name": "萬豐舊部落",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.930127,
+      "lng": 121.0746869,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5816804848,
+      "name": "哥哥萬",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9239989,
+      "lng": 121.0718197,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5816807334,
+      "name": "曲冰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9551314,
+      "lng": 121.0802203,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5816807336,
+      "name": "萬豐",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.946237,
+      "lng": 121.075446,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5816807338,
+      "name": "台木",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9352067,
+      "lng": 121.0756204,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6382200419,
+      "name": "萬大",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 23.9735286,
+      "lng": 121.1282154,
+      "routes": [
+        "6663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7918801986,
+      "name": "公車接駁處(6658)",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.044711,
+      "lng": 121.157467,
+      "routes": [
+        "2",
+        "6658A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7937666285,
+      "name": "廬山溫泉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0228151,
+      "lng": 121.18514,
+      "routes": [
+        "6660",
+        "6660A",
+        "6661",
+        "6661A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499021,
+      "name": "新生村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0777268,
+      "lng": 120.9869327,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.643Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499023,
+      "name": "中原口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0624027,
+      "lng": 120.9642492,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499025,
+      "name": "清流",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.062596,
+      "lng": 120.95394,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499029,
+      "name": "服務站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.090345,
+      "lng": 121.0312539,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499032,
+      "name": "咖啡園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0812935,
+      "lng": 121.0148227,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499034,
+      "name": "眉原",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0722186,
+      "lng": 120.9820042,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499037,
+      "name": "中原新村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0665202,
+      "lng": 120.9734807,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499039,
+      "name": "萱野",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0786448,
+      "lng": 121.0013291,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499041,
+      "name": "惠蓀林場",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0868982,
+      "lng": 121.0338874,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499044,
+      "name": "收費站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.07587,
+      "lng": 120.99841,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.643Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499046,
+      "name": "中原",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0644286,
+      "lng": 120.9681285,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499048,
+      "name": "清流部落",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0665607,
+      "lng": 120.9532658,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.644Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499049,
+      "name": "伴天聊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0755789,
+      "lng": 120.9853125,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499051,
+      "name": "露營區",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0856106,
+      "lng": 121.0218987,
+      "routes": [
+        "6652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596075,
+      "name": "泰雅渡假村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0666687,
+      "lng": 120.9410579,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10983173353,
+      "name": "福壽山農場露營區",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.219594,
+      "lng": 121.2398133
+    },
+    {
+      "id": 13465793484,
+      "name": "廬山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.0347153,
+      "lng": 121.1856014,
+      "routes": [
+        "6660",
+        "6660A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13676576676,
+      "name": "合歡山管理站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "仁愛鄉",
+      "lat": 24.1615357,
+      "lng": 121.2870448,
+      "routes": [
+        "6658A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.386Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

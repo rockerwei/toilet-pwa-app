@@ -1,0 +1,384 @@
+{
+  "city": "花蓮縣",
+  "district": "瑞穗鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 25,
+  "items": [
+    {
+      "id": 289680443,
+      "name": "富源",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5803194,
+      "lng": 121.3802659
+    },
+    {
+      "id": 289680444,
+      "name": "瑞穗",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.497742,
+      "lng": 121.3765669
+    },
+    {
+      "id": 3266723008,
+      "name": "馬遠分校",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5366041,
+      "lng": 121.3772402
+    },
+    {
+      "id": 3266723073,
+      "name": "馬遠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5737897,
+      "lng": 121.3740752
+    },
+    {
+      "id": 3266724861,
+      "name": "富源",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5809483,
+      "lng": 121.3789675,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266725061,
+      "name": "富源派出所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5773297,
+      "lng": 121.3760707,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266725224,
+      "name": "富民",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5703873,
+      "lng": 121.3736675,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266725225,
+      "name": "自立新村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5621464,
+      "lng": 121.3768432,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.175Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266729461,
+      "name": "瑞北國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.5262068,
+      "lng": 121.3782594,
+      "routes": [
+        "1122",
+        "1137",
+        "1142"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.086Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266730279,
+      "name": "瑞穗",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4989842,
+      "lng": 121.3773305,
+      "routes": [
+        "1122",
+        "1135",
+        "1135A",
+        "1137",
+        "1142",
+        "1143"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817622,
+      "name": "泛舟遊客中心",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4895215,
+      "lng": 121.4016872,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817623,
+      "name": "瑞良",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4933591,
+      "lng": 121.3928515,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817624,
+      "name": "瑞美國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4937276,
+      "lng": 121.3917203,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280817625,
+      "name": "瑞穗農會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4967302,
+      "lng": 121.3802471,
+      "routes": [
+        "1135",
+        "1135A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282376529,
+      "name": "瑞穗加油站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4910373,
+      "lng": 121.3760689
+    },
+    {
+      "id": 3282376530,
+      "name": "馬立雲",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4739602,
+      "lng": 121.3565053,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.086Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282376531,
+      "name": "掃叭頂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4693587,
+      "lng": 121.3596039,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.086Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282376538,
+      "name": "鶴山茶園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4640014,
+      "lng": 121.3555401
+    },
+    {
+      "id": 3282376539,
+      "name": "舞鶴",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4606164,
+      "lng": 121.3538623,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282376540,
+      "name": "藥師壇城",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4507567,
+      "lng": 121.3536025,
+      "routes": [
+        "1137",
+        "1142"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.086Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282376541,
+      "name": "大彎",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4454903,
+      "lng": 121.3496021
+    },
+    {
+      "id": 3285304338,
+      "name": "水利工作站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4957901,
+      "lng": 121.3656959,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3285305415,
+      "name": "瑞穗國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4969465,
+      "lng": 121.3735577,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3285305416,
+      "name": "淨水廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4937946,
+      "lng": 121.3536828,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3285305661,
+      "name": "紅葉國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "瑞穗鄉",
+      "lat": 23.4950512,
+      "lng": 121.3461721,
+      "routes": [
+        "1143"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

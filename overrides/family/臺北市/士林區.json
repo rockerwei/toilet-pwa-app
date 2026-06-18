@@ -1,0 +1,52 @@
+{
+  "city": "臺北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:6",
+      "name": "福田園教育休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.138407,
+      "lng": 121.564414,
+      "source": "coa",
+      "sourceId": "6",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市士林區菁山路131巷18號",
+      "phone": "02-2862-2145"
+    },
+    {
+      "id": "coa:142",
+      "name": "日月滿休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.13289,
+      "lng": 121.57463,
+      "source": "coa",
+      "sourceId": "142",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市士林區平等里平菁街150號",
+      "phone": "02-2861-4116"
+    },
+    {
+      "id": "coa:319",
+      "name": "梅居休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.1325,
+      "lng": 121.574444,
+      "source": "coa",
+      "sourceId": "319",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市士林區平等里平菁街43巷99號",
+      "phone": "0905-169-176"
+    }
+  ]
+}

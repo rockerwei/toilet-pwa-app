@@ -1,0 +1,1470 @@
+{
+  "city": "台中市",
+  "district": "梧棲區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 96,
+  "items": [
+    {
+      "id": 3415722675,
+      "name": "中華長春路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2562976,
+      "lng": 120.5580614
+    },
+    {
+      "id": 3415722677,
+      "name": "中華田尾巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2540652,
+      "lng": 120.5575063,
+      "routes": [
+        "95",
+        "95區",
+        "616"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.919Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415722679,
+      "name": "中華大智路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2503904,
+      "lng": 120.5553758
+    },
+    {
+      "id": 3415722692,
+      "name": "中華路201巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2485124,
+      "lng": 120.5544787
+    },
+    {
+      "id": 3415724694,
+      "name": "中港國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2426859,
+      "lng": 120.5556311,
+      "routes": [
+        "95",
+        "95區",
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "677",
+        "677區",
+        "679副",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.920Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415724697,
+      "name": "臺灣大道民和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2452804,
+      "lng": 120.5484929,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "310",
+        "310區2",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679副",
+        "679副2",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 24,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.921Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415724699,
+      "name": "東大庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2461089,
+      "lng": 120.546222,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679副",
+        "679副2",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.921Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415724702,
+      "name": "中港高中(臺灣大道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2471441,
+      "lng": 120.5446013,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679副",
+        "679副2",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.922Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3415724704,
+      "name": "童綜合醫院(梧棲院區)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2472332,
+      "lng": 120.5432046
+    },
+    {
+      "id": 3418891296,
+      "name": "臺中港旅客服務中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2598014,
+      "lng": 120.5218953
+    },
+    {
+      "id": 3418891338,
+      "name": "臺中港港務大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2560664,
+      "lng": 120.5242609,
+      "routes": [
+        "308",
+        "308副繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.923Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3419810146,
+      "name": "安仁里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2537902,
+      "lng": 120.5285376
+    },
+    {
+      "id": 3419810150,
+      "name": "梧棲(朝元宮)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2565615,
+      "lng": 120.5294961
+    },
+    {
+      "id": 3419810157,
+      "name": "梧棲郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2574824,
+      "lng": 120.5297118
+    },
+    {
+      "id": 3419810159,
+      "name": "下寮社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2586549,
+      "lng": 120.5301508
+    },
+    {
+      "id": 3419810161,
+      "name": "下寮里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2606504,
+      "lng": 120.5302416,
+      "routes": [
+        "128",
+        "238",
+        "239",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "308",
+        "308副",
+        "679",
+        "679副",
+        "679副2",
+        "679繞"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.926Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3419810163,
+      "name": "大智梧北路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2610997,
+      "lng": 120.5297415
+    },
+    {
+      "id": 3419810165,
+      "name": "頂寮里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2602082,
+      "lng": 120.5321987
+    },
+    {
+      "id": 3419810167,
+      "name": "再生能源處",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2592548,
+      "lng": 120.5348605,
+      "routes": [
+        "183",
+        "186",
+        "238",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307副",
+        "310",
+        "310區2"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.927Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3419810175,
+      "name": "臺銀中港分行",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2599951,
+      "lng": 120.5363908
+    },
+    {
+      "id": 3419810177,
+      "name": "臺中港郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2616654,
+      "lng": 120.5370893
+    },
+    {
+      "id": 3419810191,
+      "name": "舶來品商圈",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2712684,
+      "lng": 120.5318117,
+      "routes": [
+        "170",
+        "183",
+        "186",
+        "239",
+        "307",
+        "688"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639368761,
+      "name": "竹圍(港埠路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.261728,
+      "lng": 120.5415777
+    },
+    {
+      "id": 3639401805,
+      "name": "大庄(浩天宮)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2487945,
+      "lng": 120.5388127,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679",
+        "679副",
+        "679副2",
+        "679繞",
+        "7511",
+        "黃20"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.928Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639401809,
+      "name": "梧棲(文化路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2571857,
+      "lng": 120.5316974
+    },
+    {
+      "id": 3639401811,
+      "name": "梧棲國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.25207,
+      "lng": 120.5298468,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "679副",
+        "679副2",
+        "679繞",
+        "7511",
+        "黃20"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.929Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639401813,
+      "name": "梧棲農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2543294,
+      "lng": 120.5301483
+    },
+    {
+      "id": 3639401824,
+      "name": "臺灣大道港埠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2508775,
+      "lng": 120.5330543,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "679副",
+        "679副2",
+        "679繞"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.929Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3639401825,
+      "name": "臺灣大道港埠路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2508942,
+      "lng": 120.5343317
+    },
+    {
+      "id": 3639401826,
+      "name": "邱厝庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2479898,
+      "lng": 120.5409597,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679副",
+        "679副2",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.930Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3641034283,
+      "name": "港灣技術中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2693386,
+      "lng": 120.531578,
+      "routes": [
+        "170",
+        "183",
+        "186",
+        "239",
+        "307",
+        "688"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676430899,
+      "name": "大成南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2345072,
+      "lng": 120.5111977
+    },
+    {
+      "id": 3676430900,
+      "name": "大成經二路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.235573,
+      "lng": 120.5082152
+    },
+    {
+      "id": 3676430901,
+      "name": "大通經一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2408684,
+      "lng": 120.5133277
+    },
+    {
+      "id": 3676430902,
+      "name": "大通經二路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2417929,
+      "lng": 120.5108486
+    },
+    {
+      "id": 3676430903,
+      "name": "梧棲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2552603,
+      "lng": 120.5291188
+    },
+    {
+      "id": 3676435302,
+      "name": "經三大成路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2376858,
+      "lng": 120.5078723
+    },
+    {
+      "id": 3676435303,
+      "name": "經三大通路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2413856,
+      "lng": 120.5094505
+    },
+    {
+      "id": 3676435304,
+      "name": "自強梧南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2377783,
+      "lng": 120.5206169,
+      "routes": [
+        "308"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676435306,
+      "name": "自立一街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.239226,
+      "lng": 120.5307453,
+      "routes": [
+        "308"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676435308,
+      "name": "自立二街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2403819,
+      "lng": 120.527297,
+      "routes": [
+        "308"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3676435310,
+      "name": "自立自強路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2379794,
+      "lng": 120.5253964
+    },
+    {
+      "id": 3676435314,
+      "name": "關連服務中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2366254,
+      "lng": 120.5235408,
+      "routes": [
+        "308",
+        "黃20"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.931Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3677072325,
+      "name": "大庄橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2467779,
+      "lng": 120.5380737
+    },
+    {
+      "id": 5034223522,
+      "name": "中華文昌路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2402485,
+      "lng": 120.550323
+    },
+    {
+      "id": 5034228121,
+      "name": "中華永興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2276487,
+      "lng": 120.5451154
+    },
+    {
+      "id": 5385312822,
+      "name": "民和中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2488456,
+      "lng": 120.5491656
+    },
+    {
+      "id": 5385333723,
+      "name": "大智民和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2535674,
+      "lng": 120.5501096
+    },
+    {
+      "id": 5385333725,
+      "name": "大智民安路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2560269,
+      "lng": 120.5443075,
+      "routes": [
+        "310"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5775155941,
+      "name": "珍珠港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2431363,
+      "lng": 120.5373108,
+      "routes": [
+        "677",
+        "677區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.079Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776457753,
+      "name": "百姓公",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2246172,
+      "lng": 120.5297425
+    },
+    {
+      "id": 5776457755,
+      "name": "中央永興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2254635,
+      "lng": 120.53022
+    },
+    {
+      "id": 5776457757,
+      "name": "永寧里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2268235,
+      "lng": 120.5309093
+    },
+    {
+      "id": 5776457759,
+      "name": "園子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2282788,
+      "lng": 120.5317891
+    },
+    {
+      "id": 5776457761,
+      "name": "永寧國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2298858,
+      "lng": 120.5325991
+    },
+    {
+      "id": 5776457763,
+      "name": "興農社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2317961,
+      "lng": 120.5335352,
+      "routes": [
+        "677"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776457765,
+      "name": "八張犁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2341294,
+      "lng": 120.5344847,
+      "routes": [
+        "677",
+        "677區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776457767,
+      "name": "興農中排",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2359491,
+      "lng": 120.5355415,
+      "routes": [
+        "677",
+        "677區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776457772,
+      "name": "興農里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2381405,
+      "lng": 120.5364346
+    },
+    {
+      "id": 5776524130,
+      "name": "安良港",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2215376,
+      "lng": 120.5282512,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6047132390,
+      "name": "大智中央路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2571321,
+      "lng": 120.5408227,
+      "routes": [
+        "310",
+        "310區2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6050008880,
+      "name": "中港分處",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2367921,
+      "lng": 120.5146373
+    },
+    {
+      "id": 7109164621,
+      "name": "民和忠信路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2515732,
+      "lng": 120.5502936,
+      "routes": [
+        "310",
+        "310區2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7109164623,
+      "name": "大智四維東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2585177,
+      "lng": 120.5377344
+    },
+    {
+      "id": 7109164629,
+      "name": "警察總隊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.262105,
+      "lng": 120.5272954
+    },
+    {
+      "id": 7132817359,
+      "name": "慈興講堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2211789,
+      "lng": 120.5429487
+    },
+    {
+      "id": 7139800987,
+      "name": "永興橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2259857,
+      "lng": 120.5393583,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801004,
+      "name": "份頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2262893,
+      "lng": 120.5422792,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801015,
+      "name": "永安里(永興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2252966,
+      "lng": 120.5345021,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7139801020,
+      "name": "下永安里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2255265,
+      "lng": 120.5363676,
+      "routes": [
+        "237",
+        "237區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7151024425,
+      "name": "頂魚寮公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2632574,
+      "lng": 120.5348461,
+      "routes": [
+        "616"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7151024427,
+      "name": "八德四維中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.262294,
+      "lng": 120.5324315
+    },
+    {
+      "id": 8622293611,
+      "name": "頂寮里文化廣場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2650832,
+      "lng": 120.5336275,
+      "routes": [
+        "128",
+        "307",
+        "308副",
+        "678"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9653971993,
+      "name": "頂魚寮公園(四維路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2646337,
+      "lng": 120.5385737,
+      "routes": [
+        "307副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9658765580,
+      "name": "南簡公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2599267,
+      "lng": 120.5446692,
+      "routes": [
+        "306繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231371390,
+      "name": "進化宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.227092,
+      "lng": 120.5456738
+    },
+    {
+      "id": 10259539264,
+      "name": "興國路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2366963,
+      "lng": 120.5488803,
+      "routes": [
+        "617"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12087613674,
+      "name": "建七大觀路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2396494,
+      "lng": 120.5167326,
+      "routes": [
+        "308"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566875,
+      "name": "中華興益路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.232945,
+      "lng": 120.5471724,
+      "routes": [
+        "617"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566877,
+      "name": "中興大智路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2584138,
+      "lng": 120.5349788,
+      "routes": [
+        "678"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566879,
+      "name": "梧棲第一市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2549472,
+      "lng": 120.5334823,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566881,
+      "name": "忠港醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2525191,
+      "lng": 120.5362766,
+      "routes": [
+        "678",
+        "黃20"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.932Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566883,
+      "name": "文昌中央路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2450486,
+      "lng": 120.5380993,
+      "routes": [
+        "678"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566885,
+      "name": "中港大德",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2442945,
+      "lng": 120.5416005,
+      "routes": [
+        "678"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566887,
+      "name": "文匯文華街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2442429,
+      "lng": 120.5459948,
+      "routes": [
+        "678"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12128566891,
+      "name": "青年興農路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2379427,
+      "lng": 120.5525254,
+      "routes": [
+        "678",
+        "679副2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183463,
+      "name": "邱厝庄(公)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2480131,
+      "lng": 120.5408915,
+      "routes": [
+        "128",
+        "128區",
+        "238",
+        "290",
+        "290繞",
+        "306",
+        "306繞",
+        "306E",
+        "306W",
+        "307",
+        "307副",
+        "308",
+        "308副",
+        "308副繞",
+        "616",
+        "617",
+        "677",
+        "677區",
+        "679副",
+        "679副2",
+        "679繞",
+        "黃20"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.933Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183465,
+      "name": "梧棲區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2544097,
+      "lng": 120.5315702,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.081Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183467,
+      "name": "開賢宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2488441,
+      "lng": 120.526729
+    },
+    {
+      "id": 12132183469,
+      "name": "善水國民中小學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2418301,
+      "lng": 120.5244867,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.933Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183471,
+      "name": "草湳活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2408726,
+      "lng": 120.5303835,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.933Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183473,
+      "name": "中央路一段623巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2425185,
+      "lng": 120.53679,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.081Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183475,
+      "name": "中央路一段486之2號",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2385381,
+      "lng": 120.5380909,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.933Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183477,
+      "name": "中央路一段346之3號",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2337248,
+      "lng": 120.5373184,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.933Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12132183479,
+      "name": "鴨母寮永安宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2223266,
+      "lng": 120.5346925,
+      "routes": [
+        "黃20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.081Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 645171592,
+      "name": "客運站",
+      "type": "bus_station",
+      "city": "台中市",
+      "district": "梧棲區",
+      "lat": 24.2590421,
+      "lng": 120.5160972
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376550000A_000203",
+      "name": "台肥海洋深層水園區",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.007891,
+      "lng": 121.638672,
+      "source": "tdx",
+      "sourceId": "C1_376550000A_000203",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "花蓮縣花蓮市華東15號"
+    },
+    {
+      "id": "tdx:C1_376550000A_000204",
+      "name": "香又香便當調查局",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.0138,
+      "lng": 121.631599,
+      "source": "tdx",
+      "sourceId": "C1_376550000A_000204",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "花蓮縣花蓮市美工路15號"
+    }
+  ]
+}

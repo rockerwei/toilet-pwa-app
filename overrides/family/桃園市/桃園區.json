@@ -1,0 +1,79 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376430000A_000957",
+      "name": "祥儀機器人夢工廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.975439,
+      "lng": 121.323792,
+      "source": "tdx",
+      "sourceId": "C1_376430000A_000957",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "桃園市330桃園區桃鶯路461號"
+    },
+    {
+      "id": "tdx:C1_376430000A_001587",
+      "name": "利百代彩筆文創館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.98156,
+      "lng": 121.319649,
+      "source": "tdx",
+      "sourceId": "C1_376430000A_001587",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "桃園市330桃園區大誠路2號"
+    },
+    {
+      "id": "coa:432",
+      "name": "大吾疆莊園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.02381,
+      "lng": 121.29845,
+      "source": "coa",
+      "sourceId": "432",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市桃園區莊敬路二段369號",
+      "phone": "03-3029222"
+    },
+    {
+      "id": "coa:446",
+      "name": "虎頭山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.006509,
+      "lng": 121.3323099,
+      "source": "coa",
+      "sourceId": "446",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市桃園區成功路三段821巷66號",
+      "phone": "03-394-6061"
+    },
+    {
+      "id": "coa:565",
+      "name": "維多利亞休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.981944,
+      "lng": 121.3125099,
+      "source": "coa",
+      "sourceId": "565",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市桃園區民族路669號"
+    }
+  ]
+}

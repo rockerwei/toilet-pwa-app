@@ -1,0 +1,37 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:495",
+      "name": "見望村親子休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.612341,
+      "lng": 121.691234,
+      "source": "coa",
+      "sourceId": "495",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣大同鄉寒溪村華興巷48之1號",
+      "phone": "0935-155628"
+    },
+    {
+      "id": "coa:231",
+      "name": "櫻花溫泉休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.675681,
+      "lng": 121.624161,
+      "source": "coa",
+      "sourceId": "231",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣大同鄉復興村泰雅一路73號",
+      "phone": "03-9894539"
+    }
+  ]
+}

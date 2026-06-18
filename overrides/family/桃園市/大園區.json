@@ -1,0 +1,22 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:530",
+      "name": "陽榮休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.949278,
+      "lng": 121.2125,
+      "source": "coa",
+      "sourceId": "530",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市大園區華興路二段2號",
+      "phone": "0932-093-788"
+    }
+  ]
+}

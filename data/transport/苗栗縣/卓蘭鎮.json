@@ -1,0 +1,827 @@
+{
+  "city": "苗栗縣",
+  "district": "卓蘭鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 51,
+  "items": [
+    {
+      "id": 3858642366,
+      "name": "象山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3147176,
+      "lng": 120.8803132,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404825,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3134892,
+      "lng": 120.8242242
+    },
+    {
+      "id": 4612404827,
+      "name": "卓蘭",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3142873,
+      "lng": 120.8238514,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404828,
+      "name": "舊站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3123978,
+      "lng": 120.8254993,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404830,
+      "name": "中街",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3113541,
+      "lng": 120.8261564,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404831,
+      "name": "溪洲",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3105713,
+      "lng": 120.8245944,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612404834,
+      "name": "收費站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3103635,
+      "lng": 120.8226149,
+      "routes": [
+        "208",
+        "258"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.611Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612423512,
+      "name": "天蘭堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3203765,
+      "lng": 120.8238323,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612428975,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3235118,
+      "lng": 120.8242058,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612503319,
+      "name": "二林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3303765,
+      "lng": 120.8156922,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612503321,
+      "name": "豐田",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3279519,
+      "lng": 120.8209521,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612521659,
+      "name": "易豐",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3396855,
+      "lng": 120.8150732,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612521661,
+      "name": "下酸柑湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3396378,
+      "lng": 120.8109299,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4612521663,
+      "name": "酸柑湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3338867,
+      "lng": 120.8064194,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613594718,
+      "name": "景山橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3400343,
+      "lng": 120.8254499,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4613594720,
+      "name": "水源入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3391806,
+      "lng": 120.8231261,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891993,
+      "name": "公所前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3134641,
+      "lng": 120.8242521,
+      "routes": [
+        "5655"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891995,
+      "name": "卓蘭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3119883,
+      "lng": 120.8286152,
+      "routes": [
+        "5655",
+        "5663"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891997,
+      "name": "新榮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.310164,
+      "lng": 120.8284514,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239891999,
+      "name": "瓦窯",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3073724,
+      "lng": 120.8300938,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892001,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3079767,
+      "lng": 120.8329959,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892004,
+      "name": "橫坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3080967,
+      "lng": 120.8356779,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892006,
+      "name": "東茂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3055304,
+      "lng": 120.8379535,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892009,
+      "name": "五福",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3041862,
+      "lng": 120.8407488,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892011,
+      "name": "茂盛",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.304961,
+      "lng": 120.844391,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892013,
+      "name": "成功",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3068435,
+      "lng": 120.8456488,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239892015,
+      "name": "食水坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3078378,
+      "lng": 120.8497111,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916317,
+      "name": "東榮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3087929,
+      "lng": 120.8522599,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916319,
+      "name": "東昌",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3097884,
+      "lng": 120.856322,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916338,
+      "name": "東安橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3135939,
+      "lng": 120.8599767,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916341,
+      "name": "興園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3139336,
+      "lng": 120.8650794,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916343,
+      "name": "長青谷",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.313933,
+      "lng": 120.8705636,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916346,
+      "name": "東光",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3140705,
+      "lng": 120.8755587,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916348,
+      "name": "譚厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3144619,
+      "lng": 120.8778631,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916354,
+      "name": "梅園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.320463,
+      "lng": 120.8813176,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916356,
+      "name": "盛林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3239422,
+      "lng": 120.8792388,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916358,
+      "name": "協成",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3300066,
+      "lng": 120.8766695,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916360,
+      "name": "仙水",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3328891,
+      "lng": 120.8760207,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.101Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916361,
+      "name": "派出所前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3343017,
+      "lng": 120.8748024,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916365,
+      "name": "坪林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3353011,
+      "lng": 120.8749122,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916367,
+      "name": "東文",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3374815,
+      "lng": 120.8742931,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916370,
+      "name": "東和",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3392404,
+      "lng": 120.8747073,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916372,
+      "name": "文明",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3424308,
+      "lng": 120.8775245,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916374,
+      "name": "爽文",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3447506,
+      "lng": 120.876867,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916376,
+      "name": "國豐",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3457045,
+      "lng": 120.8742351,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916378,
+      "name": "景文",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3477833,
+      "lng": 120.8731678,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916380,
+      "name": "竹窩",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3499204,
+      "lng": 120.8724166,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916382,
+      "name": "草寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3523253,
+      "lng": 120.8712093,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916384,
+      "name": "和平",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3540875,
+      "lng": 120.8713411,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8239916387,
+      "name": "朝陽宮入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3579013,
+      "lng": 120.8710365,
+      "routes": [
+        "5663"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9667469324,
+      "name": "卓蘭高中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "卓蘭鎮",
+      "lat": 24.3127644,
+      "lng": 120.8316547,
+      "routes": [
+        "208繞",
+        "5655",
+        "5663"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.195Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

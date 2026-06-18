@@ -1,0 +1,52 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:358",
+      "name": "第一景休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.865432,
+      "lng": 120.354321,
+      "source": "coa",
+      "sourceId": "358",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "高雄市田寮區大崗山段 388、389、390、391 地號",
+      "phone": "0972-006888"
+    },
+    {
+      "id": "coa:204",
+      "name": "雲之谷生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.864112,
+      "lng": 120.405411,
+      "source": "coa",
+      "sourceId": "204",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "高雄市田寮區新興村崗南路4號",
+      "phone": "0932-894-803"
+    },
+    {
+      "id": "coa:203",
+      "name": "昇泰有機休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.864319,
+      "lng": 120.405293,
+      "source": "coa",
+      "sourceId": "203",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "高雄市田寮區新興村崗南路4-1號",
+      "phone": "0932-888-458"
+    }
+  ]
+}

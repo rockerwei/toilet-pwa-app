@@ -1,0 +1,356 @@
+{
+  "city": "彰化縣",
+  "district": "大村鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 19,
+  "items": [
+    {
+      "id": 879629959,
+      "name": "大村",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9900522,
+      "lng": 120.5605718
+    },
+    {
+      "id": 2089707104,
+      "name": "蓮花池",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9894879,
+      "lng": 120.5640608,
+      "routes": [
+        "13路",
+        "1829",
+        "1830",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2673090427,
+      "name": "過溝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9913634,
+      "lng": 120.5504679,
+      "routes": [
+        "6704",
+        "6704A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4105189021,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9929838,
+      "lng": 120.5472814
+    },
+    {
+      "id": 4642177337,
+      "name": "下埤子頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 24.0009648,
+      "lng": 120.5779728,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642177339,
+      "name": "埤子頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 24.0038942,
+      "lng": 120.576848,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642352119,
+      "name": "村東國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9914577,
+      "lng": 120.5838942,
+      "routes": [
+        "13路",
+        "6700",
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642352133,
+      "name": "犁頭厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9966465,
+      "lng": 120.5802108,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642352135,
+      "name": "頂犁頭厝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9935247,
+      "lng": 120.582307,
+      "routes": [
+        "13路",
+        "6700",
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642352144,
+      "name": "廟前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9983416,
+      "lng": 120.5787486,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642418934,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9864207,
+      "lng": 120.58847
+    },
+    {
+      "id": 4642418938,
+      "name": "寶獅社區",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9895267,
+      "lng": 120.5861446,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642418939,
+      "name": "羽田公司",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9870419,
+      "lng": 120.5882608,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4642426686,
+      "name": "黃厝庄",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9828913,
+      "lng": 120.5896648,
+      "routes": [
+        "6914",
+        "6914A",
+        "6914B",
+        "6914C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724458826,
+      "name": "港尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9788425,
+      "lng": 120.5714274,
+      "routes": [
+        "6700",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724458864,
+      "name": "村上",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9844944,
+      "lng": 120.5668375,
+      "routes": [
+        "6700",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.888Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724458874,
+      "name": "大橋村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9962077,
+      "lng": 120.5596748,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.889Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724459006,
+      "name": "大橋頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9999121,
+      "lng": 120.557884,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.889Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4724459011,
+      "name": "過溝",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "大村鄉",
+      "lat": 23.9931233,
+      "lng": 120.5617202,
+      "routes": [
+        "13路",
+        "6735",
+        "6735A",
+        "6735B",
+        "6882",
+        "6912"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.889Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

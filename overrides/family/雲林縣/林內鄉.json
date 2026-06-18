@@ -1,0 +1,65 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376490000A_000751",
+      "name": "橙色農作休閒果園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.7743,
+      "lng": 120.590797,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000751",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "林內鄉烏塗村和興31號"
+    },
+    {
+      "id": "tdx:C1_376490000A_000752",
+      "name": "林內教芋部",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.768869,
+      "lng": 120.591698,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000752",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "林內鄉烏塗村烏塗路78號"
+    },
+    {
+      "id": "coa:165",
+      "name": "鹽讚休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.776543,
+      "lng": 120.612341,
+      "source": "coa",
+      "sourceId": "165",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "雲林縣林內鄉烏塗村鹽讚42號之6號",
+      "phone": "05-5899890"
+    },
+    {
+      "id": "coa:168",
+      "name": "仁愛休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.754321,
+      "lng": 120.623412,
+      "source": "coa",
+      "sourceId": "168",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "雲林縣林內鄉林中村仁愛路55之3號",
+      "phone": "0921-305109"
+    }
+  ]
+}

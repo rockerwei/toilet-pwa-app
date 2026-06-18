@@ -1,0 +1,37 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:75",
+      "name": "蕃婆林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.234697,
+      "lng": 121.503483,
+      "source": "coa",
+      "sourceId": "75",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市三芝區錫板里17鄰44號",
+      "phone": "02-2636-2716"
+    },
+    {
+      "id": "coa:440",
+      "name": "牧蜂休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.24831,
+      "lng": 121.51248,
+      "source": "coa",
+      "sourceId": "440",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市三芝區茂長里9鄰74號",
+      "phone": "02-2636-3742"
+    }
+  ]
+}

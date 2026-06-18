@@ -1,0 +1,22 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:551",
+      "name": "亮山川休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.1557,
+      "lng": 121.65022,
+      "source": "coa",
+      "sourceId": "551",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市萬里區內中福路1-3號",
+      "phone": "02-2492-1130"
+    }
+  ]
+}

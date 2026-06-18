@@ -1,0 +1,1170 @@
+{
+  "city": "雲林縣",
+  "district": "古坑鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 69,
+  "items": [
+    {
+      "id": 4982078163,
+      "name": "崎頂靶場",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5974792,
+      "lng": 120.5362447,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078164,
+      "name": "綠色隧道",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.659443,
+      "lng": 120.540975
+    },
+    {
+      "id": 4982078165,
+      "name": "湳仔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.65062,
+      "lng": 120.54554,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078166,
+      "name": "南昌(中華科技大學)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.61626,
+      "lng": 120.54189,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078169,
+      "name": "溝壩",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.67343,
+      "lng": 120.5372,
+      "routes": [
+        "7126"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078170,
+      "name": "永久巷",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6369613,
+      "lng": 120.5584069,
+      "routes": [
+        "7106",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078171,
+      "name": "永光",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.62641,
+      "lng": 120.55236,
+      "routes": [
+        "7106",
+        "7113",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078174,
+      "name": "古坑",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6453878,
+      "lng": 120.5619036
+    },
+    {
+      "id": 4982078175,
+      "name": "古坑鄉公所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6428749,
+      "lng": 120.5619671,
+      "routes": [
+        "7106",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078178,
+      "name": "西平村",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.64742,
+      "lng": 120.55795,
+      "routes": [
+        "7106",
+        "7126"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078179,
+      "name": "興昌國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.61123,
+      "lng": 120.53757,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078180,
+      "name": "崁腳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6025953,
+      "lng": 120.5331235,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078183,
+      "name": "永昌",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6284239,
+      "lng": 120.5517327,
+      "routes": [
+        "7106",
+        "7113",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078184,
+      "name": "永興",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.62069,
+      "lng": 120.54603,
+      "routes": [
+        "7125",
+        "7125A",
+        "7126"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.308Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078188,
+      "name": "新興",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6392021,
+      "lng": 120.559864,
+      "routes": [
+        "7106",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4982078192,
+      "name": "古坑圓環",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.64697,
+      "lng": 120.56052,
+      "routes": [
+        "7106",
+        "7121",
+        "7125",
+        "7125A",
+        "7126",
+        "7129"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353947776,
+      "name": "古坑鄉衛生所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6537817,
+      "lng": 120.5601819,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353947778,
+      "name": "水碓",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6639062,
+      "lng": 120.5606723,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954446,
+      "name": "華山",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5950259,
+      "lng": 120.596151,
+      "routes": [
+        "7106",
+        "7121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954448,
+      "name": "山腳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.596033,
+      "lng": 120.5922087,
+      "routes": [
+        "7106",
+        "7121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954450,
+      "name": "埔尾1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5987654,
+      "lng": 120.5864806,
+      "routes": [
+        "7106",
+        "7121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954452,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6003237,
+      "lng": 120.5846483,
+      "routes": [
+        "7106",
+        "7121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954468,
+      "name": "下埔尾",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6020545,
+      "lng": 120.5806277,
+      "routes": [
+        "7106",
+        "7121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954470,
+      "name": "華南路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6051639,
+      "lng": 120.5744271,
+      "routes": [
+        "7106",
+        "7121",
+        "7129"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954471,
+      "name": "大湖口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6067245,
+      "lng": 120.5717218,
+      "routes": [
+        "7106",
+        "7113"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954473,
+      "name": "百姓公",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6093248,
+      "lng": 120.5701339,
+      "routes": [
+        "7106",
+        "7113"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954475,
+      "name": "光州食品",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6203828,
+      "lng": 120.5578843,
+      "routes": [
+        "7106",
+        "7113"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5353954477,
+      "name": "永光農會",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6235931,
+      "lng": 120.5553199,
+      "routes": [
+        "7106",
+        "7113",
+        "7121",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5374506342,
+      "name": "綠色隧道",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6569857,
+      "lng": 120.542585,
+      "routes": [
+        "7126",
+        "Y01"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711214834,
+      "name": "東和",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6833546,
+      "lng": 120.5692605,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711236237,
+      "name": "荷苞山桐花公園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6641103,
+      "lng": 120.5866644,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7711236239,
+      "name": "荷苞厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6679377,
+      "lng": 120.5802016,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712403943,
+      "name": "早寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6555387,
+      "lng": 120.5951482,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712424910,
+      "name": "二坪仔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6481249,
+      "lng": 120.6120166,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972554150,
+      "name": "新草嶺國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5871848,
+      "lng": 120.6941525,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972554152,
+      "name": "草嶺公園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5851634,
+      "lng": 120.6964204
+    },
+    {
+      "id": 7972598810,
+      "name": "東碧山莊",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6097955,
+      "lng": 120.7100447
+    },
+    {
+      "id": 7972615536,
+      "name": "外湖",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6057257,
+      "lng": 120.6811112,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972615538,
+      "name": "頂內湖",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6054619,
+      "lng": 120.6872533,
+      "routes": [
+        "6722"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972615539,
+      "name": "內湖",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6068462,
+      "lng": 120.6868132,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700856,
+      "name": "後棟路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6058025,
+      "lng": 120.6284556,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700858,
+      "name": "五個學",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6076258,
+      "lng": 120.6308619,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700860,
+      "name": "十字關",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6068549,
+      "lng": 120.63685,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700862,
+      "name": "靈隱寺",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6035062,
+      "lng": 120.6397265,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700864,
+      "name": "石橋",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6098249,
+      "lng": 120.6387785,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700866,
+      "name": "樟湖",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6186253,
+      "lng": 120.6423572,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700867,
+      "name": "過寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6212635,
+      "lng": 120.6392268,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700868,
+      "name": "華山咖啡大街",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5955302,
+      "lng": 120.5988925,
+      "routes": [
+        "Y01"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700869,
+      "name": "桃源",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6011477,
+      "lng": 120.5948154,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700871,
+      "name": "長源",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5976902,
+      "lng": 120.6033338,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700872,
+      "name": "下蜈蜞坪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5988557,
+      "lng": 120.6054974,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700874,
+      "name": "蜈蜞坪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5979004,
+      "lng": 120.6124004,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972700879,
+      "name": "仙地咖啡",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5999802,
+      "lng": 120.6210308,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972724920,
+      "name": "永光故事屋",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.624762,
+      "lng": 120.5543451,
+      "routes": [
+        "Y01"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.309Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076659,
+      "name": "福祿壽酒廠",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6402295,
+      "lng": 120.5605165,
+      "routes": [
+        "Y01"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076665,
+      "name": "古坑嘉興宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6453862,
+      "lng": 120.561881
+    },
+    {
+      "id": 10143076715,
+      "name": "草嶺",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.581512,
+      "lng": 120.693618,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105833,
+      "name": "劍湖山世界",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6147114,
+      "lng": 120.5774021,
+      "routes": [
+        "7121",
+        "7129",
+        "Y01"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105846,
+      "name": "草嶺公園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5849102,
+      "lng": 120.6948865,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361341,
+      "name": "天下一家",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6895254,
+      "lng": 120.5643453,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129",
+        "7131",
+        "7131A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361343,
+      "name": "東和國中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6856467,
+      "lng": 120.5672356,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361345,
+      "name": "南東和",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6805165,
+      "lng": 120.5690541,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361347,
+      "name": "高林",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.674565,
+      "lng": 120.5690996,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415361349,
+      "name": "田中央",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6696176,
+      "lng": 120.5651939,
+      "routes": [
+        "7121",
+        "7125",
+        "7125A",
+        "7129"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415631128,
+      "name": "湖仔寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6169655,
+      "lng": 120.5715596,
+      "routes": [
+        "7121",
+        "7129"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415631141,
+      "name": "仙地咖啡",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.5978174,
+      "lng": 120.6205603,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11415631142,
+      "name": "清水溪橋",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.608442,
+      "lng": 120.6420322,
+      "routes": [
+        "7121"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11586688064,
+      "name": "草嶺國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.598804,
+      "lng": 120.6895964,
+      "routes": [
+        "6722"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11769037786,
+      "name": "東和",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "古坑鄉",
+      "lat": 23.6848427,
+      "lng": 120.5671562,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.310Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

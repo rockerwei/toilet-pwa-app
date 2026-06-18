@@ -1,0 +1,399 @@
+{
+  "city": "屏東縣",
+  "district": "萬巒鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 22,
+  "items": [
+    {
+      "id": 2090739907,
+      "name": "下萬金",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5951107,
+      "lng": 120.6095814
+    },
+    {
+      "id": 5071009064,
+      "name": "萬巒鄉公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5723609,
+      "lng": 120.5672666,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071009067,
+      "name": "上頭溝水",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5674965,
+      "lng": 120.5606309,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5071009069,
+      "name": "頭溝水",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5647769,
+      "lng": 120.5567256,
+      "routes": [
+        "8209",
+        "8212",
+        "8212A",
+        "8238",
+        "8238A",
+        "8238B",
+        "8238C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940572,
+      "name": "泗溝水",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.58817,
+      "lng": 120.58067,
+      "routes": [
+        "606",
+        "8212"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940574,
+      "name": "金石咖啡休閒農場",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.590633,
+      "lng": 120.621339,
+      "routes": [
+        "605",
+        "8212",
+        "8212A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940575,
+      "name": "武潭",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.57823,
+      "lng": 120.63132,
+      "routes": [
+        "8212",
+        "8212A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940576,
+      "name": "五溝水",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5936836,
+      "lng": 120.5989387,
+      "routes": [
+        "8212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940577,
+      "name": "土地廟",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.59057,
+      "lng": 120.61535,
+      "routes": [
+        "8212",
+        "8212A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940579,
+      "name": "下五溝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.590962,
+      "lng": 120.59895,
+      "routes": [
+        "606",
+        "8212"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940580,
+      "name": "上五溝",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5917775,
+      "lng": 120.5959256,
+      "routes": [
+        "8212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940583,
+      "name": "五溝國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.59109,
+      "lng": 120.59381,
+      "routes": [
+        "606",
+        "8212"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940585,
+      "name": "泰武路口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.590754,
+      "lng": 120.611128,
+      "routes": [
+        "8212",
+        "8212A",
+        "8235"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940586,
+      "name": "西方道堂",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.57993,
+      "lng": 120.62825,
+      "routes": [
+        "8212",
+        "8212A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940587,
+      "name": "萬金教堂",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.59498,
+      "lng": 120.61068,
+      "routes": [
+        "605A",
+        "8212",
+        "8212A",
+        "8235",
+        "小黃公車708"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940594,
+      "name": "硫磺村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.57957,
+      "lng": 120.57383,
+      "routes": [
+        "8212"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13739940596,
+      "name": "萬巒",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.5755492,
+      "lng": 120.5696364,
+      "routes": [
+        "606",
+        "8212",
+        "8236",
+        "8236A",
+        "8238",
+        "8238A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13740141154,
+      "name": "萬巒國中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.571753,
+      "lng": 120.574462,
+      "routes": [
+        "8209",
+        "8212A",
+        "8236",
+        "8236A",
+        "小黃公車708"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.849Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13740141155,
+      "name": "赤山",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.58871,
+      "lng": 120.61131
+    },
+    {
+      "id": 13740141156,
+      "name": "上佳佐",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.572218,
+      "lng": 120.59517,
+      "routes": [
+        "8209",
+        "8212A",
+        "8236",
+        "8236A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13740141157,
+      "name": "佳佐",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.572622,
+      "lng": 120.59693,
+      "routes": [
+        "8209",
+        "8212A",
+        "8235",
+        "8236",
+        "8236A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.200Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13740141158,
+      "name": "頂佳佐",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "萬巒鄉",
+      "lat": 22.57093,
+      "lng": 120.58961,
+      "routes": [
+        "8209",
+        "8212A",
+        "8236",
+        "8236A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.200Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

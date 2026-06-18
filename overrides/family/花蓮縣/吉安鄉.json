@@ -1,0 +1,37 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:1",
+      "name": "君達休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.949562,
+      "lng": 121.542289,
+      "source": "coa",
+      "sourceId": "1",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "花蓮縣吉安鄉干城二街95-1號",
+      "phone": "03-812-9168#6101"
+    },
+    {
+      "id": "coa:437",
+      "name": "函園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.94512,
+      "lng": 121.57648,
+      "source": "coa",
+      "sourceId": "437",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "花蓮縣吉安鄉稻香村吉豐路二段199號",
+      "phone": "03-8537066"
+    }
+  ]
+}

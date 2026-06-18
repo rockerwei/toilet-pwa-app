@@ -1,0 +1,82 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:470",
+      "name": "微笑灣休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.861234,
+      "lng": 121.812341,
+      "source": "coa",
+      "sourceId": "470",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣頭城鎮仙公路180巷50號",
+      "phone": "0922-781278"
+    },
+    {
+      "id": "coa:293",
+      "name": "中崙漁業休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.854321,
+      "lng": 121.801234,
+      "source": "coa",
+      "sourceId": "293",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣頭城鎮三和路643巷46號",
+      "phone": "03-987-5317"
+    },
+    {
+      "id": "coa:167",
+      "name": "頭城休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.995623,
+      "lng": 121.846394,
+      "source": "coa",
+      "sourceId": "167",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣頭城鎮更新路125-1號",
+      "phone": "03-977-2222"
+    },
+    {
+      "id": "coa:235",
+      "name": "金車生物頭城造林園區休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.877864,
+      "lng": 121.824128,
+      "source": "coa",
+      "sourceId": "235",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣頭城鎮外澳里石空路102號",
+      "phone": "03-969-9228"
+    },
+    {
+      "id": "coa:340",
+      "name": "北關休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9125,
+      "lng": 121.854167,
+      "source": "coa",
+      "sourceId": "340",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣頭城鎮更新路203-1號",
+      "phone": "039776863/0937796062"
+    }
+  ]
+}

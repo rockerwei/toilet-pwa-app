@@ -1,0 +1,37 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:506",
+      "name": "樺音山莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.834151,
+      "lng": 121.344499,
+      "source": "coa",
+      "sourceId": "506",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市復興區三民里基國派路162巷230號",
+      "phone": "0918-355035"
+    },
+    {
+      "id": "coa:534",
+      "name": "山裡生活自然休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.819444,
+      "lng": 121.364444,
+      "source": "coa",
+      "sourceId": "534",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "桃園市復興區大窩路601號",
+      "phone": "0928-186200"
+    }
+  ]
+}

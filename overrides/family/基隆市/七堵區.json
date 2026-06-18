@@ -1,0 +1,52 @@
+{
+  "city": "基隆市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:156",
+      "name": "綠谷休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.127814,
+      "lng": 121.681121,
+      "source": "coa",
+      "sourceId": "156",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "基隆市七堵區瑪陵坑華新二路80號",
+      "phone": "02-2452-3165"
+    },
+    {
+      "id": "coa:175",
+      "name": "文良休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.105152,
+      "lng": 121.688114,
+      "source": "coa",
+      "sourceId": "175",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "基隆市七堵區大同街60之1號",
+      "phone": "02-2431-0892"
+    },
+    {
+      "id": "coa:181",
+      "name": "金明昌休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.414336,
+      "lng": 120.528394,
+      "source": "coa",
+      "sourceId": "181",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "基隆市七堵區大華二路162之1號",
+      "phone": "02-2456-3667"
+    }
+  ]
+}

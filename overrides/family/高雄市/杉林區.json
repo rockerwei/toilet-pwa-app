@@ -1,0 +1,37 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:538",
+      "name": "永齡有機休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.981234,
+      "lng": 120.543214,
+      "source": "coa",
+      "sourceId": "538",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "高雄市杉林區上平里山仙路288號",
+      "phone": "07-6775068"
+    },
+    {
+      "id": "coa:349",
+      "name": "小份尾幸福田休閒農場EUDEMON ROSE GARDEN",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.954167,
+      "lng": 120.528611,
+      "source": "coa",
+      "sourceId": "349",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "高雄市杉林區司馬路202之6號",
+      "phone": "07-677-2700"
+    }
+  ]
+}

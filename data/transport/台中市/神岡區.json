@@ -1,0 +1,1598 @@
+{
+  "city": "台中市",
+  "district": "神岡區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 113,
+  "items": [
+    {
+      "id": 3796828557,
+      "name": "和睦路807巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2845784,
+      "lng": 120.6444869
+    },
+    {
+      "id": 3796828559,
+      "name": "永進公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2860653,
+      "lng": 120.6419699,
+      "routes": [
+        "14",
+        "14延",
+        "91",
+        "91延1",
+        "91繞1",
+        "98",
+        "98繞",
+        "182",
+        "183"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.018Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650888,
+      "name": "三民神清路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2637904,
+      "lng": 120.6569694,
+      "routes": [
+        "98",
+        "98繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650890,
+      "name": "三民路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2707209,
+      "lng": 120.6605053,
+      "routes": [
+        "14",
+        "14延",
+        "98",
+        "98繞",
+        "157繞",
+        "黃22"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650892,
+      "name": "庄尾(和睦路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2825235,
+      "lng": 120.6494444
+    },
+    {
+      "id": 3797650894,
+      "name": "圳前活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2667257,
+      "lng": 120.6584105,
+      "routes": [
+        "14",
+        "14延",
+        "98",
+        "98繞",
+        "157繞",
+        "黃22"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650896,
+      "name": "圳堵三民橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2724353,
+      "lng": 120.6597425,
+      "routes": [
+        "14",
+        "14延",
+        "98",
+        "98繞",
+        "黃22"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.019Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650898,
+      "name": "山皮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2581719,
+      "lng": 120.6492967,
+      "routes": [
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650900,
+      "name": "新庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2804293,
+      "lng": 120.6537941
+    },
+    {
+      "id": 3797650902,
+      "name": "新庄車庫",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2810284,
+      "lng": 120.6523157,
+      "routes": [
+        "14",
+        "14延",
+        "91",
+        "91延1",
+        "91繞1",
+        "98",
+        "98繞",
+        "182",
+        "183",
+        "989",
+        "989延"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.020Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797650904,
+      "name": "福德祠(和睦路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2777515,
+      "lng": 120.6578782
+    },
+    {
+      "id": 3797650907,
+      "name": "福連公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.25848,
+      "lng": 120.6530194,
+      "routes": [
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3797651235,
+      "name": "車站前(和平路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2533536,
+      "lng": 120.6440611
+    },
+    {
+      "id": 3797651237,
+      "name": "頂車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2742314,
+      "lng": 120.6591811
+    },
+    {
+      "id": 3889503234,
+      "name": "岸裡國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2485304,
+      "lng": 120.6978272,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "152",
+        "152延",
+        "152區1",
+        "152區2",
+        "182",
+        "183",
+        "185",
+        "186",
+        "220",
+        "220繞",
+        "232",
+        "237",
+        "237區",
+        "238",
+        "239",
+        "528",
+        "529",
+        "1617",
+        "1617A",
+        "1617B",
+        "1617C"
+      ],
+      "routeCount": 26,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.021Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3926714610,
+      "name": "承德三社東路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2347872,
+      "lng": 120.6984354
+    },
+    {
+      "id": 3926714614,
+      "name": "潭雅神綠園道(承德路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2326647,
+      "lng": 120.6951051
+    },
+    {
+      "id": 3999481234,
+      "name": "中山溝心路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.255182,
+      "lng": 120.6721759
+    },
+    {
+      "id": 3999481528,
+      "name": "電信局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2529832,
+      "lng": 120.6740096
+    },
+    {
+      "id": 4090319263,
+      "name": "北庄",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2570597,
+      "lng": 120.6689443,
+      "routes": [
+        "14",
+        "14延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "157繞",
+        "182",
+        "183",
+        "185",
+        "186",
+        "218",
+        "232",
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.022Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4090361694,
+      "name": "圳前里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2639414,
+      "lng": 120.6574999
+    },
+    {
+      "id": 4090361696,
+      "name": "神圳國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2604532,
+      "lng": 120.6586117
+    },
+    {
+      "id": 4090361699,
+      "name": "神岡農會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2583948,
+      "lng": 120.6584742
+    },
+    {
+      "id": 4090361710,
+      "name": "神岡(神林路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2567809,
+      "lng": 120.6590348
+    },
+    {
+      "id": 4090361731,
+      "name": "神岡圖書館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2588913,
+      "lng": 120.6608668
+    },
+    {
+      "id": 4123071227,
+      "name": "後壁厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2651976,
+      "lng": 120.6970192
+    },
+    {
+      "id": 4123071229,
+      "name": "源龍社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2582768,
+      "lng": 120.7111987,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4123071231,
+      "name": "石頭厝(豐洲路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2596352,
+      "lng": 120.7084762,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4123071233,
+      "name": "神洲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2654886,
+      "lng": 120.6943906
+    },
+    {
+      "id": 4123071247,
+      "name": "豐洲國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2619803,
+      "lng": 120.703671,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4123071249,
+      "name": "豐洲大洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2637482,
+      "lng": 120.699806,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4602071832,
+      "name": "頂花眉",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2358256,
+      "lng": 120.6769834,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4602128444,
+      "name": "社口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.24653,
+      "lng": 120.6853872
+    },
+    {
+      "id": 4602128452,
+      "name": "社口國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2456148,
+      "lng": 120.6844182,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4602128459,
+      "name": "頂社南",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2421113,
+      "lng": 120.6815034,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4602128463,
+      "name": "社南",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2392828,
+      "lng": 120.6789312,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853919988,
+      "name": "神岡",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.256996,
+      "lng": 120.6593429
+    },
+    {
+      "id": 4853919991,
+      "name": "神岡區公所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2576673,
+      "lng": 120.6613746
+    },
+    {
+      "id": 4853919996,
+      "name": "福華公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2509288,
+      "lng": 120.6761509
+    },
+    {
+      "id": 4853920000,
+      "name": "紅瓦厝口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2476102,
+      "lng": 120.6897672
+    },
+    {
+      "id": 4853920002,
+      "name": "福隆新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2489601,
+      "lng": 120.6793246,
+      "routes": [
+        "14",
+        "14延",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "157繞",
+        "182",
+        "183",
+        "185",
+        "186",
+        "232",
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.028Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853920006,
+      "name": "神岡高工",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2472165,
+      "lng": 120.6814912
+    },
+    {
+      "id": 4853920010,
+      "name": "望寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2483903,
+      "lng": 120.6934941
+    },
+    {
+      "id": 4853954358,
+      "name": "示範公墓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2696479,
+      "lng": 120.648496,
+      "routes": [
+        "185",
+        "186",
+        "232"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954360,
+      "name": "成都家園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2714915,
+      "lng": 120.6534702,
+      "routes": [
+        "185",
+        "186",
+        "232"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954362,
+      "name": "圳堵里口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2689314,
+      "lng": 120.6564125,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "182",
+        "183",
+        "185",
+        "186",
+        "232",
+        "989",
+        "989延"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4853954364,
+      "name": "頂圳前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2668205,
+      "lng": 120.6567977,
+      "routes": [
+        "91",
+        "91延",
+        "91繞",
+        "182",
+        "183",
+        "989",
+        "989延"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706061795,
+      "name": "庄前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2518593,
+      "lng": 120.6581667,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5706061797,
+      "name": "集會所(神林路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2547731,
+      "lng": 120.6604466,
+      "routes": [
+        "14副",
+        "14副2",
+        "98",
+        "98繞",
+        "黃22"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.029Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5760228949,
+      "name": "社南廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2461991,
+      "lng": 120.6822368
+    },
+    {
+      "id": 5760228954,
+      "name": "頂牛埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2438464,
+      "lng": 120.6789163
+    },
+    {
+      "id": 5760228956,
+      "name": "三采幼稚園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2428877,
+      "lng": 120.677484
+    },
+    {
+      "id": 6059351537,
+      "name": "庄頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2581154,
+      "lng": 120.6632079,
+      "routes": [
+        "14",
+        "14延",
+        "14副2",
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "98",
+        "98繞",
+        "157繞",
+        "182",
+        "183",
+        "185",
+        "186",
+        "218",
+        "232",
+        "237",
+        "237區",
+        "238",
+        "黃22"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6059351539,
+      "name": "圳堵",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2707133,
+      "lng": 120.6573881,
+      "routes": [
+        "91",
+        "91延",
+        "91繞",
+        "182",
+        "183",
+        "989",
+        "989延"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6062134955,
+      "name": "中正中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.258495,
+      "lng": 120.6562261,
+      "routes": [
+        "91",
+        "91延",
+        "91繞",
+        "237",
+        "237區",
+        "238"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8022353944,
+      "name": "豐原大道豐洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2599732,
+      "lng": 120.7090683,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8302313992,
+      "name": "金石鎮社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2306363,
+      "lng": 120.6911431,
+      "routes": [
+        "701"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649202210,
+      "name": "大富路98巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2457662,
+      "lng": 120.6944114
+    },
+    {
+      "id": 9649202212,
+      "name": "大富中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2416624,
+      "lng": 120.689857
+    },
+    {
+      "id": 9649202214,
+      "name": "三角里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2390871,
+      "lng": 120.689342,
+      "routes": [
+        "65延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649202216,
+      "name": "三社三和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2377758,
+      "lng": 120.6932891,
+      "routes": [
+        "65延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649228818,
+      "name": "筱雲山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2363356,
+      "lng": 120.6956989
+    },
+    {
+      "id": 9649228820,
+      "name": "三社東路16巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2358733,
+      "lng": 120.6980029
+    },
+    {
+      "id": 9654656299,
+      "name": "大圳中車路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2616532,
+      "lng": 120.6704787
+    },
+    {
+      "id": 9654656301,
+      "name": "大圳厚生路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2616374,
+      "lng": 120.673682
+    },
+    {
+      "id": 9654656303,
+      "name": "庄後里(大圳路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2625749,
+      "lng": 120.668552
+    },
+    {
+      "id": 9654656305,
+      "name": "大圳福庄街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.26307,
+      "lng": 120.6652013
+    },
+    {
+      "id": 10229130458,
+      "name": "大雅勝興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2477833,
+      "lng": 120.6628684,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130459,
+      "name": "亨記食品",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2510185,
+      "lng": 120.6654456,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130463,
+      "name": "中平成功路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2743918,
+      "lng": 120.6528221
+    },
+    {
+      "id": 10229130465,
+      "name": "中平成都路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2763515,
+      "lng": 120.6534969
+    },
+    {
+      "id": 10229130467,
+      "name": "溪頭路17巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2815065,
+      "lng": 120.6549718,
+      "routes": [
+        "黃22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130470,
+      "name": "社口活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2504856,
+      "lng": 120.6818923,
+      "routes": [
+        "525"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10229130471,
+      "name": "社口里福德宮(親慈公園)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2497029,
+      "lng": 120.6853231,
+      "routes": [
+        "525"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.030Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049939,
+      "name": "中山中正路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2589801,
+      "lng": 120.6571631
+    },
+    {
+      "id": 10982233164,
+      "name": "大豐中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2394524,
+      "lng": 120.6955081,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233167,
+      "name": "大億加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2417727,
+      "lng": 120.6966667,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233168,
+      "name": "大豐路五段295巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2455341,
+      "lng": 120.6984353,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233169,
+      "name": "大豐路五段295巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2445739,
+      "lng": 120.6978042,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233171,
+      "name": "臺灣氣球博物館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2474721,
+      "lng": 120.6990747
+    },
+    {
+      "id": 10982233172,
+      "name": "葫蘆墩公園(豐原大道)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2564521,
+      "lng": 120.7062766,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.031Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233178,
+      "name": "神岡光復路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2562915,
+      "lng": 120.6518718
+    },
+    {
+      "id": 10982233180,
+      "name": "寶山宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2518354,
+      "lng": 120.6476833
+    },
+    {
+      "id": 10982233182,
+      "name": "圳前仁愛公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2583947,
+      "lng": 120.648296
+    },
+    {
+      "id": 10982233184,
+      "name": "仁愛退伍宿舍",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2612316,
+      "lng": 120.6501976
+    },
+    {
+      "id": 10982233186,
+      "name": "圳陽橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2639039,
+      "lng": 120.6526196
+    },
+    {
+      "id": 10982233188,
+      "name": "和睦兒童公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.273105,
+      "lng": 120.6571448
+    },
+    {
+      "id": 10982233190,
+      "name": "三角公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.278698,
+      "lng": 120.653197
+    },
+    {
+      "id": 10982233192,
+      "name": "永進家園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.278647,
+      "lng": 120.6500349
+    },
+    {
+      "id": 10982233194,
+      "name": "和睦路212巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2769589,
+      "lng": 120.6594626
+    },
+    {
+      "id": 10982233196,
+      "name": "崎腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2657712,
+      "lng": 120.6792102,
+      "routes": [
+        "218",
+        "989",
+        "989延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233198,
+      "name": "下溪洲",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2672917,
+      "lng": 120.6811768,
+      "routes": [
+        "218",
+        "989",
+        "989延"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233200,
+      "name": "神洲豐洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.269754,
+      "lng": 120.6826441
+    },
+    {
+      "id": 10982233202,
+      "name": "宋厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.271357,
+      "lng": 120.682548
+    },
+    {
+      "id": 10982233204,
+      "name": "神洲路796巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2716476,
+      "lng": 120.685825
+    },
+    {
+      "id": 10982248106,
+      "name": "神洲路716巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2721859,
+      "lng": 120.689411
+    },
+    {
+      "id": 10982248108,
+      "name": "神洲路592巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2735576,
+      "lng": 120.6953509
+    },
+    {
+      "id": 10982248110,
+      "name": "神洲路506巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2737933,
+      "lng": 120.6974364
+    },
+    {
+      "id": 10982248112,
+      "name": "國豐神洲路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2734132,
+      "lng": 120.7021759,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982248114,
+      "name": "豐工南豐工三路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2772766,
+      "lng": 120.6981998,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982248116,
+      "name": "豐工中豐工一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2782423,
+      "lng": 120.7040554,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982248118,
+      "name": "豐工中豐工南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2781415,
+      "lng": 120.7071505,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982248120,
+      "name": "豐工南豐工路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2768499,
+      "lng": 120.7052357
+    },
+    {
+      "id": 10982248122,
+      "name": "豐工東洲247巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2735494,
+      "lng": 120.7076511,
+      "routes": [
+        "989",
+        "989延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996456,
+      "name": "三條溝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2634756,
+      "lng": 120.6759641,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996457,
+      "name": "厚生北庄路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2575523,
+      "lng": 120.6718578,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996459,
+      "name": "貝多芬幼兒園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2599951,
+      "lng": 120.6733445,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996461,
+      "name": "同心公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2693949,
+      "lng": 120.6830221,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996463,
+      "name": "溪洲社區活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2683337,
+      "lng": 120.6853721,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12100996465,
+      "name": "中寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2667102,
+      "lng": 120.6892401,
+      "routes": [
+        "218"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897792,
+      "name": "大富路三社路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.238601,
+      "lng": 120.6878813,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897794,
+      "name": "大富路186巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.2368238,
+      "lng": 120.6862388,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897796,
+      "name": "大富路210巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "神岡區",
+      "lat": 24.233566,
+      "lng": 120.684787,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.032Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

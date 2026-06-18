@@ -1,0 +1,567 @@
+{
+  "city": "嘉義縣",
+  "district": "六腳鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 30,
+  "items": [
+    {
+      "id": 2738933736,
+      "name": "蒜頭車站",
+      "type": "train",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4795262,
+      "lng": 120.3008946
+    },
+    {
+      "id": 4437487521,
+      "name": "蘇厝寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5595984,
+      "lng": 120.3024054,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4437555187,
+      "name": "崙陽路口",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5597949,
+      "lng": 120.3050817,
+      "routes": [
+        "7201",
+        "7201A",
+        "7202",
+        "7202A",
+        "7202B",
+        "7202C",
+        "7235",
+        "7307",
+        "7307A",
+        "7325",
+        "7325A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.383Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4672693142,
+      "name": "娘媽廟",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4981211,
+      "lng": 120.3083497,
+      "routes": [
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6410598942,
+      "name": "灣內",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5004033,
+      "lng": 120.3100271,
+      "routes": [
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6410598944,
+      "name": "灣內國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4999675,
+      "lng": 120.3124092,
+      "routes": [
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6580997583,
+      "name": "竹子腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5268147,
+      "lng": 120.2656938,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581017085,
+      "name": "魚寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5180804,
+      "lng": 120.2605426,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581017087,
+      "name": "磚瓦窯",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5146667,
+      "lng": 120.2588394,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.898Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581017089,
+      "name": "六腳",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5083285,
+      "lng": 120.2559587,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581017091,
+      "name": "正義村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4773875,
+      "lng": 120.2454659,
+      "routes": [
+        "7225",
+        "7225A",
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581020077,
+      "name": "蘇厝寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5562468,
+      "lng": 120.2993589,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581020079,
+      "name": "西安站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5503439,
+      "lng": 120.2968356,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581020081,
+      "name": "六斗尾",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5419444,
+      "lng": 120.293228,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581020082,
+      "name": "頂寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5340238,
+      "lng": 120.2898538
+    },
+    {
+      "id": 6581020084,
+      "name": "港尾寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5309769,
+      "lng": 120.2885985,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6581020386,
+      "name": "港尾寮1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5299342,
+      "lng": 120.2853115,
+      "routes": [
+        "7231",
+        "7231A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6612167973,
+      "name": "蒜頭蔗埕文化園區",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4790512,
+      "lng": 120.2994288,
+      "routes": [
+        "105",
+        "106"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6613024793,
+      "name": "蒜南",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4899025,
+      "lng": 120.2926356,
+      "routes": [
+        "105",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326",
+        "幸福六腳1路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6613029887,
+      "name": "松樹王",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4864386,
+      "lng": 120.2932038,
+      "routes": [
+        "105",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7496698759,
+      "name": "林內1",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4849714,
+      "lng": 120.2263243,
+      "routes": [
+        "7225",
+        "7225A",
+        "幸福六腳1路"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7496698771,
+      "name": "林內",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4856319,
+      "lng": 120.2238795,
+      "routes": [
+        "7225",
+        "7225A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7496727200,
+      "name": "更寮",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4792597,
+      "lng": 120.2390253,
+      "routes": [
+        "7225",
+        "7225A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.899Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7505784994,
+      "name": "溪厝村",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4942195,
+      "lng": 120.2695146,
+      "routes": [
+        "105",
+        "幸福六腳1路"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.384Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7505784995,
+      "name": "蒜頭國小",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4931845,
+      "lng": 120.2919192,
+      "routes": [
+        "105",
+        "7217",
+        "7217A",
+        "7217B",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326",
+        "幸福六腳1路"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7505784997,
+      "name": "蒜頭",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4911668,
+      "lng": 120.2922062,
+      "routes": [
+        "105",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326",
+        "幸福六腳1路"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7505784999,
+      "name": "故宮南院北站",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4787449,
+      "lng": 120.2932374,
+      "routes": [
+        "105",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7520954967,
+      "name": "下竹圍",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4901326,
+      "lng": 120.2896558,
+      "routes": [
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7520954969,
+      "name": "蒜頭糖廠",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.4785642,
+      "lng": 120.2997879,
+      "routes": [
+        "7235",
+        "7303",
+        "7320",
+        "7320A",
+        "7320B",
+        "7326"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9822622725,
+      "name": "雙涵",
+      "type": "bus",
+      "city": "嘉義縣",
+      "district": "六腳鄉",
+      "lat": 23.5122769,
+      "lng": 120.3014657,
+      "routes": [
+        "7217",
+        "7217B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.385Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

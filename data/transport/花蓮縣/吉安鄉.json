@@ -1,0 +1,613 @@
+{
+  "city": "花蓮縣",
+  "district": "吉安鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 41,
+  "items": [
+    {
+      "id": 289126242,
+      "name": "吉安",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9678249,
+      "lng": 121.5827939
+    },
+    {
+      "id": 2569373051,
+      "name": "中華工商",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9712507,
+      "lng": 121.5616987
+    },
+    {
+      "id": 2569373053,
+      "name": "南華",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9582306,
+      "lng": 121.5531873
+    },
+    {
+      "id": 2569373054,
+      "name": "南華二街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9545307,
+      "lng": 121.5508733
+    },
+    {
+      "id": 2569373055,
+      "name": "大陸麵店",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9505141,
+      "lng": 121.5485068,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373056,
+      "name": "南華監獄",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9478043,
+      "lng": 121.5271477
+    },
+    {
+      "id": 2569373057,
+      "name": "吉安鄉公所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9739643,
+      "lng": 121.5634429,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373058,
+      "name": "吉祥七街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9735841,
+      "lng": 121.5819515
+    },
+    {
+      "id": 2569373059,
+      "name": "南華國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9479286,
+      "lng": 121.5479564,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373060,
+      "name": "南華四街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9534135,
+      "lng": 121.5501929,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373061,
+      "name": "宜昌郵局",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9738858,
+      "lng": 121.5853587,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373063,
+      "name": "君達",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.944894,
+      "lng": 121.5475403
+    },
+    {
+      "id": 2569373065,
+      "name": "慶豐九街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9791351,
+      "lng": 121.5685527,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373066,
+      "name": "慶豐二街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9762339,
+      "lng": 121.573724,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373067,
+      "name": "慶豐六街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9779027,
+      "lng": 121.5705859,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.165Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373068,
+      "name": "慶豐郵局",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9785554,
+      "lng": 121.5664023
+    },
+    {
+      "id": 2569373069,
+      "name": "招呼站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9698195,
+      "lng": 121.5607501
+    },
+    {
+      "id": 2569373076,
+      "name": "福興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9679396,
+      "lng": 121.559528,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373077,
+      "name": "華興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9456225,
+      "lng": 121.5339199,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373080,
+      "name": "干城",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9429391,
+      "lng": 121.5441865,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373081,
+      "name": "華隆",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9488431,
+      "lng": 121.5232855,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373083,
+      "name": "荳蘭橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9741854,
+      "lng": 121.5886561,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373085,
+      "name": "黃昏市場",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9738045,
+      "lng": 121.5781924,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266708030,
+      "name": "南華車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.941319,
+      "lng": 121.545243
+    },
+    {
+      "id": 3266710435,
+      "name": "稻香",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9585632,
+      "lng": 121.5698074,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266710574,
+      "name": "永興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9468018,
+      "lng": 121.5525752,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266710612,
+      "name": "廣賢路",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9635173,
+      "lng": 121.5800045,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283368831,
+      "name": "仁和村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9397628,
+      "lng": 121.5866348,
+      "routes": [
+        "8119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283368833,
+      "name": "南海八街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9457834,
+      "lng": 121.5884695,
+      "routes": [
+        "1128",
+        "1140",
+        "1145"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283369064,
+      "name": "中華紙漿廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9312216,
+      "lng": 121.5847573,
+      "routes": [
+        "1128",
+        "1140",
+        "1145"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283369644,
+      "name": "南海四街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9525882,
+      "lng": 121.5916023,
+      "routes": [
+        "1128",
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283373402,
+      "name": "大眾",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9524803,
+      "lng": 121.5915594
+    },
+    {
+      "id": 3283373422,
+      "name": "仁愛藥妝店",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9557698,
+      "lng": 121.5930453
+    },
+    {
+      "id": 3283373461,
+      "name": "仁安",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9557061,
+      "lng": 121.5930185
+    },
+    {
+      "id": 4251826990,
+      "name": "上騰工商站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9700506,
+      "lng": 121.5611044
+    },
+    {
+      "id": 6802633413,
+      "name": "南埔加油站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9650141,
+      "lng": 121.5909559,
+      "routes": [
+        "1121",
+        "1122",
+        "1128",
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804589422,
+      "name": "海岸站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9574881,
+      "lng": 121.5935938,
+      "routes": [
+        "1128",
+        "1140",
+        "1145"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.074Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6879418185,
+      "name": "新天堂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9397693,
+      "lng": 121.5951457,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.074Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6879418285,
+      "name": "新天堂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9389405,
+      "lng": 121.5941623,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.074Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9832599913,
+      "name": "吉祥七街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9734954,
+      "lng": 121.5808421,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.166Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9832627218,
+      "name": "荳蘭橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "吉安鄉",
+      "lat": 23.9740782,
+      "lng": 121.5873317
+    }
+  ]
+}

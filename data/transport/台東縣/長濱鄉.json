@@ -1,0 +1,961 @@
+{
+  "city": "台東縣",
+  "district": "長濱鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 51,
+  "items": [
+    {
+      "id": 3168723467,
+      "name": "大峰村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4332204,
+      "lng": 121.4914158
+    },
+    {
+      "id": 3168723468,
+      "name": "南大峰村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4289258,
+      "lng": 121.4898693
+    },
+    {
+      "id": 3168723469,
+      "name": "北樟原",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4202717,
+      "lng": 121.4851983,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723470,
+      "name": "樟原社區",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4167792,
+      "lng": 121.4837127,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723471,
+      "name": "南樟原",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4152948,
+      "lng": 121.4833885,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168723472,
+      "name": "樟原",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4137331,
+      "lng": 121.4827956,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752464,
+      "name": "樟原村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4096305,
+      "lng": 121.4821976,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752465,
+      "name": "淨水廠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4033081,
+      "lng": 121.481061,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752466,
+      "name": "樟原橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.39911,
+      "lng": 121.4793318,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752467,
+      "name": "仙洞",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3969783,
+      "lng": 121.4777351,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752468,
+      "name": "仙洞入口",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3939772,
+      "lng": 121.4760763,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752469,
+      "name": "南仙洞",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.392236,
+      "lng": 121.4759125,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752470,
+      "name": "大俱來教會",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3816322,
+      "lng": 121.4722193,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752471,
+      "name": "大俱來",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3799327,
+      "lng": 121.4716492,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752472,
+      "name": "南大俱來",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3762455,
+      "lng": 121.4708406,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752473,
+      "name": "大霸來橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3685571,
+      "lng": 121.4710262,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752474,
+      "name": "北三間屋橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3618904,
+      "lng": 121.4706616,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752475,
+      "name": "三間屋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.358167,
+      "lng": 121.4696028,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752476,
+      "name": "三間",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3556689,
+      "lng": 121.4692658,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752477,
+      "name": "北真柄",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3453694,
+      "lng": 121.4662445,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752478,
+      "name": "真柄",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3415886,
+      "lng": 121.4653195,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752479,
+      "name": "北城子埔",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3381747,
+      "lng": 121.4654713,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752480,
+      "name": "城子埔",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3344872,
+      "lng": 121.4643725,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752481,
+      "name": "長光",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3294877,
+      "lng": 121.4625362,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752482,
+      "name": "公糧倉庫",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3270196,
+      "lng": 121.4610807,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752483,
+      "name": "長恩診所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3247634,
+      "lng": 121.4597924,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752484,
+      "name": "長濱教會",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3213518,
+      "lng": 121.4580242,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.832Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752485,
+      "name": "長濱",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3176402,
+      "lng": 121.4556391,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.289Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752486,
+      "name": "長濱分駐所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3166632,
+      "lng": 121.4544125,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752487,
+      "name": "長濱鄉公所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3148503,
+      "lng": 121.4516407,
+      "routes": [
+        "309",
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752488,
+      "name": "田組漁港",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3096719,
+      "lng": 121.4460264,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752489,
+      "name": "田組",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3061011,
+      "lng": 121.4435469,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752490,
+      "name": "石坑橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.299164,
+      "lng": 121.437766,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168752491,
+      "name": "永福",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2966398,
+      "lng": 121.4363155,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772031,
+      "name": "南永福",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2903887,
+      "lng": 121.4327713,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772032,
+      "name": "竹湖國小",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2860768,
+      "lng": 121.4292381,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772033,
+      "name": "協成米廠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2827655,
+      "lng": 121.427661,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772034,
+      "name": "竹湖",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2802314,
+      "lng": 121.426792,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.290Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772035,
+      "name": "南竹湖",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2744294,
+      "lng": 121.4259696,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772036,
+      "name": "石門溪",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2664361,
+      "lng": 121.423879,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772037,
+      "name": "城山",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2589252,
+      "lng": 121.4192805,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772038,
+      "name": "北白桑安",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2547185,
+      "lng": 121.4180409
+    },
+    {
+      "id": 3168772039,
+      "name": "白桑安",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2533138,
+      "lng": 121.4180006
+    },
+    {
+      "id": 3168772040,
+      "name": "寧埔社區",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.245896,
+      "lng": 121.4165898,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772041,
+      "name": "寧埔",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2436636,
+      "lng": 121.4162172,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772042,
+      "name": "北烏石鼻",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2351962,
+      "lng": 121.4139448,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772043,
+      "name": "烏石鼻",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2298231,
+      "lng": 121.4140548,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772044,
+      "name": "膽墁",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.224311,
+      "lng": 121.4135878,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.291Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3168772045,
+      "name": "界橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.2167558,
+      "lng": 121.4097203,
+      "routes": [
+        "1145",
+        "8101",
+        "8102",
+        "8105",
+        "8119",
+        "8181"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.292Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3328465938,
+      "name": "長濱國中",
+      "type": "bus_station",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.3156822,
+      "lng": 121.458182
+    },
+    {
+      "id": 6804763517,
+      "name": "南大峰村",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "長濱鄉",
+      "lat": 23.4302281,
+      "lng": 121.4903837,
+      "routes": [
+        "8101",
+        "8102",
+        "8105",
+        "8119"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.292Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

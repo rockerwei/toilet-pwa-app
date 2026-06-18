@@ -1,0 +1,2044 @@
+{
+  "city": "台中市",
+  "district": "新社區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 129,
+  "items": [
+    {
+      "id": 3210322036,
+      "name": "中興嶺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2056395,
+      "lng": 120.7940015
+    },
+    {
+      "id": 4974333812,
+      "name": "福天宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1561664,
+      "lng": 120.8621782,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974335716,
+      "name": "福興橋(美林)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1603484,
+      "lng": 120.8621534,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974336069,
+      "name": "河排",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1554137,
+      "lng": 120.8542528,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974337443,
+      "name": "福興里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1584431,
+      "lng": 120.8659054,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974337943,
+      "name": "大林國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1590086,
+      "lng": 120.8637656,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974347588,
+      "name": "龍安橋頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.16959,
+      "lng": 120.8350585,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974348764,
+      "name": "龍安",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1642883,
+      "lng": 120.8350393,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.346Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4974377139,
+      "name": "頭櫃路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1447031,
+      "lng": 120.8698031
+    },
+    {
+      "id": 4974379479,
+      "name": "監督寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1517999,
+      "lng": 120.873807
+    },
+    {
+      "id": 4974379499,
+      "name": "第十八鄰",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1541936,
+      "lng": 120.8769648
+    },
+    {
+      "id": 4974381561,
+      "name": "嶺頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1398516,
+      "lng": 120.8764532
+    },
+    {
+      "id": 5226031194,
+      "name": "新二村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2179565,
+      "lng": 120.7958391,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞2",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "276",
+        "277",
+        "278",
+        "279"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5226031196,
+      "name": "陳厝(東山街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2142456,
+      "lng": 120.7958043
+    },
+    {
+      "id": 5226031198,
+      "name": "下中興嶺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2114667,
+      "lng": 120.7959437
+    },
+    {
+      "id": 5226031201,
+      "name": "營區前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2068529,
+      "lng": 120.7945356
+    },
+    {
+      "id": 5226059170,
+      "name": "復盛橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2357461,
+      "lng": 120.8043525,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "276",
+        "278",
+        "279"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.347Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5226059172,
+      "name": "種苗繁殖場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2303432,
+      "lng": 120.8033279
+    },
+    {
+      "id": 5226059174,
+      "name": "興中大復街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2270705,
+      "lng": 120.8032849,
+      "routes": [
+        "276"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.347Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5226059176,
+      "name": "水利會",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2194217,
+      "lng": 120.8028343,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.347Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5226067148,
+      "name": "擺頭店",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2371916,
+      "lng": 120.8056077,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "276",
+        "278",
+        "279"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.347Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233011091,
+      "name": "郵局",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2479037,
+      "lng": 120.8086158,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233011093,
+      "name": "下新社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2463715,
+      "lng": 120.8082779
+    },
+    {
+      "id": 5233011095,
+      "name": "新社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2440971,
+      "lng": 120.8083315,
+      "routes": [
+        "91",
+        "91延1",
+        "91延2",
+        "91繞1",
+        "91繞2",
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233011096,
+      "name": "頂新社",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2425832,
+      "lng": 120.807606
+    },
+    {
+      "id": 5233016104,
+      "name": "山頂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2550641,
+      "lng": 120.8070762
+    },
+    {
+      "id": 5233016106,
+      "name": "電信局前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.253345,
+      "lng": 120.8076422,
+      "routes": [
+        "91",
+        "91繞",
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233016109,
+      "name": "中正里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2502465,
+      "lng": 120.8088022
+    },
+    {
+      "id": 5233034866,
+      "name": "盤安橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2700978,
+      "lng": 120.7912901
+    },
+    {
+      "id": 5233034868,
+      "name": "親水緣",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2629345,
+      "lng": 120.7972312,
+      "routes": [
+        "91",
+        "91延",
+        "91繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233034870,
+      "name": "協園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2598363,
+      "lng": 120.7995352,
+      "routes": [
+        "91",
+        "91延",
+        "91繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5233034872,
+      "name": "天寬聖宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2594401,
+      "lng": 120.8038804,
+      "routes": [
+        "91",
+        "91延",
+        "91繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495577795,
+      "name": "新社高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2384194,
+      "lng": 120.8062997,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "276",
+        "278",
+        "279"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495577796,
+      "name": "新社高中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2395346,
+      "lng": 120.8067544,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "276",
+        "278",
+        "279"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495577799,
+      "name": "果菜市場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2568811,
+      "lng": 120.8077159,
+      "routes": [
+        "263",
+        "264",
+        "265",
+        "270",
+        "271",
+        "272",
+        "272繞",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.854Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495612239,
+      "name": "水頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2243163,
+      "lng": 120.7957707,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495612241,
+      "name": "廖厝",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2261533,
+      "lng": 120.7974619,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.348Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495612243,
+      "name": "內觀中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2279217,
+      "lng": 120.7985267,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495612245,
+      "name": "大南",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2293697,
+      "lng": 120.7998034
+    },
+    {
+      "id": 5495650569,
+      "name": "三嵙口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1938486,
+      "lng": 120.8069113,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650580,
+      "name": "新四村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1958719,
+      "lng": 120.8045711,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650597,
+      "name": "四村口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1972543,
+      "lng": 120.8028746,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650599,
+      "name": "頭嵙口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1991491,
+      "lng": 120.8005531,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650601,
+      "name": "上中興嶺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2032604,
+      "lng": 120.7972366,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650603,
+      "name": "中興嶺停車場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2043625,
+      "lng": 120.7961395
+    },
+    {
+      "id": 5495650837,
+      "name": "教堂前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.21848,
+      "lng": 120.7943827,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650840,
+      "name": "活動中心(中和街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2188665,
+      "lng": 120.7922544,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5495650842,
+      "name": "馬力埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2208087,
+      "lng": 120.7930215
+    },
+    {
+      "id": 5495650844,
+      "name": "國隆社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2219094,
+      "lng": 120.7936799,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "272繞",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5693934935,
+      "name": "紫明宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1926375,
+      "lng": 120.8136892,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5693934937,
+      "name": "五村口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.191413,
+      "lng": 120.8121054,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696875519,
+      "name": "頂東興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2042659,
+      "lng": 120.8214448,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696879321,
+      "name": "崎頂(協興街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2027405,
+      "lng": 120.8179808,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696879323,
+      "name": "二苗圃口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2021607,
+      "lng": 120.8159074,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696879324,
+      "name": "下田寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1978353,
+      "lng": 120.8158672,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696879326,
+      "name": "上田寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1955796,
+      "lng": 120.8160362,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.349Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920839,
+      "name": "市場前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2423264,
+      "lng": 120.8084106
+    },
+    {
+      "id": 5696920847,
+      "name": "土城(興社街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2395933,
+      "lng": 120.809222
+    },
+    {
+      "id": 5696920849,
+      "name": "月湖里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2367526,
+      "lng": 120.8147541,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.350Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920851,
+      "name": "伯公崎",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2301671,
+      "lng": 120.8170152,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.350Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920853,
+      "name": "股份園路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2231459,
+      "lng": 120.8192682,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.350Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920855,
+      "name": "下水底寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2193924,
+      "lng": 120.8203049,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.350Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920857,
+      "name": "新七村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2154565,
+      "lng": 120.8199522,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.350Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920859,
+      "name": "下東興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2124379,
+      "lng": 120.8199951,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.352Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696920861,
+      "name": "東興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2069239,
+      "lng": 120.8214663,
+      "routes": [
+        "91繞",
+        "264",
+        "271",
+        "275",
+        "275區"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.352Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696987191,
+      "name": "華豐五東山街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2180592,
+      "lng": 120.8068764,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.352Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696987193,
+      "name": "華豐五興義街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2149599,
+      "lng": 120.8068523
+    },
+    {
+      "id": 5696987195,
+      "name": "興中山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2115817,
+      "lng": 120.8068415,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5696987197,
+      "name": "興中興義街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2152681,
+      "lng": 120.8033372,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5698456245,
+      "name": "慈光新村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2354856,
+      "lng": 120.8099248,
+      "routes": [
+        "277"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.024Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5698456247,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2229612,
+      "lng": 120.809969
+    },
+    {
+      "id": 5698456249,
+      "name": "大南國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2262805,
+      "lng": 120.8053529,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5698456251,
+      "name": "新三村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2213456,
+      "lng": 120.8069716,
+      "routes": [
+        "276",
+        "277"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773357567,
+      "name": "崎頂(南華街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1740821,
+      "lng": 120.8102319,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773357569,
+      "name": "南華莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1757216,
+      "lng": 120.8147608,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773357571,
+      "name": "食水井",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.178056,
+      "lng": 120.8160496,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773357582,
+      "name": "湖興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1757583,
+      "lng": 120.8224091,
+      "routes": [
+        "275",
+        "275區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773357584,
+      "name": "平崎",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1703651,
+      "lng": 120.8236268
+    },
+    {
+      "id": 5773430373,
+      "name": "茄苳寮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1508286,
+      "lng": 120.8058786,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773430374,
+      "name": "伯公前",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1518835,
+      "lng": 120.8110177,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773430380,
+      "name": "龍泉下",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1532491,
+      "lng": 120.8124635,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773430382,
+      "name": "龍泉(南華街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1549378,
+      "lng": 120.8132923,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773430384,
+      "name": "池上",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1567366,
+      "lng": 120.8134907,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5773430386,
+      "name": "梅園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1607673,
+      "lng": 120.8125117,
+      "routes": [
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8481602719,
+      "name": "大排",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1975784,
+      "lng": 120.8215427,
+      "routes": [
+        "91繞",
+        "275",
+        "275區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8481602722,
+      "name": "何厝(興社街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2014023,
+      "lng": 120.8215132
+    },
+    {
+      "id": 8483329295,
+      "name": "矮山坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1876683,
+      "lng": 120.8223662,
+      "routes": [
+        "91繞",
+        "275",
+        "275區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483329297,
+      "name": "伯公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1894263,
+      "lng": 120.822157,
+      "routes": [
+        "91繞",
+        "275",
+        "275區"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483329301,
+      "name": "南華",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1937397,
+      "lng": 120.8215535
+    },
+    {
+      "id": 8483389549,
+      "name": "中和(中興街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1570939,
+      "lng": 120.8288625
+    },
+    {
+      "id": 8483389551,
+      "name": "中和國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1586455,
+      "lng": 120.8268401,
+      "routes": [
+        "275",
+        "275區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483407433,
+      "name": "下中和",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1630286,
+      "lng": 120.8259147,
+      "routes": [
+        "275",
+        "275區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483407435,
+      "name": "十股林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1660288,
+      "lng": 120.8245844,
+      "routes": [
+        "275",
+        "275區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483407437,
+      "name": "下十股林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1680648,
+      "lng": 120.8252455,
+      "routes": [
+        "275"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.855Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8483407441,
+      "name": "新六村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1808454,
+      "lng": 120.8212262,
+      "routes": [
+        "275",
+        "275區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649660995,
+      "name": "中和街四段46巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2404958,
+      "lng": 120.8068362,
+      "routes": [
+        "91",
+        "91延",
+        "265",
+        "270",
+        "272",
+        "276",
+        "278",
+        "279"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9649660996,
+      "name": "營區後門(東山街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2088761,
+      "lng": 120.7951887
+    },
+    {
+      "id": 9651099161,
+      "name": "大嵙口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1921372,
+      "lng": 120.8094031,
+      "routes": [
+        "91繞",
+        "265",
+        "271",
+        "272",
+        "272繞"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9651156265,
+      "name": "鳥銃頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2269788,
+      "lng": 120.8126096
+    },
+    {
+      "id": 10231049942,
+      "name": "新五村",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1905283,
+      "lng": 120.8114523
+    },
+    {
+      "id": 10231049944,
+      "name": "茅埔角",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1849849,
+      "lng": 120.8152738,
+      "routes": [
+        "91繞",
+        "272",
+        "272繞",
+        "273"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.353Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10231049946,
+      "name": "頭嵙山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1806061,
+      "lng": 120.8160738
+    },
+    {
+      "id": 10231049948,
+      "name": "上坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1810103,
+      "lng": 120.8206154
+    },
+    {
+      "id": 10249205993,
+      "name": "水井",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2178192,
+      "lng": 120.7729794
+    },
+    {
+      "id": 10249205995,
+      "name": "中路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2172487,
+      "lng": 120.7741188
+    },
+    {
+      "id": 10249205996,
+      "name": "中路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2162936,
+      "lng": 120.775486,
+      "routes": [
+        "272繞"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.025Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10249205997,
+      "name": "中央",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2154535,
+      "lng": 120.7781867
+    },
+    {
+      "id": 10249205999,
+      "name": "崁頂(水井街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2150113,
+      "lng": 120.7811588
+    },
+    {
+      "id": 10249206001,
+      "name": "受奉宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2108303,
+      "lng": 120.7845188
+    },
+    {
+      "id": 10249206003,
+      "name": "天主教堂",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2078631,
+      "lng": 120.7875879
+    },
+    {
+      "id": 10249206005,
+      "name": "崑山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2411073,
+      "lng": 120.7873803
+    },
+    {
+      "id": 10249206007,
+      "name": "下崑山",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2416547,
+      "lng": 120.7861204
+    },
+    {
+      "id": 10249227209,
+      "name": "崑南崑崙巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2430207,
+      "lng": 120.7858541
+    },
+    {
+      "id": 10249227211,
+      "name": "土城口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2446447,
+      "lng": 120.7876768,
+      "routes": [
+        "263"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.354Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10249227213,
+      "name": "下坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2460259,
+      "lng": 120.7899656,
+      "routes": [
+        "263"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.354Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10249227215,
+      "name": "上仙塘坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2484657,
+      "lng": 120.792063
+    },
+    {
+      "id": 10249227217,
+      "name": "仙塘坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2468455,
+      "lng": 120.7953673,
+      "routes": [
+        "263"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.354Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10249227221,
+      "name": "上橫坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2429543,
+      "lng": 120.798918
+    },
+    {
+      "id": 10249227223,
+      "name": "橫坪",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2414042,
+      "lng": 120.8036736
+    },
+    {
+      "id": 10249564850,
+      "name": "鳥銃頭櫻花公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2216528,
+      "lng": 120.8131442,
+      "routes": [
+        "277"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10266530270,
+      "name": "福民國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.163688,
+      "lng": 120.8819378,
+      "routes": [
+        "黃9",
+        "黃16"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12089239718,
+      "name": "華豐興義街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1933426,
+      "lng": 120.8157497,
+      "routes": [
+        "264",
+        "271"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12135736328,
+      "name": "福興橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1603641,
+      "lng": 120.8623392,
+      "routes": [
+        "266",
+        "266繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.354Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470485,
+      "name": "永豐",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.0987433,
+      "lng": 120.8892633,
+      "routes": [
+        "黃16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470487,
+      "name": "長福橋(永豐)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.0962823,
+      "lng": 120.8881348,
+      "routes": [
+        "黃16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470489,
+      "name": "福天宮牌樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.1587306,
+      "lng": 120.8661058,
+      "routes": [
+        "黃16"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470497,
+      "name": "山沐斯達",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2332365,
+      "lng": 120.7851972,
+      "routes": [
+        "黃17",
+        "黃17末班"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.026Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168470499,
+      "name": "中興畜牧場",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2239331,
+      "lng": 120.7841448,
+      "routes": [
+        "黃17",
+        "黃17末班"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.857Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483401,
+      "name": "水井廟口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "新社區",
+      "lat": 24.2191048,
+      "lng": 120.772065,
+      "routes": [
+        "黃17",
+        "黃17末班"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.026Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

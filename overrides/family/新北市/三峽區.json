@@ -1,0 +1,51 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:473",
+      "name": "熊空森林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.872652,
+      "lng": 121.438511,
+      "source": "coa",
+      "sourceId": "473",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市三峽區竹崙路238號",
+      "phone": "02-26681589"
+    },
+    {
+      "id": "coa:544",
+      "name": "森密境休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.846389,
+      "lng": 121.438511,
+      "source": "coa",
+      "sourceId": "544",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市三峽區有木里106之8號",
+      "phone": "02-2672-0888"
+    },
+    {
+      "id": "coa:570",
+      "name": "鳶山花花世界休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.93124,
+      "lng": 121.3541509,
+      "source": "coa",
+      "sourceId": "570",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市三峽區中山路833號"
+    }
+  ]
+}

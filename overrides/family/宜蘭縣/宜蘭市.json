@@ -1,0 +1,79 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376420000A_000072",
+      "name": "亞典蛋糕密碼館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.78101,
+      "lng": 121.731598,
+      "source": "tdx",
+      "sourceId": "C1_376420000A_000072",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "宜蘭縣260宜蘭市梅洲二路122號"
+    },
+    {
+      "id": "tdx:C1_376420000A_000435",
+      "name": "莎貝莉娜Sabelina",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.777109,
+      "lng": 121.737183,
+      "source": "tdx",
+      "sourceId": "C1_376420000A_000435",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "宜蘭縣260宜蘭市梅洲一路16-3號"
+    },
+    {
+      "id": "tdx:C1_376420000A_000436",
+      "name": "菌寶貝博物館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.77634,
+      "lng": 121.735573,
+      "source": "tdx",
+      "sourceId": "C1_376420000A_000436",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "宜蘭縣260宜蘭市梅州一路22號"
+    },
+    {
+      "id": "coa:137",
+      "name": "千里光藥園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.776543,
+      "lng": 121.743214,
+      "source": "coa",
+      "sourceId": "137",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣宜蘭市大坡路二段131巷53號",
+      "phone": "03-928-4349"
+    },
+    {
+      "id": "coa:354",
+      "name": "麗野莊園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.743278,
+      "lng": 121.779972,
+      "source": "coa",
+      "sourceId": "354",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣宜蘭市黎明一路88號",
+      "phone": "0912-592-789"
+    }
+  ]
+}

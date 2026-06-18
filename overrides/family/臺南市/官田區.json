@@ -1,0 +1,22 @@
+{
+  "city": "臺南市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:151",
+      "name": "台南鴨莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.195034,
+      "lng": 120.3444,
+      "source": "coa",
+      "sourceId": "151",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺南市官田區渡拔里三塊厝178-1號",
+      "phone": "06-690-1101"
+    }
+  ]
+}

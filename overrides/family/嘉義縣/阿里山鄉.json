@@ -1,0 +1,37 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:464",
+      "name": "山美休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.381234,
+      "lng": 120.676543,
+      "source": "coa",
+      "sourceId": "464",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "嘉義縣阿里山鄉山美村1鄰山美1-3號",
+      "phone": "05-258-6653"
+    },
+    {
+      "id": "coa:334",
+      "name": "阿里山咖啡休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.464167,
+      "lng": 120.697222,
+      "source": "coa",
+      "sourceId": "334",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣阿里山鄉鄒築園咖啡",
+      "phone": "05-256-1118"
+    }
+  ]
+}

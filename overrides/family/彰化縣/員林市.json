@@ -1,0 +1,36 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:287",
+      "name": "愛蓮莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.941234,
+      "lng": 120.581234,
+      "source": "coa",
+      "sourceId": "287",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣員林市大饒路803巷385號"
+    },
+    {
+      "id": "coa:421",
+      "name": "一畝田琉璃仙境休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.954302,
+      "lng": 120.574512,
+      "source": "coa",
+      "sourceId": "421",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣員林市香山路87-11號",
+      "phone": "048373888"
+    }
+  ]
+}

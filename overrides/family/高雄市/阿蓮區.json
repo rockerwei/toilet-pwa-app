@@ -1,0 +1,22 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:317",
+      "name": "大崗山生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.863333,
+      "lng": 120.354167,
+      "source": "coa",
+      "sourceId": "317",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "高雄市阿蓮區",
+      "phone": "0972-006-888"
+    }
+  ]
+}

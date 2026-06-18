@@ -1,0 +1,1288 @@
+{
+  "city": "宜蘭縣",
+  "district": "頭城鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 78,
+  "items": [
+    {
+      "id": 289129958,
+      "name": "龜山",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9050658,
+      "lng": 121.8687456
+    },
+    {
+      "id": 289130410,
+      "name": "大里",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9667612,
+      "lng": 121.9225152
+    },
+    {
+      "id": 2955658619,
+      "name": "大溪",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9383628,
+      "lng": 121.8898064
+    },
+    {
+      "id": 3360896100,
+      "name": "石城漁港",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9816227,
+      "lng": 121.9517564,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3360896101,
+      "name": "石城港",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9801554,
+      "lng": 121.9486909,
+      "routes": [
+        "131",
+        "頭城1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3360896102,
+      "name": "石城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9787174,
+      "lng": 121.9455567,
+      "routes": [
+        "131",
+        "綠19",
+        "頭城1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3360896125,
+      "name": "大里天公廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9697246,
+      "lng": 121.9254111,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4066090282,
+      "name": "頭城",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8590462,
+      "lng": 121.822294
+    },
+    {
+      "id": 5537094270,
+      "name": "大里港",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9639359,
+      "lng": 121.920362,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5537094276,
+      "name": "天公廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9690857,
+      "lng": 121.9247355,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5537094279,
+      "name": "大樹",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9730142,
+      "lng": 121.931952,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5537094282,
+      "name": "桶盤村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9749314,
+      "lng": 121.9361017,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5537094286,
+      "name": "隧道口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9839623,
+      "lng": 121.9567394
+    },
+    {
+      "id": 5542719602,
+      "name": "蕃薯寮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9491982,
+      "lng": 121.9071722,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542719605,
+      "name": "鼻子澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.951686,
+      "lng": 121.9112679,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542719608,
+      "name": "沙灣",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9577242,
+      "lng": 121.9176999,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542811029,
+      "name": "新港 (大溪漁港)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9419096,
+      "lng": 121.898384,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542811030,
+      "name": "新港 (大溪漁港)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9414657,
+      "lng": 121.8994823,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542823318,
+      "name": "窖寮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9339382,
+      "lng": 121.8847677,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542823320,
+      "name": "忠孝新村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9358901,
+      "lng": 121.8864783,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542824524,
+      "name": "大溪",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9393212,
+      "lng": 121.8912539,
+      "routes": [
+        "131",
+        "綠19",
+        "頭城1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542824525,
+      "name": "大溪社區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9403038,
+      "lng": 121.893458,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542847021,
+      "name": "北關",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9145605,
+      "lng": 121.8794087
+    },
+    {
+      "id": 5542847025,
+      "name": "橋板湖",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9229174,
+      "lng": 121.8834682,
+      "routes": [
+        "131",
+        "綠19",
+        "頭城1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542872703,
+      "name": "大園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9011513,
+      "lng": 121.8633261,
+      "routes": [
+        "131",
+        "綠19",
+        "頭城1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542872705,
+      "name": "更新",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9040367,
+      "lng": 121.8677243,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542979808,
+      "name": "頭城國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8634022,
+      "lng": 121.8276528,
+      "routes": [
+        "131",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1",
+        "頭城1",
+        "頭城2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542979810,
+      "name": "武營橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8659939,
+      "lng": 121.8296054,
+      "routes": [
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542979813,
+      "name": "蘭陽博物館",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8696077,
+      "lng": 121.8327463,
+      "routes": [
+        "131",
+        "1766",
+        "1767",
+        "1767A",
+        "1877",
+        "1877B",
+        "紅1",
+        "頭城2"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542979815,
+      "name": "烏石港站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.871142,
+      "lng": 121.8350248,
+      "routes": [
+        "頭城2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.155Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542982129,
+      "name": "外澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8832267,
+      "lng": 121.8456233,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542982137,
+      "name": "小澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8894402,
+      "lng": 121.8493719,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481139,
+      "name": "大福水門",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8079796,
+      "lng": 121.8174366,
+      "routes": [
+        "1790",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481141,
+      "name": "竹安小城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8122312,
+      "lng": 121.8187666,
+      "routes": [
+        "191",
+        "1790"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481145,
+      "name": "竹安",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8178306,
+      "lng": 121.8197778,
+      "routes": [
+        "191",
+        "1790",
+        "綠18"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481152,
+      "name": "竹安廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8209285,
+      "lng": 121.819979,
+      "routes": [
+        "191",
+        "1790",
+        "綠18"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481155,
+      "name": "竹安國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8250609,
+      "lng": 121.8210438,
+      "routes": [
+        "191",
+        "1790",
+        "綠18"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481661,
+      "name": "防閘門",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8280527,
+      "lng": 121.8214528,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481672,
+      "name": "三寶竹",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8312343,
+      "lng": 121.8225163,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481763,
+      "name": "金馬橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.844516,
+      "lng": 121.8233666
+    },
+    {
+      "id": 5606481764,
+      "name": "臨時站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.835219,
+      "lng": 121.8231212,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5606481766,
+      "name": "打馬煙",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8365907,
+      "lng": 121.8237354,
+      "routes": [
+        "1790",
+        "綠18"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.783Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825631,
+      "name": "頭城家商",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8496053,
+      "lng": 121.8157303,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "1877",
+        "1877B",
+        "紅1",
+        "頭城1"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825633,
+      "name": "實踐農村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8471933,
+      "lng": 121.8127477,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1",
+        "頭城1"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825635,
+      "name": "頂埔",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8456405,
+      "lng": 121.8080994,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "1877",
+        "1877B",
+        "紅1"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825638,
+      "name": "二城國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.844219,
+      "lng": 121.8053327,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825640,
+      "name": "中崙",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8415416,
+      "lng": 121.8018915,
+      "routes": [
+        "131",
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801825683,
+      "name": "二城(二城派出所)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8385307,
+      "lng": 121.7932682
+    },
+    {
+      "id": 5801853743,
+      "name": "頭城國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8625608,
+      "lng": 121.8284601,
+      "routes": [
+        "131",
+        "1766",
+        "1767",
+        "1767A",
+        "紅1",
+        "頭城1",
+        "頭城2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801853748,
+      "name": "頭城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8585811,
+      "lng": 121.8261507,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "1790",
+        "1877",
+        "1877B",
+        "紅1",
+        "綠19"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801853749,
+      "name": "頭城站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8579094,
+      "lng": 121.8254641,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "1790",
+        "1877",
+        "1877B",
+        "紅1",
+        "綠19"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801853750,
+      "name": "青雲路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8555292,
+      "lng": 121.8235034,
+      "routes": [
+        "371",
+        "1766",
+        "1767",
+        "1767A",
+        "1790",
+        "紅1"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.784Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801885286,
+      "name": "外澳遊客中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8773118,
+      "lng": 121.8401009
+    },
+    {
+      "id": 5801885287,
+      "name": "烏石港轉運站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8692208,
+      "lng": 121.8350959,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801885288,
+      "name": "烏石港 (區漁會)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8698802,
+      "lng": 121.8373007,
+      "routes": [
+        "頭城2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801885289,
+      "name": "外澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8710261,
+      "lng": 121.8394188,
+      "routes": [
+        "紅1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801885290,
+      "name": "港口路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8704691,
+      "lng": 121.8354043,
+      "routes": [
+        "1766"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801885301,
+      "name": "董慶寺停車場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8759643,
+      "lng": 121.8404987,
+      "routes": [
+        "頭城2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801889794,
+      "name": "濱海路一段",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8750385,
+      "lng": 121.8387839,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5801889796,
+      "name": "港口站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8739903,
+      "lng": 121.8375313,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8380545811,
+      "name": "小澳站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8791117,
+      "lng": 121.8417719,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483270186,
+      "name": "東北角風景區外澳站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8772814,
+      "lng": 121.8400902,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483270187,
+      "name": "大澳站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8840739,
+      "lng": 121.8465663,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483270207,
+      "name": "石城服務區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9834755,
+      "lng": 121.959716,
+      "routes": [
+        "131",
+        "綠19"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483270214,
+      "name": "番仔澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9454801,
+      "lng": 121.9030128,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276321,
+      "name": "過溪",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9196357,
+      "lng": 121.883771,
+      "routes": [
+        "131",
+        "頭城1"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276323,
+      "name": "更新漁港",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9052038,
+      "lng": 121.8696595,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276325,
+      "name": "金斗公廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.892829,
+      "lng": 121.8547328,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276327,
+      "name": "東北角風景區外澳站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8781664,
+      "lng": 121.8412381,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276328,
+      "name": "外澳遊客中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8781329,
+      "lng": 121.8412048,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276329,
+      "name": "頭城國中(蘭陽技術學院)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8638905,
+      "lng": 121.8217581,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276331,
+      "name": "人文中小學",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8613344,
+      "lng": 121.8195311,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9483276333,
+      "name": "頭城火車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8594103,
+      "lng": 121.8232887
+    },
+    {
+      "id": 9483276335,
+      "name": "開蘭路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8560271,
+      "lng": 121.8218288,
+      "routes": [
+        "131"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11271482821,
+      "name": "開蘭東路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.8543038,
+      "lng": 121.8228733,
+      "routes": [
+        "1790"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.785Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11292704896,
+      "name": "合興社區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9340866,
+      "lng": 121.8845223,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11301508765,
+      "name": "大溪火車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.937426,
+      "lng": 121.8889037,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11307019633,
+      "name": "龜山站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "lat": 24.9418634,
+      "lng": 121.8976898,
+      "routes": [
+        "頭城1"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.156Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

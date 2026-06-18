@@ -1,0 +1,52 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:383",
+      "name": "春霖休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.414444,
+      "lng": 120.492599,
+      "source": "coa",
+      "sourceId": "383",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣中埔鄉同仁村11鄰同仁163之16號",
+      "phone": "0921-017168"
+    },
+    {
+      "id": "coa:399",
+      "name": "老爹生態教育休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.428514,
+      "lng": 120.485123,
+      "source": "coa",
+      "sourceId": "399",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣中埔鄉深坑村內灣2鄰9-1號",
+      "phone": "0932-896-949"
+    },
+    {
+      "id": "coa:196",
+      "name": "獨角仙休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.414336,
+      "lng": 120.528394,
+      "source": "coa",
+      "sourceId": "196",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "嘉義縣中埔鄉石硦村15鄰石硦45號",
+      "phone": "05-203-0666"
+    }
+  ]
+}

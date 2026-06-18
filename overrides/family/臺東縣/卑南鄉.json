@@ -1,0 +1,52 @@
+{
+  "city": "臺東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:496",
+      "name": "佳芳休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.825833,
+      "lng": 121.116405,
+      "source": "coa",
+      "sourceId": "496",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣卑南鄉明峰村牧場72之4號",
+      "phone": "0932-767907"
+    },
+    {
+      "id": "coa:50",
+      "name": "東遊季休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.696147,
+      "lng": 121.018388,
+      "source": "coa",
+      "sourceId": "50",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "臺東縣卑南鄉溫泉村溫泉路376巷18號",
+      "phone": "08-951-6111"
+    },
+    {
+      "id": "coa:395",
+      "name": "大頭目知本溫泉休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.697415,
+      "lng": 121.012541,
+      "source": "coa",
+      "sourceId": "395",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "臺東縣卑南鄉溫泉村32鄰樂山169號",
+      "phone": "089511306"
+    }
+  ]
+}

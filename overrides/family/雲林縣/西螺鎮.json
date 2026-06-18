@@ -1,0 +1,35 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376490000A_000795",
+      "name": "瑞春醬油觀光工廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.78787,
+      "lng": 120.429703,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000795",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "雲林縣西螺鎮福田里社口68-31號"
+    },
+    {
+      "id": "tdx:C1_376490000A_000952",
+      "name": "御鼎興純手工柴燒黑豆醬油",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.801571,
+      "lng": 120.428101,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000952",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "西螺鎮安定路171-11號"
+    }
+  ]
+}

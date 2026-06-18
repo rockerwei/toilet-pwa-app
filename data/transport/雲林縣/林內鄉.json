@@ -1,0 +1,231 @@
+{
+  "city": "雲林縣",
+  "district": "林內鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 14,
+  "items": [
+    {
+      "id": 879629994,
+      "name": "林內",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7597748,
+      "lng": 120.6145629
+    },
+    {
+      "id": 4663681742,
+      "name": "清水溪",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7631918,
+      "lng": 120.6484204,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.178Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663681744,
+      "name": "水門",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7700209,
+      "lng": 120.6441745,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4663681746,
+      "name": "觸口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7725369,
+      "lng": 120.6396335,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5655686275,
+      "name": "坪頂路口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7691902,
+      "lng": 120.6322405,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5660243345,
+      "name": "林內",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7617756,
+      "lng": 120.6196931,
+      "routes": [
+        "7127",
+        "7128",
+        "7134"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5660243359,
+      "name": "頂庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7652688,
+      "lng": 120.6236413,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5660379566,
+      "name": "林內火車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7593097,
+      "lng": 120.6167022,
+      "routes": [
+        "7127",
+        "7128",
+        "7134"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846462497,
+      "name": "大埔社區",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7341926,
+      "lng": 120.5965081,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846462519,
+      "name": "營盤園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7376227,
+      "lng": 120.5992225,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.178Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846462523,
+      "name": "天元庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7395771,
+      "lng": 120.6013012,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846463149,
+      "name": "九芎",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7427726,
+      "lng": 120.6050724,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846463168,
+      "name": "乾溪子",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7516638,
+      "lng": 120.6108204,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.178Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5846463170,
+      "name": "林內鄉公所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "林內鄉",
+      "lat": 23.7559428,
+      "lng": 120.6134731,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

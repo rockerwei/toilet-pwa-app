@@ -1,0 +1,190 @@
+{
+  "city": "新北市",
+  "district": "烏來區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 12,
+  "items": [
+    {
+      "id": 1726116984,
+      "name": "烏來",
+      "type": "train",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8608983,
+      "lng": 121.5511735
+    },
+    {
+      "id": 1726117679,
+      "name": "瀑布",
+      "type": "train",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8492141,
+      "lng": 121.5517714
+    },
+    {
+      "id": 1996635406,
+      "name": "烏來",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8661827,
+      "lng": 121.5511214,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726218,
+      "name": "加九寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8830742,
+      "lng": 121.543678,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726222,
+      "name": "堰堤",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8708457,
+      "lng": 121.5476293,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726226,
+      "name": "巨龍山莊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8744834,
+      "lng": 121.5472444,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726232,
+      "name": "桶壁",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8838438,
+      "lng": 121.5472451,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726242,
+      "name": "成功",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8804486,
+      "lng": 121.5426253,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726249,
+      "name": "污水處理廠",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8761333,
+      "lng": 121.5440971,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726304,
+      "name": "觀光大橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8683278,
+      "lng": 121.549843
+    },
+    {
+      "id": 2561726305,
+      "name": "觀光大橋",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8688869,
+      "lng": 121.5488583,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2561726306,
+      "name": "隧道口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "烏來區",
+      "lat": 24.8899562,
+      "lng": 121.5515284,
+      "routes": [
+        "849",
+        "849屈尺社區"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.520Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

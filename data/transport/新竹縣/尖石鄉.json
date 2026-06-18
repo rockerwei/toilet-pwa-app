@@ -1,0 +1,1623 @@
+{
+  "city": "新竹縣",
+  "district": "尖石鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 115,
+  "items": [
+    {
+      "id": 1673592096,
+      "name": "佳蘭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6793982,
+      "lng": 121.2087601,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1718075689,
+      "name": "Lai Clan (賴家莊)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6707878,
+      "lng": 121.1955603
+    },
+    {
+      "id": 1718075705,
+      "name": "Neighborhood 7, Mekarang (梅花7鄰)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6708743,
+      "lng": 121.1944579
+    },
+    {
+      "id": 1718088815,
+      "name": "Five Clans (五姓莊)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.671642,
+      "lng": 121.2013632
+    },
+    {
+      "id": 1720389403,
+      "name": "梅花教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6726558,
+      "lng": 121.2038364,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1720566921,
+      "name": "梅花",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6773196,
+      "lng": 121.2086911,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1825479310,
+      "name": "八五山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7186828,
+      "lng": 121.2844481
+    },
+    {
+      "id": 3356027476,
+      "name": "檢查站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6979462,
+      "lng": 121.1891993,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359200391,
+      "name": "那羅(那羅部落香草)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.679805,
+      "lng": 121.2484169,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.685Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359330785,
+      "name": "水田",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7430696,
+      "lng": 121.2621118,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.685Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359334294,
+      "name": "八五山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7150985,
+      "lng": 121.2709214,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.685Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359334295,
+      "name": "煤源",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7193782,
+      "lng": 121.2684903,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776929125,
+      "name": "尖石國中(尖石岩)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7075658,
+      "lng": 121.2046346,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776929127,
+      "name": "尖石鄉衛生所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7056823,
+      "lng": 121.2021388,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776929130,
+      "name": "尖石",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7050729,
+      "lng": 121.2010454
+    },
+    {
+      "id": 5776929131,
+      "name": "北角吊橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7021027,
+      "lng": 121.1971848,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5776929132,
+      "name": "沙坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6986157,
+      "lng": 121.1931601,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011429,
+      "name": "新樂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7311164,
+      "lng": 121.2479979,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011431,
+      "name": "福祿灣",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7295328,
+      "lng": 121.2455437,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011433,
+      "name": "嘉新大橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7250111,
+      "lng": 121.2383822,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011434,
+      "name": "尖石國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7279383,
+      "lng": 121.2273341,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011436,
+      "name": "民宿村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.728283,
+      "lng": 121.2246573,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011437,
+      "name": "教會前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7209375,
+      "lng": 121.2158945,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011439,
+      "name": "麥樹仁",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.718372,
+      "lng": 121.2129481,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777011441,
+      "name": "仙河",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7148683,
+      "lng": 121.2109995,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777015974,
+      "name": "下水田",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7404662,
+      "lng": 121.2584183,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777015976,
+      "name": "田中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7387341,
+      "lng": 121.2557495,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777015978,
+      "name": "好穩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7354862,
+      "lng": 121.2537526,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777015980,
+      "name": "合流",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7328923,
+      "lng": 121.2525308,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777015982,
+      "name": "新樂國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7324173,
+      "lng": 121.2502724,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136317,
+      "name": "尖石鄉公所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7052231,
+      "lng": 121.2011278
+    },
+    {
+      "id": 7755625280,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7073688,
+      "lng": 121.2065571,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755625282,
+      "name": "樟樹園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7069781,
+      "lng": 121.2081787,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755625284,
+      "name": "嘉興國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7050807,
+      "lng": 121.2104481,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643286,
+      "name": "義興村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7026411,
+      "lng": 121.2149632,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643294,
+      "name": "比麟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6955113,
+      "lng": 121.2199315,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643296,
+      "name": "天打那",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6896831,
+      "lng": 121.2193269,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643298,
+      "name": "橫橋口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6883691,
+      "lng": 121.2183833,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643305,
+      "name": "天然谷",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.687552,
+      "lng": 121.2220967,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643307,
+      "name": "青蛙石",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6853374,
+      "lng": 121.2297145,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643308,
+      "name": "青蛙石",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6851273,
+      "lng": 121.2307674
+    },
+    {
+      "id": 7755643311,
+      "name": "復興坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6818882,
+      "lng": 121.2352465,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643313,
+      "name": "柿山派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6803516,
+      "lng": 121.2411567,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643315,
+      "name": "錦屏國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.679367,
+      "lng": 121.2460799,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643321,
+      "name": "嘉樂(薰衣草森林山腳下)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7271256,
+      "lng": 121.2301924,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643324,
+      "name": "新樂大橋(北得拉曼步道路口)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7311725,
+      "lng": 121.2491633,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643327,
+      "name": "拉號",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7282439,
+      "lng": 121.2530495,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643329,
+      "name": "四號橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7267872,
+      "lng": 121.2592107,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643331,
+      "name": "鐵嶺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7253735,
+      "lng": 121.2606351
+    },
+    {
+      "id": 7755643333,
+      "name": "武漢",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7222807,
+      "lng": 121.2659223,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643335,
+      "name": "二號橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7175915,
+      "lng": 121.2675631,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643337,
+      "name": "三號橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7116998,
+      "lng": 121.2690024,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755643339,
+      "name": "八五山口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7142024,
+      "lng": 121.2701311,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214770,
+      "name": "婉琳的店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.696333,
+      "lng": 121.2274215
+    },
+    {
+      "id": 12747214771,
+      "name": "鄔瑪斯雜貨店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6946959,
+      "lng": 121.2245098
+    },
+    {
+      "id": 12747214772,
+      "name": "新竹客運比麟招呼站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6956151,
+      "lng": 121.2198289,
+      "routes": [
+        "5625",
+        "5625A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214774,
+      "name": "益昌商店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6844873,
+      "lng": 121.2149788
+    },
+    {
+      "id": 12747214775,
+      "name": "礦野教會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6814378,
+      "lng": 121.2125305
+    },
+    {
+      "id": 12747214776,
+      "name": "原石商店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6695834,
+      "lng": 121.207873
+    },
+    {
+      "id": 12747214777,
+      "name": "北得拉曼營地",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7358422,
+      "lng": 121.2656983
+    },
+    {
+      "id": 12747214778,
+      "name": "水田部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7332057,
+      "lng": 121.2583379
+    },
+    {
+      "id": 12747214779,
+      "name": "竹東自來水工作站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7443608,
+      "lng": 121.2639896
+    },
+    {
+      "id": 12747214780,
+      "name": "鴛鴦谷養殖場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7485313,
+      "lng": 121.2694049
+    },
+    {
+      "id": 12747214781,
+      "name": "義興八、九鄰部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.677658,
+      "lng": 121.1815763
+    },
+    {
+      "id": 12747214782,
+      "name": "馬胎商店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6834017,
+      "lng": 121.1848874
+    },
+    {
+      "id": 12747214783,
+      "name": "嘉興國小義興分校",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6890302,
+      "lng": 121.1780639
+    },
+    {
+      "id": 12747214784,
+      "name": "馬胎6鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6832629,
+      "lng": 121.1668838
+    },
+    {
+      "id": 12747214785,
+      "name": "馬胎7鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6801933,
+      "lng": 121.1614423
+    },
+    {
+      "id": 12747214786,
+      "name": "新竹客運檢查站招呼站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6979695,
+      "lng": 121.1896242,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214787,
+      "name": "小金剛商店站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6549316,
+      "lng": 121.3059948,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214788,
+      "name": "抬耀十三鄰站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6611097,
+      "lng": 121.3504254,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214789,
+      "name": "抬耀十一鄰站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6543411,
+      "lng": 121.3349185,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214791,
+      "name": "抬耀十二鄰站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6503767,
+      "lng": 121.3407843,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214792,
+      "name": "石磊國小站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6548476,
+      "lng": 121.3272804,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214794,
+      "name": "石磊九鄰站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6526336,
+      "lng": 121.3252438,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214796,
+      "name": "媽媽的店(橋頭)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6550656,
+      "lng": 121.305734,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214798,
+      "name": "玉峰國小站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6594782,
+      "lng": 121.3022143,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747214800,
+      "name": "河岸營地站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6602059,
+      "lng": 121.2997842,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216902,
+      "name": "玉峰二鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6561722,
+      "lng": 121.2811846,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216904,
+      "name": "玉峰一鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6660574,
+      "lng": 121.2797413,
+      "routes": [
+        "106"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216906,
+      "name": "宇老站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6674134,
+      "lng": 121.281978,
+      "routes": [
+        "106",
+        "107",
+        "108"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216908,
+      "name": "道下站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6706226,
+      "lng": 121.2655813,
+      "routes": [
+        "106",
+        "107",
+        "108"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216910,
+      "name": "下鎮西堡部落站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5709695,
+      "lng": 121.3039126,
+      "routes": [
+        "107"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216911,
+      "name": "鎮西堡部落站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5722304,
+      "lng": 121.3128687,
+      "routes": [
+        "107"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216913,
+      "name": "美寶商店站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5790104,
+      "lng": 121.3034443,
+      "routes": [
+        "107"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216915,
+      "name": "新光舊派出所站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5801458,
+      "lng": 121.3022779,
+      "routes": [
+        "107"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216917,
+      "name": "泰崗部落站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6115628,
+      "lng": 121.2956799,
+      "routes": [
+        "107"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216919,
+      "name": "秀巒錦路叉路口站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6106342,
+      "lng": 121.2871594,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216922,
+      "name": "秀巒控溪轉運站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6191158,
+      "lng": 121.2873495,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216923,
+      "name": "下田埔站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6390243,
+      "lng": 121.2745697,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216925,
+      "name": "田埔分校",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6411565,
+      "lng": 121.2794206,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216927,
+      "name": "和解廣場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6495241,
+      "lng": 121.2850291,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216929,
+      "name": "四部落站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6768347,
+      "lng": 121.2542809,
+      "routes": [
+        "107",
+        "108"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216931,
+      "name": "上養老部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5884294,
+      "lng": 121.2679565,
+      "routes": [
+        "108"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216932,
+      "name": "下養老部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5897106,
+      "lng": 121.2654529,
+      "routes": [
+        "108"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216934,
+      "name": "錦路養老叉路口站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.5961469,
+      "lng": 121.2679576,
+      "routes": [
+        "108"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216936,
+      "name": "上錦路站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6021307,
+      "lng": 121.2716309,
+      "routes": [
+        "108"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216938,
+      "name": "下錦路站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6063142,
+      "lng": 121.2815377,
+      "routes": [
+        "108"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12747216940,
+      "name": "石上湯屋渡假村交叉口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7303327,
+      "lng": 121.2228956
+    },
+    {
+      "id": 12747216941,
+      "name": "峇里森林溫泉渡假村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7243044,
+      "lng": 121.23706
+    },
+    {
+      "id": 12747216942,
+      "name": "六號花園山腳下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7268173,
+      "lng": 121.2548481
+    },
+    {
+      "id": 12747216943,
+      "name": "煤源",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7115337,
+      "lng": 121.269297
+    },
+    {
+      "id": 12747216944,
+      "name": "八五山果園山腳下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7153188,
+      "lng": 121.2792189
+    },
+    {
+      "id": 12747216945,
+      "name": "數碼天空山腳下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7047377,
+      "lng": 121.2629504
+    },
+    {
+      "id": 12747216946,
+      "name": "凌空廊道",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6996292,
+      "lng": 121.2624425
+    },
+    {
+      "id": 12747216947,
+      "name": "那羅文學林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.681024,
+      "lng": 121.2388289
+    },
+    {
+      "id": 12747216948,
+      "name": "錦屏大橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6880293,
+      "lng": 121.2178989
+    },
+    {
+      "id": 12747216949,
+      "name": "錦屏美人湯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.671397,
+      "lng": 121.2093262
+    },
+    {
+      "id": 12747216950,
+      "name": "梅花國小(甜柿果園)",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6691839,
+      "lng": 121.1841388
+    },
+    {
+      "id": 12747216951,
+      "name": "義梅營區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6806598,
+      "lng": 121.1832648
+    },
+    {
+      "id": 12747216952,
+      "name": "水茗漾庭園山腳下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6969965,
+      "lng": 121.1930487
+    },
+    {
+      "id": 12747216953,
+      "name": "義興大橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.6972285,
+      "lng": 121.1897035
+    },
+    {
+      "id": 12747216954,
+      "name": "綜合運動場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7024396,
+      "lng": 121.2150911
+    },
+    {
+      "id": 12753677233,
+      "name": "鳥嘴部落",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7156946,
+      "lng": 121.2786488,
+      "routes": [
+        "5631"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.686Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1473258301,
+      "name": "尖石轉運站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "尖石鄉",
+      "lat": 24.7046808,
+      "lng": 121.2018815
+    }
+  ]
+}

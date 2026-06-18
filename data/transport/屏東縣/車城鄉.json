@@ -1,0 +1,281 @@
+{
+  "city": "屏東縣",
+  "district": "車城鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 16,
+  "items": [
+    {
+      "id": 4904136551,
+      "name": "水坑",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0999352,
+      "lng": 120.7169674,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904136571,
+      "name": "尖山",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.1157361,
+      "lng": 120.7144287,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904136576,
+      "name": "楠仔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.124044,
+      "lng": 120.7112677,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904136597,
+      "name": "社皆坑",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.1321303,
+      "lng": 120.7057303,
+      "routes": [
+        "1773"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.201Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904136599,
+      "name": "滿豐魚場",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.1378459,
+      "lng": 120.7034947
+    },
+    {
+      "id": 4904194817,
+      "name": "海口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0873834,
+      "lng": 120.7162727,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904655888,
+      "name": "車城農會",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0723722,
+      "lng": 120.7138413
+    },
+    {
+      "id": 4904655911,
+      "name": "田中",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0787589,
+      "lng": 120.7137971,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904655913,
+      "name": "車城國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0753158,
+      "lng": 120.7139459,
+      "routes": [
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904679158,
+      "name": "新街",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0610448,
+      "lng": 120.7166147,
+      "routes": [
+        "201",
+        "301",
+        "302",
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.850Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904679159,
+      "name": "新街",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0599709,
+      "lng": 120.7169688,
+      "routes": [
+        "201",
+        "301",
+        "302",
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904679202,
+      "name": "北保力",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0645,
+      "lng": 120.7148284,
+      "routes": [
+        "201",
+        "301",
+        "302",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904702315,
+      "name": "保力",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.055986,
+      "lng": 120.7201928,
+      "routes": [
+        "201",
+        "301",
+        "302",
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.851Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056878429,
+      "name": "公車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0427504,
+      "lng": 120.700964
+    },
+    {
+      "id": 5056878430,
+      "name": "公車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0396451,
+      "lng": 120.6982684
+    },
+    {
+      "id": 5845736985,
+      "name": "海生館",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "車城鄉",
+      "lat": 22.0459175,
+      "lng": 120.6984395,
+      "routes": [
+        "101",
+        "101A",
+        "101B",
+        "101D",
+        "101E"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.851Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

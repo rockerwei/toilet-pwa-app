@@ -1,0 +1,76 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "manual:d0a38a1556bf",
+      "name": "水與松萌萌園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.949635,
+      "lng": 120.932481,
+      "source": "manual",
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣埔里鎮南村路9-7號"
+    },
+    {
+      "id": "tdx:C1_376480000A_000257",
+      "name": "台光香草園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.978001,
+      "lng": 120.994423,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000257",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣埔里鎮中山路一段241-2號"
+    },
+    {
+      "id": "coa:540",
+      "name": "埔里春天休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.978124,
+      "lng": 121.002341,
+      "source": "coa",
+      "sourceId": "540",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣埔里鎮中山路一段188號",
+      "phone": "049-2991668"
+    },
+    {
+      "id": "coa:59",
+      "name": "台一生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.999452,
+      "lng": 121.911666,
+      "source": "coa",
+      "sourceId": "59",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣埔里鎮中山路一段176號",
+      "phone": "04-9299-7848"
+    },
+    {
+      "id": "coa:536",
+      "name": "上高地休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.916335,
+      "lng": 120.942125,
+      "source": "coa",
+      "sourceId": "536",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣埔里鎮小埔社段"
+    }
+  ]
+}

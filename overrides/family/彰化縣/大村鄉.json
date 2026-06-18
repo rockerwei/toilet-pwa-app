@@ -1,0 +1,67 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:198",
+      "name": "雅育休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.991234,
+      "lng": 120.567891,
+      "source": "coa",
+      "sourceId": "198",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣大村鄉貢旗村旗興路二段328號",
+      "phone": "0972-318-698"
+    },
+    {
+      "id": "coa:159",
+      "name": "奈米休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.981234,
+      "lng": 120.534123,
+      "source": "coa",
+      "sourceId": "159",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣大村鄉南勢村南二橫巷8號",
+      "phone": "0919-327-075"
+    },
+    {
+      "id": "coa:8",
+      "name": "展壯台大休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.994477,
+      "lng": 120.551711,
+      "source": "coa",
+      "sourceId": "8",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣大村鄉大橋村中山路三段137號",
+      "phone": "04-852-7335"
+    },
+    {
+      "id": "coa:43",
+      "name": "劍門生態花果園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.978253,
+      "lng": 120.536968,
+      "source": "coa",
+      "sourceId": "43",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣大村鄉茄苳村茄苳路2段143巷72號",
+      "phone": "0921-717-388"
+    }
+  ]
+}

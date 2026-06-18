@@ -1,0 +1,1305 @@
+{
+  "city": "南投縣",
+  "district": "竹山鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 73,
+  "items": [
+    {
+      "id": 1637729154,
+      "name": "竹山站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7536568,
+      "lng": 120.6836308,
+      "routes": [
+        "9120",
+        "9120A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1638690341,
+      "name": "台中客運竹山站",
+      "type": "bus_station",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7545488,
+      "lng": 120.6776795,
+      "routes": [
+        "6188",
+        "6188A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1638690345,
+      "name": "員林客運竹山站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7541318,
+      "lng": 120.6841387,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6721",
+        "6721A",
+        "6722",
+        "6722A",
+        "6726",
+        "6742",
+        "6742A",
+        "7127"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.455Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2994378425,
+      "name": "延平",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7656388,
+      "lng": 120.7052247,
+      "routes": [
+        "9120",
+        "9120A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.504Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2994403914,
+      "name": "車龍斷層保存園區",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7942629,
+      "lng": 120.7112283
+    },
+    {
+      "id": 4081192727,
+      "name": "竹山工業區",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7680381,
+      "lng": 120.7046186,
+      "routes": [
+        "3",
+        "3A",
+        "23路",
+        "6883",
+        "6883A",
+        "6883B",
+        "6883C",
+        "6883D"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4277462967,
+      "name": "保甲路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7751907,
+      "lng": 120.7105809,
+      "routes": [
+        "6801"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4330111192,
+      "name": "仁淵茶葉—忘憂森林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6504102,
+      "lng": 120.7872542,
+      "routes": [
+        "6883B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4360437701,
+      "name": "倉庫前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7924621,
+      "lng": 120.7094376
+    },
+    {
+      "id": 4381921793,
+      "name": "社寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8146006,
+      "lng": 120.7225673,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659831544,
+      "name": "分局前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7569021,
+      "lng": 120.6830465,
+      "routes": [
+        "9120",
+        "9120A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659831547,
+      "name": "和溪厝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7580768,
+      "lng": 120.6623613,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659831549,
+      "name": "仙公廟",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7545146,
+      "lng": 120.6757371,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659831574,
+      "name": "中崎",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7580068,
+      "lng": 120.6647216,
+      "routes": [
+        "7127"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.456Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4659945364,
+      "name": "戶政前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7503964,
+      "lng": 120.6800669
+    },
+    {
+      "id": 4659946889,
+      "name": "前山國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7513109,
+      "lng": 120.678647,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.701Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4660485948,
+      "name": "合庫前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7578153,
+      "lng": 120.6842945,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4660485955,
+      "name": "大明路",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7556893,
+      "lng": 120.6780665,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.457Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4660485957,
+      "name": "分局前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7568872,
+      "lng": 120.6815354,
+      "routes": [
+        "9120",
+        "9120A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4660568708,
+      "name": "吉祥新村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7614877,
+      "lng": 120.6946036,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.458Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4660568721,
+      "name": "竹山國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7602368,
+      "lng": 120.6880275
+    },
+    {
+      "id": 4660831116,
+      "name": "慈恩醫院",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7632392,
+      "lng": 120.7004378
+    },
+    {
+      "id": 4660831118,
+      "name": "裕農新村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7630281,
+      "lng": 120.699082,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662920329,
+      "name": "下延平",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7730893,
+      "lng": 120.7074916,
+      "routes": [
+        "6701",
+        "6701A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662920333,
+      "name": "成功廟前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7704812,
+      "lng": 120.7073917,
+      "routes": [
+        "6188",
+        "6188A",
+        "6726"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662920336,
+      "name": "延平國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7679817,
+      "lng": 120.7065213,
+      "routes": [
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662920339,
+      "name": "圳頭坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7639029,
+      "lng": 120.7022635,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6726",
+        "6742",
+        "6742A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662924284,
+      "name": "外埔仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7857398,
+      "lng": 120.7117996,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.459Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662924612,
+      "name": "藤湖",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7801093,
+      "lng": 120.7117295,
+      "routes": [
+        "6870",
+        "6871"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662943252,
+      "name": "名竹大橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8115421,
+      "lng": 120.709982
+    },
+    {
+      "id": 4662943255,
+      "name": "山腳",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8047458,
+      "lng": 120.7142705,
+      "routes": [
+        "1632",
+        "6188",
+        "6188A",
+        "6701",
+        "6701A",
+        "6726",
+        "6742",
+        "6742A",
+        "6801"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4662943260,
+      "name": "秀傳醫院",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8006966,
+      "lng": 120.7140204
+    },
+    {
+      "id": 8261639940,
+      "name": "忘憂森林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6510352,
+      "lng": 120.7859901,
+      "routes": [
+        "6871"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.505Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5622546047,
+      "name": "竹山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7599713,
+      "lng": 120.682961,
+      "routes": [
+        "1632"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5622546049,
+      "name": "竹山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7575361,
+      "lng": 120.6795613
+    },
+    {
+      "id": 5636371903,
+      "name": "醉草園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7676794,
+      "lng": 120.7128784,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5636371905,
+      "name": "延平新村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7672817,
+      "lng": 120.7074563,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5636428049,
+      "name": "東延平",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7635873,
+      "lng": 120.7218316,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5636428051,
+      "name": "安城",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7662605,
+      "lng": 120.7159281,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6113351650,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6276934,
+      "lng": 120.7984287
+    },
+    {
+      "id": 6408471226,
+      "name": "溪洲仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.815605,
+      "lng": 120.7543917,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6408471227,
+      "name": "頂溪洲仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.816038,
+      "lng": 120.759104,
+      "routes": [
+        "6726"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.460Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6408471444,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.813927,
+      "lng": 120.7472839,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712414834,
+      "name": "林頂",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6576466,
+      "lng": 120.6621471,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712414853,
+      "name": "桶頭國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6470377,
+      "lng": 120.6572896,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712419948,
+      "name": "桶頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6442459,
+      "lng": 120.6582847,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712481691,
+      "name": "龍門橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6734993,
+      "lng": 120.665347,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712481693,
+      "name": "瑞興橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.671458,
+      "lng": 120.6660846,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712481737,
+      "name": "瑞竹農會",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6611733,
+      "lng": 120.6640783,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712500799,
+      "name": "過溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7271173,
+      "lng": 120.6672326,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712500860,
+      "name": "泉州寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7021782,
+      "lng": 120.6631449,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712514904,
+      "name": "半路店",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7315064,
+      "lng": 120.6675692,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712514912,
+      "name": "百家春",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.693086,
+      "lng": 120.663389,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712514914,
+      "name": "回窯",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7467684,
+      "lng": 120.676851,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712514915,
+      "name": "德山寺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.74161,
+      "lng": 120.6719452,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7712531499,
+      "name": "車店仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7376104,
+      "lng": 120.6700569,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972539680,
+      "name": "內寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6328773,
+      "lng": 120.6565279,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972540446,
+      "name": "東內寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6339422,
+      "lng": 120.6594372,
+      "routes": [
+        "701",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972540450,
+      "name": "新行正橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6406162,
+      "lng": 120.6577174,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972564447,
+      "name": "檳榔宅",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6217883,
+      "lng": 120.6576455,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972573619,
+      "name": "瑞竹",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6624883,
+      "lng": 120.6653686,
+      "routes": [
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7972658950,
+      "name": "小旗仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6261225,
+      "lng": 120.6551566,
+      "routes": [
+        "701",
+        "6722"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.461Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8117586123,
+      "name": "倉庫前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7935717,
+      "lng": 120.7097322
+    },
+    {
+      "id": 8261602302,
+      "name": "留龍頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6551935,
+      "lng": 120.7879628
+    },
+    {
+      "id": 8915877448,
+      "name": "吊橋頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8159094,
+      "lng": 120.7622619,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8919694596,
+      "name": "紅竹埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8121501,
+      "lng": 120.7389066,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8919852986,
+      "name": "後埔仔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.813112,
+      "lng": 120.7339163,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8919908654,
+      "name": "過溪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8126568,
+      "lng": 120.7228321,
+      "routes": [
+        "6726"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8919908655,
+      "name": "社寮國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.8104716,
+      "lng": 120.7215473,
+      "routes": [
+        "6726",
+        "6801"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11586688050,
+      "name": "地政",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7498763,
+      "lng": 120.6790496,
+      "routes": [
+        "6719",
+        "6719A",
+        "6721",
+        "6721A",
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11586688056,
+      "name": "東瑞竹",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6661697,
+      "lng": 120.6669665,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.706Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11586688057,
+      "name": "瑞竹國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.6646519,
+      "lng": 120.6661818,
+      "routes": [
+        "6722",
+        "6722A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.462Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 409217183,
+      "name": "台西客運竹山站",
+      "type": "bus_station",
+      "city": "南投縣",
+      "district": "竹山鎮",
+      "lat": 23.7536945,
+      "lng": 120.6835582,
+      "routes": [
+        "6701",
+        "6701A",
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6721",
+        "6721A",
+        "6722",
+        "6722A",
+        "6726",
+        "6742",
+        "6742A",
+        "7127"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.463Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

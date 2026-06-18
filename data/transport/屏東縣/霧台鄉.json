@@ -1,0 +1,44 @@
+{
+  "city": "屏東縣",
+  "district": "霧台鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 3,
+  "items": [
+    {
+      "id": 6819243013,
+      "name": "谷川",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "霧台鄉",
+      "lat": 22.7454824,
+      "lng": 120.7090764,
+      "routes": [
+        "8233"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.852Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819243014,
+      "name": "神山",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "霧台鄉",
+      "lat": 22.7508785,
+      "lng": 120.7271075
+    },
+    {
+      "id": 6819243015,
+      "name": "霧台",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "霧台鄉",
+      "lat": 22.7442648,
+      "lng": 120.7322004
+    }
+  ]
+}

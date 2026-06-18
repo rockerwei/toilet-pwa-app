@@ -1,0 +1,63 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "manual:7543b9e45e6a",
+      "name": "鹿羽松牧場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.233,
+      "lng": 121.595,
+      "source": "manual",
+      "updatedAt": "2026-06-16T05:36:16.022Z",
+      "address": "新北市金山區兩湖里倒照湖28-6號"
+    },
+    {
+      "id": "coa:562",
+      "name": "陽明休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.212341,
+      "lng": 121.591234,
+      "source": "coa",
+      "sourceId": "562",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市金山區重和里13鄰磺溪頭16之2號",
+      "phone": "033391899"
+    },
+    {
+      "id": "coa:341",
+      "name": "葵扇湖休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.234123,
+      "lng": 121.576543,
+      "source": "coa",
+      "sourceId": "341",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市金山區兩湖里2鄰葵扇湖18號之6",
+      "phone": "02-2498-6322"
+    },
+    {
+      "id": "coa:474",
+      "name": "金山中角農莊休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.234697,
+      "lng": 121.564128,
+      "source": "coa",
+      "sourceId": "474",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市金山區西湖里尖山子11-12號",
+      "phone": "0932162431"
+    }
+  ]
+}

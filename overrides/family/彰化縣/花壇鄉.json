@@ -1,0 +1,37 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:155",
+      "name": "楊桃園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.029671,
+      "lng": 120.58241,
+      "source": "coa",
+      "sourceId": "155",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣花壇鄉灣東村灣福路221巷5號",
+      "phone": "04-786-0758"
+    },
+    {
+      "id": "coa:125",
+      "name": "大山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.032128,
+      "lng": 120.574512,
+      "source": "coa",
+      "sourceId": "125",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "彰化縣花壇鄉灣東村灣福路60巷13弄13號",
+      "phone": "04-786-9703"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "city": "新竹市",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376580000A_000106",
+      "name": "香山牧場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.800314,
+      "lng": 120.949379,
+      "source": "tdx",
+      "sourceId": "C1_376580000A_000106",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹市香山區牛埔路188號"
+    }
+  ]
+}

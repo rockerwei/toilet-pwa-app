@@ -1,0 +1,82 @@
+{
+  "city": "屏東縣",
+  "district": "南州鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 5,
+  "items": [
+    {
+      "id": 1021638945,
+      "name": "南州",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "南州鄉",
+      "lat": 22.4918686,
+      "lng": 120.5120035
+    },
+    {
+      "id": 5056935858,
+      "name": "巷子內",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "南州鄉",
+      "lat": 22.4929863,
+      "lng": 120.538484
+    },
+    {
+      "id": 5056935859,
+      "name": "巷子內",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "南州鄉",
+      "lat": 22.491647,
+      "lng": 120.5393643,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.795Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056935861,
+      "name": "壽元",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "南州鄉",
+      "lat": 22.4875494,
+      "lng": 120.5410277,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.795Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5056935862,
+      "name": "壽元",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "南州鄉",
+      "lat": 22.486251,
+      "lng": 120.5411166,
+      "routes": [
+        "1773",
+        "1780",
+        "8239"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.795Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

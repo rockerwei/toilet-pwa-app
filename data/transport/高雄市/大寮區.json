@@ -1,0 +1,2092 @@
+{
+  "city": "高雄市",
+  "district": "大寮區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 114,
+  "items": [
+    {
+      "id": 581949129,
+      "name": "後庄",
+      "type": "train",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6404643,
+      "lng": 120.3910467
+    },
+    {
+      "id": 2471192661,
+      "name": "中山工商",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6026563,
+      "lng": 120.3970791,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192663,
+      "name": "大寮中正路(捷西路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6190173,
+      "lng": 120.3886936,
+      "routes": [
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192665,
+      "name": "中正路(義發路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6179145,
+      "lng": 120.386568,
+      "routes": [
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192667,
+      "name": "力行路(永芳國小)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6062571,
+      "lng": 120.3964904,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192668,
+      "name": "台貿六村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6155264,
+      "lng": 120.3868472,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192670,
+      "name": "商協二號",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6138471,
+      "lng": 120.3889624,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192672,
+      "name": "大寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6010231,
+      "lng": 120.3993067,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192674,
+      "name": "山仔頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6109228,
+      "lng": 120.3924124,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192676,
+      "name": "捷運大寮站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6212163,
+      "lng": 120.3920845,
+      "routes": [
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)",
+        "橘21",
+        "橘22",
+        "橘23"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.391Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192677,
+      "name": "大寮區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6045992,
+      "lng": 120.3957116,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2471192678,
+      "name": "輔英科大",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6079738,
+      "lng": 120.3950863,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472118457,
+      "name": "中興(萬丹路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6129553,
+      "lng": 120.3969131,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472118459,
+      "name": "內溪",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6135141,
+      "lng": 120.401958
+    },
+    {
+      "id": 2472118461,
+      "name": "和春技術學院(大發校區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6059832,
+      "lng": 120.4272655
+    },
+    {
+      "id": 2472118462,
+      "name": "朱峰宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.613369,
+      "lng": 120.4079243,
+      "routes": [
+        "512",
+        "橘21"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472118464,
+      "name": "永芳路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6139094,
+      "lng": 120.4054415,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472118466,
+      "name": "自由路口(大寮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6170646,
+      "lng": 120.3918089,
+      "routes": [
+        "512",
+        "橘21"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472118468,
+      "name": "興隆路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6124881,
+      "lng": 120.410507,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132813,
+      "name": "中庄派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6349492,
+      "lng": 120.3954221,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132814,
+      "name": "高雄仁愛之家",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6392916,
+      "lng": 120.3967646,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132815,
+      "name": "光明路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6390582,
+      "lng": 120.4005547,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132819,
+      "name": "朝中宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6331644,
+      "lng": 120.3945421,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132821,
+      "name": "前庄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6240169,
+      "lng": 120.3945794,
+      "routes": [
+        "橘22",
+        "橘23"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132826,
+      "name": "江山社區活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6358356,
+      "lng": 120.4106493,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2472132828,
+      "name": "江山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6400465,
+      "lng": 120.4092235,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "橘21"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2579564060,
+      "name": "溪寮國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6297399,
+      "lng": 120.4206697
+    },
+    {
+      "id": 2579564073,
+      "name": "溪寮社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6293905,
+      "lng": 120.4178887,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2579564085,
+      "name": "義和社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6395331,
+      "lng": 120.4182889,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657703205,
+      "name": "濃公",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5735902,
+      "lng": 120.4102365,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2680790599,
+      "name": "新庄變電所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5690245,
+      "lng": 120.4113721,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2682024073,
+      "name": "新庄(鳳林二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5616785,
+      "lng": 120.4116788,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428269,
+      "name": "影劇七村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6205724,
+      "lng": 120.3813485,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548501,
+      "name": "上寮路口(大寮路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.591851,
+      "lng": 120.4222341,
+      "routes": [
+        "512",
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548506,
+      "name": "包公廟路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5917586,
+      "lng": 120.4137709,
+      "routes": [
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548510,
+      "name": "大寮國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5910763,
+      "lng": 120.4168686,
+      "routes": [
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548520,
+      "name": "大寮地政",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5922177,
+      "lng": 120.3983225
+    },
+    {
+      "id": 2747548531,
+      "name": "大寮路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5977192,
+      "lng": 120.4005849,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548539,
+      "name": "大明街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5907996,
+      "lng": 120.4189815,
+      "routes": [
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.392Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548551,
+      "name": "新福市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5925012,
+      "lng": 120.4106221,
+      "routes": [
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548562,
+      "name": "極光精舍(東)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5931423,
+      "lng": 120.4087277,
+      "routes": [
+        "8001",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747548572,
+      "name": "高雄男子監獄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5910557,
+      "lng": 120.3976572,
+      "routes": [
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747567948,
+      "name": "輔英科大校區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6039954,
+      "lng": 120.3914827,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747582918,
+      "name": "八德路口(中庄)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6324357,
+      "lng": 120.3955774,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747603857,
+      "name": "大發工業區管理中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5821328,
+      "lng": 120.4288923,
+      "routes": [
+        "8001",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747603866,
+      "name": "潮寮國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5643039,
+      "lng": 120.4250665,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747603869,
+      "name": "潮寮活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5657752,
+      "lng": 120.4288374,
+      "routes": [
+        "8001",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2747603874,
+      "name": "華中路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5896923,
+      "lng": 120.428843,
+      "routes": [
+        "8001",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2766207533,
+      "name": "潮寮路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5768845,
+      "lng": 120.4088867,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2766207541,
+      "name": "商協一號",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6185033,
+      "lng": 120.3837897,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136701,
+      "name": "中庄消防分隊(八德路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6324055,
+      "lng": 120.3963434,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136703,
+      "name": "巷尾",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6183535,
+      "lng": 120.4081634,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136704,
+      "name": "巷尾路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6182817,
+      "lng": 120.4099788,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136705,
+      "name": "打鐵店",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6299741,
+      "lng": 120.4054836,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136707,
+      "name": "方厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6321345,
+      "lng": 120.4002495,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136709,
+      "name": "月天寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6254031,
+      "lng": 120.4099164,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136711,
+      "name": "朝鳳宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6196719,
+      "lng": 120.4092233,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136712,
+      "name": "武侯宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6142918,
+      "lng": 120.4112775,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136713,
+      "name": "永芳里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6152463,
+      "lng": 120.4062194,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136714,
+      "name": "福德祠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6323314,
+      "lng": 120.3979041,
+      "routes": [
+        "橘22"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136717,
+      "name": "翁園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6260251,
+      "lng": 120.4113446
+    },
+    {
+      "id": 2864136719,
+      "name": "翁園國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6235118,
+      "lng": 120.4088464,
+      "routes": [
+        "橘21",
+        "橘22"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2864136723,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6167749,
+      "lng": 120.4102865
+    },
+    {
+      "id": 3189822952,
+      "name": "大寮農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6015932,
+      "lng": 120.397936,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189822953,
+      "name": "後庄 (鳳屏一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6374075,
+      "lng": 120.394898,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "橘23"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189822954,
+      "name": "後庄國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6382164,
+      "lng": 120.3886819,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189822955,
+      "name": "後庄車站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6400066,
+      "lng": 120.3901066,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189822956,
+      "name": "成功路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6373285,
+      "lng": 120.3911572,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189822957,
+      "name": "大寮後庄聖南宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6371673,
+      "lng": 120.3886936
+    },
+    {
+      "id": 3189822958,
+      "name": "民光街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6385302,
+      "lng": 120.3943849,
+      "routes": [
+        "橘23"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3189886734,
+      "name": "上寮路口(至學路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6079385,
+      "lng": 120.4224782
+    },
+    {
+      "id": 3189886736,
+      "name": "光明路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6117413,
+      "lng": 120.4125787,
+      "routes": [
+        "橘21"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236889,
+      "name": "新厝路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5612408,
+      "lng": 120.4077173,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236891,
+      "name": "新厝路公墓",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5614808,
+      "lng": 120.4023135,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236893,
+      "name": "新厝路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5611739,
+      "lng": 120.4104478,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236895,
+      "name": "會結",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5546185,
+      "lng": 120.4233567,
+      "routes": [
+        "8001",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.393Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236899,
+      "name": "潮寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5626856,
+      "lng": 120.4285687,
+      "routes": [
+        "8001",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236902,
+      "name": "營房",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5542444,
+      "lng": 120.4175294,
+      "routes": [
+        "8001",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879249171,
+      "name": "過溪路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5754326,
+      "lng": 120.4161269,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879249173,
+      "name": "金皇公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5774995,
+      "lng": 120.4099941,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273472,
+      "name": "三隆路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5873469,
+      "lng": 120.404943,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273477,
+      "name": "大崎腳(大寮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5820118,
+      "lng": 120.4068157,
+      "routes": [
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273479,
+      "name": "大崎腳路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5840896,
+      "lng": 120.4062558,
+      "routes": [
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273481,
+      "name": "松禾日照",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5900132,
+      "lng": 120.4036076,
+      "routes": [
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273483,
+      "name": "高英工商",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5944732,
+      "lng": 120.4018425,
+      "routes": [
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘20B",
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)",
+        "橘20B區間車"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879273485,
+      "name": "高雄監獄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5920299,
+      "lng": 120.4027903,
+      "routes": [
+        "8041A",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘22"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418704,
+      "name": "圓通寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5415666,
+      "lng": 120.4043833,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418706,
+      "name": "昭明",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5396193,
+      "lng": 120.4037581,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418708,
+      "name": "昭明國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5412062,
+      "lng": 120.4098983,
+      "routes": [
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.394Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418710,
+      "name": "昭明派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5446899,
+      "lng": 120.4063365,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418712,
+      "name": "昭明變電所站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.548073,
+      "lng": 120.4117786,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418720,
+      "name": "義仁路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5463887,
+      "lng": 120.4101456,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418722,
+      "name": "赤崁(大寮)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5432809,
+      "lng": 120.4101833,
+      "routes": [
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418724,
+      "name": "鳳林一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5366836,
+      "lng": 120.4018082,
+      "routes": [
+        "8001",
+        "8041A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879418726,
+      "name": "鳳林路四段",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5382863,
+      "lng": 120.4088643,
+      "routes": [
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5792157308,
+      "name": "大寮",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6221173,
+      "lng": 120.3905893,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.224Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 6821670926,
+      "name": "鳳屏二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6417119,
+      "lng": 120.4134956,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6821690793,
+      "name": "中庄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6309679,
+      "lng": 120.3844312,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8363573784,
+      "name": "會結路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5557161,
+      "lng": 120.4125223,
+      "routes": [
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375935537,
+      "name": "進學路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6061297,
+      "lng": 120.3940301,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8377468434,
+      "name": "磚仔窯",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6421473,
+      "lng": 120.4172859,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8425137516,
+      "name": "後庄農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.636397,
+      "lng": 120.392231,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "大樹祈福線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8425141518,
+      "name": "新光高中 (鳳屏一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6351988,
+      "lng": 120.3905761,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9776427595,
+      "name": "建業路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5707306,
+      "lng": 120.4287486,
+      "routes": [
+        "橘20B副(延駛和發產業園區)",
+        "橘20B副(假日停駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9776427597,
+      "name": "上發八路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5978252,
+      "lng": 120.4334811,
+      "routes": [
+        "橘20B副(延駛和發產業園區)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9776427598,
+      "name": "和發上發六路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.5944927,
+      "lng": 120.4286227,
+      "routes": [
+        "橘20B副(延駛和發產業園區)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9776427599,
+      "name": "中庄里辦公處",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6376386,
+      "lng": 120.3990778,
+      "routes": [
+        "橘21",
+        "橘23"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11818013438,
+      "name": "中庄國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6359107,
+      "lng": 120.401848,
+      "routes": [
+        "橘21",
+        "橘23"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11818013439,
+      "name": "輔英科大中正堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6009902,
+      "lng": 120.3900081,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11818013442,
+      "name": "輔英科大圖書館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6025165,
+      "lng": 120.3891181,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "橘11A區間車",
+        "橘20C(直達車)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803145,
+      "name": "江山里(鳳屏二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6409981,
+      "lng": 120.4086789,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "橘21"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803147,
+      "name": "江山村口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6402325,
+      "lng": 120.4048498,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803149,
+      "name": "慈惠醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6386658,
+      "lng": 120.3974507,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "橘23"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803150,
+      "name": "慈惠醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "大寮區",
+      "lat": 22.6386875,
+      "lng": 120.3987461,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048",
+        "橘23"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.395Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

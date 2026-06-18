@@ -1,0 +1,51 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376470000A_000364",
+      "name": "台塑生醫健康悠活館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.087126,
+      "lng": 120.561127,
+      "source": "tdx",
+      "sourceId": "C1_376470000A_000364",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "彰化縣彰化市中山路三段359號"
+    },
+    {
+      "id": "coa:108",
+      "name": "日月山景休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.045678,
+      "lng": 120.591234,
+      "source": "coa",
+      "sourceId": "108",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣彰化市石牌里水月台路218號",
+      "phone": "04-737-0949"
+    },
+    {
+      "id": "coa:321",
+      "name": "今夜星辰休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.054444,
+      "lng": 120.5925,
+      "source": "coa",
+      "sourceId": "321",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣彰化市石牌路一段428號",
+      "phone": "04-732-3111"
+    }
+  ]
+}

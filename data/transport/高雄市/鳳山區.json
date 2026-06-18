@@ -1,0 +1,3469 @@
+{
+  "city": "高雄市",
+  "district": "鳳山區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 190,
+  "items": [
+    {
+      "id": 2475208291,
+      "name": "鐵路機廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6174555,
+      "lng": 120.3321961,
+      "routes": [
+        "100百貨幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.293Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208293,
+      "name": "鐵路機料廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6130045,
+      "lng": 120.3325164,
+      "routes": [
+        "100百貨幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.293Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2475208295,
+      "name": "鳳山工業區(監理所後)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6148226,
+      "lng": 120.3323426,
+      "routes": [
+        "100百貨幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.293Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803161,
+      "name": "黃埔新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6202986,
+      "lng": 120.3643805,
+      "routes": [
+        "8001",
+        "8010",
+        "8010區間車",
+        "8041A",
+        "8048",
+        "橘11A",
+        "橘11A區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.526Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758750,
+      "name": "建國路口(青年路二段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6378512,
+      "lng": 120.3507603,
+      "routes": [
+        "橘12(白天延駛澄清湖)",
+        "橘18A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.526Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758754,
+      "name": "捷運鳳山西站(自由路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6253413,
+      "lng": 120.3488593,
+      "routes": [
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8001",
+        "橘11B",
+        "橘12(白天延駛澄清湖)",
+        "橘12區間車(寒暑假停駛)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.526Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758757,
+      "name": "文福里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6355539,
+      "lng": 120.3501657,
+      "routes": [
+        "橘12(白天延駛澄清湖)",
+        "橘18A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.526Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758759,
+      "name": "文衡路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6410762,
+      "lng": 120.3511185,
+      "routes": [
+        "紅33明誠幹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘12(白天延駛澄清湖)",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758763,
+      "name": "濱山街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6450812,
+      "lng": 120.3500908,
+      "routes": [
+        "紅33明誠幹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘12(白天延駛澄清湖)",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2512758765,
+      "name": "青年國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6301128,
+      "lng": 120.349329,
+      "routes": [
+        "5公車式小黃",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘12(白天延駛澄清湖)",
+        "橘18"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783245,
+      "name": "中崙一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6004464,
+      "lng": 120.3505773,
+      "routes": [
+        "87"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.294Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783249,
+      "name": "中崙二路一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6017372,
+      "lng": 120.3529459,
+      "routes": [
+        "53",
+        "73",
+        "83",
+        "87",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783252,
+      "name": "中崙四路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5995888,
+      "lng": 120.352582,
+      "routes": [
+        "83",
+        "87",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783255,
+      "name": "南京路口(興隆街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6064332,
+      "lng": 120.3451151,
+      "routes": [
+        "87",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783260,
+      "name": "國光路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6202944,
+      "lng": 120.3495148,
+      "routes": [
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783265,
+      "name": "大明路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6083153,
+      "lng": 120.3417283,
+      "routes": [
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783271,
+      "name": "忠孝國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6178078,
+      "lng": 120.3493088,
+      "routes": [
+        "25",
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783276,
+      "name": "新富路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6153213,
+      "lng": 120.3483821,
+      "routes": [
+        "25",
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2519783282,
+      "name": "鳳新高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6128746,
+      "lng": 120.3429288,
+      "routes": [
+        "11",
+        "26B",
+        "87",
+        "橘12(白天延駛澄清湖)",
+        "橘12區間車(寒暑假停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.527Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393232,
+      "name": "黃埔四村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.622289,
+      "lng": 120.3736144,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393234,
+      "name": "衛武營國家藝術文化中心(三多路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6243193,
+      "lng": 120.3403217,
+      "routes": [
+        "11",
+        "52A",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2524393240,
+      "name": "衛武社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6268649,
+      "lng": 120.3444876
+    },
+    {
+      "id": 2539821780,
+      "name": "中崙二路二",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5984357,
+      "lng": 120.3528184,
+      "routes": [
+        "53",
+        "73",
+        "83"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821782,
+      "name": "中崙五路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.597264,
+      "lng": 120.3516632,
+      "routes": [
+        "53",
+        "73",
+        "83"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821784,
+      "name": "京城花園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5974541,
+      "lng": 120.3453506,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821786,
+      "name": "保華路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5968173,
+      "lng": 120.346966,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821792,
+      "name": "鳳山龍山寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6218258,
+      "lng": 120.3597557,
+      "routes": [
+        "8001",
+        "8010",
+        "8010區間車",
+        "8041A",
+        "8048",
+        "紅10",
+        "橘11A",
+        "橘11A區間車"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821802,
+      "name": "保安公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5941574,
+      "lng": 120.3470801,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2539821804,
+      "name": "鳳甲二街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5964025,
+      "lng": 120.3435604,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2548281217,
+      "name": "二甲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5988328,
+      "lng": 120.3395595,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.294Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2557024860,
+      "name": "鳳山行政中心(澄清路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6302853,
+      "lng": 120.3443778,
+      "routes": [
+        "30",
+        "70A三多幹線(部分延駛澄清湖)",
+        "70B三多幹線(延駛鎮州路)",
+        "70D三多幹線(延駛仁美)",
+        "87",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8048",
+        "8049",
+        "紅21",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C",
+        "橘7C",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.528Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2610984752,
+      "name": "八德路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6383735,
+      "lng": 120.3590234,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2610984771,
+      "name": "建國新城(鳳松路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.635567,
+      "lng": 120.360644,
+      "routes": [
+        "5公車式小黃",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2610984786,
+      "name": "文山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6392647,
+      "lng": 120.3565874,
+      "routes": [
+        "87",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2610984794,
+      "name": "文德國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6405505,
+      "lng": 120.3526113,
+      "routes": [
+        "87",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2610984865,
+      "name": "青年路口(建國路三段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6372821,
+      "lng": 120.35121,
+      "routes": [
+        "5公車式小黃",
+        "紅33明誠幹線",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘17"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8185972299,
+      "name": "鳳山商工",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6358268,
+      "lng": 120.357639,
+      "routes": [
+        "87",
+        "紅33明誠幹線",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘17"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493576,
+      "name": "新富路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6121053,
+      "lng": 120.3414021,
+      "routes": [
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493577,
+      "name": "福誠高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5899536,
+      "lng": 120.3242066,
+      "routes": [
+        "8505",
+        "紅10",
+        "紅11",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2617493588,
+      "name": "文英里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6376539,
+      "lng": 120.3565766,
+      "routes": [
+        "87",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647519237,
+      "name": "公正路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.601709,
+      "lng": 120.332854,
+      "routes": [
+        "83",
+        "紅12A",
+        "紅12B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575000,
+      "name": "一甲(鳳山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5999775,
+      "lng": 120.3386192,
+      "routes": [
+        "25",
+        "紅10",
+        "紅11"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575004,
+      "name": "五甲國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5983653,
+      "lng": 120.3363744,
+      "routes": [
+        "25",
+        "紅10",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.529Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575010,
+      "name": "五甲市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5957381,
+      "lng": 120.3316685,
+      "routes": [
+        "25",
+        "紅10",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575014,
+      "name": "五甲農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.596499,
+      "lng": 120.333518,
+      "routes": [
+        "25",
+        "8505",
+        "紅10",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575019,
+      "name": "協善堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5941679,
+      "lng": 120.3295576,
+      "routes": [
+        "25",
+        "8505",
+        "紅10",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575023,
+      "name": "正義高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6011326,
+      "lng": 120.340223,
+      "routes": [
+        "25",
+        "8505",
+        "紅10"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2647575246,
+      "name": "老爺里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6041232,
+      "lng": 120.3446635
+    },
+    {
+      "id": 2647575260,
+      "name": "五甲三誠路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5920305,
+      "lng": 120.3263942,
+      "routes": [
+        "紅10",
+        "紅11",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2655954018,
+      "name": "中崙國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6032599,
+      "lng": 120.3532289,
+      "routes": [
+        "53",
+        "73",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2655954020,
+      "name": "中崙國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5995194,
+      "lng": 120.3507781,
+      "routes": [
+        "紅10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.296Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2655954021,
+      "name": "油管路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6064372,
+      "lng": 120.3545278,
+      "routes": [
+        "87",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3182230278,
+      "name": "瑞隆東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6063055,
+      "lng": 120.3436414,
+      "routes": [
+        "25",
+        "26B",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2655954025,
+      "name": "七老爺活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6066279,
+      "lng": 120.3475023,
+      "routes": [
+        "53",
+        "73",
+        "87",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756038,
+      "name": "七老爺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6076746,
+      "lng": 120.3475211,
+      "routes": [
+        "25",
+        "紅10"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756043,
+      "name": "五甲新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6171884,
+      "lng": 120.3542969,
+      "routes": [
+        "紅10",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756049,
+      "name": "五甲社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6145609,
+      "lng": 120.3523546,
+      "routes": [
+        "25",
+        "紅10"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756057,
+      "name": "仙公廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.618523,
+      "lng": 120.3553197,
+      "routes": [
+        "紅10",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756063,
+      "name": "南福街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6095742,
+      "lng": 120.3486629,
+      "routes": [
+        "25",
+        "紅10"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756068,
+      "name": "南門(兵仔市)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6207341,
+      "lng": 120.3567564,
+      "routes": [
+        "87",
+        "紅10",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2660756073,
+      "name": "許厝(凱旋路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6119206,
+      "lng": 120.3501745,
+      "routes": [
+        "25",
+        "紅10"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.530Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 218455111,
+      "name": "鳳山轉運站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6258588,
+      "lng": 120.3632785,
+      "routes": [
+        "5公車式小黃",
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "87",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "512",
+        "8010區間車",
+        "大樹祈福線",
+        "紅10",
+        "橘8",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘16A",
+        "橘16B",
+        "橘17",
+        "橘18",
+        "橘18A",
+        "T201(每周一至三行駛)"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2680790591,
+      "name": "南正二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6000389,
+      "lng": 120.3296071,
+      "routes": [
+        "83",
+        "紅12A",
+        "紅12B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756925,
+      "name": "光遠路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6260445,
+      "lng": 120.3585953,
+      "routes": [
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "橘11B",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756947,
+      "name": "市場前",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6255335,
+      "lng": 120.3614598,
+      "routes": [
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "橘11B",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756972,
+      "name": "建軍路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.628583,
+      "lng": 120.3417283,
+      "routes": [
+        "53",
+        "73",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8010",
+        "橘18"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756981,
+      "name": "捷運鳳山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6259153,
+      "lng": 120.3560774,
+      "routes": [
+        "5公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8001",
+        "8010",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A",
+        "橘11B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.531Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689756998,
+      "name": "自由市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6256279,
+      "lng": 120.3508808,
+      "routes": [
+        "5公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8001",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2689757010,
+      "name": "自由路(被服廠)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.625148,
+      "lng": 120.3474698
+    },
+    {
+      "id": 2715540646,
+      "name": "中正預校(鳳頂路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6072855,
+      "lng": 120.3617467,
+      "routes": [
+        "30",
+        "87",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540608,
+      "name": "光復路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6289808,
+      "lng": 120.3591377,
+      "routes": [
+        "8021",
+        "橘8",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘17"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540610,
+      "name": "保華站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5903837,
+      "lng": 120.3486189,
+      "routes": [
+        "53",
+        "73",
+        "81",
+        "橘8"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540611,
+      "name": "和興里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6192862,
+      "lng": 120.3592749,
+      "routes": [
+        "87",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540613,
+      "name": "國昌路口(國泰路二段)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6170235,
+      "lng": 120.3517975,
+      "routes": [
+        "25",
+        "30",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540615,
+      "name": "大東路(鳳山龍山寺)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6219317,
+      "lng": 120.3611665,
+      "routes": [
+        "87",
+        "紅10",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540617,
+      "name": "曹公路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.628265,
+      "lng": 120.3570966,
+      "routes": [
+        "5公車式小黃",
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "87",
+        "8010區間車",
+        "8021",
+        "8048",
+        "橘8",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540619,
+      "name": "頂庄棒球場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5883618,
+      "lng": 120.3578139,
+      "routes": [
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540620,
+      "name": "田中央路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5952652,
+      "lng": 120.3595179,
+      "routes": [
+        "30",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540622,
+      "name": "自來水公司(鳳山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6287457,
+      "lng": 120.3618627,
+      "routes": [
+        "橘8",
+        "橘17"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540624,
+      "name": "花鄉",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6107423,
+      "lng": 120.3605658,
+      "routes": [
+        "30",
+        "87",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.532Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540626,
+      "name": "誠義兒童公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6157679,
+      "lng": 120.3600849,
+      "routes": [
+        "87",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540628,
+      "name": "誠義路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6125995,
+      "lng": 120.3603234,
+      "routes": [
+        "30",
+        "87",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540630,
+      "name": "誠義里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6084502,
+      "lng": 120.3604603,
+      "routes": [
+        "30",
+        "87",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540632,
+      "name": "過埤國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5913772,
+      "lng": 120.3627507,
+      "routes": [
+        "30",
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540634,
+      "name": "過埤派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5927331,
+      "lng": 120.3607133,
+      "routes": [
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540636,
+      "name": "過昌街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5868823,
+      "lng": 120.3610106,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540639,
+      "name": "過雄一街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5867412,
+      "lng": 120.3577102,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540643,
+      "name": "過雄街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5867064,
+      "lng": 120.3593409,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540649,
+      "name": "鳳頂路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5945993,
+      "lng": 120.3623315,
+      "routes": [
+        "30"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540656,
+      "name": "頂庄路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5883896,
+      "lng": 120.3616377,
+      "routes": [
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540659,
+      "name": "高雄市議會(忠孝國中)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6199263,
+      "lng": 120.3471896,
+      "routes": [
+        "30",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540666,
+      "name": "高鳳路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.589253,
+      "lng": 120.3659018,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540677,
+      "name": "高雄客運鳳山站(澄瀾砲台)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6242601,
+      "lng": 120.357149,
+      "routes": [
+        "5公車式小黃",
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "87",
+        "8001",
+        "8010",
+        "8010區間車",
+        "8021",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8048",
+        "8049",
+        "橘7C",
+        "橘8",
+        "橘11A",
+        "橘11A區間車"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2715540684,
+      "name": "臺鐵鳳山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6314484,
+      "lng": 120.3574905,
+      "routes": [
+        "5公車式小黃",
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃",
+        "87",
+        "8010區間車",
+        "大樹祈福線",
+        "橘8",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘16A",
+        "橘16B",
+        "橘17",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2717251133,
+      "name": "紫竹林精舍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6130771,
+      "lng": 120.3370787
+    },
+    {
+      "id": 2725379769,
+      "name": "三光街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5941391,
+      "lng": 120.3263084,
+      "routes": [
+        "25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2725379773,
+      "name": "福誠國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5963724,
+      "lng": 120.3255548,
+      "routes": [
+        "25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2725381267,
+      "name": "南京路口(南福街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6131261,
+      "lng": 120.3462453,
+      "routes": [
+        "25",
+        "87",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.533Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2727042252,
+      "name": "五甲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5927713,
+      "lng": 120.3276834,
+      "routes": [
+        "25",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705296,
+      "name": "新昌街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.584976,
+      "lng": 120.3617216,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705304,
+      "name": "鳳頂路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5850772,
+      "lng": 120.3580897,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728732735,
+      "name": "國慶六街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.586798,
+      "lng": 120.3406187,
+      "routes": [
+        "69B小港幹線(繞駛明鳳)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)",
+        "紅11"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728732760,
+      "name": "朝鳳寺(紅毛港路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5855802,
+      "lng": 120.3431535,
+      "routes": [
+        "69B小港幹線(繞駛明鳳)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)",
+        "紅11"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689540,
+      "name": "保南二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.595284,
+      "lng": 120.3498748,
+      "routes": [
+        "53",
+        "73",
+        "83"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689542,
+      "name": "南和路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5903407,
+      "lng": 120.3384508,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689544,
+      "name": "南成國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5948646,
+      "lng": 120.3351025,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.298Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689546,
+      "name": "南成里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.587597,
+      "lng": 120.3488954,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689548,
+      "name": "家樂福五甲店",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.596367,
+      "lng": 120.3372545,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689550,
+      "name": "健能游泳池",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5916105,
+      "lng": 120.3289957,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689552,
+      "name": "朝鳳寺(家和五街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5861985,
+      "lng": 120.3436586,
+      "routes": [
+        "69B小港幹線(繞駛明鳳)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)",
+        "紅11"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689554,
+      "name": "濟天宮(國慶六街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5873815,
+      "lng": 120.338524,
+      "routes": [
+        "69B小港幹線(繞駛明鳳)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)",
+        "紅11"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689556,
+      "name": "童心幼稚園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5915198,
+      "lng": 120.3302541,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689558,
+      "name": "過埤公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.59307,
+      "lng": 120.3555638,
+      "routes": [
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689560,
+      "name": "飛鳳宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5873945,
+      "lng": 120.3473404,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689562,
+      "name": "鳳南路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5921846,
+      "lng": 120.3402186,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2735689564,
+      "name": "7-11鳳頂門市",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.592777,
+      "lng": 120.3585074,
+      "routes": [
+        "紅11",
+        "橘8"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428266,
+      "name": "瑞豐站(武營路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.607056,
+      "lng": 120.3380237,
+      "routes": [
+        "11",
+        "25",
+        "26A",
+        "26B",
+        "81",
+        "82",
+        "82公車式小黃",
+        "83",
+        "100百貨幹線",
+        "紅12A",
+        "紅12B",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428267,
+      "name": "北極殿(鳳山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6108878,
+      "lng": 120.3373412,
+      "routes": [
+        "11",
+        "81"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.534Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428271,
+      "name": "新甲國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6127411,
+      "lng": 120.3404662,
+      "routes": [
+        "11",
+        "26B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739440563,
+      "name": "誠德里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6224304,
+      "lng": 120.3759989,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2766223869,
+      "name": "監理所(武營路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6158522,
+      "lng": 120.336723,
+      "routes": [
+        "81"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2802887209,
+      "name": "瑞福路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6040382,
+      "lng": 120.3364461,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044435,
+      "name": "中山國小(光復路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6291711,
+      "lng": 120.3496995
+    },
+    {
+      "id": 2835044437,
+      "name": "公路之家",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.627433,
+      "lng": 120.3509333,
+      "routes": [
+        "8010",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044439,
+      "name": "婦幼館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6292179,
+      "lng": 120.3478204,
+      "routes": [
+        "8048",
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘18"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044441,
+      "name": "鳳山高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6279864,
+      "lng": 120.3463416,
+      "routes": [
+        "8010",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044442,
+      "name": "鳳山高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6281778,
+      "lng": 120.3453391,
+      "routes": [
+        "8010",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.535Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044443,
+      "name": "西門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6267672,
+      "lng": 120.3526431,
+      "routes": [
+        "8010",
+        "8041A",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835044445,
+      "name": "通益市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6290822,
+      "lng": 120.3533631,
+      "routes": [
+        "8048"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2835054969,
+      "name": "建軍站(澄清路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6255719,
+      "lng": 120.344494
+    },
+    {
+      "id": 2876209228,
+      "name": "北門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6334152,
+      "lng": 120.3614638,
+      "routes": [
+        "8021",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209230,
+      "name": "園藝試驗所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6396085,
+      "lng": 120.3633768,
+      "routes": [
+        "8021",
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209232,
+      "name": "建國路口(鳳松路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6359194,
+      "lng": 120.3622289,
+      "routes": [
+        "8021",
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2876209236,
+      "name": "牛稠埔(鳳山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6433203,
+      "lng": 120.3643011
+    },
+    {
+      "id": 3155819791,
+      "name": "捷運鳳山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6260281,
+      "lng": 120.3542371,
+      "routes": [
+        "5公車式小黃",
+        "88建國幹線",
+        "88建國幹線延駛",
+        "8001",
+        "8010",
+        "8041C(部分繞駛樹人醫專)",
+        "8049",
+        "橘7C",
+        "橘11A",
+        "橘11B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.536Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3172275574,
+      "name": "衛武營都會公園(南京路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6190434,
+      "lng": 120.3456295
+    },
+    {
+      "id": 3361624968,
+      "name": "鳳甲公兒二公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5947641,
+      "lng": 120.3426235,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289963,
+      "name": "力行路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6389351,
+      "lng": 120.3672775,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289965,
+      "name": "北平路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6384304,
+      "lng": 120.3693063,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289967,
+      "name": "北文街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6406084,
+      "lng": 120.367526
+    },
+    {
+      "id": 3444289968,
+      "name": "北昌三街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6453464,
+      "lng": 120.37249,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289972,
+      "name": "文濱路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.637711,
+      "lng": 120.3483046,
+      "routes": [
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘17"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289973,
+      "name": "文濱路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6377577,
+      "lng": 120.3497724,
+      "routes": [
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘17"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289974,
+      "name": "牛潮埔休閒公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6440405,
+      "lng": 120.3664657,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289976,
+      "name": "牛稠埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6446809,
+      "lng": 120.3649886,
+      "routes": [
+        "5公車式小黃",
+        "8021",
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289978,
+      "name": "鎮北國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6432015,
+      "lng": 120.3674147,
+      "routes": [
+        "5公車式小黃"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444289981,
+      "name": "高旗工家",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.63587,
+      "lng": 120.3697421,
+      "routes": [
+        "5公車式小黃",
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3453282505,
+      "name": "家畜市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6327247,
+      "lng": 120.3639123,
+      "routes": [
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3453282507,
+      "name": "金吉順公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6380332,
+      "lng": 120.373871,
+      "routes": [
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3453282509,
+      "name": "鳳仁新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6342355,
+      "lng": 120.3667483,
+      "routes": [
+        "23(部分延駛文山高中)",
+        "23(部分延駛文山高中)公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3455119810,
+      "name": "中崙二路一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6006452,
+      "lng": 120.3530825,
+      "routes": [
+        "53",
+        "73",
+        "83",
+        "87",
+        "紅10",
+        "橘12(白天延駛澄清湖)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3455119811,
+      "name": "平等路口(光華路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6220601,
+      "lng": 120.3515049,
+      "routes": [
+        "87"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3455119813,
+      "name": "鳳西國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6207798,
+      "lng": 120.3539026,
+      "routes": [
+        "87"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879289590,
+      "name": "平成砲台(曹公廟)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.627682,
+      "lng": 120.3571684,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.300Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879289591,
+      "name": "大東文化藝術中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6244854,
+      "lng": 120.3623984,
+      "routes": [
+        "橘8"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.300Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3881790550,
+      "name": "保雅路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5933747,
+      "lng": 120.3497842,
+      "routes": [
+        "53",
+        "73",
+        "83",
+        "橘8"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4581502018,
+      "name": "鳳山西站",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6253627,
+      "lng": 120.3480491,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4581503591,
+      "name": "鳳山",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6259919,
+      "lng": 120.3552091,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4582336214,
+      "name": "大東",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6251921,
+      "lng": 120.3633605,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4582339822,
+      "name": "鳳山國中",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6246291,
+      "lng": 120.3718273,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5300658697,
+      "name": "市立鳳山醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6297154,
+      "lng": 120.3628513,
+      "routes": [
+        "橘16A",
+        "橘16B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5728505938,
+      "name": "南京瑞隆東路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.607262,
+      "lng": 120.3454755,
+      "routes": [
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5728505942,
+      "name": "鳳南路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.599675,
+      "lng": 120.3366199,
+      "routes": [
+        "81",
+        "83",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.537Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5728505944,
+      "name": "五甲派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5976399,
+      "lng": 120.3351577,
+      "routes": [
+        "25",
+        "8505",
+        "紅10",
+        "黃2A(部分繞駛圓山飯店)",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5981481116,
+      "name": "鳳山",
+      "type": "train",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6315973,
+      "lng": 120.3566769
+    },
+    {
+      "id": 6821705091,
+      "name": "捷運鳳山國中站(郵局)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6246284,
+      "lng": 120.3714493,
+      "routes": [
+        "512",
+        "8001",
+        "8010",
+        "8010區間車",
+        "8041A",
+        "8048",
+        "大樹祈福線",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6821934012,
+      "name": "明善堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6237657,
+      "lng": 120.3667318,
+      "routes": [
+        "88建國幹線延駛",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7937507625,
+      "name": "明善堂(黃埔路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6231155,
+      "lng": 120.365828,
+      "routes": [
+        "88建國幹線延駛",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7937507627,
+      "name": "黃埔公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6220285,
+      "lng": 120.3682071,
+      "routes": [
+        "88建國幹線延駛"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8057987304,
+      "name": "凱旋二聖",
+      "type": "lrt",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6125106,
+      "lng": 120.3271484,
+      "lines": [
+        "高雄環狀輕軌"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 8366933093,
+      "name": "鳳翔國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5949724,
+      "lng": 120.3401633,
+      "routes": [
+        "81",
+        "83",
+        "紅11"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8366933101,
+      "name": "第二衛生所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5937637,
+      "lng": 120.3332907,
+      "routes": [
+        "紅11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.301Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375744575,
+      "name": "過埤路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5889457,
+      "lng": 120.3627091,
+      "routes": [
+        "30",
+        "紅11"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375744577,
+      "name": "翡翠晶鑽",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5884192,
+      "lng": 120.359986,
+      "routes": [
+        "30",
+        "紅11"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8510776671,
+      "name": "文衡文平街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6411828,
+      "lng": 120.3493985,
+      "routes": [
+        "87"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8510776673,
+      "name": "文山學園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6410616,
+      "lng": 120.3487325,
+      "routes": [
+        "橘17"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8510776675,
+      "name": "文衡澄清路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6416371,
+      "lng": 120.3473266,
+      "routes": [
+        "87"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.538Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12786257287,
+      "name": "文華國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6342618,
+      "lng": 120.3524834,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12786257289,
+      "name": "大全聯",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6337138,
+      "lng": 120.355493,
+      "routes": [
+        "橘7A",
+        "橘7A(延駛中興北路一)",
+        "橘7B(不延駛佛光山)",
+        "橘7B(假日停駛)",
+        "橘18",
+        "橘18A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12786257292,
+      "name": "仁愛路(鳳山)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6237161,
+      "lng": 120.3726343,
+      "routes": [
+        "8001",
+        "8041A",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B",
+        "橘18"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12786257294,
+      "name": "鳳陽社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6200285,
+      "lng": 120.3731709,
+      "routes": [
+        "橘18"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12787618476,
+      "name": "中安路口(鳳頂路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5859853,
+      "lng": 120.3588646,
+      "routes": [
+        "30"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12787618479,
+      "name": "台糖花卉市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.614539,
+      "lng": 120.3583881,
+      "routes": [
+        "30"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803151,
+      "name": "埤頂派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6286158,
+      "lng": 120.3807746,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803153,
+      "name": "埤頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6279369,
+      "lng": 120.3791898,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803155,
+      "name": "上埤頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6265087,
+      "lng": 120.3765073,
+      "routes": [
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803157,
+      "name": "中山東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6262355,
+      "lng": 120.3751971,
+      "routes": [
+        "512",
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803158,
+      "name": "中山東路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6256309,
+      "lng": 120.3744093,
+      "routes": [
+        "512",
+        "8010",
+        "8010區間車",
+        "8048"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13370803159,
+      "name": "東門",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.6234652,
+      "lng": 120.3693661,
+      "routes": [
+        "8001",
+        "8010",
+        "8010區間車",
+        "8041A",
+        "8048",
+        "橘10A公車式小黃",
+        "橘10B公車式小黃",
+        "橘11A",
+        "橘11A區間車",
+        "橘11B"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 937774418,
+      "name": "港都客運保華站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "鳳山區",
+      "lat": 22.5909568,
+      "lng": 120.3481331,
+      "routes": [
+        "53",
+        "73",
+        "81",
+        "橘8"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.539Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

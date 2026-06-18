@@ -1,0 +1,36 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000173",
+      "name": "上安觀光果園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.723419,
+      "lng": 120.85302,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000173",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣水里鄉安村巷38之2號"
+    },
+    {
+      "id": "coa:53",
+      "name": "水里生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.811254,
+      "lng": 120.817452,
+      "source": "coa",
+      "sourceId": "53",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣水里鄉玉峰村永樂巷89-5號",
+      "phone": "0910-593251"
+    }
+  ]
+}

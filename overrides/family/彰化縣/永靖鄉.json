@@ -1,0 +1,36 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376470000A_000526",
+      "name": "永靖車站 │新舊交織 遊趣間",
+      "facilityType": "scenic_area",
+      "facilityLabel": "🏞 風景區",
+      "lat": 23.92815,
+      "lng": 120.571671,
+      "source": "tdx",
+      "sourceId": "C1_376470000A_000526",
+      "sourceCategory": "林場類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "彰化縣永靖鄉永崙路25號"
+    },
+    {
+      "id": "coa:413",
+      "name": "星錡休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.912341,
+      "lng": 120.523412,
+      "source": "coa",
+      "sourceId": "413",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣永靖鄉同仁村東畔路建238之46號",
+      "phone": "0931-615-806"
+    }
+  ]
+}

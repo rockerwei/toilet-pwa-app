@@ -1,0 +1,1288 @@
+{
+  "city": "高雄市",
+  "district": "六龜區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 74,
+  "items": [
+    {
+      "id": 3621493056,
+      "name": "茂林遊客活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8801533,
+      "lng": 120.6490522,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337491,
+      "name": "囉囉埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.11143,
+      "lng": 120.7121672,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337493,
+      "name": "寶來國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1107265,
+      "lng": 120.7029816,
+      "routes": [
+        "8029",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337495,
+      "name": "寶來7-11",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1087997,
+      "lng": 120.6998571,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11A(週一、三、五行駛)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337497,
+      "name": "寶來",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1082177,
+      "lng": 120.6993406,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337499,
+      "name": "檨仔腳",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1055129,
+      "lng": 120.6937069
+    },
+    {
+      "id": 8196337501,
+      "name": "妙通寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1000548,
+      "lng": 120.6858241,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337502,
+      "name": "大埔路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1011379,
+      "lng": 120.6833084,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337504,
+      "name": "建山路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0962592,
+      "lng": 120.6825128,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337506,
+      "name": "大圳",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0895299,
+      "lng": 120.6826929,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337508,
+      "name": "頂荖濃",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0865286,
+      "lng": 120.6796618,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337510,
+      "name": "外埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0849996,
+      "lng": 120.6793354,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337512,
+      "name": "頂濃路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0831464,
+      "lng": 120.6788123,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337514,
+      "name": "長份",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0794041,
+      "lng": 120.6765082,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196337516,
+      "name": "下長份",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0775799,
+      "lng": 120.675591,
+      "routes": [
+        "8029",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347418,
+      "name": "荖濃國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0732686,
+      "lng": 120.6730656,
+      "routes": [
+        "8029",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347420,
+      "name": "荖濃",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0720002,
+      "lng": 120.6730226,
+      "routes": [
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347422,
+      "name": "下崁",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0694205,
+      "lng": 120.672785,
+      "routes": [
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347424,
+      "name": "番仔埔",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0596527,
+      "lng": 120.6691939,
+      "routes": [
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347426,
+      "name": "水冬瓜",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0524863,
+      "lng": 120.6674697,
+      "routes": [
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.374Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347428,
+      "name": "頂新發",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0431887,
+      "lng": 120.6675811,
+      "routes": [
+        "8033",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347429,
+      "name": "和平里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0386566,
+      "lng": 120.6659825,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347431,
+      "name": "灰窯(六龜)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0353394,
+      "lng": 120.665269,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347436,
+      "name": "新發國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.031703,
+      "lng": 120.6637404,
+      "routes": [
+        "8033",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347438,
+      "name": "新發",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0283568,
+      "lng": 120.6633016,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347440,
+      "name": "獅額頭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0223931,
+      "lng": 120.6640291,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347442,
+      "name": "北舊潭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0156867,
+      "lng": 120.6654757,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347444,
+      "name": "舊潭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0124328,
+      "lng": 120.6654393,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347446,
+      "name": "六龜育幼院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0060854,
+      "lng": 120.6558125,
+      "routes": [
+        "8033",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347448,
+      "name": "北興龍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0063706,
+      "lng": 120.6493774,
+      "routes": [
+        "8033",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347450,
+      "name": "六龜新站(親水公園)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0062411,
+      "lng": 120.6484669,
+      "routes": [
+        "8033",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347451,
+      "name": "興龍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0051554,
+      "lng": 120.6484485
+    },
+    {
+      "id": 8196347453,
+      "name": "上智橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0714373,
+      "lng": 120.6603019,
+      "routes": [
+        "8029"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347455,
+      "name": "下直瀨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0707702,
+      "lng": 120.653149,
+      "routes": [
+        "8029"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8196347457,
+      "name": "上直瀨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.070406,
+      "lng": 120.6464158,
+      "routes": [
+        "8029"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198135900,
+      "name": "木業公司(六龜)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.0004666,
+      "lng": 120.6448486,
+      "routes": [
+        "8033",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198135902,
+      "name": "六龜大橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.996681,
+      "lng": 120.6415041,
+      "routes": [
+        "8033",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198135904,
+      "name": "六龜大橋(福龜園區)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9955359,
+      "lng": 120.6379049,
+      "routes": [
+        "JOY H11(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198135905,
+      "name": "六龜戲院前",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.995394,
+      "lng": 120.6374986,
+      "routes": [
+        "8033",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157816,
+      "name": "六龜區公所(衛生所)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9973582,
+      "lng": 120.6341082,
+      "routes": [
+        "JOY H11(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "T518寶山-旗山醫院",
+        "T518B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.375Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157817,
+      "name": "六龜農會(光復路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9952922,
+      "lng": 120.6351934,
+      "routes": [
+        "8033",
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(六龜-梅山口)",
+        "JOY H11區間(六龜-寶來)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T518寶山-旗山醫院",
+        "T518B"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157819,
+      "name": "六龜站(六龜高中)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9929762,
+      "lng": 120.6356804,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157821,
+      "name": "六龜加油站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9906658,
+      "lng": 120.6364279
+    },
+    {
+      "id": 8198157823,
+      "name": "文武橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9872105,
+      "lng": 120.6370039,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157826,
+      "name": "光明巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9846669,
+      "lng": 120.6373762,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157828,
+      "name": "舊庄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9810282,
+      "lng": 120.638013
+    },
+    {
+      "id": 8198157830,
+      "name": "錦安",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9726295,
+      "lng": 120.6404857,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157832,
+      "name": "柴頭溪口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9694238,
+      "lng": 120.6411928,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157834,
+      "name": "朱天宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9666384,
+      "lng": 120.6418039,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157837,
+      "name": "復興",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9636913,
+      "lng": 120.6425087,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11區間(旗山-新開不老溫泉)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H12(週二、四行駛)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157839,
+      "name": "六隧",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9510077,
+      "lng": 120.6417433,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157847,
+      "name": "一隧",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9313928,
+      "lng": 120.6440618,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157884,
+      "name": "二坡前",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.924583,
+      "lng": 120.6415657,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157886,
+      "name": "二坡",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9207829,
+      "lng": 120.6400003,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157888,
+      "name": "新興(六龜)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9174633,
+      "lng": 120.6391423,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157890,
+      "name": "天公廟(六龜)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9127933,
+      "lng": 120.6363531
+    },
+    {
+      "id": 8198157892,
+      "name": "永昇國術館",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9057968,
+      "lng": 120.6324289,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157894,
+      "name": "新威",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9039015,
+      "lng": 120.6308151,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157896,
+      "name": "新威派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9020507,
+      "lng": 120.6281039,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157901,
+      "name": "新威國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8984878,
+      "lng": 120.6268818,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157903,
+      "name": "糖廍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.895313,
+      "lng": 120.6255049
+    },
+    {
+      "id": 8198157921,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8893436,
+      "lng": 120.624378
+    },
+    {
+      "id": 8198157923,
+      "name": "九兄弟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8835454,
+      "lng": 120.6197528,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157925,
+      "name": "新寮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8806392,
+      "lng": 120.6141297,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157927,
+      "name": "長興路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8792785,
+      "lng": 120.6093346,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157929,
+      "name": "新寮橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8788458,
+      "lng": 120.6047063,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157932,
+      "name": "三丘田",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8775895,
+      "lng": 120.5999974,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157934,
+      "name": "清水寺(六龜)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8749693,
+      "lng": 120.5954274,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198157936,
+      "name": "竹山亭",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8728245,
+      "lng": 120.5929865,
+      "routes": [
+        "E25高旗六龜快線(部分不經高鐵左營站)",
+        "JOY H11區間(旗山-新開不老溫泉)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007358,
+      "name": "新威大橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8895863,
+      "lng": 120.6473077,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.211Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007360,
+      "name": "大津活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.8919068,
+      "lng": 120.6472819,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007362,
+      "name": "大津福德廟",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9021831,
+      "lng": 120.6480383,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8376007364,
+      "name": "津鳳宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 22.9034407,
+      "lng": 120.6487974,
+      "routes": [
+        "JOY H31"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13159280146,
+      "name": "樂樂布農部落",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "六龜區",
+      "lat": 23.1115356,
+      "lng": 120.7116859,
+      "routes": [
+        "T517梅山-旗山醫院(一二三四六日行駛)",
+        "T517梅山-旗山醫院(週五行駛)",
+        "T517B",
+        "T525(每週二、四預約)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.376Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376450000A_000094",
+      "name": "福村養生農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.46677,
+      "lng": 120.847763,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000094",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣公館鄉福德村1鄰7-1號"
+    },
+    {
+      "id": "tdx:C1_376450000A_000631",
+      "name": "黃金小鎮",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.471979,
+      "lng": 120.830452,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000631",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣公館鄉福基村154號"
+    },
+    {
+      "id": "coa:320",
+      "name": "石圍墻休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.481234,
+      "lng": 120.823412,
+      "source": "coa",
+      "sourceId": "320",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "苗栗縣公館鄉福基村6鄰143-3號",
+      "phone": "0937-932379"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:555",
+      "name": "海賊庄休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.535,
+      "lng": 120.3125,
+      "source": "coa",
+      "sourceId": "555",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣新港鄉南港村117-69號",
+      "phone": "057811269"
+    }
+  ]
+}

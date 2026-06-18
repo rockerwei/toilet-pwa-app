@@ -1,0 +1,696 @@
+{
+  "city": "苗栗縣",
+  "district": "造橋鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 44,
+  "items": [
+    {
+      "id": 1741147827,
+      "name": "談文",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6565554,
+      "lng": 120.8582251
+    },
+    {
+      "id": 3302457943,
+      "name": "造橋",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.641736,
+      "lng": 120.8674346
+    },
+    {
+      "id": 3341529180,
+      "name": "造橋站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6420538,
+      "lng": 120.8671966,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842935637,
+      "name": "大坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6224047,
+      "lng": 120.8911166,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842935648,
+      "name": "大西村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6247101,
+      "lng": 120.8916973,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842970372,
+      "name": "錦水",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6055547,
+      "lng": 120.8890881,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842970378,
+      "name": "錦水社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6083811,
+      "lng": 120.8906847,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842970385,
+      "name": "錦水村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6105722,
+      "lng": 120.8917777,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842970525,
+      "name": "大坪加油站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6149944,
+      "lng": 120.8918542,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4842970528,
+      "name": "聯亞學院",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6183887,
+      "lng": 120.8917335,
+      "routes": [
+        "5801",
+        "5801A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832986822,
+      "name": "龍音湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6328525,
+      "lng": 120.8260784,
+      "routes": [
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832986849,
+      "name": "中潭站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6287686,
+      "lng": 120.824056,
+      "routes": [
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987217,
+      "name": "談文湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6565415,
+      "lng": 120.8587088,
+      "routes": [
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987224,
+      "name": "談文派出所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6542354,
+      "lng": 120.8526376
+    },
+    {
+      "id": 6832987227,
+      "name": "談文國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6520341,
+      "lng": 120.8506662,
+      "routes": [
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987229,
+      "name": "江山儒園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6492453,
+      "lng": 120.8465999,
+      "routes": [
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987237,
+      "name": "龍昇村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6417099,
+      "lng": 120.8418444
+    },
+    {
+      "id": 6832987239,
+      "name": "育達科大",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6476096,
+      "lng": 120.8455914,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987240,
+      "name": "育達科大",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6466124,
+      "lng": 120.8447482,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987241,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6437772,
+      "lng": 120.8395404
+    },
+    {
+      "id": 6832987242,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6443648,
+      "lng": 120.8385184
+    },
+    {
+      "id": 6832987243,
+      "name": "九車龍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6464296,
+      "lng": 120.8350262,
+      "routes": [
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832987248,
+      "name": "潭內",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6398204,
+      "lng": 120.8286774,
+      "routes": [
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6833000807,
+      "name": "朝陽村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6568705,
+      "lng": 120.8640397,
+      "routes": [
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875444601,
+      "name": "豐湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6118195,
+      "lng": 120.8356351,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875482863,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6256915,
+      "lng": 120.8516479,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581338,
+      "name": "朝陽路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6547522,
+      "lng": 120.8673817,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581340,
+      "name": "朝陽村站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6519756,
+      "lng": 120.8683875,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581342,
+      "name": "頭家城",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6489625,
+      "lng": 120.8723894,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581344,
+      "name": "祥騰社區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6465393,
+      "lng": 120.8728105,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581346,
+      "name": "長安新村",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6441819,
+      "lng": 120.8698413,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581349,
+      "name": "造橋國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6393658,
+      "lng": 120.8644903,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.124Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581352,
+      "name": "西坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6346884,
+      "lng": 120.8594048,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6875581354,
+      "name": "張厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6319382,
+      "lng": 120.8558214,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7440448603,
+      "name": "中潭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6300706,
+      "lng": 120.8234203,
+      "routes": [
+        "5807",
+        "5807A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705042521,
+      "name": "鄭漢碑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6551154,
+      "lng": 120.8501083,
+      "routes": [
+        "5811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7705052595,
+      "name": "崩崁下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6574251,
+      "lng": 120.8471377,
+      "routes": [
+        "5811"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771940292,
+      "name": "香格里拉",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6243824,
+      "lng": 120.8471906,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771940294,
+      "name": "大衛營",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6160423,
+      "lng": 120.8383547,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7771940299,
+      "name": "新蓮寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6073967,
+      "lng": 120.8322867,
+      "routes": [
+        "5803"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364437,
+      "name": "育達大學",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6481424,
+      "lng": 120.8436254,
+      "routes": [
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772364438,
+      "name": "育達校區",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6503599,
+      "lng": 120.8420643,
+      "routes": [
+        "101C",
+        "5807",
+        "5807A",
+        "5811"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.223Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241956716,
+      "name": "德照橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.6568567,
+      "lng": 120.8641331,
+      "routes": [
+        "101",
+        "101A",
+        "101C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.224Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8241992018,
+      "name": "談文",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "造橋鄉",
+      "lat": 24.654153,
+      "lng": 120.8525583
+    }
+  ]
+}

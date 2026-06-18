@@ -1,0 +1,36 @@
+{
+  "city": "嘉義縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376500000A_000029",
+      "name": "余順豐花生觀光工廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.466124,
+      "lng": 120.222603,
+      "source": "tdx",
+      "sourceId": "C1_376500000A_000029",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "嘉義縣東石鄉蔦松村湖底路20-28號"
+    },
+    {
+      "id": "coa:381",
+      "name": "向禾休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.595278,
+      "lng": 120.148611,
+      "source": "coa",
+      "sourceId": "381",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "嘉義縣東石鄉鰲鼓村12鄰四股67之6號",
+      "phone": "05-360-0959"
+    }
+  ]
+}

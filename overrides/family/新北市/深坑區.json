@@ -1,0 +1,22 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:357",
+      "name": "大團園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.998857,
+      "lng": 121.612987,
+      "source": "coa",
+      "sourceId": "357",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市深坑區阿柔里阿柔洋25-1號",
+      "phone": "02-2662-5328"
+    }
+  ]
+}

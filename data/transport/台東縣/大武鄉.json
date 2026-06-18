@@ -1,0 +1,323 @@
+{
+  "city": "台東縣",
+  "district": "大武鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 18,
+  "items": [
+    {
+      "id": 945711089,
+      "name": "大武",
+      "type": "train",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3654846,
+      "lng": 120.9006493
+    },
+    {
+      "id": 3174100359,
+      "name": "瀧橋",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.4554186,
+      "lng": 120.9433611,
+      "routes": [
+        "8135",
+        "8136",
+        "8137"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.813Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174100360,
+      "name": "大竹",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.4397249,
+      "lng": 120.9377985,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174100661,
+      "name": "富山",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.4298815,
+      "lng": 120.934427,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174100662,
+      "name": "富南",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.4226475,
+      "lng": 120.9314357,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111021,
+      "name": "加津林",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.4158528,
+      "lng": 120.9270858,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111022,
+      "name": "大鳥",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3819305,
+      "lng": 120.9122576,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111023,
+      "name": "大武",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3632471,
+      "lng": 120.9072324,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111042,
+      "name": "尚武",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3395125,
+      "lng": 120.8924967,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111043,
+      "name": "環港路",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3373682,
+      "lng": 120.8934982,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111044,
+      "name": "南嘉",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3310201,
+      "lng": 120.8922842,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3174111045,
+      "name": "南興",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3086254,
+      "lng": 120.8887526,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.814Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256787853,
+      "name": "大武街",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3568606,
+      "lng": 120.9042412,
+      "routes": [
+        "8135",
+        "8136",
+        "8137",
+        "8156",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779825704,
+      "name": "大武衛生所",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.3555103,
+      "lng": 120.9038902
+    },
+    {
+      "id": 5779825722,
+      "name": "尚武",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.340107,
+      "lng": 120.8932609
+    },
+    {
+      "id": 5779825732,
+      "name": "大武",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.362063,
+      "lng": 120.9072528
+    },
+    {
+      "id": 6793225183,
+      "name": "萬應公祠",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.2955291,
+      "lng": 120.8886301,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157",
+        "8158"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.262Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12258118161,
+      "name": "北隆宮",
+      "type": "bus",
+      "city": "台東縣",
+      "district": "大武鄉",
+      "lat": 22.328611,
+      "lng": 120.8922616,
+      "routes": [
+        "8135",
+        "8136",
+        "8156",
+        "8157"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.814Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

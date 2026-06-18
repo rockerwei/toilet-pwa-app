@@ -1,0 +1,281 @@
+{
+  "city": "彰化縣",
+  "district": "伸港鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 16,
+  "items": [
+    {
+      "id": 2089472806,
+      "name": "加油站前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1432535,
+      "lng": 120.4876673,
+      "routes": [
+        "6902",
+        "6906",
+        "6934"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2089472813,
+      "name": "伸港國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1486202,
+      "lng": 120.4865965,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2089472814,
+      "name": "市場前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1462006,
+      "lng": 120.4871358,
+      "routes": [
+        "6902",
+        "6906",
+        "6934"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.217Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096601,
+      "name": "幼稚園前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1469829,
+      "lng": 120.4842589,
+      "routes": [
+        "6902",
+        "6906",
+        "6907",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096603,
+      "name": "泉州村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1470116,
+      "lng": 120.4825518,
+      "routes": [
+        "6902",
+        "6906",
+        "6907",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096821,
+      "name": "水尾",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1479461,
+      "lng": 120.4780395,
+      "routes": [
+        "6902",
+        "6906",
+        "6907",
+        "6934"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.217Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096823,
+      "name": "草湖",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1481271,
+      "lng": 120.4761614,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.217Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096825,
+      "name": "曾家村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1481259,
+      "lng": 120.4728315,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.217Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754096827,
+      "name": "蚵寮路",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.146032,
+      "lng": 120.4690764,
+      "routes": [
+        "6902"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.217Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754100242,
+      "name": "連美工廠",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1416837,
+      "lng": 120.4879728,
+      "routes": [
+        "6902",
+        "6906",
+        "6934"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4754138108,
+      "name": "振輝工廠",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1513556,
+      "lng": 120.4865103,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764131391,
+      "name": "新港",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1609545,
+      "lng": 120.4879282,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764131394,
+      "name": "大同村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1588071,
+      "lng": 120.4945721,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764131396,
+      "name": "大同國小",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1600062,
+      "lng": 120.4913253,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764131398,
+      "name": "草埔子",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1579554,
+      "lng": 120.4992056,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6764131400,
+      "name": "溪底",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "伸港鄉",
+      "lat": 24.1564087,
+      "lng": 120.5013889,
+      "routes": [
+        "6907"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.870Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

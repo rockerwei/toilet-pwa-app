@@ -1,0 +1,52 @@
+{
+  "city": "臺北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:58",
+      "name": "鄉村休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.029864,
+      "lng": 120.738361,
+      "source": "coa",
+      "sourceId": "58",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市內湖區大湖街206號",
+      "phone": "02-82602358"
+    },
+    {
+      "id": "coa:240",
+      "name": "白石森活休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.101142,
+      "lng": 121.584393,
+      "source": "coa",
+      "sourceId": "240",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市內湖區碧山路58號",
+      "phone": "02-2794-3131"
+    },
+    {
+      "id": "coa:245",
+      "name": "清香休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.099194,
+      "lng": 121.603389,
+      "source": "coa",
+      "sourceId": "245",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺北市內湖區大湖街206號",
+      "phone": "0928539948"
+    }
+  ]
+}

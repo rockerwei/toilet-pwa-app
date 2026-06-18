@@ -1,0 +1,37 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:11",
+      "name": "欣隆休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.978168,
+      "lng": 120.730302,
+      "source": "coa",
+      "sourceId": "11",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣草屯鎮南埔里青宅巷35之21號",
+      "phone": "049-256-4571"
+    },
+    {
+      "id": "coa:335",
+      "name": "七口灶休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.974444,
+      "lng": 120.724167,
+      "source": "coa",
+      "sourceId": "335",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣草屯鎮坪頂里股坑巷13之88號",
+      "phone": "0972-886-913"
+    }
+  ]
+}

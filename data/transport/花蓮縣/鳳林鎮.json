@@ -1,0 +1,335 @@
+{
+  "city": "花蓮縣",
+  "district": "鳳林鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 29,
+  "items": [
+    {
+      "id": 289125269,
+      "name": "南平",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7824277,
+      "lng": 121.4580926
+    },
+    {
+      "id": 289680442,
+      "name": "萬榮",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7120001,
+      "lng": 121.4188366
+    },
+    {
+      "id": 3266666696,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7129577,
+      "lng": 121.4210675
+    },
+    {
+      "id": 3266667083,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7222892,
+      "lng": 121.4291892
+    },
+    {
+      "id": 3266669540,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.6954147,
+      "lng": 121.4089948
+    },
+    {
+      "id": 3266669543,
+      "name": "萬榮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7107148,
+      "lng": 121.419622,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266670651,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7412351,
+      "lng": 121.4467201
+    },
+    {
+      "id": 3266670723,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7241947,
+      "lng": 121.4344839
+    },
+    {
+      "id": 3266672233,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7280376,
+      "lng": 121.439336
+    },
+    {
+      "id": 3266672277,
+      "name": "鳳信社區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7312665,
+      "lng": 121.442611,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266672975,
+      "name": "鳳信",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7363147,
+      "lng": 121.4447353,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266672981,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7490425,
+      "lng": 121.449971
+    },
+    {
+      "id": 3266674312,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7435921,
+      "lng": 121.4477072
+    },
+    {
+      "id": 3266674461,
+      "name": "鳳林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7459196,
+      "lng": 121.4486621,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266675261,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7518314,
+      "lng": 121.4511404
+    },
+    {
+      "id": 3266675386,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7548363,
+      "lng": 121.4524708
+    },
+    {
+      "id": 3266678273,
+      "name": "南林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7676212,
+      "lng": 121.4561293
+    },
+    {
+      "id": 3266679907,
+      "name": "順昌",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7719146,
+      "lng": 121.4568556
+    },
+    {
+      "id": 3266679962,
+      "name": "北林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.775588,
+      "lng": 121.4574686
+    },
+    {
+      "id": 3266680322,
+      "name": "南平",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7806671,
+      "lng": 121.458555,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266680351,
+      "name": "水車寮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7949345,
+      "lng": 121.4573846,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.096Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266680752,
+      "name": "林榮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.8029306,
+      "lng": 121.4525642,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266682261,
+      "name": "兆豐農場 (林榮路)",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.8063423,
+      "lng": 121.4499756,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.191Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4447087998,
+      "name": "林榮新光",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.8025895,
+      "lng": 121.4620218
+    },
+    {
+      "id": 4693199192,
+      "name": "林田山林業文化園區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7187603,
+      "lng": 121.402771
+    },
+    {
+      "id": 5014093061,
+      "name": "鳳林",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.746295,
+      "lng": 121.4467128
+    },
+    {
+      "id": 6802108131,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7173183,
+      "lng": 121.4244845
+    },
+    {
+      "id": 6802108134,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.7026743,
+      "lng": 121.4136779
+    },
+    {
+      "id": 12520868322,
+      "name": "兆豐農場 (台灣好行)",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "鳳林鎮",
+      "lat": 23.8021483,
+      "lng": 121.4614548
+    }
+  ]
+}

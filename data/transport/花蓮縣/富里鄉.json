@@ -1,0 +1,519 @@
+{
+  "city": "花蓮縣",
+  "district": "富里鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 39,
+  "items": [
+    {
+      "id": 1464098684,
+      "name": "富里",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1791523,
+      "lng": 121.2484471
+    },
+    {
+      "id": 3181171181,
+      "name": "冷水",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1442135,
+      "lng": 121.2370997
+    },
+    {
+      "id": 3181171182,
+      "name": "富南國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1536313,
+      "lng": 121.2399623,
+      "routes": [
+        "8161",
+        "8173"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3181171183,
+      "name": "富里",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1751464,
+      "lng": 121.2477604,
+      "routes": [
+        "1130",
+        "1137",
+        "8161",
+        "8173"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493566,
+      "name": "安通村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2881654,
+      "lng": 121.3394433,
+      "routes": [
+        "8181"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493567,
+      "name": "安通社區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2950963,
+      "lng": 121.334034,
+      "routes": [
+        "8181"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3255493568,
+      "name": "安通",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2975069,
+      "lng": 121.3330627,
+      "routes": [
+        "1137",
+        "8181"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256866302,
+      "name": "富里站",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1708608,
+      "lng": 121.2467825,
+      "routes": [
+        "1130",
+        "1137"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3256866303,
+      "name": "頂埔",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1633103,
+      "lng": 121.2572763
+    },
+    {
+      "id": 3256866304,
+      "name": "永豐國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1548918,
+      "lng": 121.2660666
+    },
+    {
+      "id": 3256866305,
+      "name": "豐南村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1429427,
+      "lng": 121.2681722
+    },
+    {
+      "id": 3256866306,
+      "name": "石門",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1425857,
+      "lng": 121.2775633
+    },
+    {
+      "id": 3256866307,
+      "name": "四維",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1315848,
+      "lng": 121.2804941
+    },
+    {
+      "id": 3256866308,
+      "name": "望通嶺",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1187089,
+      "lng": 121.280461
+    },
+    {
+      "id": 3280756152,
+      "name": "富里農會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.175008,
+      "lng": 121.247787,
+      "routes": [
+        "1130",
+        "1137",
+        "8161",
+        "8173"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756153,
+      "name": "富里衛生所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1798433,
+      "lng": 121.2502073,
+      "routes": [
+        "1130",
+        "1137"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.081Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756159,
+      "name": "明里",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2005385,
+      "lng": 121.2525356
+    },
+    {
+      "id": 3280756160,
+      "name": "崙天",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2186389,
+      "lng": 121.2652766
+    },
+    {
+      "id": 3282421817,
+      "name": "吳江",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2795158,
+      "lng": 121.3219192,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421818,
+      "name": "東里",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2686153,
+      "lng": 121.3046887,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421819,
+      "name": "拱子溝",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2753173,
+      "lng": 121.3155892
+    },
+    {
+      "id": 3282421820,
+      "name": "東里國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2648436,
+      "lng": 121.3010358,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421821,
+      "name": "新莊",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2607069,
+      "lng": 121.2991041
+    },
+    {
+      "id": 3282421822,
+      "name": "萬寧",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2553739,
+      "lng": 121.2972062,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421823,
+      "name": "萬寧園區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2524932,
+      "lng": 121.2972275
+    },
+    {
+      "id": 3282421824,
+      "name": "牛突山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2489859,
+      "lng": 121.2981388,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421825,
+      "name": "東寧",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2436209,
+      "lng": 121.2956017,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421826,
+      "name": "馬加錄",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2348083,
+      "lng": 121.2896843,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421827,
+      "name": "新興",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2271543,
+      "lng": 121.2848697,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421828,
+      "name": "東竹",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2219417,
+      "lng": 121.2819403,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421829,
+      "name": "富田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.216123,
+      "lng": 121.2801372,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421830,
+      "name": "羅山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.202712,
+      "lng": 121.270512,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.081Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282421831,
+      "name": "石牌",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1933779,
+      "lng": 121.2639062,
+      "routes": [
+        "1137"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3931764481,
+      "name": "東竹",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.225984,
+      "lng": 121.2782583
+    },
+    {
+      "id": 3931764482,
+      "name": "東里",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2724277,
+      "lng": 121.303996
+    },
+    {
+      "id": 6800871524,
+      "name": "冷水",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1431174,
+      "lng": 121.236695,
+      "routes": [
+        "8161",
+        "8173"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6800873731,
+      "name": "石牌",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.1917501,
+      "lng": 121.2633535
+    },
+    {
+      "id": 6800978204,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2893863,
+      "lng": 121.329183
+    },
+    {
+      "id": 6800978252,
+      "name": "新莊",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "富里鄉",
+      "lat": 23.2590207,
+      "lng": 121.2989679
+    }
+  ]
+}

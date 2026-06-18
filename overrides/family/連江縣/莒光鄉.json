@@ -1,0 +1,35 @@
+{
+  "city": "連江縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_371030000A_000035",
+      "name": "猛澳港",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 25.95809,
+      "lng": 119.964455,
+      "source": "tdx",
+      "sourceId": "C1_371030000A_000035",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "連江縣莒光鄉福正村1號(旅客遊客服務中心)"
+    },
+    {
+      "id": "tdx:C1_371030000A_000038",
+      "name": "菜埔澳",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 25.98119,
+      "lng": 119.943993,
+      "source": "tdx",
+      "sourceId": "C1_371030000A_000038",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "連江縣莒光鄉青帆村74之2號(莒光鄉公所)"
+    }
+  ]
+}

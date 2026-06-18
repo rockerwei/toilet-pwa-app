@@ -1,0 +1,837 @@
+{
+  "city": "花蓮縣",
+  "district": "新城鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 44,
+  "items": [
+    {
+      "id": 2572304298,
+      "name": "新城車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1276406,
+      "lng": 121.641415,
+      "routes": [
+        "302",
+        "302A",
+        "310",
+        "1133",
+        "1918"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268412565,
+      "name": "花蓮機場",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0263632,
+      "lng": 121.6139253,
+      "routes": [
+        "311A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.082Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268412566,
+      "name": "嘉里村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0198225,
+      "lng": 121.6091385,
+      "routes": [
+        "311A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3268412567,
+      "name": "家樂福",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.016843,
+      "lng": 121.6103794,
+      "routes": [
+        "311A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.169Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270595366,
+      "name": "花蓮師院",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.007917,
+      "lng": 121.6157831
+    },
+    {
+      "id": 3270595367,
+      "name": "國軍總醫院",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0245244,
+      "lng": 121.6076044,
+      "routes": [
+        "311A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600061,
+      "name": "芥菜種會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0280509,
+      "lng": 121.6061575,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600062,
+      "name": "新城國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.030632,
+      "lng": 121.6051836,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600063,
+      "name": "北埔",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0332612,
+      "lng": 121.6041763,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600064,
+      "name": "新秀農會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0358738,
+      "lng": 121.6045738
+    },
+    {
+      "id": 3270600065,
+      "name": "南海園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0471018,
+      "lng": 121.604193,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600066,
+      "name": "康樂村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0510901,
+      "lng": 121.6048774,
+      "routes": [
+        "310",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600067,
+      "name": "紫園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0565655,
+      "lng": 121.6056404,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270600068,
+      "name": "光隆博物館",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0589195,
+      "lng": 121.6060492,
+      "routes": [
+        "310",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.170Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619945,
+      "name": "山廣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0637494,
+      "lng": 121.6069081,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619946,
+      "name": "東帥藝品店",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0711323,
+      "lng": 121.6084331,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619947,
+      "name": "加灣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0815056,
+      "lng": 121.6099633,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619948,
+      "name": "景美",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0891452,
+      "lng": 121.6124898,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619949,
+      "name": "南三棧",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0951454,
+      "lng": 121.6138029,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619951,
+      "name": "三棧派出所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1014236,
+      "lng": 121.6087219,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619952,
+      "name": "北三棧",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1066824,
+      "lng": 121.6205368,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619953,
+      "name": "南部",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1098407,
+      "lng": 121.6268292,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619954,
+      "name": "外秀林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1132388,
+      "lng": 121.6330734,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.171Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619955,
+      "name": "順安",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1161885,
+      "lng": 121.6378001,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619956,
+      "name": "草林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1176574,
+      "lng": 121.6401283,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619957,
+      "name": "鎮安宮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1248251,
+      "lng": 121.6514538,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619958,
+      "name": "新城",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1263556,
+      "lng": 121.6518313
+    },
+    {
+      "id": 3270619959,
+      "name": "新城國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1273866,
+      "lng": 121.6508504,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270619960,
+      "name": "新城公園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1286077,
+      "lng": 121.6494541,
+      "routes": [
+        "302A",
+        "310",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620661,
+      "name": "興田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1310547,
+      "lng": 121.6453555,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620662,
+      "name": "亞洲水泥廠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1340128,
+      "lng": 121.6398418,
+      "routes": [
+        "302",
+        "310",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283637137,
+      "name": "山廣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0652363,
+      "lng": 121.6073521
+    },
+    {
+      "id": 3949466803,
+      "name": "新城 (太魯閣)",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1280488,
+      "lng": 121.6407022
+    },
+    {
+      "id": 3951206307,
+      "name": "北埔",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0326146,
+      "lng": 121.6013166
+    },
+    {
+      "id": 6514745387,
+      "name": "七星潭",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0308735,
+      "lng": 121.6263025,
+      "routes": [
+        "308",
+        "310"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6806965133,
+      "name": "海星中學",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0073675,
+      "lng": 121.6140456,
+      "routes": [
+        "311",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6806985745,
+      "name": "新秀農會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.038677,
+      "lng": 121.6035756,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6807160559,
+      "name": "三棧橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.100164,
+      "lng": 121.6091412,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7119560467,
+      "name": "北埔站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0366683,
+      "lng": 121.604906,
+      "routes": [
+        "310",
+        "1918"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7119560468,
+      "name": "北埔站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0354521,
+      "lng": 121.6050468
+    },
+    {
+      "id": 9482723684,
+      "name": "玩味蕃樂園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0718009,
+      "lng": 121.6084707,
+      "routes": [
+        "310"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458075,
+      "name": "慈濟精舍",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.0528985,
+      "lng": 121.6020334,
+      "routes": [
+        "1133"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.084Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458083,
+      "name": "新城中山路一巷口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1234217,
+      "lng": 121.649271,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.173Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458088,
+      "name": "新城佳興冰果室",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "新城鄉",
+      "lat": 24.1264853,
+      "lng": 121.6516992,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.174Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

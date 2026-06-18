@@ -1,0 +1,51 @@
+{
+  "city": "花蓮縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:435",
+      "name": "立川漁場休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.86241,
+      "lng": 121.51248,
+      "source": "coa",
+      "sourceId": "435",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "花蓮縣壽豐鄉共和村魚池45號",
+      "phone": "0800-007111"
+    },
+    {
+      "id": "coa:482",
+      "name": "如豐休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.854128,
+      "lng": 121.499539,
+      "source": "coa",
+      "sourceId": "482",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "花蓮縣壽豐鄉豐山村中山路405號",
+      "phone": "03-8652323"
+    },
+    {
+      "id": "coa:573",
+      "name": "米棧壹零捌休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.872519,
+      "lng": 121.528419,
+      "source": "coa",
+      "sourceId": "573",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "花蓮縣壽豐鄉月眉村1鄰月眉六段19之15號"
+    }
+  ]
+}

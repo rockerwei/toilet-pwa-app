@@ -1,0 +1,82 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:85",
+      "name": "沐心泉休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.148197,
+      "lng": 120.849156,
+      "source": "coa",
+      "sourceId": "85",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市新社區中和里中興街60號",
+      "phone": "04-2593-1201"
+    },
+    {
+      "id": "coa:87",
+      "name": "新社蓮園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.238466,
+      "lng": 120.812239,
+      "source": "coa",
+      "sourceId": "87",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市新社區東興里東湖街一段39號",
+      "phone": "0917-959-029"
+    },
+    {
+      "id": "coa:232",
+      "name": "薰衣草森林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.148562,
+      "lng": 120.844111,
+      "source": "coa",
+      "sourceId": "232",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市新社區中興街20號",
+      "phone": "04-2593-1066"
+    },
+    {
+      "id": "coa:404",
+      "name": "新社莊園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.199251,
+      "lng": 120.812541,
+      "source": "coa",
+      "sourceId": "404",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市新社區協成里協中街23號",
+      "phone": "04-2582-5628"
+    },
+    {
+      "id": "coa:458",
+      "name": "小路休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.238466,
+      "lng": 120.812239,
+      "source": "coa",
+      "sourceId": "458",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市新社區崑山里食水嵙6-2號",
+      "phone": "0932658222"
+    }
+  ]
+}

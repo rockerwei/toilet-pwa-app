@@ -1,0 +1,51 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:535",
+      "name": "寓林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.187654,
+      "lng": 120.954321,
+      "source": "coa",
+      "sourceId": "535",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺中市和平區南勢段"
+    },
+    {
+      "id": "coa:111",
+      "name": "柏冷翠休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.295739,
+      "lng": 120.916849,
+      "source": "coa",
+      "sourceId": "111",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市和平區東關路二段11之8號",
+      "phone": "0965-070550"
+    },
+    {
+      "id": "coa:402",
+      "name": "私房雨露休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.284512,
+      "lng": 120.953614,
+      "source": "coa",
+      "sourceId": "402",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "臺中市和平區東關路一段松鶴三項58-11號",
+      "phone": "04-2594-2179"
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "city": "苗栗縣",
+  "district": "南庄鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 74,
+  "items": [
+    {
+      "id": 3341619649,
+      "name": "大南埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6340819,
+      "lng": 120.9800717,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3662813963,
+      "name": "勸化堂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6405837,
+      "lng": 121.0106842
+    },
+    {
+      "id": 3662813964,
+      "name": "南庄遊客中心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5982631,
+      "lng": 120.9998064,
+      "routes": [
+        "5805A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3664235888,
+      "name": "向天湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5844587,
+      "lng": 121.0329244
+    },
+    {
+      "id": 4081369290,
+      "name": "員林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6400723,
+      "lng": 120.955865,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4304774567,
+      "name": "石坑橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5867098,
+      "lng": 120.9944336,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4304774569,
+      "name": "石獅橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5813743,
+      "lng": 120.9912579,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4304774882,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6022251,
+      "lng": 120.9967098
+    },
+    {
+      "id": 4304774884,
+      "name": "南庄站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5983764,
+      "lng": 120.998327,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806",
+        "5822"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4304774885,
+      "name": "里京館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.589915,
+      "lng": 120.9978432,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620688519,
+      "name": "四灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6354816,
+      "lng": 120.9986055,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4620688521,
+      "name": "下四灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6355035,
+      "lng": 120.9941744,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622053226,
+      "name": "吉豐紙廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5979065,
+      "lng": 121.0011894,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622053228,
+      "name": "南江橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5944467,
+      "lng": 121.0004395,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622071695,
+      "name": "烏蛇咀",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.614163,
+      "lng": 121.0036696,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622071697,
+      "name": "田心",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6086822,
+      "lng": 121.0033303,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622071700,
+      "name": "南庄國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6042392,
+      "lng": 121.0007817,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622071702,
+      "name": "南庄下站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6018102,
+      "lng": 120.999509,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622152207,
+      "name": "桂竹林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6163637,
+      "lng": 121.0071269,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622213361,
+      "name": "菜塘下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6239828,
+      "lng": 121.0070213,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622213363,
+      "name": "妙法寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6177912,
+      "lng": 121.0092076,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4622213365,
+      "name": "眉山居",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6213921,
+      "lng": 121.0077268,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625322557,
+      "name": "田美變電所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6284165,
+      "lng": 121.0107778,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625322994,
+      "name": "田美",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6267158,
+      "lng": 121.009552,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625374367,
+      "name": "水瀧",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6342989,
+      "lng": 121.0055466,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625374369,
+      "name": "象鼻坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6338625,
+      "lng": 121.0091629,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625374371,
+      "name": "龍門口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6332322,
+      "lng": 121.0115178,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.196Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625374373,
+      "name": "台陽前",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6298213,
+      "lng": 121.0116929,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625466860,
+      "name": "坡塘尾",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6336071,
+      "lng": 120.9781642,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625466865,
+      "name": "南埔國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6341916,
+      "lng": 120.9730918,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625467005,
+      "name": "社寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6343805,
+      "lng": 120.9850082,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625467017,
+      "name": "上社寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6348036,
+      "lng": 120.9869722,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625540032,
+      "name": "屯營",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6360951,
+      "lng": 120.9613331,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625540047,
+      "name": "桂竹廠",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6356782,
+      "lng": 120.9665704,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625540048,
+      "name": "小南埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6353832,
+      "lng": 120.970764,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.102Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363438,
+      "name": "下員林",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6440886,
+      "lng": 120.9548057,
+      "routes": [
+        "5804",
+        "5806"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956699,
+      "name": "下北灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6402326,
+      "lng": 120.9924187,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956701,
+      "name": "濫崎",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6388715,
+      "lng": 120.9965455,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956703,
+      "name": "上北灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6391406,
+      "lng": 121.0005951,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956705,
+      "name": "獅頭山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6374692,
+      "lng": 121.0047642,
+      "routes": [
+        "5805",
+        "5805A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956707,
+      "name": "獅山路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6345092,
+      "lng": 121.0119659,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956713,
+      "name": "南庄老街",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5996664,
+      "lng": 120.9987419,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000351,
+      "name": "下福南",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5760561,
+      "lng": 120.988807
+    },
+    {
+      "id": 8227000353,
+      "name": "福南",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5725007,
+      "lng": 120.9856285,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000355,
+      "name": "長崎下",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.568568,
+      "lng": 120.9855034,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000357,
+      "name": "上長崎",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5643489,
+      "lng": 120.9856421,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000359,
+      "name": "鱸鰻窟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5604105,
+      "lng": 120.9821286,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000372,
+      "name": "下庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5565121,
+      "lng": 120.9782883,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000374,
+      "name": "上庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5511296,
+      "lng": 120.9732158,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000376,
+      "name": "下蓬萊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5462429,
+      "lng": 120.9711437,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000378,
+      "name": "蓬萊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5442871,
+      "lng": 120.9716264,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000380,
+      "name": "上蓬萊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5418448,
+      "lng": 120.9706709,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000382,
+      "name": "二坪入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5371997,
+      "lng": 120.968692,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000384,
+      "name": "四二份坪",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5358609,
+      "lng": 120.9695696,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000386,
+      "name": "綠色山莊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5356103,
+      "lng": 120.9684384,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000388,
+      "name": "大湳",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5350672,
+      "lng": 120.9662895,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000390,
+      "name": "仙山入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5326437,
+      "lng": 120.964471,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000392,
+      "name": "村龍煤礦",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5315132,
+      "lng": 120.9625387,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000394,
+      "name": "八卦力",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5282972,
+      "lng": 120.9615498,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000396,
+      "name": "上八卦力",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5274402,
+      "lng": 120.9607002,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000399,
+      "name": "鄉界",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.533065,
+      "lng": 120.9527555,
+      "routes": [
+        "5822"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.197Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8227000400,
+      "name": "苗圃",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5960655,
+      "lng": 121.0066251
+    },
+    {
+      "id": 8227000402,
+      "name": "東江溫泉",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5974641,
+      "lng": 121.0112413
+    },
+    {
+      "id": 8227000404,
+      "name": "向天湖入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5967789,
+      "lng": 121.0141916
+    },
+    {
+      "id": 8227000406,
+      "name": "東江",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5979684,
+      "lng": 121.0208256
+    },
+    {
+      "id": 8227000408,
+      "name": "橫屏背入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6007559,
+      "lng": 121.0375588
+    },
+    {
+      "id": 8227000410,
+      "name": "下東河",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5999698,
+      "lng": 121.039785
+    },
+    {
+      "id": 8227000412,
+      "name": "東河吊橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5982714,
+      "lng": 121.0411602
+    },
+    {
+      "id": 8227000414,
+      "name": "鵝公髻",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5960216,
+      "lng": 121.0442194
+    },
+    {
+      "id": 8227000416,
+      "name": "三角湖",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5945972,
+      "lng": 121.0454675
+    },
+    {
+      "id": 8227000418,
+      "name": "中加拉彎",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5971553,
+      "lng": 121.0390264
+    },
+    {
+      "id": 8227000420,
+      "name": "伊瓜斯",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.5944101,
+      "lng": 121.036319
+    },
+    {
+      "id": 8227000422,
+      "name": "拉拉伊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.591657,
+      "lng": 121.0416955
+    },
+    {
+      "id": 12816235037,
+      "name": "中山路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "南庄鄉",
+      "lat": 24.6003129,
+      "lng": 120.9983792,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.102Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

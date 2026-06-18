@@ -1,0 +1,489 @@
+{
+  "city": "彰化縣",
+  "district": "社頭鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 28,
+  "items": [
+    {
+      "id": 268936583,
+      "name": "社頭",
+      "type": "train",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8958254,
+      "lng": 120.5804852
+    },
+    {
+      "id": 4644673977,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9325206,
+      "lng": 120.6027574
+    },
+    {
+      "id": 4644673979,
+      "name": "中湳雅",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9312629,
+      "lng": 120.6027373,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4646541263,
+      "name": "月眉池",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9250502,
+      "lng": 120.6025038,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4646541265,
+      "name": "崎子腳",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9280204,
+      "lng": 120.6025932,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4646546456,
+      "name": "湳雅",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9195008,
+      "lng": 120.6044705,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648208175,
+      "name": "平和社區",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9181139,
+      "lng": 120.6063045,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648369878,
+      "name": "石頭公",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9136306,
+      "lng": 120.6078481,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648369880,
+      "name": "北石頭公",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.914794,
+      "lng": 120.6076657,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648492546,
+      "name": "潮興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9093871,
+      "lng": 120.6088046,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595557,
+      "name": "埤斗",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8810471,
+      "lng": 120.6063366,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595558,
+      "name": "水源地",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8837082,
+      "lng": 120.607329,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595576,
+      "name": "清水岩",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8886268,
+      "lng": 120.6093836,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595577,
+      "name": "清水岩",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8896809,
+      "lng": 120.6096538,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595584,
+      "name": "許厝寮",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8926323,
+      "lng": 120.6100079,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595586,
+      "name": "派出所前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9035669,
+      "lng": 120.6105121,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648595588,
+      "name": "南潮興",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9055237,
+      "lng": 120.6101293,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4648624617,
+      "name": "童軍營地",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8852045,
+      "lng": 120.6080674,
+      "routes": [
+        "6915",
+        "6915A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652722441,
+      "name": "里仁村",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.880158,
+      "lng": 120.5869894,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652852186,
+      "name": "廟前",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8994866,
+      "lng": 120.5875924,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652852801,
+      "name": "市場",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8967055,
+      "lng": 120.5882406,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4652852824,
+      "name": "美雅",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.8879769,
+      "lng": 120.5867788,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492479,
+      "name": "新厝仔",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9266962,
+      "lng": 120.5792851,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.261Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492593,
+      "name": "大明里",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.931051,
+      "lng": 120.5779259,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492607,
+      "name": "枋橋頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9176842,
+      "lng": 120.5815946,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.945Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492622,
+      "name": "社頭國中",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9031788,
+      "lng": 120.5850157,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492624,
+      "name": "下枋橋頭",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9115263,
+      "lng": 120.5816483,
+      "routes": [
+        "6700",
+        "6702",
+        "6735",
+        "6735A",
+        "6735B"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4653492629,
+      "name": "公車站",
+      "type": "bus",
+      "city": "彰化縣",
+      "district": "社頭鄉",
+      "lat": 23.9079818,
+      "lng": 120.5820749
+    }
+  ]
+}

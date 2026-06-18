@@ -1,0 +1,22 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:345",
+      "name": "銘珠園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.187654,
+      "lng": 120.723412,
+      "source": "coa",
+      "sourceId": "345",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺中市北屯區軍功路二段633號",
+      "phone": "0424370321"
+    }
+  ]
+}

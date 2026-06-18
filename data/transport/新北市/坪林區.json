@@ -1,0 +1,502 @@
+{
+  "city": "新北市",
+  "district": "坪林區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 29,
+  "items": [
+    {
+      "id": 2082873376,
+      "name": "坪林站",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9354545,
+      "lng": 121.7097308,
+      "routes": [
+        "923坪林站",
+        "923捷運新店站(新店路)",
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2082873435,
+      "name": "坪林國中",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9372585,
+      "lng": 121.7128993,
+      "routes": [
+        "923坪林站",
+        "923捷運新店站(新店路)",
+        "9028D",
+        "捷運新店站-坪林",
+        "F721坪林國中至南山寺",
+        "F721坪林國中至闊瀨",
+        "F721南山寺至坪林國中",
+        "F721闊瀨至坪林國中",
+        "F722去",
+        "F722返",
+        "F723上石嘈",
+        "F723下石嘈",
+        "F723去",
+        "F723返",
+        "F724"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797050,
+      "name": "坪林遊客中心",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9350147,
+      "lng": 121.7055947,
+      "routes": [
+        "捷運新店站-坪林",
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)",
+        "F722去",
+        "F723返"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797053,
+      "name": "招呼站一",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9432939,
+      "lng": 121.6707925,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797061,
+      "name": "嶺腳坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9350952,
+      "lng": 121.6956463,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797075,
+      "name": "水柳腳",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9359871,
+      "lng": 121.7034938,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797077,
+      "name": "大按",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9463992,
+      "lng": 121.6701247,
+      "routes": [
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797079,
+      "name": "污水處理廠",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9364859,
+      "lng": 121.7000666,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797081,
+      "name": "灣潭路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9363914,
+      "lng": 121.6843528,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501797083,
+      "name": "石空子",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9414102,
+      "lng": 121.6743809,
+      "routes": [
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501798381,
+      "name": "粗窟坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9412329,
+      "lng": 121.6817554,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2501798401,
+      "name": "黃舉皮寮",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9356171,
+      "lng": 121.6891367
+    },
+    {
+      "id": 2501850402,
+      "name": "九芎根101",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.8819298,
+      "lng": 121.6647984
+    },
+    {
+      "id": 2501850967,
+      "name": "蓬泰茶莊",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9344412,
+      "lng": 121.7072915,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2502578874,
+      "name": "蕨類步道",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.8985827,
+      "lng": 121.6727923,
+      "routes": [
+        "F722去",
+        "F722返",
+        "F723去",
+        "F723返"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2502578876,
+      "name": "林興居",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9345317,
+      "lng": 121.6883049,
+      "routes": [
+        "F722去",
+        "F723返"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2502579613,
+      "name": "鐵馬新樂園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9151357,
+      "lng": 121.6812919,
+      "routes": [
+        "F722去",
+        "F722返",
+        "F723去",
+        "F723返"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4934193624,
+      "name": "九芎根親水公園",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.8844747,
+      "lng": 121.6654774,
+      "routes": [
+        "F722去",
+        "F722返",
+        "F723去",
+        "F723返"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432380496,
+      "name": "粗窟路",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9411556,
+      "lng": 121.6841814,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400074,
+      "name": "籟狸尖山步道口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.941495,
+      "lng": 121.675445,
+      "routes": [
+        "綠12坪林站"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400488,
+      "name": "石空里",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.938137,
+      "lng": 121.677185,
+      "routes": [
+        "綠12坪林站",
+        "綠12捷運新店站(新店路)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400513,
+      "name": "厚德岡坑",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.940683,
+      "lng": 121.7338796,
+      "routes": [
+        "F724"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400528,
+      "name": "清雲農場",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.90559,
+      "lng": 121.704422,
+      "routes": [
+        "F723下石嘈"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.397Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432400529,
+      "name": "清雲橋頭",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.906274,
+      "lng": 121.710088,
+      "routes": [
+        "F723下石嘈"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401115,
+      "name": "坪雙路乾溪路口",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9666708,
+      "lng": 121.7365015
+    },
+    {
+      "id": 8432401502,
+      "name": "漁光國小",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.960058,
+      "lng": 121.7367129,
+      "routes": [
+        "F721坪林國中至南山寺",
+        "F721坪林國中至闊瀨",
+        "F721南山寺至坪林國中",
+        "F721闊瀨至坪林國中"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401503,
+      "name": "茶葉博物館",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.9345499,
+      "lng": 121.7122949,
+      "routes": [
+        "F722返",
+        "F723去"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401504,
+      "name": "南山寺",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.967221,
+      "lng": 121.727296,
+      "routes": [
+        "F721坪林國中至南山寺",
+        "F721坪林國中至闊瀨",
+        "F721南山寺至坪林國中",
+        "F721闊瀨至坪林國中"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8432401505,
+      "name": "水柳腳商圈",
+      "type": "bus",
+      "city": "新北市",
+      "district": "坪林區",
+      "lat": 24.934877,
+      "lng": 121.708388,
+      "routes": [
+        "捷運新店站-坪林",
+        "F722去",
+        "F723返"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.154Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

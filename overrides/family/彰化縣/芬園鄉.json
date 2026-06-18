@@ -1,0 +1,37 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:42",
+      "name": "古早雞休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.915252,
+      "lng": 120.627253,
+      "source": "coa",
+      "sourceId": "42",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣芬園鄉彰南路五段451巷36號",
+      "phone": "04-9252-2215"
+    },
+    {
+      "id": "coa:158",
+      "name": "雙福休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.928914,
+      "lng": 120.612502,
+      "source": "coa",
+      "sourceId": "158",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣芬園鄉舊社村彰南路五段726號",
+      "phone": "04-9252-6092"
+    }
+  ]
+}

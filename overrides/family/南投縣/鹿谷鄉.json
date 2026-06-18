@@ -1,0 +1,36 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:356",
+      "name": "詹園品田生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.812341,
+      "lng": 120.781234,
+      "source": "coa",
+      "sourceId": "356",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣鹿谷鄉瑞田村仁愛路23-8號"
+    },
+    {
+      "id": "coa:57",
+      "name": "武岫休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.676122,
+      "lng": 120.768393,
+      "source": "coa",
+      "sourceId": "57",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "南投縣鹿谷鄉竹林村田頭巷35-66號",
+      "phone": "04-9267-6262"
+    }
+  ]
+}

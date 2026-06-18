@@ -1,0 +1,64 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376440000A_000090",
+      "name": "木炭之家",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.723499,
+      "lng": 120.992996,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000090",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣寶山鄉峰城路8巷"
+    },
+    {
+      "id": "tdx:C1_376440000A_000162",
+      "name": "深井村茶花園區",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.7467,
+      "lng": 120.961998,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000162",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣寶山鄉深井三路213號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000163",
+      "name": "峰城炭窯 (木炭的家)",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.723301,
+      "lng": 120.992996,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000163",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣寶山鄉峰城路8巷20號"
+    },
+    {
+      "id": "coa:336",
+      "name": "淞濤田園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.761111,
+      "lng": 121.0125,
+      "source": "coa",
+      "sourceId": "336",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新竹縣寶山鄉寶山村9鄰通學路215巷5號",
+      "phone": "0958-532359"
+    }
+  ]
+}

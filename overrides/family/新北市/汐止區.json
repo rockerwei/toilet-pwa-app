@@ -1,0 +1,35 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_382000000A_403107",
+      "name": "香帥蛋糕芋製所",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 25.07196,
+      "lng": 121.6511,
+      "source": "tdx",
+      "sourceId": "C1_382000000A_403107",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新北市221汐止區汐萬路一段211巷26號"
+    },
+    {
+      "id": "coa:454",
+      "name": "大富休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.045678,
+      "lng": 121.698124,
+      "source": "coa",
+      "sourceId": "454",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "新北市汐止區汐平路2段（北31）約7.9公里處"
+    }
+  ]
+}

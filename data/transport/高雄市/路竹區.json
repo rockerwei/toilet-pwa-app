@@ -1,0 +1,645 @@
+{
+  "city": "高雄市",
+  "district": "路竹區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 38,
+  "items": [
+    {
+      "id": 257398238,
+      "name": "大湖",
+      "type": "train",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8783412,
+      "lng": 120.254112
+    },
+    {
+      "id": 2975260067,
+      "name": "北嶺墘",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.820927,
+      "lng": 120.2693152,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260069,
+      "name": "味全公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8273415,
+      "lng": 120.2665433,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260084,
+      "name": "高雄科學園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8288721,
+      "lng": 120.2601545,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260095,
+      "name": "路科八路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8363491,
+      "lng": 120.2597989,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260096,
+      "name": "台鋼科大",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.840967,
+      "lng": 120.263665,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅67A(部分延駛中正堂)",
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2975260098,
+      "name": "高雄科學園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8284001,
+      "lng": 120.2591125
+    },
+    {
+      "id": 3901085620,
+      "name": "國昌路口(中山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8530735,
+      "lng": 120.2616105,
+      "routes": [
+        "紅67B",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085622,
+      "name": "後鄉里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8429188,
+      "lng": 120.2439218,
+      "routes": [
+        "紅67B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085624,
+      "name": "路竹區公所(國昌路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8543232,
+      "lng": 120.258973,
+      "routes": [
+        "紅67B",
+        "紅71B2"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085626,
+      "name": "路竹宿舍",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8440925,
+      "lng": 120.2451436,
+      "routes": [
+        "紅67B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085628,
+      "name": "路竹高中(中華路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.854225,
+      "lng": 120.2522088,
+      "routes": [
+        "紅67B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085632,
+      "name": "電信技術中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8296731,
+      "lng": 120.2637775,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085633,
+      "name": "電信技術中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8308335,
+      "lng": 120.2635159,
+      "routes": [
+        "紅67A(部分延駛中正堂)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.288Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3901085634,
+      "name": "順安宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8412219,
+      "lng": 120.2425968,
+      "routes": [
+        "紅67B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.514Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904924,
+      "name": "北路竹",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8629341,
+      "lng": 120.2577458,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "T606B(每週二、四、六 發車)"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904930,
+      "name": "東盟公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8484211,
+      "lng": 120.2622245,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3907904936,
+      "name": "路竹",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8590089,
+      "lng": 120.2601772,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71D",
+        "紅73A",
+        "紅73C",
+        "T606B(每週二、四、六 發車)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908054028,
+      "name": "中山大仁路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8732898,
+      "lng": 120.2543103,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3908054048,
+      "name": "高新醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8653067,
+      "lng": 120.2568982,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "紅71A",
+        "紅71B1",
+        "紅71B2",
+        "紅71D",
+        "T606B(每週二、四、六 發車)"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912240355,
+      "name": "一甲(路竹)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8712636,
+      "lng": 120.2723437
+    },
+    {
+      "id": 3912247157,
+      "name": "一甲派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8698442,
+      "lng": 120.2680869,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247159,
+      "name": "下坑里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8671931,
+      "lng": 120.2897016
+    },
+    {
+      "id": 3912247166,
+      "name": "大仁路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8707462,
+      "lng": 120.2697678,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247168,
+      "name": "大社國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8673279,
+      "lng": 120.2656755
+    },
+    {
+      "id": 3912247170,
+      "name": "大社路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8629103,
+      "lng": 120.2620964,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247172,
+      "name": "太平路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8672067,
+      "lng": 120.2878853,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247177,
+      "name": "新生路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8716757,
+      "lng": 120.2911915
+    },
+    {
+      "id": 3912247183,
+      "name": "福德宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8716204,
+      "lng": 120.2744168,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3912247185,
+      "name": "竹園里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8754372,
+      "lng": 120.2920481
+    },
+    {
+      "id": 3912247190,
+      "name": "路竹農會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8608314,
+      "lng": 120.2599486,
+      "routes": [
+        "紅73A",
+        "紅73C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5395405196,
+      "name": "樹人醫專",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8826423,
+      "lng": 120.2607545,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046B(部分繞駛樹人醫專)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5395405204,
+      "name": "立大食品",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8365652,
+      "lng": 120.2647591,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5395405206,
+      "name": "南路竹",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8553039,
+      "lng": 120.2611488,
+      "routes": [
+        "8041C(部分繞駛樹人醫專)",
+        "8046A",
+        "8046B(部分繞駛樹人醫專)",
+        "T606B(每週二、四、六 發車)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5868117952,
+      "name": "路竹",
+      "type": "train",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8538605,
+      "lng": 120.2666339
+    },
+    {
+      "id": 8419562214,
+      "name": "下甲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8475996,
+      "lng": 120.2305716,
+      "routes": [
+        "8043"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8419633372,
+      "name": "三塊厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8542782,
+      "lng": 120.2283105,
+      "routes": [
+        "8043"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8419633384,
+      "name": "新竹滬",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "路竹區",
+      "lat": 22.8615607,
+      "lng": 120.2274214,
+      "routes": [
+        "8043"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.515Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

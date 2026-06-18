@@ -1,0 +1,608 @@
+{
+  "city": "南投縣",
+  "district": "鹿谷鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 44,
+  "items": [
+    {
+      "id": 3679771030,
+      "name": "乾坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.8104037,
+      "lng": 120.8056173,
+      "routes": [
+        "6718",
+        "6718A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3679771041,
+      "name": "瑞田",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.8040323,
+      "lng": 120.7839728,
+      "routes": [
+        "6718",
+        "6718A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3679771395,
+      "name": "頂瑞田",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.8040315,
+      "lng": 120.7904825,
+      "routes": [
+        "6718",
+        "6718A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.494Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4360437700,
+      "name": "中興茶園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7526073,
+      "lng": 120.7465329
+    },
+    {
+      "id": 4360437702,
+      "name": "內湖",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7204235,
+      "lng": 120.7781733
+    },
+    {
+      "id": 4360437704,
+      "name": "內湖國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7124231,
+      "lng": 120.780603,
+      "routes": [
+        "6719",
+        "6719A",
+        "6801",
+        "6883",
+        "6883A",
+        "6883B",
+        "6883C",
+        "6883D"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.495Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4360437707,
+      "name": "初鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7657618,
+      "lng": 120.7352094
+    },
+    {
+      "id": 4360437713,
+      "name": "大學樓站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6743897,
+      "lng": 120.7979967
+    },
+    {
+      "id": 4360437715,
+      "name": "電動接駁車大學池站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6727497,
+      "lng": 120.7908472
+    },
+    {
+      "id": 4360437725,
+      "name": "彎坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6888522,
+      "lng": 120.7908022
+    },
+    {
+      "id": 4360437729,
+      "name": "溪頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6730463,
+      "lng": 120.7955385
+    },
+    {
+      "id": 4360437808,
+      "name": "米堤",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6851222,
+      "lng": 120.7931479
+    },
+    {
+      "id": 4360437816,
+      "name": "鹿彰",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7451194,
+      "lng": 120.7523186,
+      "routes": [
+        "9路",
+        "9路A",
+        "9路B",
+        "10路",
+        "10路A",
+        "15路",
+        "23路",
+        "6801",
+        "6883",
+        "6883A",
+        "6883B",
+        "6883C",
+        "6883D"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4360437818,
+      "name": "鹿谷鄉農會",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7412664,
+      "lng": 120.7572603,
+      "routes": [
+        "6883",
+        "6883A",
+        "6883B",
+        "6883C",
+        "6883D"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5008426622,
+      "name": "15.5K",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6954284,
+      "lng": 120.785601
+    },
+    {
+      "id": 5624348568,
+      "name": "銀杏森林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6715292,
+      "lng": 120.7752718
+    },
+    {
+      "id": 5636433354,
+      "name": "下初鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7684771,
+      "lng": 120.7348457,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.496Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5636433389,
+      "name": "小溪頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.765448,
+      "lng": 120.7304093,
+      "routes": [
+        "6717",
+        "6718",
+        "6718A",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5637771406,
+      "name": "富林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7581608,
+      "lng": 120.7406245
+    },
+    {
+      "id": 5637771409,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7607053,
+      "lng": 120.737434
+    },
+    {
+      "id": 5637771411,
+      "name": "頂初鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7625243,
+      "lng": 120.7367393
+    },
+    {
+      "id": 5637809372,
+      "name": "彰雅村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7445342,
+      "lng": 120.7542488,
+      "routes": [
+        "6870"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5637809374,
+      "name": "鹿谷",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7463068,
+      "lng": 120.7535715,
+      "routes": [
+        "3",
+        "3A",
+        "6717",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5637809379,
+      "name": "鹿谷國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7481899,
+      "lng": 120.7513922,
+      "routes": [
+        "6870"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5637809381,
+      "name": "新寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7505418,
+      "lng": 120.7493645,
+      "routes": [
+        "6870"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:26:01.508Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5637809384,
+      "name": "茶之鄉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7553929,
+      "lng": 120.744499
+    },
+    {
+      "id": 5639252277,
+      "name": "教會前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7413535,
+      "lng": 120.7574058,
+      "routes": [
+        "6717",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5648663974,
+      "name": "廣興國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7347721,
+      "lng": 120.7655865,
+      "routes": [
+        "6719",
+        "6719A",
+        "6801"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.497Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5648663982,
+      "name": "頂廣興",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7369696,
+      "lng": 120.7626655
+    },
+    {
+      "id": 5648663984,
+      "name": "廣興",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7382264,
+      "lng": 120.761089,
+      "routes": [
+        "3",
+        "3A",
+        "9路",
+        "9路A",
+        "9路B",
+        "10路",
+        "10路A",
+        "15路",
+        "23路",
+        "6717",
+        "6719",
+        "6719A",
+        "6720",
+        "6720A",
+        "6801",
+        "6883",
+        "6883A",
+        "6883B",
+        "6883C",
+        "6883D"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5648667225,
+      "name": "內湖口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.727703,
+      "lng": 120.7751673,
+      "routes": [
+        "6719",
+        "6719A",
+        "6801"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.498Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5648667228,
+      "name": "石城",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.732135,
+      "lng": 120.7689178
+    },
+    {
+      "id": 5648670393,
+      "name": "田寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7242628,
+      "lng": 120.7766828
+    },
+    {
+      "id": 5648672375,
+      "name": "新明山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7051229,
+      "lng": 120.781838
+    },
+    {
+      "id": 5648672377,
+      "name": "工作站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7153047,
+      "lng": 120.7790324
+    },
+    {
+      "id": 5649165892,
+      "name": "孟宗山莊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6766325,
+      "lng": 120.7951847
+    },
+    {
+      "id": 5649165894,
+      "name": "下溪頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.67868,
+      "lng": 120.7944658
+    },
+    {
+      "id": 5649165898,
+      "name": "崩崁頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.695493,
+      "lng": 120.785408
+    },
+    {
+      "id": 5649165900,
+      "name": "有水坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.6998942,
+      "lng": 120.7822511
+    },
+    {
+      "id": 6110379739,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7851719,
+      "lng": 120.776753
+    },
+    {
+      "id": 6110386549,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7808467,
+      "lng": 120.7760338
+    },
+    {
+      "id": 8915720760,
+      "name": "統鼻",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.8112618,
+      "lng": 120.8141385,
+      "routes": [
+        "6718",
+        "6718A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9293017230,
+      "name": "農會前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7369808,
+      "lng": 120.7607469,
+      "routes": [
+        "6720",
+        "6720A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.499Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13244896114,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "鹿谷鄉",
+      "lat": 23.7292778,
+      "lng": 120.7901256
+    }
+  ]
+}

@@ -1,0 +1,3139 @@
+{
+  "city": "高雄市",
+  "district": "小港區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 171,
+  "items": [
+    {
+      "id": 1316379059,
+      "name": "飛機路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5732697,
+      "lng": 120.3589484,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384147,
+      "name": "市立空大",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5667249,
+      "lng": 120.3453275,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384150,
+      "name": "民益路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.567278,
+      "lng": 120.3480468,
+      "routes": [
+        "12(延駛飛機路)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384156,
+      "name": "小港站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5654167,
+      "lng": 120.3404932,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "30",
+        "35",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "214",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅6",
+        "紅6公車式小黃",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "紅13",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 25,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384159,
+      "name": "捷運小港站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5646499,
+      "lng": 120.3537754,
+      "routes": [
+        "63北",
+        "63南",
+        "520",
+        "9117",
+        "9117A",
+        "9117B",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅5",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "紅13"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384161,
+      "name": "小港行政中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.564995,
+      "lng": 120.3381383,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1316384163,
+      "name": "中鋼大門(台灣造船廠)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5549079,
+      "lng": 120.3486106,
+      "routes": [
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.228Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1330857277,
+      "name": "小港國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5673794,
+      "lng": 120.3378889,
+      "routes": [
+        "35",
+        "紅6",
+        "紅6公車式小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348719,
+      "name": "中山國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5667817,
+      "lng": 120.3553252,
+      "routes": [
+        "30",
+        "35",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348721,
+      "name": "二苓國小(捷運小港站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5656337,
+      "lng": 120.3517746,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348722,
+      "name": "學明社區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5607041,
+      "lng": 120.3734641,
+      "routes": [
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348724,
+      "name": "宏光街口(宏平幼兒園)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5706575,
+      "lng": 120.3638921,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800323529,
+      "name": "小港醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5670084,
+      "lng": 120.3629676,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348726,
+      "name": "小港醫院(漢民路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5682313,
+      "lng": 120.3625462,
+      "routes": [
+        "30",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348727,
+      "name": "小港高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.566774,
+      "lng": 120.3575675,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348729,
+      "name": "山明路(宏平路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5693806,
+      "lng": 120.3620349,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348730,
+      "name": "山明路口(華山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5660919,
+      "lng": 120.3678628,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348732,
+      "name": "山明里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.56246,
+      "lng": 120.3670517,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348734,
+      "name": "山明路五巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5655661,
+      "lng": 120.3676949,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348736,
+      "name": "新豐街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5670308,
+      "lng": 120.3605683,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348738,
+      "name": "松福街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5679183,
+      "lng": 120.3716516,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348739,
+      "name": "松義街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.564471,
+      "lng": 120.3736097,
+      "routes": [
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348741,
+      "name": "松華路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5676697,
+      "lng": 120.3730977,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348742,
+      "name": "水秀路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5642504,
+      "lng": 120.3666227,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348744,
+      "name": "美麗華大廈",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5686652,
+      "lng": 120.3657469,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348746,
+      "name": "高雄餐旅大學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5658452,
+      "lng": 120.3713808,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348749,
+      "name": "鳳儀宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5636314,
+      "lng": 120.3520223,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2518348750,
+      "name": "鳳陽國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5606752,
+      "lng": 120.3706342,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417334,
+      "name": "三里活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5641937,
+      "lng": 120.3375064,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417337,
+      "name": "小港國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5625583,
+      "lng": 120.3353858,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417338,
+      "name": "小港天主教堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5654099,
+      "lng": 120.3334515,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417340,
+      "name": "小港路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5637667,
+      "lng": 120.3345379,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417341,
+      "name": "崇安街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5720274,
+      "lng": 120.334027,
+      "routes": [
+        "紅6",
+        "紅6公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417344,
+      "name": "港後路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5672156,
+      "lng": 120.3320618,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2622417345,
+      "name": "豐田街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5702004,
+      "lng": 120.3356079,
+      "routes": [
+        "紅6",
+        "紅6公車式小黃"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740033,
+      "name": "中厝里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5830136,
+      "lng": 120.3420305,
+      "routes": [
+        "69A小港幹線",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740041,
+      "name": "中安路(高鳳路口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5847199,
+      "lng": 120.3667954,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740049,
+      "name": "中安路口(明聖街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.582579,
+      "lng": 120.3446507,
+      "routes": [
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740058,
+      "name": "合作一村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5813127,
+      "lng": 120.362708,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740066,
+      "name": "孔宅",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5803465,
+      "lng": 120.3708874
+    },
+    {
+      "id": 2657740075,
+      "name": "孔鳳路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5814161,
+      "lng": 120.3589988,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740108,
+      "name": "明聖街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5821019,
+      "lng": 120.3468902,
+      "routes": [
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740123,
+      "name": "明聖街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5831474,
+      "lng": 120.3441722,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740133,
+      "name": "東高雄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5843846,
+      "lng": 120.3686491,
+      "routes": [
+        "30",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740134,
+      "name": "高坪7路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.556998,
+      "lng": 120.3816522,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740135,
+      "name": "桂林",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5818718,
+      "lng": 120.3551272,
+      "routes": [
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740137,
+      "name": "桂林國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5820125,
+      "lng": 120.3501807,
+      "routes": [
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740139,
+      "name": "桂陽路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5819551,
+      "lng": 120.3526798,
+      "routes": [
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740141,
+      "name": "金城路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5828705,
+      "lng": 120.3656721,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2657740143,
+      "name": "金城路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5812565,
+      "lng": 120.3651211,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097223,
+      "name": "上林路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5334803,
+      "lng": 120.3686982,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097225,
+      "name": "中化小港廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5346411,
+      "lng": 120.3637141,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097227,
+      "name": "中智路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5325052,
+      "lng": 120.3630661,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097229,
+      "name": "中林路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5365045,
+      "lng": 120.3662145,
+      "routes": [
+        "紅2",
+        "紅5"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097231,
+      "name": "北林路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5601417,
+      "lng": 120.3680355,
+      "routes": [
+        "63北",
+        "63南",
+        "紅2"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097233,
+      "name": "唐榮公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5449435,
+      "lng": 120.3691401,
+      "routes": [
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅5"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097235,
+      "name": "大業南路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.532038,
+      "lng": 120.3687418,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097237,
+      "name": "山明路(北林路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5642926,
+      "lng": 120.3647238,
+      "routes": [
+        "63北",
+        "63南",
+        "紅2"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097239,
+      "name": "山明里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5621094,
+      "lng": 120.3664595,
+      "routes": [
+        "63北",
+        "63南",
+        "紅2"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097241,
+      "name": "東林路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5424551,
+      "lng": 120.3738989,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097243,
+      "name": "永記公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5313807,
+      "lng": 120.3710095,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097245,
+      "name": "沿海路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5399648,
+      "lng": 120.3707141,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097247,
+      "name": "海光公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5506443,
+      "lng": 120.3650906,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097249,
+      "name": "大業南路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.529558,
+      "lng": 120.366819
+    },
+    {
+      "id": 2708097251,
+      "name": "職訓中心(中林路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5384572,
+      "lng": 120.3687388,
+      "routes": [
+        "紅2",
+        "紅5"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097253,
+      "name": "小港郵局(中智街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5299078,
+      "lng": 120.3655037,
+      "routes": [
+        "紅5"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.230Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2708097255,
+      "name": "鴻立公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5327199,
+      "lng": 120.371775
+    },
+    {
+      "id": 2728705285,
+      "name": "中安路(勝安街口)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5846891,
+      "lng": 120.3647453,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705288,
+      "name": "孔鳳路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5837749,
+      "lng": 120.358703,
+      "routes": [
+        "30",
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705290,
+      "name": "復華街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5814019,
+      "lng": 120.363393,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705291,
+      "name": "德仁路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5846075,
+      "lng": 120.3489434,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705295,
+      "name": "新昌街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5847561,
+      "lng": 120.36182,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705297,
+      "name": "明義國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5813088,
+      "lng": 120.3676922,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705298,
+      "name": "桂園路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.584969,
+      "lng": 120.3550657,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705300,
+      "name": "桂林教會",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.583284,
+      "lng": 120.3545683,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705301,
+      "name": "福安宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5836742,
+      "lng": 120.3458753,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2728705303,
+      "name": "華昌路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5834558,
+      "lng": 120.3627481,
+      "routes": [
+        "紅7",
+        "紅7(去程延駛)",
+        "紅7(返程延駛)",
+        "紅7B(經紅毛港)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800323522,
+      "name": "二苓(大業北路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5647338,
+      "lng": 120.3468039,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800323525,
+      "name": "大業北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5626028,
+      "lng": 120.3483116,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.407Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800323527,
+      "name": "小港分局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5655973,
+      "lng": 120.3443866,
+      "routes": [
+        "12(延駛飛機路)",
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E",
+        "紅13"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800323532,
+      "name": "店北路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5636437,
+      "lng": 120.3501879,
+      "routes": [
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340490,
+      "name": "中利路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5300582,
+      "lng": 120.3576539,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340492,
+      "name": "中智路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.532917,
+      "lng": 120.3614014,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340494,
+      "name": "南區資源回收廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5533224,
+      "lng": 120.3762783,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340496,
+      "name": "高坪39街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5528085,
+      "lng": 120.3830933,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340498,
+      "name": "高坪35街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5551927,
+      "lng": 120.3793162,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800340500,
+      "name": "高坪8路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5451457,
+      "lng": 120.3823903,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800345602,
+      "name": "高坪60街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5553644,
+      "lng": 120.3822266,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2800345604,
+      "name": "高坪11路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5431217,
+      "lng": 120.3805959,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014013,
+      "name": "中心路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5260993,
+      "lng": 120.3472692
+    },
+    {
+      "id": 2801014015,
+      "name": "中心路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5263688,
+      "lng": 120.3488529,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014017,
+      "name": "大林蒲",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5268768,
+      "lng": 120.3461842
+    },
+    {
+      "id": 2801014018,
+      "name": "大林煉油廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5290224,
+      "lng": 120.3466061,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014020,
+      "name": "岐山一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5160468,
+      "lng": 120.3545278,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014021,
+      "name": "岐山二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5178642,
+      "lng": 120.3542233
+    },
+    {
+      "id": 2801014022,
+      "name": "觀音寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5281474,
+      "lng": 120.3412389,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014024,
+      "name": "鳳仁宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5275016,
+      "lng": 120.3446962
+    },
+    {
+      "id": 2801014025,
+      "name": "鳳北路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5282739,
+      "lng": 120.3440476,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014027,
+      "name": "鳳北路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5272172,
+      "lng": 120.3412325,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014029,
+      "name": "鳳林國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5215228,
+      "lng": 120.349139,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014031,
+      "name": "鳳林國小(鳳西街)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5256962,
+      "lng": 120.343757,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014034,
+      "name": "鳳林路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5251295,
+      "lng": 120.3479003,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014036,
+      "name": "鳳華路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5238473,
+      "lng": 120.3486418,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014038,
+      "name": "鳳西街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5239835,
+      "lng": 120.3457392,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014039,
+      "name": "鳳鳴國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5153212,
+      "lng": 120.3576774,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014041,
+      "name": "鳳鳴里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5136297,
+      "lng": 120.3593655,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014043,
+      "name": "鳳鼻頭(鳳鳴路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5110894,
+      "lng": 120.3618784
+    },
+    {
+      "id": 2801014045,
+      "name": "鳳鼻頭港",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5096365,
+      "lng": 120.3600342,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.231Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014046,
+      "name": "龍興路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5150913,
+      "lng": 120.3562625,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014047,
+      "name": "龍鳳公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5172451,
+      "lng": 120.3532337,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2801014049,
+      "name": "龍鳳路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5228178,
+      "lng": 120.3475144,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4892631982,
+      "name": "小港高中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5620065,
+      "lng": 120.3560695
+    },
+    {
+      "id": 2905178940,
+      "name": "二苓路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5654428,
+      "lng": 120.3471049,
+      "routes": [
+        "12(延駛飛機路)",
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178942,
+      "name": "宏平路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5697538,
+      "lng": 120.3514349,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.408Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178944,
+      "name": "宏文路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5714004,
+      "lng": 120.3639116,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178949,
+      "name": "山明路口(宏平路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5697347,
+      "lng": 120.3603143,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178951,
+      "name": "山東里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5733008,
+      "lng": 120.3518085
+    },
+    {
+      "id": 2905178953,
+      "name": "廠邊三路口(宏平路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5697869,
+      "lng": 120.357813,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178955,
+      "name": "廠邊三路口(飛機路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5732129,
+      "lng": 120.3570355,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178957,
+      "name": "高雄公園(捷運高雄國際機場站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5688062,
+      "lng": 120.343767,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178959,
+      "name": "松柏街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5703897,
+      "lng": 120.3624794,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178962,
+      "name": "民眾服務站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5641939,
+      "lng": 120.336394,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "黃2C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178964,
+      "name": "泰山里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5730142,
+      "lng": 120.3648786,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178967,
+      "name": "航警局",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5712875,
+      "lng": 120.3486253,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178969,
+      "name": "金府路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5697565,
+      "lng": 120.3553488,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178971,
+      "name": "青山國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5731152,
+      "lng": 120.3620636,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178973,
+      "name": "青島里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5732579,
+      "lng": 120.353893,
+      "routes": [
+        "12(延駛飛機路)",
+        "63北",
+        "63南"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905178975,
+      "name": "飛機路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5723129,
+      "lng": 120.3652102,
+      "routes": [
+        "12(延駛飛機路)",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2905193830,
+      "name": "平和路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5682556,
+      "lng": 120.3310987,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "214",
+        "紅6",
+        "紅6公車式小黃",
+        "黃2B",
+        "黃2C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.409Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213157,
+      "name": "二苓(二苓路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5653897,
+      "lng": 120.348335,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "紅1",
+        "紅1(延駛中鋼公司)",
+        "紅1區間車",
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213159,
+      "name": "二苓市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5653358,
+      "lng": 120.3498403,
+      "routes": [
+        "30",
+        "63北",
+        "63南",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213161,
+      "name": "合群新村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5655439,
+      "lng": 120.3649016,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213163,
+      "name": "水利工作站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5756113,
+      "lng": 120.3714285,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213165,
+      "name": "營口路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5695969,
+      "lng": 120.3707813,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213167,
+      "name": "高松(營口路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5716376,
+      "lng": 120.3709009,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2911213169,
+      "name": "高松市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.573536,
+      "lng": 120.3711017,
+      "routes": [
+        "30",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559536,
+      "name": "九龍寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5627924,
+      "lng": 120.3886758,
+      "routes": [
+        "63南"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236887,
+      "name": "坪頂國小(大平路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5614023,
+      "lng": 120.3919613,
+      "routes": [
+        "63北",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559538,
+      "name": "大坪里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5646954,
+      "lng": 120.3886777,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559539,
+      "name": "大坪頂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5643162,
+      "lng": 120.3869968,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559541,
+      "name": "太平國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5725927,
+      "lng": 120.3718547,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559543,
+      "name": "宏平路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5727761,
+      "lng": 120.3666494,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.410Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559546,
+      "name": "松正路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5707966,
+      "lng": 120.3757493,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559548,
+      "name": "永和街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5630352,
+      "lng": 120.3905191,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559549,
+      "name": "高坪66路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5596845,
+      "lng": 120.3829489,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559551,
+      "name": "神農殿",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.564254,
+      "lng": 120.3898921,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559552,
+      "name": "電信局(小港)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5595937,
+      "lng": 120.3911111,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559553,
+      "name": "高坪11路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5462636,
+      "lng": 120.3800628,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559555,
+      "name": "高坪22路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5592627,
+      "lng": 120.3886106,
+      "routes": [
+        "63南"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559556,
+      "name": "高坪23路一",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5556864,
+      "lng": 120.3886032,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559557,
+      "name": "高坪23路二",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5612866,
+      "lng": 120.3886557,
+      "routes": [
+        "63南"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.232Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559558,
+      "name": "高坪25街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5573979,
+      "lng": 120.3883897,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559560,
+      "name": "紹興街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.564711,
+      "lng": 120.3548801,
+      "routes": [
+        "紅2",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559561,
+      "name": "高坪35街",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5528953,
+      "lng": 120.3817015,
+      "routes": [
+        "63北",
+        "63南"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559562,
+      "name": "高松路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5726457,
+      "lng": 120.3697536,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3444559564,
+      "name": "高松陸橋",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5692434,
+      "lng": 120.3785275,
+      "routes": [
+        "63北",
+        "63南",
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3877437537,
+      "name": "鳳鼻頭(沿海路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.512212,
+      "lng": 120.3618985,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅2",
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3878450386,
+      "name": "邦坑",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5172068,
+      "lng": 120.3559623,
+      "routes": [
+        "紅2",
+        "紅3鳳林接駁線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3878459809,
+      "name": "沿海一路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5616942,
+      "lng": 120.3567492,
+      "routes": [
+        "9117",
+        "9117A",
+        "紅3林園幹線",
+        "紅3林園幹線延駛"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3878459811,
+      "name": "立群路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5630702,
+      "lng": 120.3555308,
+      "routes": [
+        "紅3林園幹線",
+        "紅3林園幹線延駛",
+        "紅5"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879236897,
+      "name": "永和街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5624259,
+      "lng": 120.3900556,
+      "routes": [
+        "紅8A",
+        "紅8B(去繞昭明)",
+        "紅8C(返繞昭明)",
+        "紅8E"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3879239654,
+      "name": "高松(高松路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5727301,
+      "lng": 120.3680667
+    },
+    {
+      "id": 4579346758,
+      "name": "高雄國際機場",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5701158,
+      "lng": 120.3416274,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4579346760,
+      "name": "小港",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5645135,
+      "lng": 120.3538755,
+      "lines": [
+        "紅線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 5564082050,
+      "name": "高雄國際航空站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5709487,
+      "lng": 120.3417945,
+      "routes": [
+        "111 機場快線 小西門→小港機場",
+        "111 機場快線 小西門→小港機場(繞中華東路、平實三街口)",
+        "111 機場快線 小港機場→小西門",
+        "111 機場快線 小港機場→小西門(繞中華東路、平實三街口)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8373931156,
+      "name": "高坪52街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5561229,
+      "lng": 120.3857146,
+      "routes": [
+        "63南"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8373931157,
+      "name": "高坪50路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5554009,
+      "lng": 120.3862765,
+      "routes": [
+        "63北"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8375760724,
+      "name": "紅毛港文化園區",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5493858,
+      "lng": 120.317599,
+      "routes": [
+        "紅13"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.233Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8425499180,
+      "name": "南區資源回收廠(北林路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5498397,
+      "lng": 120.3757063,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8425538227,
+      "name": "東林金鋁街口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5437645,
+      "lng": 120.3756091,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 527699047,
+      "name": "國內線貨運站",
+      "type": "bus_station",
+      "city": "高雄市",
+      "district": "小港區",
+      "lat": 22.5725887,
+      "lng": 120.3487338
+    }
+  ]
+}

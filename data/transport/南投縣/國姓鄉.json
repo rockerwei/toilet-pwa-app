@@ -1,0 +1,1366 @@
+{
+  "city": "南投縣",
+  "district": "國姓鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 74,
+  "items": [
+    {
+      "id": 3615456225,
+      "name": "北山站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9823263,
+      "lng": 120.8722715,
+      "routes": [
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.411Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3615456235,
+      "name": "柑子林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0254418,
+      "lng": 120.8454412,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6653",
+        "6653B",
+        "6653C",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3615456237,
+      "name": "福龜",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0128697,
+      "lng": 120.8194094,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6653",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3615456243,
+      "name": "龜溝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0241051,
+      "lng": 120.8276661,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6653",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659298,
+      "name": "國姓",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0400158,
+      "lng": 120.8557702,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C",
+        "6655"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659301,
+      "name": "姓中",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0420043,
+      "lng": 120.8581613,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659303,
+      "name": "石門",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0427999,
+      "lng": 120.8622251,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659314,
+      "name": "瓦窯前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0541057,
+      "lng": 120.8731222,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659343,
+      "name": "北港國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0578148,
+      "lng": 120.9105567,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659345,
+      "name": "橋頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0581137,
+      "lng": 120.9071046,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659346,
+      "name": "北港村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0581568,
+      "lng": 120.9219886
+    },
+    {
+      "id": 3646659347,
+      "name": "廟前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0581589,
+      "lng": 120.8758267,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.412Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659351,
+      "name": "神仙島",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0583605,
+      "lng": 120.9278573,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652",
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659353,
+      "name": "埔頭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.05874,
+      "lng": 120.9025046,
+      "routes": [
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659356,
+      "name": "中梅",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0599251,
+      "lng": 120.9392778,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659359,
+      "name": "三層埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0609348,
+      "lng": 120.8972223,
+      "routes": [
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659372,
+      "name": "埔尾",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0618869,
+      "lng": 120.8872299,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659373,
+      "name": "埔源",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0615366,
+      "lng": 120.8907252,
+      "routes": [
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3646659376,
+      "name": "長流加油站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0647794,
+      "lng": 120.8761897,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4693979565,
+      "name": "竹子籟",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9817594,
+      "lng": 120.8997144,
+      "routes": [
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695353602,
+      "name": "種瓜橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9813102,
+      "lng": 120.8791727,
+      "routes": [
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695353604,
+      "name": "茅埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9853733,
+      "lng": 120.8889729,
+      "routes": [
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695353606,
+      "name": "外盤安",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9818665,
+      "lng": 120.8948647,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695540719,
+      "name": "興隆",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9926018,
+      "lng": 120.8577634,
+      "routes": [
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.413Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695540721,
+      "name": "大石村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9855568,
+      "lng": 120.862527,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695584925,
+      "name": "育樂橋前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0224646,
+      "lng": 120.8470307,
+      "routes": [
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695584927,
+      "name": "草魚潭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0149285,
+      "lng": 120.8485796,
+      "routes": [
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695584934,
+      "name": "清德寺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0098409,
+      "lng": 120.8485683,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695584942,
+      "name": "昌榮橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9979377,
+      "lng": 120.8508092,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695584944,
+      "name": "原野山莊",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9949678,
+      "lng": 120.8550746,
+      "routes": [
+        "6656",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695598868,
+      "name": "福龍園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0273998,
+      "lng": 120.8420546,
+      "routes": [
+        "6653",
+        "6655"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.665Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4695598869,
+      "name": "福龍園",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0274929,
+      "lng": 120.8402897,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6653",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4699287350,
+      "name": "福壽橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0048435,
+      "lng": 120.81724,
+      "routes": [
+        "6653",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4699287352,
+      "name": "福斗路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0093592,
+      "lng": 120.818734,
+      "routes": [
+        "6653",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.414Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4699287354,
+      "name": "富久巷口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0107411,
+      "lng": 120.8190069,
+      "routes": [
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4699287356,
+      "name": "福龜旅遊中心",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0194902,
+      "lng": 120.8230121,
+      "routes": [
+        "6268",
+        "6268A",
+        "6268G",
+        "6268H",
+        "6653",
+        "6653C",
+        "6655",
+        "6656",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7984696833,
+      "name": "公車站",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0172659,
+      "lng": 120.821135
+    },
+    {
+      "id": 9067499024,
+      "name": "房厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0590134,
+      "lng": 120.9345975,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499035,
+      "name": "許厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0467843,
+      "lng": 120.9360185,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499036,
+      "name": "梅子林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.061395,
+      "lng": 120.9426557,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651B",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499038,
+      "name": "富來橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.05211,
+      "lng": 120.9312,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9067499050,
+      "name": "許厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.048305,
+      "lng": 120.935134
+    },
+    {
+      "id": 9067499068,
+      "name": "廿粒",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0510839,
+      "lng": 120.9338322,
+      "routes": [
+        "6651",
+        "6651A",
+        "6651C",
+        "6652"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596070,
+      "name": "大旗尾",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0475472,
+      "lng": 120.8633104,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596072,
+      "name": "泰雅渡假村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0664067,
+      "lng": 120.9408928,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596073,
+      "name": "北港溪溫泉",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0620504,
+      "lng": 120.9339084,
+      "routes": [
+        "6653",
+        "6653B",
+        "6653C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596076,
+      "name": "傅厝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0646624,
+      "lng": 120.9369434,
+      "routes": [
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596078,
+      "name": "後頭厝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0593688,
+      "lng": 120.9322735,
+      "routes": [
+        "6653",
+        "6653B"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596080,
+      "name": "水長流",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0709772,
+      "lng": 120.8760712,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.415Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596082,
+      "name": "長流口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0687236,
+      "lng": 120.8757935,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596084,
+      "name": "公館",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0665992,
+      "lng": 120.8759142,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596089,
+      "name": "竹坑口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0329996,
+      "lng": 120.8485759,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596090,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.03866,
+      "lng": 120.85439,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9088596091,
+      "name": "成功路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 24.0419908,
+      "lng": 120.8573136,
+      "routes": [
+        "6653",
+        "6653B",
+        "6655"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9751009506,
+      "name": "鳳鳴",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9657519,
+      "lng": 120.8729687
+    },
+    {
+      "id": 9751009508,
+      "name": "下南港",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9681415,
+      "lng": 120.8735642,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9751009640,
+      "name": "一號橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9734428,
+      "lng": 120.8743447,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9751551214,
+      "name": "二號橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9564306,
+      "lng": 120.8715083,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9751551216,
+      "name": "基寮坪",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9587804,
+      "lng": 120.8712946,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9751551230,
+      "name": "粗坑口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9639956,
+      "lng": 120.8722072
+    },
+    {
+      "id": 9752384582,
+      "name": "三合橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9095364,
+      "lng": 120.8618885,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752384583,
+      "name": "富山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9037396,
+      "lng": 120.8605689
+    },
+    {
+      "id": 9752384700,
+      "name": "富山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.915838,
+      "lng": 120.8633262,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752384718,
+      "name": "存光橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9185767,
+      "lng": 120.8648631,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752384809,
+      "name": "東山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.923755,
+      "lng": 120.8650723,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752384846,
+      "name": "永元",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9266358,
+      "lng": 120.8658126,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752384886,
+      "name": "南港底",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9281681,
+      "lng": 120.8659118,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.666Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752385192,
+      "name": "南港",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9323236,
+      "lng": 120.8681273,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752385231,
+      "name": "盧厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9347605,
+      "lng": 120.8687147,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752385233,
+      "name": "五穀宮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9361922,
+      "lng": 120.8689642,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752385269,
+      "name": "林厝前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9418649,
+      "lng": 120.8677116,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9752385289,
+      "name": "學校前",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9504802,
+      "lng": 120.8688918,
+      "routes": [
+        "6657"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11111345479,
+      "name": "下茅埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9850861,
+      "lng": 120.8858071
+    },
+    {
+      "id": 11111345481,
+      "name": "北山坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "國姓鄉",
+      "lat": 23.9824613,
+      "lng": 120.8725534,
+      "routes": [
+        "6268A",
+        "6268G",
+        "6268H",
+        "6656",
+        "6657",
+        "6670",
+        "6670G",
+        "6875",
+        "6899",
+        "6899A"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.416Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

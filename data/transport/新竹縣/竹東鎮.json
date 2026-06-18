@@ -1,0 +1,1930 @@
+{
+  "city": "新竹縣",
+  "district": "竹東鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 110,
+  "items": [
+    {
+      "id": 1374041041,
+      "name": "竹東",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7383207,
+      "lng": 121.0949025
+    },
+    {
+      "id": 2608953006,
+      "name": "竹東火車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7380437,
+      "lng": 121.0944295,
+      "routes": [
+        "5700",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B",
+        "快捷8號",
+        "芎林鄉幸福小黃",
+        "觀光8號"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3357147154,
+      "name": "竹中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7811963,
+      "lng": 121.0311549
+    },
+    {
+      "id": 3359272848,
+      "name": "上坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6635901,
+      "lng": 121.1203669,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359406501,
+      "name": "竹中口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7801804,
+      "lng": 121.0280774,
+      "routes": [
+        "5608",
+        "藍線",
+        "藍線1區",
+        "藍線1區A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4838106348,
+      "name": "工研院東站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7742759,
+      "lng": 121.047874
+    },
+    {
+      "id": 5743725854,
+      "name": "水碓灣",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7224359,
+      "lng": 121.07613,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743725856,
+      "name": "慈惠堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7210886,
+      "lng": 121.0749283,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743725858,
+      "name": "劉屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7190152,
+      "lng": 121.0742605,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743725859,
+      "name": "分水龍",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7159209,
+      "lng": 121.0733378,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743802411,
+      "name": "大林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7268474,
+      "lng": 121.0857338,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743802412,
+      "name": "雨果美國學校",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7262414,
+      "lng": 121.0838681,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743802414,
+      "name": "范屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7248601,
+      "lng": 121.0810116,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743802416,
+      "name": "大窩",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.724107,
+      "lng": 121.0788895,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743816676,
+      "name": "中山里",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7308813,
+      "lng": 121.0895115,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.699Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743816678,
+      "name": "玻璃廠前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7289798,
+      "lng": 121.0882683,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743849222,
+      "name": "榮民醫院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7233641,
+      "lng": 121.0987061,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743849224,
+      "name": "下公館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7229674,
+      "lng": 121.0958756,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5608",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B",
+        "快捷8號支"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743890783,
+      "name": "第一市場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7306352,
+      "lng": 121.0906997,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.700Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743890785,
+      "name": "竹東高中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.733136,
+      "lng": 121.0888289,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5608",
+        "5609",
+        "5609A",
+        "5625",
+        "5625A",
+        "5626",
+        "5626A",
+        "5627",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673",
+        "快捷8號支"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.701Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743902532,
+      "name": "東寧市場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7247638,
+      "lng": 121.0947941,
+      "routes": [
+        "5608",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.701Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743902534,
+      "name": "美會街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.725837,
+      "lng": 121.0940552,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.701Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743902536,
+      "name": "台泥前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7281417,
+      "lng": 121.092812,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B",
+        "快捷8號支"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.701Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743902538,
+      "name": "東寧橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7292344,
+      "lng": 121.091904,
+      "routes": [
+        "5608",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.702Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743999902,
+      "name": "東寧路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7391215,
+      "lng": 121.0862768,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.702Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743999904,
+      "name": "惠昌宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7383054,
+      "lng": 121.0871471,
+      "routes": [
+        "5608",
+        "5673"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.702Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5743999906,
+      "name": "市場前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.737158,
+      "lng": 121.0879418,
+      "routes": [
+        "5609",
+        "5609A",
+        "5625",
+        "5625A",
+        "5626",
+        "5626A",
+        "5627",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5744080657,
+      "name": "劉屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7181478,
+      "lng": 121.073775,
+      "routes": [
+        "5609",
+        "5609A",
+        "5626",
+        "5626A",
+        "5627"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747087468,
+      "name": "民德路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7439868,
+      "lng": 121.0833297,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747087469,
+      "name": "五豐街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7435379,
+      "lng": 121.0835114,
+      "routes": [
+        "5608",
+        "5673"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747090659,
+      "name": "新光大樓",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7456243,
+      "lng": 121.0818914,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747099010,
+      "name": "美之城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7463685,
+      "lng": 121.0809928,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5747271993,
+      "name": "托盤山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7534616,
+      "lng": 121.0743034,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751334467,
+      "name": "四重埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7558194,
+      "lng": 121.0704209,
+      "routes": [
+        "5608",
+        "快捷8號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751383074,
+      "name": "三角城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7602901,
+      "lng": 121.0624507,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751383077,
+      "name": "狀元新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7588665,
+      "lng": 121.0651182,
+      "routes": [
+        "5608",
+        "快捷8號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751581194,
+      "name": "三重埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7579068,
+      "lng": 121.067622,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751581196,
+      "name": "二重新村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7633669,
+      "lng": 121.0599113,
+      "routes": [
+        "5608",
+        "快捷8號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751687706,
+      "name": "明星路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7703841,
+      "lng": 121.0520437,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751687715,
+      "name": "二重埔口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7694611,
+      "lng": 121.0537966,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751687717,
+      "name": "二重埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7666153,
+      "lng": 121.0569052,
+      "routes": [
+        "5608",
+        "快捷8號"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751687719,
+      "name": "弘揚商店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7647789,
+      "lng": 121.0589679,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751701024,
+      "name": "青窩坡",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7721815,
+      "lng": 121.0497344,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751706333,
+      "name": "頭重埔",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7764592,
+      "lng": 121.0462475,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751780713,
+      "name": "達林公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7773627,
+      "lng": 121.0343988,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751782625,
+      "name": "工研院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.777935,
+      "lng": 121.0407302,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751801265,
+      "name": "豐邦公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7786509,
+      "lng": 121.0309508,
+      "routes": [
+        "5608"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5751801267,
+      "name": "東關東",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7781322,
+      "lng": 121.0319138
+    },
+    {
+      "id": 6505488462,
+      "name": "竹中火車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7815301,
+      "lng": 121.0303475,
+      "routes": [
+        "藍線",
+        "藍線1區",
+        "藍線1區A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.715Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772072,
+      "name": "臺大醫院竹東分院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7187564,
+      "lng": 121.0943965,
+      "routes": [
+        "5609A",
+        "5625A",
+        "5626A",
+        "5630A",
+        "醫專2號",
+        "醫專6號"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6505772292,
+      "name": "臺北榮總新竹分院",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7229285,
+      "lng": 121.0992974,
+      "routes": [
+        "5609A",
+        "5626A",
+        "快捷8號",
+        "醫專2號"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6845181064,
+      "name": "榮華",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7482575,
+      "lng": 121.0825219,
+      "routes": [
+        "快捷8號支"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6845192945,
+      "name": "上員火車站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.778131,
+      "lng": 121.055949,
+      "routes": [
+        "快捷8號支"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6845192948,
+      "name": "員山路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7825997,
+      "lng": 121.039153,
+      "routes": [
+        "快捷8號支"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.703Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7287740933,
+      "name": "竹東站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7396832,
+      "lng": 121.0855706,
+      "routes": [
+        "5608",
+        "5609",
+        "5609A",
+        "5625",
+        "5625A",
+        "5626",
+        "5626A",
+        "5627",
+        "5630",
+        "5630A",
+        "5631",
+        "5633",
+        "5633A",
+        "5634",
+        "5634A",
+        "5635",
+        "5673",
+        "快捷8號支",
+        "醫專2號",
+        "醫專6號"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136295,
+      "name": "紫藤園社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7840458,
+      "lng": 121.053098,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136297,
+      "name": "員山加油站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.784415,
+      "lng": 121.0484136,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136299,
+      "name": "員山便利屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7840605,
+      "lng": 121.0454555,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136305,
+      "name": "公道五路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7833895,
+      "lng": 121.0391182,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.715Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136307,
+      "name": "富貴街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7773722,
+      "lng": 121.0344852,
+      "routes": [
+        "快捷8號"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136310,
+      "name": "員山里",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7852919,
+      "lng": 121.0353562
+    },
+    {
+      "id": 7740136312,
+      "name": "郵局",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7362554,
+      "lng": 121.0929911,
+      "routes": [
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7740136322,
+      "name": "竹東遊客中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.738048,
+      "lng": 121.0941778,
+      "routes": [
+        "5700",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B",
+        "快捷8號",
+        "芎林鄉幸福小黃",
+        "觀光8號"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7745925576,
+      "name": "朝陽路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7424644,
+      "lng": 121.086306,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5631",
+        "5633",
+        "5633A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749905262,
+      "name": "永康街",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7481959,
+      "lng": 121.0815239
+    },
+    {
+      "id": 7749905264,
+      "name": "民德路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7444709,
+      "lng": 121.0843238,
+      "routes": [
+        "5673"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.715Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749905277,
+      "name": "竹中農會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7812575,
+      "lng": 121.0295268
+    },
+    {
+      "id": 7749905279,
+      "name": "下員三",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7832267,
+      "lng": 121.0354521
+    },
+    {
+      "id": 7749905280,
+      "name": "員三",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7832041,
+      "lng": 121.0375018
+    },
+    {
+      "id": 7749905281,
+      "name": "員二",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7836803,
+      "lng": 121.042115
+    },
+    {
+      "id": 7749905282,
+      "name": "員一",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7841016,
+      "lng": 121.0458715
+    },
+    {
+      "id": 7749905283,
+      "name": "中正",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7838157,
+      "lng": 121.0541453
+    },
+    {
+      "id": 7749959085,
+      "name": "旭光",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7704701,
+      "lng": 121.0557852
+    },
+    {
+      "id": 7755925187,
+      "name": "竹東醫院口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7190994,
+      "lng": 121.0964709,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925189,
+      "name": "資源莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7181249,
+      "lng": 121.0965196,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.715Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925191,
+      "name": "員崠國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7156139,
+      "lng": 121.0981049,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925193,
+      "name": "東泰高中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7121315,
+      "lng": 121.0979836,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925195,
+      "name": "三元宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7102521,
+      "lng": 121.0975114,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925197,
+      "name": "修善堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7090401,
+      "lng": 121.0970691,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925199,
+      "name": "員崠子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7071951,
+      "lng": 121.0972647,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925201,
+      "name": "石崎",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7009882,
+      "lng": 121.096419,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925203,
+      "name": "莊尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6973593,
+      "lng": 121.0956167,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925205,
+      "name": "台電",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6962899,
+      "lng": 121.096905,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925207,
+      "name": "軟橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6951097,
+      "lng": 121.0976088
+    },
+    {
+      "id": 7755925209,
+      "name": "范屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6940475,
+      "lng": 121.0986025,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925211,
+      "name": "彭屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.692766,
+      "lng": 121.1014374,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925213,
+      "name": "花草林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6912068,
+      "lng": 121.1030958,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925215,
+      "name": "燥樹排",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6860058,
+      "lng": 121.1019362,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925217,
+      "name": "燥樹排農路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6832174,
+      "lng": 121.1013735,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925219,
+      "name": "加興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6804655,
+      "lng": 121.100745,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.704Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925221,
+      "name": "紙寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6757107,
+      "lng": 121.0990133,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925223,
+      "name": "瑞穗坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6685898,
+      "lng": 121.1036714,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925225,
+      "name": "五指山口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6650042,
+      "lng": 121.1061084
+    },
+    {
+      "id": 7755925227,
+      "name": "巫屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6671172,
+      "lng": 121.1100389,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925229,
+      "name": "下坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6679165,
+      "lng": 121.1132684,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925231,
+      "name": "上坪口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6659063,
+      "lng": 121.117239,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925233,
+      "name": "瑞峰國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6612588,
+      "lng": 121.1218258,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925235,
+      "name": "南昌橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6588815,
+      "lng": 121.1228536,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925237,
+      "name": "莊厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6573742,
+      "lng": 121.1232322,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925239,
+      "name": "砂石廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6541759,
+      "lng": 121.1237458,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925241,
+      "name": "五峰育樂區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6506861,
+      "lng": 121.1265914,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7755925243,
+      "name": "五峰檢查站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6453691,
+      "lng": 121.1233727,
+      "routes": [
+        "5630",
+        "5630A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9990368347,
+      "name": "軟橋彩繪村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.6952446,
+      "lng": 121.0974045
+    },
+    {
+      "id": 10845753813,
+      "name": "國光客運竹東站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7279345,
+      "lng": 121.0925466,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.716Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10888919593,
+      "name": "台鐵竹中站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7812075,
+      "lng": 121.0310343
+    },
+    {
+      "id": 11527573439,
+      "name": "下公館站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7223844,
+      "lng": 121.0959615,
+      "routes": [
+        "5608",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.716Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12735986689,
+      "name": "竹東",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7399477,
+      "lng": 121.0857314,
+      "routes": [
+        "5608",
+        "5609",
+        "5609A",
+        "5625",
+        "5625A",
+        "5626",
+        "5626A",
+        "5627",
+        "5630",
+        "5630A",
+        "5631",
+        "5633",
+        "5633A",
+        "5634",
+        "5634A",
+        "5635",
+        "5673",
+        "快捷8號支",
+        "醫專2號",
+        "醫專6號"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.705Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13387733188,
+      "name": "竹東轉運站",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7282363,
+      "lng": 121.0993772
+    },
+    {
+      "id": 327271458,
+      "name": "新竹客運竹東站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7396412,
+      "lng": 121.0855499,
+      "routes": [
+        "5608",
+        "5609",
+        "5609A",
+        "5625",
+        "5625A",
+        "5626",
+        "5626A",
+        "5627",
+        "5630",
+        "5630A",
+        "5631",
+        "5633",
+        "5633A",
+        "5634",
+        "5634A",
+        "5635",
+        "5673",
+        "快捷8號支",
+        "醫專2號",
+        "醫專6號"
+      ],
+      "routeCount": 20,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.706Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 327275287,
+      "name": "新竹客運下公館站",
+      "type": "bus_station",
+      "city": "新竹縣",
+      "district": "竹東鎮",
+      "lat": 24.7224314,
+      "lng": 121.0958102,
+      "routes": [
+        "1820",
+        "1820A",
+        "1820B",
+        "1821",
+        "5608",
+        "5625",
+        "5625A",
+        "5630",
+        "5630A",
+        "5633A",
+        "5634",
+        "5634A",
+        "5673",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B",
+        "快捷8號支"
+      ],
+      "routeCount": 17,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.706Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

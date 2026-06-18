@@ -1,0 +1,373 @@
+{
+  "city": "高雄市",
+  "district": "永安區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 22,
+  "items": [
+    {
+      "id": 3910071752,
+      "name": "保安路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8077365,
+      "lng": 120.2430958,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071754,
+      "name": "保寧",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8350276,
+      "lng": 120.234575,
+      "routes": [
+        "8043",
+        "紅76"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071756,
+      "name": "南保寧",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8323438,
+      "lng": 120.2346374,
+      "routes": [
+        "8043",
+        "紅76"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071758,
+      "name": "南天宮(永安)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8162099,
+      "lng": 120.2413835,
+      "routes": [
+        "8043",
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071762,
+      "name": "天文宮",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.81347,
+      "lng": 120.2428068,
+      "routes": [
+        "8043",
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071766,
+      "name": "復興路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8018495,
+      "lng": 120.2339631,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071772,
+      "name": "永安區公所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8183731,
+      "lng": 120.2246701,
+      "routes": [
+        "永安線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071773,
+      "name": "永安國中",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8233429,
+      "lng": 120.2383315,
+      "routes": [
+        "8043",
+        "永安線",
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071775,
+      "name": "復興保安路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8044329,
+      "lng": 120.2429017,
+      "routes": [
+        "紅76"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3910071777,
+      "name": "牧場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8179552,
+      "lng": 120.2405838,
+      "routes": [
+        "8043",
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978200,
+      "name": "塭仔邊",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8306967,
+      "lng": 120.211662
+    },
+    {
+      "id": 5731978201,
+      "name": "鹽田",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.833935,
+      "lng": 120.2096772,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978202,
+      "name": "鹽村",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8335296,
+      "lng": 120.2087116,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978203,
+      "name": "北新港",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8280936,
+      "lng": 120.2067161,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978204,
+      "name": "新港國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8217821,
+      "lng": 120.2089101,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978205,
+      "name": "新港口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8176682,
+      "lng": 120.210683,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.271Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978207,
+      "name": "西永安",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8163851,
+      "lng": 120.2214199,
+      "routes": [
+        "紅79"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978209,
+      "name": "永安國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8155729,
+      "lng": 120.2240286,
+      "routes": [
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978211,
+      "name": "永安",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8185784,
+      "lng": 120.226239,
+      "routes": [
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978214,
+      "name": "西維新",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.809273,
+      "lng": 120.2431124,
+      "routes": [
+        "8043",
+        "永安線",
+        "紅76",
+        "紅79"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978216,
+      "name": "維新",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8081742,
+      "lng": 120.2463055,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5731978218,
+      "name": "工業區(本洲)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "永安區",
+      "lat": 22.8081396,
+      "lng": 120.2512783,
+      "routes": [
+        "永安線",
+        "紅79"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.480Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

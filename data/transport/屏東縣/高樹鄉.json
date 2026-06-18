@@ -1,0 +1,77 @@
+{
+  "city": "屏東縣",
+  "district": "高樹鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 3,
+  "items": [
+    {
+      "id": 4965273422,
+      "name": "大津",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "高樹鄉",
+      "lat": 22.8795966,
+      "lng": 120.6447455,
+      "routes": [
+        "8218",
+        "8218B",
+        "8218C",
+        "小黃公車751",
+        "T511A(每週五停駛)",
+        "T511B(每週五發車)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9145260670,
+      "name": "新南勢",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "高樹鄉",
+      "lat": 22.7855782,
+      "lng": 120.5617556,
+      "routes": [
+        "8217",
+        "8217A",
+        "8217B",
+        "8217C",
+        "8218",
+        "8218B",
+        "8218C"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.853Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 307879015,
+      "name": "屏東客運 高樹站",
+      "type": "bus_station",
+      "city": "屏東縣",
+      "district": "高樹鄉",
+      "lat": 22.827208,
+      "lng": 120.6007509,
+      "routes": [
+        "8217",
+        "8217A",
+        "8217B",
+        "8217C",
+        "8218",
+        "8218B",
+        "8218C",
+        "8226",
+        "8226A"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.853Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

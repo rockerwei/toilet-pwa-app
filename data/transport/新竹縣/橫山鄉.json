@@ -1,0 +1,1054 @@
+{
+  "city": "新竹縣",
+  "district": "橫山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 67,
+  "items": [
+    {
+      "id": 1067352403,
+      "name": "內灣",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7053464,
+      "lng": 121.1826789
+    },
+    {
+      "id": 1902962842,
+      "name": "福昌山莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7179587,
+      "lng": 121.1615449,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2218584744,
+      "name": "九讚頭",
+      "type": "train",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7203987,
+      "lng": 121.1359862
+    },
+    {
+      "id": 3311572674,
+      "name": "九讚頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7163928,
+      "lng": 121.1418599,
+      "routes": [
+        "5614",
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3339975771,
+      "name": "內灣大橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7034784,
+      "lng": 121.1832775,
+      "routes": [
+        "106",
+        "107",
+        "108",
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3359369824,
+      "name": "頭份林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7085684,
+      "lng": 121.1334811,
+      "routes": [
+        "5635"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.693Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4432477379,
+      "name": "南河",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7156489,
+      "lng": 121.163661,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5142122022,
+      "name": "樂善堂",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6988415,
+      "lng": 121.1396017
+    },
+    {
+      "id": 5777046130,
+      "name": "攀龍吊橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7065449,
+      "lng": 121.1747159,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777046132,
+      "name": "采風館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7046844,
+      "lng": 121.17853,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777046134,
+      "name": "內灣",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7042422,
+      "lng": 121.1809534,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777046136,
+      "name": "雞油樹下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7011451,
+      "lng": 121.1873397,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777064620,
+      "name": "十分寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7167288,
+      "lng": 121.1537849,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777064622,
+      "name": "龍天宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7176434,
+      "lng": 121.1566495,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777064631,
+      "name": "伯公廟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7174315,
+      "lng": 121.1625923,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.674Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777064634,
+      "name": "九芎坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7094372,
+      "lng": 121.1729253,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777064635,
+      "name": "南河橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7155773,
+      "lng": 121.1680761,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777091623,
+      "name": "橫山鄉公所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7177105,
+      "lng": 121.1412446,
+      "routes": [
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777091625,
+      "name": "橫山國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7177776,
+      "lng": 121.1467382,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777135783,
+      "name": "香園窩口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7257858,
+      "lng": 121.1300451,
+      "routes": [
+        "5614",
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777135785,
+      "name": "大肚",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7224445,
+      "lng": 121.1352712,
+      "routes": [
+        "5614",
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.675Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777135787,
+      "name": "大肚社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7251464,
+      "lng": 121.131486,
+      "routes": [
+        "5614",
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5777135789,
+      "name": "大肚國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7192169,
+      "lng": 121.1386381,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.695Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779410474,
+      "name": "農路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7312163,
+      "lng": 121.1231813,
+      "routes": [
+        "5614",
+        "5631"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5779410476,
+      "name": "台電公司",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7291771,
+      "lng": 121.1267486,
+      "routes": [
+        "5614",
+        "5631"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846385973,
+      "name": "豐田口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7160951,
+      "lng": 121.1433823,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846385975,
+      "name": "郵局前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7179713,
+      "lng": 121.140127,
+      "routes": [
+        "5614",
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846385977,
+      "name": "秀堤",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7246432,
+      "lng": 121.1253056,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846423424,
+      "name": "油羅溪橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7197437,
+      "lng": 121.1225751,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846423429,
+      "name": "大林紙廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7199093,
+      "lng": 121.11882,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.695Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846423431,
+      "name": "橫山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7205666,
+      "lng": 121.1161548,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846423444,
+      "name": "佳和園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7213858,
+      "lng": 121.1104408,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.676Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846423449,
+      "name": "新庄子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7216562,
+      "lng": 121.1090715,
+      "routes": [
+        "5625",
+        "5625A",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502633,
+      "name": "土地廟",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7503877,
+      "lng": 121.1711928,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502641,
+      "name": "大平地",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7479226,
+      "lng": 121.1682156,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502643,
+      "name": "大池前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7462175,
+      "lng": 121.1673304,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502651,
+      "name": "許屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7445659,
+      "lng": 121.1643103,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502653,
+      "name": "北沙坑橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7433431,
+      "lng": 121.1625963,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502655,
+      "name": "沙坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7392774,
+      "lng": 121.1626875,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502660,
+      "name": "派出所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7364004,
+      "lng": 121.1621618,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502668,
+      "name": "南沙坑橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7337889,
+      "lng": 121.1597988,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502672,
+      "name": "北十分寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7281149,
+      "lng": 121.1582431,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502674,
+      "name": "雙興",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7231254,
+      "lng": 121.1580339,
+      "routes": [
+        "5634",
+        "5634A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.696Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6846502682,
+      "name": "十分寮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7176313,
+      "lng": 121.1535466,
+      "routes": [
+        "5625",
+        "5625A",
+        "5631",
+        "5634",
+        "5634A",
+        "快捷6支A",
+        "快捷6號",
+        "快捷6號B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.677Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7287740932,
+      "name": "中華科技大學新竹校區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7144736,
+      "lng": 121.1138982
+    },
+    {
+      "id": 7755625262,
+      "name": "農會前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7197312,
+      "lng": 121.1160792
+    },
+    {
+      "id": 7755625264,
+      "name": "橫山橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7185857,
+      "lng": 121.1192002
+    },
+    {
+      "id": 7755625266,
+      "name": "蔗蔀",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7170842,
+      "lng": 121.1221278
+    },
+    {
+      "id": 7755625269,
+      "name": "三崁店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7158651,
+      "lng": 121.124687
+    },
+    {
+      "id": 7755625271,
+      "name": "上蔗蔀",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7144259,
+      "lng": 121.1270708
+    },
+    {
+      "id": 7755625273,
+      "name": "南頭份林",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7105412,
+      "lng": 121.1299125
+    },
+    {
+      "id": 7863458495,
+      "name": "橫山村11鄰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7169607,
+      "lng": 121.122427
+    },
+    {
+      "id": 7863458496,
+      "name": "萬瑞賽車場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7055315,
+      "lng": 121.1328954
+    },
+    {
+      "id": 7863458497,
+      "name": "老大份農園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6878232,
+      "lng": 121.1336083
+    },
+    {
+      "id": 7863458498,
+      "name": "大山背人文生態館",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6854891,
+      "lng": 121.1386575
+    },
+    {
+      "id": 7863458499,
+      "name": "豐鄉瀑布",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6922823,
+      "lng": 121.1438904
+    },
+    {
+      "id": 7863458500,
+      "name": "油羅店",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.705024,
+      "lng": 121.1556911
+    },
+    {
+      "id": 10845753812,
+      "name": "中華科大休閒平台",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.713717,
+      "lng": 121.1141106,
+      "routes": [
+        "1820B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.696Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13303098935,
+      "name": "新庄子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7198598,
+      "lng": 121.1083068
+    },
+    {
+      "id": 13303098937,
+      "name": "華山國中",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7185765,
+      "lng": 121.107778
+    },
+    {
+      "id": 13303098942,
+      "name": "羅屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7162756,
+      "lng": 121.1078825
+    },
+    {
+      "id": 13303098944,
+      "name": "下灣橋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7107315,
+      "lng": 121.1075207
+    },
+    {
+      "id": 13303098950,
+      "name": "田寮坑",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7065356,
+      "lng": 121.106123
+    },
+    {
+      "id": 13303098952,
+      "name": "下坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7034787,
+      "lng": 121.1058959
+    },
+    {
+      "id": 13303098954,
+      "name": "鄒屋",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.7011241,
+      "lng": 121.1060169
+    },
+    {
+      "id": 13303098956,
+      "name": "廟前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6998693,
+      "lng": 121.1062293
+    },
+    {
+      "id": 13303098962,
+      "name": "矺子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "橫山鄉",
+      "lat": 24.6975101,
+      "lng": 121.1066876
+    }
+  ]
+}

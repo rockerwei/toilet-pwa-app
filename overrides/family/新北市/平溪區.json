@@ -1,0 +1,21 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:568",
+      "name": "平溪松苑休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.02324,
+      "lng": 121.738129,
+      "source": "coa",
+      "sourceId": "568",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市平溪區靜安路三段66號"
+    }
+  ]
+}

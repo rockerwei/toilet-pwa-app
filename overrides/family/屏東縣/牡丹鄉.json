@@ -1,0 +1,33 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "tdx:C1_376530000A_000204",
+      "name": "佳德谷原住民植物生活教育園區",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.144234,
+      "lng": 120.807281,
+      "source": "tdx",
+      "sourceId": "C1_376530000A_000204",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "屏東縣945牡丹鄉石門村中間路66號"
+    },
+    {
+      "id": "manual:空姐雨來菇沁園生態農場",
+      "name": "空姐雨來菇沁園生態農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.128765,
+      "lng": 120.781234,
+      "source": "manual",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "屏東縣牡丹鄉牡丹路249-6號"
+    }
+  ]
+}

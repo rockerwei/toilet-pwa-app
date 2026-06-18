@@ -1,0 +1,65 @@
+{
+  "city": "雲林縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376490000A_000113",
+      "name": "大同醬油黑金釀造館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.71954,
+      "lng": 120.598,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000113",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "雲林縣斗六市工業區斗工二路39號"
+    },
+    {
+      "id": "tdx:C1_376490000A_000866",
+      "name": "塔吉特千層蛋糕大使館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.7237,
+      "lng": 120.597504,
+      "source": "tdx",
+      "sourceId": "C1_376490000A_000866",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "雲林縣斗六市榴中里工業路118號"
+    },
+    {
+      "id": "coa:492",
+      "name": "九九莊園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.723412,
+      "lng": 120.576543,
+      "source": "coa",
+      "sourceId": "492",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "雲林縣斗六市十三南路65-1號",
+      "phone": "05-5514888"
+    },
+    {
+      "id": "coa:15",
+      "name": "雲科生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.693433,
+      "lng": 120.548772,
+      "source": "coa",
+      "sourceId": "15",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "雲林縣斗六市大學路二段273巷67號",
+      "phone": "05-533-8447"
+    }
+  ]
+}

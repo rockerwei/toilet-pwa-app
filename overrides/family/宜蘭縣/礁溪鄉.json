@@ -1,0 +1,81 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:186",
+      "name": "礁溪休閒農業有限公司休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.834123,
+      "lng": 121.765432,
+      "source": "coa",
+      "sourceId": "186",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣礁溪鄉大忠村17鄰五峰路70巷50號"
+    },
+    {
+      "id": "coa:450",
+      "name": "清林園林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.821234,
+      "lng": 121.791234,
+      "source": "coa",
+      "sourceId": "450",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "宜蘭縣礁溪鄉礁溪鄉二龍村淇武蘭路111之8號",
+      "phone": "03-988-8394"
+    },
+    {
+      "id": "coa:177",
+      "name": "夢土上休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.789124,
+      "lng": 121.724119,
+      "source": "coa",
+      "sourceId": "177",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣礁溪鄉二結路8-2號",
+      "phone": "0966-529557"
+    },
+    {
+      "id": "coa:291",
+      "name": "大塭休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.819302,
+      "lng": 121.794215,
+      "source": "coa",
+      "sourceId": "291",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣礁溪鄉玉龍路二段497號",
+      "phone": "03-987-0558"
+    },
+    {
+      "id": "coa:424",
+      "name": "富盛休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.789124,
+      "lng": 121.779972,
+      "source": "coa",
+      "sourceId": "424",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣礁溪鄉吳沙村開蘭路209號",
+      "phone": "03-928-8152"
+    }
+  ]
+}

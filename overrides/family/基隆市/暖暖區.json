@@ -1,0 +1,22 @@
+{
+  "city": "基隆市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:89",
+      "name": "大菁休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 25.07115,
+      "lng": 121.7573,
+      "source": "coa",
+      "sourceId": "89",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "基隆市暖暖區東勢街100-1號",
+      "phone": "02-2457-2869"
+    }
+  ]
+}

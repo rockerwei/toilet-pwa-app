@@ -1,0 +1,22 @@
+{
+  "city": "臺南市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:76",
+      "name": "南元休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.266009,
+      "lng": 120.392945,
+      "source": "coa",
+      "sourceId": "76",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺南市柳營區果毅里南湖25號",
+      "phone": "06-699-0726"
+    }
+  ]
+}

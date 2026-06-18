@@ -1,0 +1,1227 @@
+{
+  "city": "新竹縣",
+  "district": "寶山鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 83,
+  "items": [
+    {
+      "id": 3341125202,
+      "name": "三峰",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7191548,
+      "lng": 120.9994461,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341125203,
+      "name": "雙溪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.765117,
+      "lng": 120.990205,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3341129379,
+      "name": "新城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7306271,
+      "lng": 120.9647676,
+      "routes": [
+        "0536",
+        "5823"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5736282931,
+      "name": "勁取科技",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7738241,
+      "lng": 121.0083586
+    },
+    {
+      "id": 5736282958,
+      "name": "索爾斯光電",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7748433,
+      "lng": 121.005097
+    },
+    {
+      "id": 5736282959,
+      "name": "眾智光電",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7727319,
+      "lng": 121.0049307
+    },
+    {
+      "id": 5736282960,
+      "name": "信越半導體",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7722204,
+      "lng": 121.0083049
+    },
+    {
+      "id": 7760948838,
+      "name": "明湖社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7662648,
+      "lng": 120.9818574,
+      "routes": [
+        "0535",
+        "0536"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948840,
+      "name": "老瓦窯",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7657095,
+      "lng": 120.9835239,
+      "routes": [
+        "0535",
+        "0536"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948842,
+      "name": "雙溪小城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.764927,
+      "lng": 120.987175,
+      "routes": [
+        "0508",
+        "0535",
+        "0536"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948844,
+      "name": "老隘",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7638343,
+      "lng": 120.9884726,
+      "routes": [
+        "0505",
+        "0506",
+        "0508",
+        "0535",
+        "0536"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948846,
+      "name": "寶山牧場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7603673,
+      "lng": 120.9983443,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948848,
+      "name": "大崎口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7580032,
+      "lng": 120.9989939,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948850,
+      "name": "進興牧場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7527185,
+      "lng": 120.9985152,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948852,
+      "name": "雙龍",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7471241,
+      "lng": 121.0001511,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948854,
+      "name": "火燒崙",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.743937,
+      "lng": 121.001414,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948856,
+      "name": "洽水口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7406465,
+      "lng": 121.0041241,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948858,
+      "name": "猴園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7365408,
+      "lng": 121.0041029,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948860,
+      "name": "石坪",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7329823,
+      "lng": 121.0032429,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948862,
+      "name": "四號井",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7299006,
+      "lng": 121.0030266,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948864,
+      "name": "石爺",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7264476,
+      "lng": 121.0001523,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948866,
+      "name": "石爺凸",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7263678,
+      "lng": 120.9983539,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948868,
+      "name": "柑崎口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.72439,
+      "lng": 120.9974596,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948870,
+      "name": "柑桔集貨場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.721755,
+      "lng": 120.9976955,
+      "routes": [
+        "0535"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948874,
+      "name": "老隘尾",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7624159,
+      "lng": 120.9858066,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948876,
+      "name": "水尾溝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7609945,
+      "lng": 120.9825554,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948878,
+      "name": "水頭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7574441,
+      "lng": 120.9815438,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948880,
+      "name": "香榭綠第",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7561101,
+      "lng": 120.9812951,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948882,
+      "name": "榕樹岡",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7518854,
+      "lng": 120.9808589,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760948884,
+      "name": "農牧場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.750809,
+      "lng": 120.9772524,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961190,
+      "name": "箱涵口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7473088,
+      "lng": 120.9772513,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961192,
+      "name": "十鬮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7443264,
+      "lng": 120.9759268,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961194,
+      "name": "東坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7388718,
+      "lng": 120.973383,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961196,
+      "name": "糖廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7355657,
+      "lng": 120.9693437,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961198,
+      "name": "學校前",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7336625,
+      "lng": 120.9672409,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7760961200,
+      "name": "柑仔崎口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.731683,
+      "lng": 120.9651836,
+      "routes": [
+        "0536"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363464,
+      "name": "崎林口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.730608,
+      "lng": 120.9422534,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363466,
+      "name": "虎頭山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7301786,
+      "lng": 120.944446,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363468,
+      "name": "寶斗",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7298234,
+      "lng": 120.953832
+    },
+    {
+      "id": 7772363470,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7298295,
+      "lng": 120.9582099,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363472,
+      "name": "新城",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.730498,
+      "lng": 120.9629814,
+      "routes": [
+        "0536",
+        "5823"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363474,
+      "name": "南山",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7249539,
+      "lng": 120.9597439,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363476,
+      "name": "南坑口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7203047,
+      "lng": 120.9607799,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7772363478,
+      "name": "黃厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7186464,
+      "lng": 120.9675929,
+      "routes": [
+        "5823"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7775207762,
+      "name": "南茂科技",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7756312,
+      "lng": 121.0018433
+    },
+    {
+      "id": 7775207763,
+      "name": "原相科技",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7740727,
+      "lng": 121.0006682
+    },
+    {
+      "id": 7775207764,
+      "name": "普生科技",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7750393,
+      "lng": 120.9991217
+    },
+    {
+      "id": 7775207765,
+      "name": "聯電6A廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7758503,
+      "lng": 120.9978942
+    },
+    {
+      "id": 7775207766,
+      "name": "義隆電子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7771009,
+      "lng": 120.9963934
+    },
+    {
+      "id": 7775207767,
+      "name": "研新二路西二門",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7787935,
+      "lng": 120.9916018
+    },
+    {
+      "id": 7775207771,
+      "name": "茂矽電子",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7763783,
+      "lng": 120.9883038
+    },
+    {
+      "id": 7775207772,
+      "name": "台積三廠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7744579,
+      "lng": 120.9907086
+    },
+    {
+      "id": 7775207773,
+      "name": "聯亞氣體",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7753535,
+      "lng": 120.9925525
+    },
+    {
+      "id": 7775207774,
+      "name": "興業二路停車場",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.777784,
+      "lng": 120.9911011
+    },
+    {
+      "id": 12744712250,
+      "name": "新豐宮",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7307403,
+      "lng": 120.9647839
+    },
+    {
+      "id": 12744712251,
+      "name": "寶深路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7301592,
+      "lng": 120.9564014,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712252,
+      "name": "寶斗路口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7300174,
+      "lng": 120.9537825
+    },
+    {
+      "id": 12744712253,
+      "name": "福德祠",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.732539,
+      "lng": 120.9448553,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712254,
+      "name": "深井村活動中心",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7420776,
+      "lng": 120.9601158,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712255,
+      "name": "鍾厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7403715,
+      "lng": 120.9579409,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712256,
+      "name": "神達社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7496867,
+      "lng": 120.9679848,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712257,
+      "name": "吉利山莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7603498,
+      "lng": 120.9793667,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712258,
+      "name": "彤雲社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7616875,
+      "lng": 120.9839441,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712259,
+      "name": "周厝",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7520374,
+      "lng": 120.9694045,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712260,
+      "name": "鄉公所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7656222,
+      "lng": 120.9910268,
+      "routes": [
+        "0505",
+        "0506",
+        "0507",
+        "0508"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712261,
+      "name": "茗園社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7623648,
+      "lng": 120.9857488,
+      "routes": [
+        "0508"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.684Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712262,
+      "name": "福德街口",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7659274,
+      "lng": 120.982917
+    },
+    {
+      "id": 12744712265,
+      "name": "薰衣草社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7562382,
+      "lng": 120.9814499
+    },
+    {
+      "id": 12744712266,
+      "name": "沙湖壢藝術村",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7501976,
+      "lng": 121.0445019,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712268,
+      "name": "山湖分校",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7448277,
+      "lng": 121.0400427,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712269,
+      "name": "北坑涼亭",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7392081,
+      "lng": 121.0386242,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712274,
+      "name": "莒光分部",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7371231,
+      "lng": 121.0263333,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712275,
+      "name": "寶山國小",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7409607,
+      "lng": 121.0214221,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712276,
+      "name": "寶山農會",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7336063,
+      "lng": 121.0275351,
+      "routes": [
+        "0505"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712277,
+      "name": "有謙家園",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7484877,
+      "lng": 121.0195865,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.663Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712278,
+      "name": "比佛利山莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7535127,
+      "lng": 121.0188683,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712283,
+      "name": "愛迪生山莊",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7562369,
+      "lng": 121.0197502,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712288,
+      "name": "安居社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7488586,
+      "lng": 121.0091071,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712289,
+      "name": "家園社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7530288,
+      "lng": 121.0097494,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712290,
+      "name": "萊茵別墅",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7555921,
+      "lng": 121.0066859,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712291,
+      "name": "天翠社區",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7533574,
+      "lng": 121.0082612,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712292,
+      "name": "衛生所",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7670057,
+      "lng": 120.9947529,
+      "routes": [
+        "0505",
+        "0507"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12744712293,
+      "name": "雙豐路",
+      "type": "bus",
+      "city": "新竹縣",
+      "district": "寶山鄉",
+      "lat": 24.7683834,
+      "lng": 120.988366,
+      "routes": [
+        "0505",
+        "0506"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.664Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376530000A_000043",
+      "name": "潮州市民農園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.551617,
+      "lng": 120.566185,
+      "source": "tdx",
+      "sourceId": "C1_376530000A_000043",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "屏東縣920潮州鎮泗林里通潮三巷21號"
+    },
+    {
+      "id": "coa:302",
+      "name": "不一樣鱷魚生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.564167,
+      "lng": 120.518611,
+      "source": "coa",
+      "sourceId": "302",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣潮州鎮太平路600巷108號",
+      "phone": "0911-746-860"
+    },
+    {
+      "id": "coa:376",
+      "name": "沐雨鍾林生態心靈休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.531389,
+      "lng": 120.574444,
+      "source": "coa",
+      "sourceId": "376",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣潮州鎮潮義路465巷52號",
+      "phone": "0988-958-560"
+    },
+    {
+      "id": "coa:491",
+      "name": "太陽好事休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.564128,
+      "lng": 120.512534,
+      "source": "coa",
+      "sourceId": "491",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣潮州鎮潮州路760號",
+      "phone": "08-7800119"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "city": "屏東縣",
+  "district": "林邊鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 6,
+  "items": [
+    {
+      "id": 1021638434,
+      "name": "林邊",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.4314927,
+      "lng": 120.5150275
+    },
+    {
+      "id": 4894805010,
+      "name": "涵仔口",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.447209,
+      "lng": 120.5041489,
+      "routes": [
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895249108,
+      "name": "林邊國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.4321558,
+      "lng": 120.5194214,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895249113,
+      "name": "林邊",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.4335814,
+      "lng": 120.5158433,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4895249118,
+      "name": "仁和國小",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.43809,
+      "lng": 120.5120439,
+      "routes": [
+        "9117",
+        "9117A",
+        "9188"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.839Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6373077748,
+      "name": "公車站",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "林邊鄉",
+      "lat": 22.4311874,
+      "lng": 120.515893
+    }
+  ]
+}

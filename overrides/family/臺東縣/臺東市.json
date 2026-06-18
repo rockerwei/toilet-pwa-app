@@ -1,0 +1,37 @@
+{
+  "city": "臺東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:171",
+      "name": "卑南休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.775836,
+      "lng": 121.139414,
+      "source": "coa",
+      "sourceId": "171",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣臺東市永安街180巷38弄16號",
+      "phone": "08-923-1899"
+    },
+    {
+      "id": "coa:533",
+      "name": "碧海星辰休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.789167,
+      "lng": 121.164444,
+      "source": "coa",
+      "sourceId": "533",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣臺東市松江路二段808號",
+      "phone": "0927-749471"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "city": "新北市",
+  "category": "toilets",
+  "updatedAt": "2026-06-14T06:50:47.081Z",
+  "items": [
+    {
+      "id": 443054019,
+      "name": "林口三井 Outlet 一館",
+      "lat": 25.0703164,
+      "lng": 121.3656338,
+      "address": null,
+      "hasBabyChanging": true,
+      "hasAccessible": false,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-14T06:50:47.081Z",
+      "facilityType": "department",
+      "facilityLabel": "🏬 百貨",
+      "changingTable": true,
+      "wheelchair": false,
+      "needsAddr": false
+    },
+    {
+      "id": 443054016,
+      "name": "林口三井 Outlet 一館",
+      "lat": 25.0707618,
+      "lng": 121.363915,
+      "address": null,
+      "hasBabyChanging": true,
+      "hasAccessible": false,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-14T06:50:47.081Z",
+      "facilityType": "department",
+      "facilityLabel": "🏬 百貨",
+      "changingTable": true,
+      "wheelchair": false,
+      "needsAddr": false
+    },
+    {
+      "id": 1310980937,
+      "name": "林口三井 Outlet 二館",
+      "lat": 25.0684155,
+      "lng": 121.3645708,
+      "address": null,
+      "hasBabyChanging": true,
+      "hasAccessible": false,
+      "source": "OpenStreetMap",
+      "updatedAt": "2026-06-14T06:50:47.081Z",
+      "facilityType": "department",
+      "facilityLabel": "🏬 百貨",
+      "changingTable": true,
+      "wheelchair": false,
+      "needsAddr": false
+    }
+  ]
+}

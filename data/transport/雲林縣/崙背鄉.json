@@ -1,0 +1,299 @@
+{
+  "city": "雲林縣",
+  "district": "崙背鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 16,
+  "items": [
+    {
+      "id": 6457050152,
+      "name": "羅厝1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.757703,
+      "lng": 120.3654331,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6457050166,
+      "name": "羅厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7566425,
+      "lng": 120.3691265,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6457050172,
+      "name": "東興國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7554138,
+      "lng": 120.3738847,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6457050175,
+      "name": "港尾",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7543323,
+      "lng": 120.379225,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6457062602,
+      "name": "崙背",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7607642,
+      "lng": 120.3546184,
+      "routes": [
+        "1636B",
+        "1637",
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7112",
+        "7136",
+        "7136A",
+        "7701",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6457062618,
+      "name": "新起寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.759171,
+      "lng": 120.3603905,
+      "routes": [
+        "7101",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458531406,
+      "name": "華濟醫院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7584296,
+      "lng": 120.3063843
+    },
+    {
+      "id": 6458531408,
+      "name": "大有",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7601456,
+      "lng": 120.3093722,
+      "routes": [
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701",
+        "9016",
+        "9016B"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458531415,
+      "name": "大有廟口",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7589587,
+      "lng": 120.3077589,
+      "routes": [
+        "1636B",
+        "1637"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.172Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458531429,
+      "name": "五塊厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7672645,
+      "lng": 120.3250323,
+      "routes": [
+        "1636B",
+        "1637",
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6458531433,
+      "name": "鹽園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7669699,
+      "lng": 120.3385681,
+      "routes": [
+        "7012",
+        "7101",
+        "7103",
+        "7104",
+        "7104A",
+        "7701"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464001531,
+      "name": "崙背加油站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7611128,
+      "lng": 120.3588898,
+      "routes": [
+        "7012"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.313Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464001533,
+      "name": "水汴頭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7611766,
+      "lng": 120.3796273,
+      "routes": [
+        "1636B",
+        "1637",
+        "7012",
+        "7103",
+        "7112",
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464033238,
+      "name": "崙前",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7550934,
+      "lng": 120.3515419,
+      "routes": [
+        "7136",
+        "7136A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.314Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6464033240,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7572243,
+      "lng": 120.352014
+    },
+    {
+      "id": 7713227333,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "崙背鄉",
+      "lat": 23.7611435,
+      "lng": 120.36616
+    }
+  ]
+}

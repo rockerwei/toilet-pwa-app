@@ -1,0 +1,39 @@
+{
+  "_generated": "2026-06-16",
+  "_note": "官方來源 Candidate Report (TDX ScenicSpot v2)。分析用途，不得直接匯入正式 family 資料。",
+  "source": "TDX ScenicSpot /api/basic/v2/Tourism/ScenicSpot",
+  "total_tdx_records": 4961,
+  "result": {
+    "matched_existing": 547,
+    "new_candidates_priority": 235,
+    "new_candidates_other": 3371,
+    "rejected_noise": 808,
+    "no_position": 0
+  },
+  "class1_breakdown": {
+    "": 1211,
+    "自然風景類": 524,
+    "遊憩類": 474,
+    "其他": 356,
+    "文化類": 305,
+    "生態類": 141,
+    "休閒農業類": 123,
+    "觀光工廠類": 106,
+    "體育健身類": 82,
+    "國家風景區類": 69,
+    "古蹟類": 66,
+    "藝術類": 56,
+    "溫泉類": 26,
+    "都會公園類": 25,
+    "國家公園類": 20,
+    "小吃/特產類": 16,
+    "森林遊樂區類": 4,
+    "林場類": 2
+  },
+  "existing_family_count": 8370,
+  "attempted_sources": {
+    "農業部休閒農場名錄": "API 回傳空陣列 (多端點嘗試失敗)，改用 TDX 休閒農業類代替",
+    "觀光工廠名錄": "API 回傳 HTML/404 (端點已停用)，改用 TDX 觀光工廠類代替",
+    "TDX ScenicSpot": "成功取得 4,961 筆 (2026-06-16)"
+  }
+}

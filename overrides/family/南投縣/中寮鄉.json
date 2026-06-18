@@ -1,0 +1,37 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:217",
+      "name": "愛鄉休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.991152,
+      "lng": 120.781293,
+      "source": "coa",
+      "sourceId": "217",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣中寮鄉永平村愛鄉巷39-6號",
+      "phone": "049-2692649"
+    },
+    {
+      "id": "coa:438",
+      "name": "月桃香休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.921349,
+      "lng": 120.81245,
+      "source": "coa",
+      "sourceId": "438",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣中寮鄉內城村10鄰月桃巷81-1號",
+      "phone": "0963-101481"
+    }
+  ]
+}

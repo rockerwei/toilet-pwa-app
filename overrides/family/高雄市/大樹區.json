@@ -1,0 +1,37 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:301",
+      "name": "農友種苗休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.676543,
+      "lng": 120.423412,
+      "source": "coa",
+      "sourceId": "301",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "高雄市大樹區竹寮路114-6號",
+      "phone": "07-651-9668"
+    },
+    {
+      "id": "coa:330",
+      "name": "華一休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.799278,
+      "lng": 120.405278,
+      "source": "coa",
+      "sourceId": "330",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "高雄市大樹區和山路198號",
+      "phone": "07-815-5666"
+    }
+  ]
+}

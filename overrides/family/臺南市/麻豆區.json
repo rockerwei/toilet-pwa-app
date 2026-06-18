@@ -1,0 +1,22 @@
+{
+  "city": "臺南市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:209",
+      "name": "吉園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.216335,
+      "lng": 120.264219,
+      "source": "coa",
+      "sourceId": "209",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺南市麻豆區南勢里總爺104-1號",
+      "phone": "06-572-7689"
+    }
+  ]
+}

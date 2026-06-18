@@ -1,0 +1,532 @@
+{
+  "city": "雲林縣",
+  "district": "虎尾鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 33,
+  "items": [
+    {
+      "id": 3870631861,
+      "name": "雲林",
+      "type": "hsr",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7365203,
+      "lng": 120.4161577,
+      "systems": [
+        "高鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.180Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4577261881,
+      "name": "虎尾高中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.709665,
+      "lng": 120.4420255,
+      "routes": [
+        "7102",
+        "7124",
+        "7124B",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4577261883,
+      "name": "虎尾分局",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7093912,
+      "lng": 120.4448083,
+      "routes": [
+        "7102",
+        "7124",
+        "7124B",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4577261885,
+      "name": "平和國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7071865,
+      "lng": 120.450156,
+      "routes": [
+        "7102",
+        "7102A",
+        "7124",
+        "7124B",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.324Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4577262017,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7038073,
+      "lng": 120.4570781
+    },
+    {
+      "id": 4577262018,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7043893,
+      "lng": 120.4552743
+    },
+    {
+      "id": 4577298556,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7030024,
+      "lng": 120.4275245
+    },
+    {
+      "id": 4577298560,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7095455,
+      "lng": 120.4343826
+    },
+    {
+      "id": 4577298561,
+      "name": "雲林布袋戲館",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7093956,
+      "lng": 120.4338605,
+      "routes": [
+        "Y02"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.182Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4577298570,
+      "name": "虎尾圓環",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7102591,
+      "lng": 120.4368855,
+      "routes": [
+        "7102",
+        "7102A",
+        "7124",
+        "7124B",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.325Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580609852,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.696406,
+      "lng": 120.4228122
+    },
+    {
+      "id": 4584181051,
+      "name": "雲林二監",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7107682,
+      "lng": 120.4068143,
+      "routes": [
+        "7111",
+        "7111A",
+        "7123B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4586560273,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.6817368,
+      "lng": 120.4059128
+    },
+    {
+      "id": 5517685906,
+      "name": "虎尾",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.70411,
+      "lng": 120.4365564
+    },
+    {
+      "id": 5793451916,
+      "name": "臺大虎尾分院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.735741,
+      "lng": 120.426552,
+      "routes": [
+        "201",
+        "7101",
+        "7102",
+        "7102A",
+        "7102B",
+        "7103",
+        "7104",
+        "7104A",
+        "7112",
+        "7117",
+        "7118",
+        "7120",
+        "7122",
+        "7701"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451920,
+      "name": "墾地里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7291228,
+      "lng": 120.3960941,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451922,
+      "name": "持法媽祖宮(頂溪)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.735895,
+      "lng": 120.463043,
+      "routes": [
+        "201"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451925,
+      "name": "北溪厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7075609,
+      "lng": 120.4018957,
+      "routes": [
+        "301",
+        "7111",
+        "7111A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451945,
+      "name": "高鐵雲林站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7368467,
+      "lng": 120.4167676,
+      "routes": [
+        "201",
+        "202",
+        "301",
+        "1666",
+        "1666A",
+        "7101",
+        "7102",
+        "7102A",
+        "7102B",
+        "7103",
+        "7104",
+        "7112",
+        "7117",
+        "7118",
+        "7120",
+        "7122",
+        "7701",
+        "Y02"
+      ],
+      "routeCount": 18,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5793451951,
+      "name": "虎尾惠來",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.73164,
+      "lng": 120.49179,
+      "routes": [
+        "201"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6449348542,
+      "name": "溪底仔",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7323315,
+      "lng": 120.5009463,
+      "routes": [
+        "7123",
+        "7123A",
+        "7123B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.326Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6452489769,
+      "name": "虎尾農工",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7151303,
+      "lng": 120.4367329,
+      "routes": [
+        "7101",
+        "7112",
+        "7117",
+        "7118",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6452580517,
+      "name": "興中",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7243831,
+      "lng": 120.4343283,
+      "routes": [
+        "7101",
+        "7112",
+        "7117",
+        "7118",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6466319196,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7105626,
+      "lng": 120.4411733
+    },
+    {
+      "id": 6466319211,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7140154,
+      "lng": 120.4383007
+    },
+    {
+      "id": 6469107645,
+      "name": "隨益村",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7222419,
+      "lng": 120.4868352,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469107651,
+      "name": "惠來厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7287493,
+      "lng": 120.4889136,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.183Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469107653,
+      "name": "惠來公墓",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7250633,
+      "lng": 120.4878947,
+      "routes": [
+        "7124A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469107662,
+      "name": "溪底",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7389169,
+      "lng": 120.4928775,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.183Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076716,
+      "name": "泰安宮(光復莊)",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7422408,
+      "lng": 120.3870297,
+      "routes": [
+        "202"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143105839,
+      "name": "北溪厝土地公廟",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.709782,
+      "lng": 120.396826,
+      "routes": [
+        "301",
+        "1666",
+        "1666A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11629563043,
+      "name": "後壁寮旗",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.7133053,
+      "lng": 120.4206443
+    },
+    {
+      "id": 13478283796,
+      "name": "東屯",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "虎尾鎮",
+      "lat": 23.702947,
+      "lng": 120.3930491,
+      "routes": [
+        "7111",
+        "7111A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.327Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "city": "屏東縣",
+  "district": "三地門鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 3,
+  "items": [
+    {
+      "id": 6819203351,
+      "name": "三地鄉公所",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "三地門鄉",
+      "lat": 22.7157735,
+      "lng": 120.6542507,
+      "routes": [
+        "603A",
+        "8227",
+        "8233",
+        "幸福三地門1路",
+        "幸福三地門3路",
+        "幸福霧臺1路"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.786Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203352,
+      "name": "三地村",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "三地門鄉",
+      "lat": 22.7125101,
+      "lng": 120.6522927,
+      "routes": [
+        "8227",
+        "8233"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.786Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6819203354,
+      "name": "三地仙公廟",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "三地門鄉",
+      "lat": 22.7153863,
+      "lng": 120.6454155
+    }
+  ]
+}

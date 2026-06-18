@@ -1,0 +1,35 @@
+{
+  "city": "臺東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:554",
+      "name": "電光米棧休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.994444,
+      "lng": 121.1825,
+      "source": "coa",
+      "sourceId": "554",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣關山鎮電光里13鄰南興26號"
+    },
+    {
+      "id": "coa:567",
+      "name": "關山鎮農會休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.949278,
+      "lng": 121.164444,
+      "source": "coa",
+      "sourceId": "567",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣關山鎮豐泉里8鄰昌林25之3號"
+    }
+  ]
+}

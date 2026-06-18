@@ -1,0 +1,764 @@
+{
+  "city": "花蓮縣",
+  "district": "秀林鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 55,
+  "items": [
+    {
+      "id": 2293319156,
+      "name": "燕子口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1726824,
+      "lng": 121.5668667,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2293321710,
+      "name": "慈母橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1780122,
+      "lng": 121.5192222
+    },
+    {
+      "id": 2372855040,
+      "name": "天祥",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.182448,
+      "lng": 121.494172,
+      "routes": [
+        "302",
+        "1133"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373071,
+      "name": "文蘭",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 23.9490776,
+      "lng": 121.5062101,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373073,
+      "name": "榕樹",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 23.9566916,
+      "lng": 121.5082612,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2572304302,
+      "name": "太魯閣國家公園管理處",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1586998,
+      "lng": 121.6217151
+    },
+    {
+      "id": 3270619950,
+      "name": "三棧橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1000676,
+      "lng": 121.6086933,
+      "routes": [
+        "302A",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620663,
+      "name": "可樂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1439548,
+      "lng": 121.6319789,
+      "routes": [
+        "302",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620664,
+      "name": "富世國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1478811,
+      "lng": 121.6286881,
+      "routes": [
+        "302",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620665,
+      "name": "太魯閣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1538526,
+      "lng": 121.6233692,
+      "routes": [
+        "302",
+        "310",
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1141A"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270620666,
+      "name": "砂卡噹",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1617531,
+      "lng": 121.6128518
+    },
+    {
+      "id": 3270620667,
+      "name": "長春隧道西口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1643028,
+      "lng": 121.6061707
+    },
+    {
+      "id": 3270634483,
+      "name": "溪畔",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1762583,
+      "lng": 121.5836538,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270634484,
+      "name": "合流露營區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1781341,
+      "lng": 121.5125908,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270634485,
+      "name": "慈母橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1774433,
+      "lng": 121.5177291
+    },
+    {
+      "id": 3270634486,
+      "name": "九曲洞",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1718121,
+      "lng": 121.529819,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270634487,
+      "name": "綠水",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1788882,
+      "lng": 121.5079755,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3270634489,
+      "name": "文山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1988249,
+      "lng": 121.4921547
+    },
+    {
+      "id": 3270634490,
+      "name": "谷園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.2093945,
+      "lng": 121.4872631
+    },
+    {
+      "id": 3270634491,
+      "name": "西寶",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.2023858,
+      "lng": 121.4846721
+    },
+    {
+      "id": 3270634492,
+      "name": "薛家場",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1987514,
+      "lng": 121.4688828
+    },
+    {
+      "id": 3270634493,
+      "name": "洛韶",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.2066166,
+      "lng": 121.4510341
+    },
+    {
+      "id": 3280769249,
+      "name": "銅門",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 23.9654537,
+      "lng": 121.4946742,
+      "routes": [
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280777607,
+      "name": "富世村界",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1552007,
+      "lng": 121.6289542,
+      "routes": [
+        "1132",
+        "1132A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280777608,
+      "name": "祟德社區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1532945,
+      "lng": 121.6490314
+    },
+    {
+      "id": 3280777609,
+      "name": "祟德教會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1584211,
+      "lng": 121.6507751
+    },
+    {
+      "id": 3280777610,
+      "name": "祟德國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.161719,
+      "lng": 121.6519986
+    },
+    {
+      "id": 3280777611,
+      "name": "祟德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1679178,
+      "lng": 121.6536816
+    },
+    {
+      "id": 3280822605,
+      "name": "民治社區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1289239,
+      "lng": 121.6359547,
+      "routes": [
+        "302A",
+        "1136"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280822606,
+      "name": "秀林教會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1251675,
+      "lng": 121.6320959,
+      "routes": [
+        "302A",
+        "1136"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280822607,
+      "name": "秀林",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1217836,
+      "lng": 121.6285834,
+      "routes": [
+        "302A",
+        "1136"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280822608,
+      "name": "秀林鄉公所",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1176575,
+      "lng": 121.625266,
+      "routes": [
+        "302A",
+        "1136"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280822609,
+      "name": "民享",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1138875,
+      "lng": 121.6217209,
+      "routes": [
+        "1136"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283637345,
+      "name": "慈恩",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1903254,
+      "lng": 121.3884812
+    },
+    {
+      "id": 3283643401,
+      "name": "大禹嶺",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1806631,
+      "lng": 121.3112096
+    },
+    {
+      "id": 3949466802,
+      "name": "和平",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.2978451,
+      "lng": 121.754702
+    },
+    {
+      "id": 3951206309,
+      "name": "和仁",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.2415832,
+      "lng": 121.7124635
+    },
+    {
+      "id": 3951206310,
+      "name": "崇德",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1717336,
+      "lng": 121.6556882
+    },
+    {
+      "id": 3951206311,
+      "name": "景美",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0903947,
+      "lng": 121.610607
+    },
+    {
+      "id": 4335551491,
+      "name": "長春祠",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1616631,
+      "lng": 121.6042905,
+      "routes": [
+        "302"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.087Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4335567290,
+      "name": "布洛灣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1704419,
+      "lng": 121.5735551
+    },
+    {
+      "id": 4670543027,
+      "name": "松雪樓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1419762,
+      "lng": 121.2843233,
+      "routes": [
+        "6658A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5107553017,
+      "name": "大禹嶺",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1807763,
+      "lng": 121.3098356
+    },
+    {
+      "id": 6807160561,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0786884,
+      "lng": 121.6092311
+    },
+    {
+      "id": 6807160562,
+      "name": "加灣",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0814861,
+      "lng": 121.6097152,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6807160566,
+      "name": "東帥藝品店",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0708226,
+      "lng": 121.608,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7126035007,
+      "name": "和平",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.3081631,
+      "lng": 121.748199
+    },
+    {
+      "id": 9482723683,
+      "name": "玩味蕃樂園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0719123,
+      "lng": 121.608189,
+      "routes": [
+        "310"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9482754003,
+      "name": "台泥DK園區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.3013209,
+      "lng": 121.7508893
+    },
+    {
+      "id": 12270458071,
+      "name": "崇德國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1622773,
+      "lng": 121.6521156,
+      "routes": [
+        "1132",
+        "1132A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458072,
+      "name": "崇德教會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1583372,
+      "lng": 121.650643,
+      "routes": [
+        "1132",
+        "1132A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458079,
+      "name": "景美",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0896452,
+      "lng": 121.612376,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12270458080,
+      "name": "南三棧",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.0949536,
+      "lng": 121.6136795,
+      "routes": [
+        "1129",
+        "1132",
+        "1132A",
+        "1133",
+        "1136",
+        "1141A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.177Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13676576677,
+      "name": "小風口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1627459,
+      "lng": 121.2880493,
+      "routes": [
+        "6658A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.088Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1274798677,
+      "name": "客運站",
+      "type": "bus_station",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "lat": 24.1176818,
+      "lng": 121.6253012
+    }
+  ]
+}

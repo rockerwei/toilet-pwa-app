@@ -1,0 +1,1335 @@
+{
+  "city": "宜蘭縣",
+  "district": "蘇澳鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 76,
+  "items": [
+    {
+      "id": 3201143647,
+      "name": "南澳火車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.4637776,
+      "lng": 121.8006132,
+      "routes": [
+        "東澳線（紫線）A",
+        "南澳線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.774Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3949466804,
+      "name": "永樂",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5683884,
+      "lng": 121.8445574
+    },
+    {
+      "id": 3951206308,
+      "name": "南澳",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.463079,
+      "lng": 121.8013418
+    },
+    {
+      "id": 3951206313,
+      "name": "蘇澳新",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6082494,
+      "lng": 121.828149
+    },
+    {
+      "id": 4032983689,
+      "name": "南方澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5854753,
+      "lng": 121.8644859
+    },
+    {
+      "id": 4032983974,
+      "name": "蘇澳",
+      "type": "train",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5951769,
+      "lng": 121.8514536
+    },
+    {
+      "id": 4405132792,
+      "name": "江夏路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5820019,
+      "lng": 121.8652577,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "綠28"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.775Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4405132891,
+      "name": "南興里",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5814839,
+      "lng": 121.8675705,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "綠28"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.775Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4405318694,
+      "name": "進安宮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5839994,
+      "lng": 121.8649404,
+      "routes": [
+        "121",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "1879",
+        "1879C",
+        "南方澳線（藍線）",
+        "綠28"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.775Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4405337190,
+      "name": "南方澳",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5807731,
+      "lng": 121.8703213,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.775Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4562063322,
+      "name": "蘇澳轉運站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5954331,
+      "lng": 121.8527059,
+      "routes": [
+        "121",
+        "243",
+        "243A",
+        "243B",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "1799",
+        "1879",
+        "1879C",
+        "1918",
+        "9028",
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "南方澳線（藍線）",
+        "紅2",
+        "綠28",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5542631971,
+      "name": "昆明路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5903537,
+      "lng": 121.8509103,
+      "routes": [
+        "1799"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5785405205,
+      "name": "南澳鄉公所",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.4651561,
+      "lng": 121.8028745
+    },
+    {
+      "id": 5787444468,
+      "name": "豆腐岬風景區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5851855,
+      "lng": 121.8720272,
+      "routes": [
+        "綠28"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.150Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787444470,
+      "name": "福安新村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5792731,
+      "lng": 121.8713701,
+      "routes": [
+        "南方澳線（藍線）",
+        "綠28"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787444471,
+      "name": "南建購物中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5774925,
+      "lng": 121.8689078,
+      "routes": [
+        "南方澳線（藍線）",
+        "綠28"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787444472,
+      "name": "內埤海邊",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5784242,
+      "lng": 121.8701363,
+      "routes": [
+        "綠28"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.151Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787444473,
+      "name": "南寧市場",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5808122,
+      "lng": 121.8703052,
+      "routes": [
+        "南方澳線（藍線）",
+        "綠28"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575262,
+      "name": "聖湖",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5964875,
+      "lng": 121.8382099,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "1799",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575264,
+      "name": "榮民醫院門診部",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5964412,
+      "lng": 121.8393713,
+      "routes": [
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575266,
+      "name": "蘇澳國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.595929,
+      "lng": 121.8411322,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "1799",
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "紅2",
+        "綠28",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.776Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575269,
+      "name": "湧泉",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5955876,
+      "lng": 121.8445574,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "1799",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.777Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575272,
+      "name": "建生醫院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5956973,
+      "lng": 121.8461694
+    },
+    {
+      "id": 5787575273,
+      "name": "加油站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.595968,
+      "lng": 121.8478551
+    },
+    {
+      "id": 5787575274,
+      "name": "市場口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5956683,
+      "lng": 121.8502502,
+      "routes": [
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "南方澳線（藍線）",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.152Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5787575275,
+      "name": "中山路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5959534,
+      "lng": 121.8505374
+    },
+    {
+      "id": 5787575279,
+      "name": "蘇澳港",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5963168,
+      "lng": 121.8559179,
+      "routes": [
+        "243",
+        "243A",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1791",
+        "綠28"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.777Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5790088566,
+      "name": "聖愛里",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5996701,
+      "lng": 121.8341383,
+      "routes": [
+        "422",
+        "471",
+        "1766",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.777Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5791275224,
+      "name": "蘇澳新站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6075764,
+      "lng": 121.827186,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5791275225,
+      "name": "蘇澳新站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6088518,
+      "lng": 121.8267918,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5791275229,
+      "name": "軍人忠烈祠",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6038843,
+      "lng": 121.8334758,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5791275233,
+      "name": "蘇澳國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5970616,
+      "lng": 121.8351755,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "1799",
+        "9028",
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "紅2",
+        "綠28"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5795978567,
+      "name": "武荖坑",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6149895,
+      "lng": 121.8138555,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5795978577,
+      "name": "安永心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6150115,
+      "lng": 121.818088,
+      "routes": [
+        "1766",
+        "1767",
+        "1767A",
+        "1879",
+        "1879C",
+        "9028",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5795978581,
+      "name": "新城",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6153529,
+      "lng": 121.820848,
+      "routes": [
+        "245",
+        "422",
+        "471",
+        "1766",
+        "1767",
+        "1767A",
+        "紅2"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.778Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6548815250,
+      "name": "蘇澳鎮運動公園",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5992149,
+      "lng": 121.8359013
+    },
+    {
+      "id": 6808038357,
+      "name": "永光活動中心",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5940669,
+      "lng": 121.8522634,
+      "routes": [
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810443355,
+      "name": "榮民醫院蘇澳分院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.614892,
+      "lng": 121.8490353,
+      "routes": [
+        "121",
+        "243",
+        "243A",
+        "243B"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810721132,
+      "name": "馬賽郵局",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6254257,
+      "lng": 121.8333887,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A",
+        "南方澳線（藍線）",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810721134,
+      "name": "馬賽街",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6303245,
+      "lng": 121.8334349
+    },
+    {
+      "id": 6810721135,
+      "name": "馬賽國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6218329,
+      "lng": 121.8344562,
+      "routes": [
+        "243",
+        "243A",
+        "243B",
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A",
+        "南方澳線（藍線）",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810721138,
+      "name": "文化國中",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6198298,
+      "lng": 121.8343998,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810721146,
+      "name": "隘界站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6188337,
+      "lng": 121.84202,
+      "routes": [
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.153Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810721148,
+      "name": "港口路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6188691,
+      "lng": 121.8426517,
+      "routes": [
+        "243",
+        "243A",
+        "243B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.779Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810744566,
+      "name": "頂寮",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6414198,
+      "lng": 121.8347821
+    },
+    {
+      "id": 6810744568,
+      "name": "育英路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6379676,
+      "lng": 121.8338057,
+      "routes": [
+        "南方澳線（藍線）"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.153Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6810744570,
+      "name": "龍德工業區",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6342117,
+      "lng": 121.8318075
+    },
+    {
+      "id": 6816746873,
+      "name": "頂寮國姓廟",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6450132,
+      "lng": 121.8326899,
+      "routes": [
+        "南方澳線（藍線）"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.153Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816746879,
+      "name": "育英",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6392231,
+      "lng": 121.8320301,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816750785,
+      "name": "福德路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6415904,
+      "lng": 121.8309009,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816750788,
+      "name": "龍德里",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6443721,
+      "lng": 121.8296644,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816750799,
+      "name": "龍德喜互惠",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6471963,
+      "lng": 121.828562,
+      "routes": [
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.153Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6816750801,
+      "name": "區界",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6475096,
+      "lng": 121.8283957,
+      "routes": [
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7126498769,
+      "name": "蘇澳站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5985702,
+      "lng": 121.8341571
+    },
+    {
+      "id": 7590880747,
+      "name": "岳明新村",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6101447,
+      "lng": 121.8579936,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A",
+        "南方澳線（藍線）"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7590933381,
+      "name": "岳明國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6127632,
+      "lng": 121.8526556,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7590933383,
+      "name": "港邊里",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6115677,
+      "lng": 121.85513,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8357323611,
+      "name": "隘界路(永愛新村)",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.619308,
+      "lng": 121.8383521,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.780Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8357323678,
+      "name": "榮總蘇澳分院",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6136715,
+      "lng": 121.8518168,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8357323680,
+      "name": "港口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.619486,
+      "lng": 121.8475044,
+      "routes": [
+        "421A",
+        "472",
+        "1797",
+        "1797A",
+        "南方澳線（藍線）"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8357323703,
+      "name": "馬賽街",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6229997,
+      "lng": 121.8343583,
+      "routes": [
+        "243",
+        "243A",
+        "243B",
+        "421A",
+        "472",
+        "1791",
+        "1797",
+        "1797A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214658,
+      "name": "第一銀行",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5960168,
+      "lng": 121.8534207,
+      "routes": [
+        "南方澳線（藍線）"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.153Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214663,
+      "name": "聖愛路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6047134,
+      "lng": 121.8373436,
+      "routes": [
+        "1791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214665,
+      "name": "隘丁嶺橋",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6126242,
+      "lng": 121.8378022,
+      "routes": [
+        "1791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214667,
+      "name": "隘丁",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6152468,
+      "lng": 121.8352796,
+      "routes": [
+        "1791",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214669,
+      "name": "仁愛路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6169781,
+      "lng": 121.8342577,
+      "routes": [
+        "1791"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481214700,
+      "name": "瑞明眼科",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5957388,
+      "lng": 121.847493,
+      "routes": [
+        "東澳線（紫線）",
+        "東澳線（紫線）A",
+        "南方澳線（藍線）",
+        "蘇澳線（綠線）"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.154Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481231324,
+      "name": "加油站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.59569,
+      "lng": 121.8460903
+    },
+    {
+      "id": 9481736819,
+      "name": "海山西路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6147237,
+      "lng": 121.8292165,
+      "routes": [
+        "243",
+        "243A",
+        "243B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481736821,
+      "name": "祥和路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6173329,
+      "lng": 121.831094,
+      "routes": [
+        "243",
+        "243A",
+        "243B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481736823,
+      "name": "和平站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6196079,
+      "lng": 121.8381482
+    },
+    {
+      "id": 9481736824,
+      "name": "和平信義路口",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.619575,
+      "lng": 121.8382032,
+      "routes": [
+        "243",
+        "243A",
+        "243B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.781Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9481736827,
+      "name": "馬賽國小",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.620938,
+      "lng": 121.835352
+    },
+    {
+      "id": 9481736829,
+      "name": "馬賽路",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.6194787,
+      "lng": 121.8288061,
+      "routes": [
+        "243",
+        "243A",
+        "243B",
+        "1879",
+        "1879C",
+        "1918"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.782Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13233887904,
+      "name": "公車站",
+      "type": "bus",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5959709,
+      "lng": 121.8487915
+    },
+    {
+      "id": 400785731,
+      "name": "國光客運南方澳轉運站",
+      "type": "bus_station",
+      "city": "宜蘭縣",
+      "district": "蘇澳鎮",
+      "lat": 24.5855145,
+      "lng": 121.8645681,
+      "routes": [
+        "紅2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.782Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

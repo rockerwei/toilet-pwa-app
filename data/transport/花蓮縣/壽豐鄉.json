@@ -1,0 +1,1050 @@
+{
+  "city": "花蓮縣",
+  "district": "壽豐鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 72,
+  "items": [
+    {
+      "id": 289125315,
+      "name": "豐田",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8485329,
+      "lng": 121.4959813
+    },
+    {
+      "id": 289125343,
+      "name": "壽豐",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.868919,
+      "lng": 121.5108113
+    },
+    {
+      "id": 289125508,
+      "name": "志學",
+      "type": "train",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9078171,
+      "lng": 121.5292809
+    },
+    {
+      "id": 2037694336,
+      "name": "志學站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9070671,
+      "lng": 121.5301046,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2119244571,
+      "name": "豐山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8473802,
+      "lng": 121.4945204
+    },
+    {
+      "id": 2569373074,
+      "name": "玉山神學院",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9338886,
+      "lng": 121.506182,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2569373084,
+      "name": "鯉魚潭",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9287988,
+      "lng": 121.5057178
+    },
+    {
+      "id": 2667349198,
+      "name": "光榮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8846213,
+      "lng": 121.5140563,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.075Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349205,
+      "name": "卡拉島",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9134213,
+      "lng": 121.5060272
+    },
+    {
+      "id": 2667349210,
+      "name": "壽文路",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8775012,
+      "lng": 121.5135094,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349212,
+      "name": "壽豐",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8727472,
+      "lng": 121.5126341,
+      "routes": [
+        "1121",
+        "1122",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349221,
+      "name": "彌陀聖寺",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8977238,
+      "lng": 121.5096805,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349231,
+      "name": "池南",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9209451,
+      "lng": 121.5059649,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349235,
+      "name": "白鮑溪橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.889856,
+      "lng": 121.510636,
+      "routes": [
+        "303",
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2667349286,
+      "name": "重光",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.89343,
+      "lng": 121.5089739,
+      "routes": [
+        "1139",
+        "1139B",
+        "1139C"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266677035,
+      "name": "溪口療養園區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8143409,
+      "lng": 121.4600453
+    },
+    {
+      "id": 3266677047,
+      "name": "豐田",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8426159,
+      "lng": 121.4914808,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.075Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266678773,
+      "name": "溪口",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8191307,
+      "lng": 121.4745829,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266678775,
+      "name": "溪口中社",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8219574,
+      "lng": 121.4770291,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266679920,
+      "name": "大樹腳",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.831919,
+      "lng": 121.4838419,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266682316,
+      "name": "安養中心",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8953611,
+      "lng": 121.5267465
+    },
+    {
+      "id": 3266683802,
+      "name": "代天宮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9117513,
+      "lng": 121.5314994,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266684286,
+      "name": "共榮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.876369,
+      "lng": 121.5172837,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266684296,
+      "name": "平和",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8832167,
+      "lng": 121.5222082,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266688171,
+      "name": "水尾甲",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9003539,
+      "lng": 121.5281144,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266688695,
+      "name": "烏杙",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9169052,
+      "lng": 121.5330444,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.075Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3266690661,
+      "name": "木瓜溪橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9241529,
+      "lng": 121.5354905,
+      "routes": [
+        "1121",
+        "1122"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756144,
+      "name": "豐田火車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8479732,
+      "lng": 121.4960987,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756145,
+      "name": "壽豐國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8474433,
+      "lng": 121.4977069
+    },
+    {
+      "id": 3280756146,
+      "name": "豐裡國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8414179,
+      "lng": 121.507637,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756147,
+      "name": "怡園渡假村",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8431152,
+      "lng": 121.5226207,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756148,
+      "name": "米棧大橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8370623,
+      "lng": 121.5371781,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756149,
+      "name": "上月眉",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8597194,
+      "lng": 121.547522,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756150,
+      "name": "月眉國小",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8688877,
+      "lng": 121.5552951,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3280756151,
+      "name": "下月眉",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8738323,
+      "lng": 121.5606375,
+      "routes": [
+        "1128"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510027,
+      "name": "蕃薯寮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7458754,
+      "lng": 121.5548228
+    },
+    {
+      "id": 3282510028,
+      "name": "蕃薯寮坑",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7516332,
+      "lng": 121.5578209,
+      "routes": [
+        "1140"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510029,
+      "name": "牛山",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7678173,
+      "lng": 121.5609387,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.167Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510030,
+      "name": "水璉",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7836338,
+      "lng": 121.5614106,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510031,
+      "name": "水璉一街",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7847187,
+      "lng": 121.5621804,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510032,
+      "name": "水璉分校",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.787488,
+      "lng": 121.5634124,
+      "routes": [
+        "8119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510033,
+      "name": "水璉國中",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7874902,
+      "lng": 121.563375
+    },
+    {
+      "id": 3282510034,
+      "name": "12號橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8219395,
+      "lng": 121.5825201,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510035,
+      "name": "橄樹腳",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8309161,
+      "lng": 121.5859485,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3282510036,
+      "name": "橄仔樹",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8310675,
+      "lng": 121.5859246
+    },
+    {
+      "id": 3283353459,
+      "name": "北福德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8900659,
+      "lng": 121.6032994,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283362595,
+      "name": "南福德",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8806187,
+      "lng": 121.6010088,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283362921,
+      "name": "海巡班哨",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8578088,
+      "lng": 121.5962398
+    },
+    {
+      "id": 3283362969,
+      "name": "和南寺",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8751741,
+      "lng": 121.599555,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283363027,
+      "name": "海洋公園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9036672,
+      "lng": 121.603801
+    },
+    {
+      "id": 3283367501,
+      "name": "花蓮溪橋",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9228674,
+      "lng": 121.6003436,
+      "routes": [
+        "8119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283367768,
+      "name": "大坑",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9111436,
+      "lng": 121.6036454,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3283368424,
+      "name": "嶺頂",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9188366,
+      "lng": 121.6061184,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3427954476,
+      "name": "圖書館資訊大樓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.897401,
+      "lng": 121.5416927,
+      "routes": [
+        "301",
+        "1121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3427960337,
+      "name": "育成中心",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.898113,
+      "lng": 121.5440904,
+      "routes": [
+        "301",
+        "1121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3427960338,
+      "name": "東華大學",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.892203,
+      "lng": 121.5452949,
+      "routes": [
+        "301",
+        "1121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3427961631,
+      "name": "行政大樓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8939359,
+      "lng": 121.5434856,
+      "routes": [
+        "301",
+        "1121"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4485107629,
+      "name": "行政大樓",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8928598,
+      "lng": 121.5444989,
+      "routes": [
+        "301"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.080Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5268090730,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8635448,
+      "lng": 121.5230863
+    },
+    {
+      "id": 5589739684,
+      "name": "壽豐站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8748492,
+      "lng": 121.5140865
+    },
+    {
+      "id": 6802280275,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8641755,
+      "lng": 121.506815
+    },
+    {
+      "id": 6802316559,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8404342,
+      "lng": 121.4896515
+    },
+    {
+      "id": 6804600192,
+      "name": "海洋公園",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.9007602,
+      "lng": 121.6037245,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804600193,
+      "name": "大坑",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.910044,
+      "lng": 121.6034067,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804616551,
+      "name": "蕃薯寮休息區",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7470912,
+      "lng": 121.5552382
+    },
+    {
+      "id": 6804616553,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7728465,
+      "lng": 121.5562534
+    },
+    {
+      "id": 6804616554,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.771462,
+      "lng": 121.5609097
+    },
+    {
+      "id": 6804616555,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.760725,
+      "lng": 121.5587962
+    },
+    {
+      "id": 6804616560,
+      "name": "公車站",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.7938662,
+      "lng": 121.5660596
+    },
+    {
+      "id": 6804617261,
+      "name": "橄樹腳教會",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8363959,
+      "lng": 121.5875655,
+      "routes": [
+        "1140",
+        "1145"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804617264,
+      "name": "海巡防",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8578199,
+      "lng": 121.5960306,
+      "routes": [
+        "1140",
+        "1145",
+        "8119"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.168Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6804617265,
+      "name": "鹽寮",
+      "type": "bus",
+      "city": "花蓮縣",
+      "district": "壽豐鄉",
+      "lat": 23.8694786,
+      "lng": 121.5984875
+    }
+  ]
+}

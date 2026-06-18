@@ -1,0 +1,37 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:101",
+      "name": "中華民國農會休閒綜合農牧場休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.340251,
+      "lng": 120.655219,
+      "source": "coa",
+      "sourceId": "101",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市外埔區二崁路700號",
+      "phone": "04-2687-2724"
+    },
+    {
+      "id": "coa:478",
+      "name": "石頭公園生態休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.331524,
+      "lng": 120.672341,
+      "source": "coa",
+      "sourceId": "478",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺中市外埔區廍子里廍子路108號",
+      "phone": "04-26839888"
+    }
+  ]
+}

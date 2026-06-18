@@ -1,0 +1,37 @@
+{
+  "city": "臺東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:443",
+      "name": "佳崙休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.617838,
+      "lng": 121.992271,
+      "source": "coa",
+      "sourceId": "443",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣太麻里鄉大王村15鄰佳崙75號旁",
+      "phone": "08-978-2058"
+    },
+    {
+      "id": "coa:516",
+      "name": "金崙休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.535081,
+      "lng": 120.956251,
+      "source": "coa",
+      "sourceId": "516",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺東縣太麻里鄉金崙村溫泉28號",
+      "phone": "0928-298511"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:515",
+      "name": "新北市農會文山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.9312509,
+      "lng": 121.528414,
+      "source": "coa",
+      "sourceId": "515",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市新店區湖子內路100號",
+      "phone": "02-2666-7512"
+    }
+  ]
+}

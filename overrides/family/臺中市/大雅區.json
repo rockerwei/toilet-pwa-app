@@ -1,0 +1,22 @@
+{
+  "city": "臺中市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:508",
+      "name": "雅潭休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.223412,
+      "lng": 120.676543,
+      "source": "coa",
+      "sourceId": "508",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "臺中市大雅區雅潭路三段527號",
+      "phone": "0910517665"
+    }
+  ]
+}

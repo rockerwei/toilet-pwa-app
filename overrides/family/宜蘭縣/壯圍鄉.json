@@ -1,0 +1,52 @@
+{
+  "city": "宜蘭縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:255",
+      "name": "旺山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.717142,
+      "lng": 121.794215,
+      "source": "coa",
+      "sourceId": "255",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣壯圍鄉新南村新南路106-11號",
+      "phone": "0932-088-992"
+    },
+    {
+      "id": "coa:411",
+      "name": "官老爺休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.717142,
+      "lng": 121.794215,
+      "source": "coa",
+      "sourceId": "411",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣壯圍鄉新南村霧罕路3號",
+      "phone": "03-925-3517"
+    },
+    {
+      "id": "coa:525",
+      "name": "宜蘭濱海休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.761389,
+      "lng": 121.8125,
+      "source": "coa",
+      "sourceId": "525",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "宜蘭縣壯圍鄉新社村壯濱路五段296號",
+      "phone": "0979385333"
+    }
+  ]
+}

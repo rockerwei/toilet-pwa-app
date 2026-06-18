@@ -1,0 +1,701 @@
+{
+  "city": "南投縣",
+  "district": "中寮鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 43,
+  "items": [
+    {
+      "id": 11160553859,
+      "name": "鄉親寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8790172,
+      "lng": 120.765734,
+      "routes": [
+        "6929",
+        "南中寮線1",
+        "南中寮線2",
+        "南中寮線4"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553861,
+      "name": "下鄉親寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8799271,
+      "lng": 120.7623491,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553863,
+      "name": "中寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8819823,
+      "lng": 120.7592431,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553865,
+      "name": "觀音山",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8828971,
+      "lng": 120.7560807,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553867,
+      "name": "鹿寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8851216,
+      "lng": 120.7534012,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553869,
+      "name": "風櫃嶺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8873165,
+      "lng": 120.7483882,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553871,
+      "name": "枋埤路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8852834,
+      "lng": 120.7446331,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553873,
+      "name": "廍地",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8874073,
+      "lng": 120.7411408,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553875,
+      "name": "永康國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8880547,
+      "lng": 120.7374716,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553877,
+      "name": "撻子灣",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8890749,
+      "lng": 120.7354706,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553879,
+      "name": "檢查所",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8924298,
+      "lng": 120.7333088,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553881,
+      "name": "竹子坑",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8941268,
+      "lng": 120.7306561,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553883,
+      "name": "新厝",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8949508,
+      "lng": 120.7250261,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553885,
+      "name": "至誠國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8940484,
+      "lng": 120.7194686,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553887,
+      "name": "甲頭埔",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.895971,
+      "lng": 120.7156384,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553889,
+      "name": "義和",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.8964516,
+      "lng": 120.7118404,
+      "routes": [
+        "6929"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553901,
+      "name": "內城",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9450076,
+      "lng": 120.7884175,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:24.639Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160553903,
+      "name": "內城庄",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9438567,
+      "lng": 120.7863468,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561005,
+      "name": "土地廟",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9431838,
+      "lng": 120.7843083,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561007,
+      "name": "圓子城",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9410658,
+      "lng": 120.7795796,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561009,
+      "name": "平安村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9413305,
+      "lng": 120.7782519,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561011,
+      "name": "龍眼林",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9418073,
+      "lng": 120.7748307,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561013,
+      "name": "龍安村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9421076,
+      "lng": 120.7727668,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561015,
+      "name": "德林寺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9408684,
+      "lng": 120.767983,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561017,
+      "name": "電力公司",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9393448,
+      "lng": 120.7655194,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561019,
+      "name": "電信局",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9385089,
+      "lng": 120.7641783,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561021,
+      "name": "爽文國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9365379,
+      "lng": 120.7615498,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561023,
+      "name": "爽文路",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9349272,
+      "lng": 120.7597943,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561025,
+      "name": "爽文路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9358294,
+      "lng": 120.7573239,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561027,
+      "name": "勝陽宮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9352165,
+      "lng": 120.7515009,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561029,
+      "name": "眉子陀",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9314901,
+      "lng": 120.7479751,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561031,
+      "name": "長源洞",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9311076,
+      "lng": 120.7449684,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561033,
+      "name": "豬肚潭",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9309483,
+      "lng": 120.7429218,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561035,
+      "name": "竹圍橋",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.929796,
+      "lng": 120.7399285,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561037,
+      "name": "竹圍",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9291953,
+      "lng": 120.738464,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561039,
+      "name": "新城",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9265892,
+      "lng": 120.738228,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561041,
+      "name": "內湖底",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9266701,
+      "lng": 120.7346579,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561043,
+      "name": "永和國小",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9246327,
+      "lng": 120.7329306,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561045,
+      "name": "永和村",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9231567,
+      "lng": 120.731163,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561047,
+      "name": "分水寮",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9221466,
+      "lng": 120.7303825,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561049,
+      "name": "花盆",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.91879,
+      "lng": 120.7257369,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561051,
+      "name": "枋子嶺",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9192706,
+      "lng": 120.7218316,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11160561053,
+      "name": "龍南路口",
+      "type": "bus",
+      "city": "南投縣",
+      "district": "中寮鄉",
+      "lat": 23.9190647,
+      "lng": 120.7200292,
+      "routes": [
+        "6920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.381Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

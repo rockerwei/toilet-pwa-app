@@ -1,0 +1,1027 @@
+{
+  "city": "苗栗縣",
+  "district": "苑裡鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 72,
+  "items": [
+    {
+      "id": 3664194879,
+      "name": "觀音廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4076448,
+      "lng": 120.7338488,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.204Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3727909709,
+      "name": "苑裡",
+      "type": "train",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.443494,
+      "lng": 120.6512083
+    },
+    {
+      "id": 3888619185,
+      "name": "苑裡站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4429856,
+      "lng": 120.6514993
+    },
+    {
+      "id": 3889165136,
+      "name": "苗栗客運苑裡站",
+      "type": "bus_station",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4428384,
+      "lng": 120.6516798,
+      "routes": [
+        "97",
+        "97區",
+        "181",
+        "181區1",
+        "181區2",
+        "616",
+        "662",
+        "839",
+        "5808",
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889168827,
+      "name": "山腳",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4148853,
+      "lng": 120.6861808,
+      "routes": [
+        "5814",
+        "5818"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3889173321,
+      "name": "致民國中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4181825,
+      "lng": 120.6862342,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5491897022,
+      "name": "社苓站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4010031,
+      "lng": 120.6751986,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6069842763,
+      "name": "銅安厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4190153,
+      "lng": 120.6430659
+    },
+    {
+      "id": 6556722157,
+      "name": "南房裡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4286985,
+      "lng": 120.6400028,
+      "routes": [
+        "181",
+        "181區1",
+        "181區2",
+        "662"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6556802512,
+      "name": "苑裡國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4474353,
+      "lng": 120.6547683,
+      "routes": [
+        "5808",
+        "5814"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.205Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6556802514,
+      "name": "國立苑裡高中",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4469836,
+      "lng": 120.6547067
+    },
+    {
+      "id": 6556802518,
+      "name": "客庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.439602,
+      "lng": 120.6501791
+    },
+    {
+      "id": 6556802519,
+      "name": "房裡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4348622,
+      "lng": 120.6478107
+    },
+    {
+      "id": 6556802527,
+      "name": "龍德家商(中山路)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4288035,
+      "lng": 120.6440958,
+      "routes": [
+        "97",
+        "97區",
+        "181",
+        "181區1",
+        "181區2",
+        "616"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6832749314,
+      "name": "山柑尾",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4263932,
+      "lng": 120.6434709
+    },
+    {
+      "id": 6841546224,
+      "name": "淨光寺",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4267717,
+      "lng": 120.6694239,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867522824,
+      "name": "合作農場",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4121694,
+      "lng": 120.6806946,
+      "routes": [
+        "5814",
+        "5818"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867522826,
+      "name": "社苓口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4092873,
+      "lng": 120.6785542,
+      "routes": [
+        "5814",
+        "5818"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867522832,
+      "name": "安福街",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.404136,
+      "lng": 120.6763226,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867522833,
+      "name": "正順公司",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3970182,
+      "lng": 120.6732166,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867522834,
+      "name": "山柑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3953938,
+      "lng": 120.6715322,
+      "routes": [
+        "5814"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6867543426,
+      "name": "舊社",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4175169,
+      "lng": 120.682961,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869224671,
+      "name": "客庄國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4397363,
+      "lng": 120.654645
+    },
+    {
+      "id": 6869224673,
+      "name": "下客庄",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4382614,
+      "lng": 120.6574988
+    },
+    {
+      "id": 6869224680,
+      "name": "客庄(世界路)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4357731,
+      "lng": 120.6587943,
+      "routes": [
+        "839",
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869224682,
+      "name": "初中路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4321467,
+      "lng": 120.6610233
+    },
+    {
+      "id": 6869224684,
+      "name": "貓盂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4299,
+      "lng": 120.6629705,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869244486,
+      "name": "上貓盂",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.428088,
+      "lng": 120.6665392,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869244489,
+      "name": "下田寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4251477,
+      "lng": 120.6715161,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869244497,
+      "name": "田寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4226689,
+      "lng": 120.6760436,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869244502,
+      "name": "水涵",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4196991,
+      "lng": 120.6801072,
+      "routes": [
+        "5814",
+        "5818",
+        "5819"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085629,
+      "name": "十字路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3950372,
+      "lng": 120.6886768,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085634,
+      "name": "油車",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.392184,
+      "lng": 120.6917936,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085641,
+      "name": "下泰田",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3892209,
+      "lng": 120.6951168,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085649,
+      "name": "泰田",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.387291,
+      "lng": 120.6969139,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085658,
+      "name": "五谷爺廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3854173,
+      "lng": 120.6987405,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085660,
+      "name": "林厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3830501,
+      "lng": 120.7009909,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085664,
+      "name": "華陶窯",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3775899,
+      "lng": 120.7065296,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085666,
+      "name": "上館",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3721173,
+      "lng": 120.7080102,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085672,
+      "name": "詹厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3692355,
+      "lng": 120.7094237,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.110Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714085674,
+      "name": "三座厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3650099,
+      "lng": 120.7109553,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714101588,
+      "name": "水門",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3616038,
+      "lng": 120.7139298,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.110Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121123,
+      "name": "土地公廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4084007,
+      "lng": 120.7299453,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121124,
+      "name": "香蕉坑口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4094143,
+      "lng": 120.7257235,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121138,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4087695,
+      "lng": 120.7218423
+    },
+    {
+      "id": 7714121139,
+      "name": "蕉埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4099663,
+      "lng": 120.7186586,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121140,
+      "name": "蕉埔國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4126413,
+      "lng": 120.7142781,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121153,
+      "name": "井窩口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4137691,
+      "lng": 120.7083026,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714121154,
+      "name": "公車站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4150367,
+      "lng": 120.7064974
+    },
+    {
+      "id": 7714121184,
+      "name": "大埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4163409,
+      "lng": 120.704872,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149179,
+      "name": "大埔口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4183143,
+      "lng": 120.7020745,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149195,
+      "name": "刺仔腳",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4208787,
+      "lng": 120.6943899,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149196,
+      "name": "錦山",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.419892,
+      "lng": 120.6901199,
+      "routes": [
+        "5819"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149346,
+      "name": "顏厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4064809,
+      "lng": 120.6803164,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149348,
+      "name": "無量壽",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4037501,
+      "lng": 120.682202,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149352,
+      "name": "張厝",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4012953,
+      "lng": 120.6836799,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149353,
+      "name": "有國",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3985278,
+      "lng": 120.6847206,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7714149358,
+      "name": "精米所",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3976948,
+      "lng": 120.6861395,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.206Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8230553113,
+      "name": "南路口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3807741,
+      "lng": 120.7040028,
+      "routes": [
+        "5818"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.110Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8244238582,
+      "name": "南房裡(西南北一路)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4284329,
+      "lng": 120.6395004
+    },
+    {
+      "id": 8244238584,
+      "name": "房裡七鄰",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4306135,
+      "lng": 120.6423333
+    },
+    {
+      "id": 8244238586,
+      "name": "文苑國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4348282,
+      "lng": 120.6457585
+    },
+    {
+      "id": 8244238588,
+      "name": "西勢里(忠信路)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4391492,
+      "lng": 120.6480418
+    },
+    {
+      "id": 8244238590,
+      "name": "苑裡後站",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4438652,
+      "lng": 120.650473
+    },
+    {
+      "id": 8244238592,
+      "name": "北勢庄土地公廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4473104,
+      "lng": 120.6526848
+    },
+    {
+      "id": 8244412335,
+      "name": "苑裡鎮中正國小",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4298749,
+      "lng": 120.6606675
+    },
+    {
+      "id": 8244412337,
+      "name": "苑裡消防隊",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4279374,
+      "lng": 120.6605061
+    },
+    {
+      "id": 8244412384,
+      "name": "德心橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4240128,
+      "lng": 120.6609143
+    },
+    {
+      "id": 8244412393,
+      "name": "田心12路",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4213022,
+      "lng": 120.6588747
+    },
+    {
+      "id": 8244412414,
+      "name": "新復1鄰土地公廟",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4175292,
+      "lng": 120.6524654
+    },
+    {
+      "id": 8244419923,
+      "name": "新復泉利商店",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.4152896,
+      "lng": 120.6504113
+    },
+    {
+      "id": 8244420018,
+      "name": "水門(北堤東路)",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "苑裡鎮",
+      "lat": 24.3608021,
+      "lng": 120.7127786
+    }
+  ]
+}

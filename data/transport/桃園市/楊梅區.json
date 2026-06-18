@@ -1,0 +1,2718 @@
+{
+  "city": "桃園市",
+  "district": "楊梅區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 156,
+  "items": [
+    {
+      "id": 1263487518,
+      "name": "楊梅",
+      "type": "train",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9143522,
+      "lng": 121.1465072
+    },
+    {
+      "id": 2387066709,
+      "name": "富岡",
+      "type": "train",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9340905,
+      "lng": 121.0828217
+    },
+    {
+      "id": 3209523996,
+      "name": "埔心火車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9196664,
+      "lng": 121.1844565,
+      "routes": [
+        "253",
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5651",
+        "5651A",
+        "5654",
+        "L215",
+        "L216"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3209523997,
+      "name": "仁美路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9217697,
+      "lng": 121.1865105,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5651",
+        "5651A",
+        "5654",
+        "L609"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3335658641,
+      "name": "二湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9129823,
+      "lng": 121.1066377,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391547,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.90722,
+      "lng": 121.1482017
+    },
+    {
+      "id": 3999391549,
+      "name": "老坑溪橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.907215,
+      "lng": 121.1492926,
+      "routes": [
+        "301",
+        "301A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391662,
+      "name": "東電化",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9077521,
+      "lng": 121.1533302,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.942Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391673,
+      "name": "天成醫院",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9083304,
+      "lng": 121.1572174,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391675,
+      "name": "大成路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9084903,
+      "lng": 121.1456097,
+      "routes": [
+        "301",
+        "301A",
+        "0554",
+        "0555",
+        "722",
+        "722A",
+        "5607",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5652",
+        "5654"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391684,
+      "name": "大金山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9088525,
+      "lng": 121.1601609,
+      "routes": [
+        "301",
+        "301A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391703,
+      "name": "新街",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9103887,
+      "lng": 121.1456079,
+      "routes": [
+        "251",
+        "301",
+        "301A",
+        "0554",
+        "0555",
+        "722",
+        "722A",
+        "5607",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5652",
+        "5654",
+        "L608",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 19,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3999391724,
+      "name": "楊梅火車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9127467,
+      "lng": 121.1457394,
+      "routes": [
+        "251",
+        "301",
+        "301A",
+        "0554",
+        "0555",
+        "722",
+        "722A",
+        "5607",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5650",
+        "5650A",
+        "5652",
+        "5654",
+        "L608",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4420612322,
+      "name": "埔心",
+      "type": "train",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.919647,
+      "lng": 121.1836192
+    },
+    {
+      "id": 4632138030,
+      "name": "四湖橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9061826,
+      "lng": 121.0578316,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838266126,
+      "name": "中興",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.904966,
+      "lng": 121.1296213,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.943Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838266128,
+      "name": "大東社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9025234,
+      "lng": 121.125268
+    },
+    {
+      "id": 6838266130,
+      "name": "東流里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9006015,
+      "lng": 121.1207968,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838266132,
+      "name": "崩坡下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8973247,
+      "lng": 121.1140956,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838310057,
+      "name": "四季社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9072893,
+      "lng": 121.1372307
+    },
+    {
+      "id": 6838312264,
+      "name": "太平里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9058296,
+      "lng": 121.1317536
+    },
+    {
+      "id": 6838333888,
+      "name": "瓦窯橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9070289,
+      "lng": 121.1349025,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838359009,
+      "name": "楊梅",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9069268,
+      "lng": 121.1450721,
+      "routes": [
+        "L615"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.983Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461600,
+      "name": "永美路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9178651,
+      "lng": 121.1824313
+    },
+    {
+      "id": 6838461613,
+      "name": "四維新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9154082,
+      "lng": 121.1802144,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5651",
+        "5651A",
+        "5654"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461622,
+      "name": "瑞塘里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.912865,
+      "lng": 121.1763842,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5651",
+        "5651A",
+        "5654"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461623,
+      "name": "瑞塘里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9121984,
+      "lng": 121.1757177,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5651",
+        "5651A",
+        "5654"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461625,
+      "name": "楊梅工業區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9096952,
+      "lng": 121.1727512,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461626,
+      "name": "楊梅工業區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.911122,
+      "lng": 121.1738737,
+      "routes": [
+        "301",
+        "301A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.944Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461629,
+      "name": "頭重溪",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9087829,
+      "lng": 121.1707932,
+      "routes": [
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6838461633,
+      "name": "楊梅交流道",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9087142,
+      "lng": 121.1677837,
+      "routes": [
+        "252",
+        "252A",
+        "253",
+        "301",
+        "301A",
+        "722",
+        "722A",
+        "5623",
+        "5623A",
+        "5623B",
+        "5624",
+        "5648",
+        "5649",
+        "5654",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839810791,
+      "name": "國際兒童村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9584501,
+      "lng": 121.1720069,
+      "routes": [
+        "251",
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839810794,
+      "name": "龍太社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9587929,
+      "lng": 121.1742894,
+      "routes": [
+        "251",
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6839810799,
+      "name": "過嶺",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9591224,
+      "lng": 121.1765532,
+      "routes": [
+        "505",
+        "5026",
+        "5027",
+        "5027A",
+        "5030",
+        "5031",
+        "5032",
+        "5033",
+        "5035",
+        "5039"
+      ],
+      "routeCount": 10,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6869007045,
+      "name": "環場列車住宿區站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9238775,
+      "lng": 121.1819989
+    },
+    {
+      "id": 6869007046,
+      "name": "環場列車餐飲區站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9253532,
+      "lng": 121.1801973
+    },
+    {
+      "id": 6869007047,
+      "name": "環場列車動物表演區站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9274693,
+      "lng": 121.177879
+    },
+    {
+      "id": 6869007048,
+      "name": "環場列車總站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9261701,
+      "lng": 121.1761582
+    },
+    {
+      "id": 7694427055,
+      "name": "埔頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9490365,
+      "lng": 121.1185102,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694447138,
+      "name": "香榭社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9320873,
+      "lng": 121.1249877,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694447140,
+      "name": "老飯店",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9343164,
+      "lng": 121.123251,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694447145,
+      "name": "上田里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9367425,
+      "lng": 121.1236587
+    },
+    {
+      "id": 7694447146,
+      "name": "上田里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9420068,
+      "lng": 121.1216524,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694447148,
+      "name": "御花園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9463285,
+      "lng": 121.1198634,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694477812,
+      "name": "彭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9228371,
+      "lng": 121.1327259,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694477814,
+      "name": "下彭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9257767,
+      "lng": 121.1297339,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694477825,
+      "name": "水尾",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9293242,
+      "lng": 121.1272462,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694504297,
+      "name": "水尾橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9140959,
+      "lng": 121.1423363,
+      "routes": [
+        "5624",
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.986Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694504299,
+      "name": "水美國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9181887,
+      "lng": 121.1379066,
+      "routes": [
+        "5624",
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694504304,
+      "name": "建福新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.920013,
+      "lng": 121.1358105,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.946Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694541925,
+      "name": "民生報社",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9074413,
+      "lng": 121.1478214,
+      "routes": [
+        "252",
+        "252A",
+        "L608",
+        "L615"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7694541928,
+      "name": "楊梅區公所",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9075982,
+      "lng": 121.1454959,
+      "routes": [
+        "251",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698313946,
+      "name": "茶業改良場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9124344,
+      "lng": 121.18784,
+      "routes": [
+        "5647",
+        "5648",
+        "5649",
+        "L215",
+        "L216"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698313955,
+      "name": "三龍新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9151613,
+      "lng": 121.18624,
+      "routes": [
+        "5647",
+        "5648",
+        "5649"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.947Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698313956,
+      "name": "瑞埔國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9157768,
+      "lng": 121.185898,
+      "routes": [
+        "5647",
+        "5648",
+        "5649",
+        "L215",
+        "L216"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7698313958,
+      "name": "瑞埔國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9169602,
+      "lng": 121.1849888
+    },
+    {
+      "id": 7746460327,
+      "name": "水門",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9076294,
+      "lng": 121.0604185,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460329,
+      "name": "劉厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9085574,
+      "lng": 121.0626247,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460331,
+      "name": "下四湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9095579,
+      "lng": 121.0649246,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460333,
+      "name": "四湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9115096,
+      "lng": 121.0692115,
+      "routes": [
+        "5607",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460335,
+      "name": "土牛坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9118209,
+      "lng": 121.072509,
+      "routes": [
+        "5607",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460337,
+      "name": "周厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9120948,
+      "lng": 121.0767731,
+      "routes": [
+        "5607",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460339,
+      "name": "陳厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9122157,
+      "lng": 121.079254,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460348,
+      "name": "三元宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9124457,
+      "lng": 121.0839387,
+      "routes": [
+        "5607",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460359,
+      "name": "上四湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9123916,
+      "lng": 121.0887564,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460361,
+      "name": "上湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.912777,
+      "lng": 121.0945442
+    },
+    {
+      "id": 7746460363,
+      "name": "三湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9143977,
+      "lng": 121.0997563,
+      "routes": [
+        "5607",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460365,
+      "name": "彭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9142067,
+      "lng": 121.102027,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746460367,
+      "name": "新和公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.91391,
+      "lng": 121.1043488,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467391,
+      "name": "長坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9119541,
+      "lng": 121.1110039,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467393,
+      "name": "紅坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9122841,
+      "lng": 121.1152144,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467414,
+      "name": "頭湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9111737,
+      "lng": 121.120031,
+      "routes": [
+        "5607",
+        "L615"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467416,
+      "name": "泉水",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9121612,
+      "lng": 121.1225309,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467418,
+      "name": "惠普公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9132071,
+      "lng": 121.1264096,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467420,
+      "name": "厚恒公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9131011,
+      "lng": 121.1288605,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467422,
+      "name": "嶺頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9121103,
+      "lng": 121.1334992,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467424,
+      "name": "水美新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.911068,
+      "lng": 121.1359828,
+      "routes": [
+        "5607",
+        "L615"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467426,
+      "name": "圓岡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9092002,
+      "lng": 121.1395833,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467428,
+      "name": "錫褔宮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9066426,
+      "lng": 121.1411586,
+      "routes": [
+        "5607"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467430,
+      "name": "楊梅站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9134168,
+      "lng": 121.1482963,
+      "routes": [
+        "0554",
+        "0555",
+        "722",
+        "722A",
+        "5607",
+        "5623",
+        "5623A",
+        "5623B",
+        "5648",
+        "5650",
+        "5650A",
+        "5652"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467431,
+      "name": "徐厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9269228,
+      "lng": 121.0615593,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467433,
+      "name": "石埤",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9292742,
+      "lng": 121.063962,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467435,
+      "name": "下埤",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9304986,
+      "lng": 121.0681095,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467464,
+      "name": "水塔",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9302928,
+      "lng": 121.0727491,
+      "routes": [
+        "5624",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467466,
+      "name": "梅花新城",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9315796,
+      "lng": 121.075397,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467468,
+      "name": "新明",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9355723,
+      "lng": 121.0803777,
+      "routes": [
+        "5624",
+        "L612"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467473,
+      "name": "富岡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9348003,
+      "lng": 121.0835301,
+      "routes": [
+        "5624",
+        "L601",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L611",
+        "L612"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467488,
+      "name": "富岡口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9349639,
+      "lng": 121.0848252,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467490,
+      "name": "福德",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9350664,
+      "lng": 121.0866526,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467492,
+      "name": "聯華公司",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9343374,
+      "lng": 121.0912122,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467494,
+      "name": "磚窯",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9331648,
+      "lng": 121.0936482,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467496,
+      "name": "清龍新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9322319,
+      "lng": 121.0956395,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467498,
+      "name": "富東",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9303654,
+      "lng": 121.0992165,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467500,
+      "name": "民富工業區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9291896,
+      "lng": 121.1018852,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467502,
+      "name": "瑞原",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.92782,
+      "lng": 121.1047315,
+      "routes": [
+        "5624",
+        "L611"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467504,
+      "name": "亞洲化學",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.925782,
+      "lng": 121.1088193,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467506,
+      "name": "石店子",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9241449,
+      "lng": 121.1124678,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467508,
+      "name": "富鳳",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9230676,
+      "lng": 121.1179051,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467510,
+      "name": "瑞上",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9226049,
+      "lng": 121.121188,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467512,
+      "name": "頂湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.920901,
+      "lng": 121.1279745,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7746467514,
+      "name": "頂湖橋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9185383,
+      "lng": 121.1367193,
+      "routes": [
+        "5624"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802550,
+      "name": "崎頂",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8819273,
+      "lng": 121.1293065,
+      "routes": [
+        "0554"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802552,
+      "name": "秀才窩",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8849912,
+      "lng": 121.1320306,
+      "routes": [
+        "0554"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802554,
+      "name": "桃園職訓",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8880283,
+      "lng": 121.1335082,
+      "routes": [
+        "0554"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802556,
+      "name": "太平山下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.889815,
+      "lng": 121.1349287,
+      "routes": [
+        "0554"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802558,
+      "name": "吳厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8947785,
+      "lng": 121.1375121,
+      "routes": [
+        "0554"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802560,
+      "name": "水流東",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8983093,
+      "lng": 121.1392373,
+      "routes": [
+        "0554",
+        "5652"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802562,
+      "name": "國寶新村",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9015901,
+      "lng": 121.1411238,
+      "routes": [
+        "0554",
+        "5652"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802564,
+      "name": "楊梅國小",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9060153,
+      "lng": 121.1435883,
+      "routes": [
+        "0554",
+        "5652"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802566,
+      "name": "集乳站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9058174,
+      "lng": 121.14401,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802568,
+      "name": "國中前",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9032725,
+      "lng": 121.148299,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802577,
+      "name": "老坑口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8989193,
+      "lng": 121.15139,
+      "routes": [
+        "252",
+        "252A",
+        "0555",
+        "L608",
+        "L615"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802579,
+      "name": "楊梅行政園區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8973274,
+      "lng": 121.1495286
+    },
+    {
+      "id": 7749802581,
+      "name": "泉水窩",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8947597,
+      "lng": 121.1476375,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802583,
+      "name": "小楊梅",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8898567,
+      "lng": 121.1461758,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802585,
+      "name": "泉水坡",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8876461,
+      "lng": 121.1479742,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802591,
+      "name": "黃屋",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8855017,
+      "lng": 121.1500882,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7749802600,
+      "name": "縣鎮界",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8804488,
+      "lng": 121.1522745,
+      "routes": [
+        "0555"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11854114029,
+      "name": "楊明國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9108098,
+      "lng": 121.1564353,
+      "routes": [
+        "301",
+        "301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11854114030,
+      "name": "楊新北路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9128785,
+      "lng": 121.1497357,
+      "routes": [
+        "301",
+        "301A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12754158628,
+      "name": "大井頭",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9363047,
+      "lng": 121.081778,
+      "routes": [
+        "5624",
+        "L601",
+        "L602",
+        "L602A",
+        "L603",
+        "L603A",
+        "L612"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106253,
+      "name": "琪隆廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.898198,
+      "lng": 121.1363006,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106255,
+      "name": "強勝廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8981843,
+      "lng": 121.133881,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106257,
+      "name": "里辦公處",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8963515,
+      "lng": 121.1306495
+    },
+    {
+      "id": 12819106259,
+      "name": "彭厝",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8944089,
+      "lng": 121.1275017,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106261,
+      "name": "潤泰工廠",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8931726,
+      "lng": 121.1253656,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106263,
+      "name": "廣宇",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8919197,
+      "lng": 121.1242739,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106265,
+      "name": "東流里",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8915816,
+      "lng": 121.1209786,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106267,
+      "name": "梅園",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.8915386,
+      "lng": 121.1168112,
+      "routes": [
+        "5652"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12819106273,
+      "name": "營盤下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9371229,
+      "lng": 121.1237225,
+      "routes": [
+        "5649",
+        "5650",
+        "5650A",
+        "5654"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822618876,
+      "name": "中興路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9179663,
+      "lng": 121.1845934,
+      "routes": [
+        "5648",
+        "5649",
+        "L215",
+        "L216"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822618878,
+      "name": "公車站",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9156347,
+      "lng": 121.1843311
+    },
+    {
+      "id": 12822752458,
+      "name": "怡聯貨櫃場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9163208,
+      "lng": 121.1751632,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.948Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752459,
+      "name": "怡聯貨櫃場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9167173,
+      "lng": 121.176312,
+      "routes": [
+        "5651",
+        "5651A",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752460,
+      "name": "仁美國中",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9227234,
+      "lng": 121.182568,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752461,
+      "name": "銘德",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9224613,
+      "lng": 121.181071,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "5651A",
+        "L609"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752463,
+      "name": "純青湖",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9231361,
+      "lng": 121.1777489,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752465,
+      "name": "埔心牧場",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9257668,
+      "lng": 121.1757282,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "5651A",
+        "L613",
+        "L613A"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752467,
+      "name": "幼獅工業區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9257668,
+      "lng": 121.1748829,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752469,
+      "name": "真鑚社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.922631,
+      "lng": 121.1770999
+    },
+    {
+      "id": 12822752470,
+      "name": "比佛利山莊",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9213384,
+      "lng": 121.1716242,
+      "routes": [
+        "5651A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752473,
+      "name": "獅一路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.923021,
+      "lng": 121.1736827,
+      "routes": [
+        "5651A"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752475,
+      "name": "青年路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9236367,
+      "lng": 121.1722057,
+      "routes": [
+        "722",
+        "722A",
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.989Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752477,
+      "name": "青年路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9258408,
+      "lng": 121.1703623,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752478,
+      "name": "圓環",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9281762,
+      "lng": 121.1690014,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752486,
+      "name": "世紀社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9304808,
+      "lng": 121.1668203,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752487,
+      "name": "裕民社區",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9330663,
+      "lng": 121.1632506,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752488,
+      "name": "幼獅路口",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9351155,
+      "lng": 121.1611061,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822752499,
+      "name": "南高山",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.935885,
+      "lng": 121.1624038,
+      "routes": [
+        "251",
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.990Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822755601,
+      "name": "高榮",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9372498,
+      "lng": 121.1655494,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:41.990Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822755602,
+      "name": "伯公下",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9350703,
+      "lng": 121.1694906,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822755603,
+      "name": "電台",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9323005,
+      "lng": 121.1713142,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822755604,
+      "name": "職訓中心",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9307166,
+      "lng": 121.1724176,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12822755605,
+      "name": "單身宿舍",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9294873,
+      "lng": 121.1719898
+    },
+    {
+      "id": 12822755606,
+      "name": "青年路",
+      "type": "bus",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9269759,
+      "lng": 121.169647,
+      "routes": [
+        "5651",
+        "5651A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:26.949Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 326871511,
+      "name": "新竹客運楊梅站",
+      "type": "bus_station",
+      "city": "桃園市",
+      "district": "楊梅區",
+      "lat": 24.9136378,
+      "lng": 121.1483626
+    }
+  ]
+}

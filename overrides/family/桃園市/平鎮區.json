@@ -1,0 +1,35 @@
+{
+  "city": "桃園市",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376430000A_001168",
+      "name": "CAFE!N x DICKIES 聯名咖啡觀光工廠 (源友咖啡文化園區)",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.9023,
+      "lng": 121.198174,
+      "source": "tdx",
+      "sourceId": "C1_376430000A_001168",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "桃園市324平鎮區工業五路8號"
+    },
+    {
+      "id": "tdx:C1_376430000A_001405",
+      "name": "葡萄王健康活力能量館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.93401,
+      "lng": 121.225311,
+      "source": "tdx",
+      "sourceId": "C1_376430000A_001405",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "桃園市324平鎮區金陵路二段402號"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "city": "新北市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_382000000A_110760",
+      "name": "手信坊創意和菓子文化館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.978041,
+      "lng": 121.466614,
+      "source": "tdx",
+      "sourceId": "C1_382000000A_110760",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新北市236土城區國際路55號"
+    },
+    {
+      "id": "tdx:C1_382000000A_112673",
+      "name": "王鼎時間科藝體驗館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.955999,
+      "lng": 121.42366,
+      "source": "tdx",
+      "sourceId": "C1_382000000A_112673",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新北市236土城區大暖路136號"
+    },
+    {
+      "id": "tdx:C1_382000000A_403104",
+      "name": "聖瑪莉丹麥麵包莊園",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.963051,
+      "lng": 121.418091,
+      "source": "tdx",
+      "sourceId": "C1_382000000A_403104",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新北市236土城區中山路21號"
+    },
+    {
+      "id": "coa:486",
+      "name": "頂埔休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.945129,
+      "lng": 121.41245,
+      "source": "coa",
+      "sourceId": "486",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "新北市土城區中央路四段67巷(大暖坑8-1號)進大暖坑福德祠",
+      "phone": "0912882796"
+    }
+  ]
+}

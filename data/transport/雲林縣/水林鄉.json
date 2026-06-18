@@ -1,0 +1,353 @@
+{
+  "city": "雲林縣",
+  "district": "水林鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 20,
+  "items": [
+    {
+      "id": 3739959578,
+      "name": "西井",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.6012526,
+      "lng": 120.256219,
+      "routes": [
+        "7221",
+        "7221A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643831581,
+      "name": "水林3",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5718075,
+      "lng": 120.2402651,
+      "routes": [
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643831583,
+      "name": "水林2",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5718075,
+      "lng": 120.2423412,
+      "routes": [
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643877648,
+      "name": "水林1",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5725291,
+      "lng": 120.2457918,
+      "routes": [
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643877662,
+      "name": "水林",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5721566,
+      "lng": 120.2479202,
+      "routes": [
+        "7136A",
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643877666,
+      "name": "顏厝寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5707369,
+      "lng": 120.2559601,
+      "routes": [
+        "203",
+        "7222",
+        "7223",
+        "7223A",
+        "7224",
+        "Y03"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643877669,
+      "name": "王厝寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5699392,
+      "lng": 120.2599793,
+      "routes": [
+        "203",
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643877671,
+      "name": "土間厝",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5688402,
+      "lng": 120.2672254,
+      "routes": [
+        "203",
+        "7222",
+        "7223",
+        "7223A",
+        "7224"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643900985,
+      "name": "水林站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5720669,
+      "lng": 120.2440296,
+      "routes": [
+        "1650D"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643934515,
+      "name": "食水堀",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5568104,
+      "lng": 120.207514,
+      "routes": [
+        "7223",
+        "7223A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643934518,
+      "name": "尖山",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5574866,
+      "lng": 120.2184641,
+      "routes": [
+        "7223",
+        "7223A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7643934520,
+      "name": "尖山國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5611794,
+      "lng": 120.2228898,
+      "routes": [
+        "7223",
+        "7223A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076626,
+      "name": "車港村活動中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.6089707,
+      "lng": 120.264839,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076662,
+      "name": "水林鄉幼兒園",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5734988,
+      "lng": 120.2457732,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076686,
+      "name": "海埔活動中心",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5603777,
+      "lng": 120.2495834
+    },
+    {
+      "id": 10143076688,
+      "name": "山玄宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.594379,
+      "lng": 120.252876,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076690,
+      "name": "福興宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.5974994,
+      "lng": 120.251955,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.322Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076692,
+      "name": "誠正國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.62019,
+      "lng": 120.260793,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076693,
+      "name": "頂崁",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.628573,
+      "lng": 120.26369,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10143076694,
+      "name": "豐德宮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "水林鄉",
+      "lat": 23.630443,
+      "lng": 120.256428,
+      "routes": [
+        "203"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.179Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

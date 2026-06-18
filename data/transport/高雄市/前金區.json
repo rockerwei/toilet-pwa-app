@@ -1,0 +1,667 @@
+{
+  "city": "高雄市",
+  "district": "前金區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 34,
+  "items": [
+    {
+      "id": 1305101272,
+      "name": "中央公園",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6229981,
+      "lng": 120.2983917,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305101273,
+      "name": "高雄女中(真愛碼頭)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6207726,
+      "lng": 120.2921092,
+      "routes": [
+        "11",
+        "25",
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "52C",
+        "77昌福幹線(繞三民高中)",
+        "83",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214",
+        "224"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305101284,
+      "name": "捷運中央公園站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6250749,
+      "lng": 120.3009912,
+      "routes": [
+        "12",
+        "12(延駛飛機路)",
+        "52A",
+        "52C",
+        "69A小港幹線",
+        "69B小港幹線(繞駛明鳳)",
+        "69C小港幹線(繞駛學明)",
+        "72",
+        "224",
+        "8001",
+        "9117",
+        "9117A"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474759027,
+      "name": "大立百貨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6213681,
+      "lng": 120.2962186,
+      "routes": [
+        "25",
+        "33(6:33繞駛後指部)",
+        "50五福幹線",
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "100百貨幹線",
+        "224"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 1305101359,
+      "name": "城市光廊(捷運中央公園站)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6230593,
+      "lng": 120.3003825,
+      "routes": [
+        "25",
+        "50五福幹線",
+        "76",
+        "77昌福幹線",
+        "77昌福幹線(繞三民高中)",
+        "100百貨幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "224"
+      ],
+      "routeCount": 9,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.377Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2265882535,
+      "name": "七賢路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6343651,
+      "lng": 120.2976181,
+      "routes": [
+        "53",
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "紅25繞公車式小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2474761547,
+      "name": "漢神百貨",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6193181,
+      "lng": 120.2958104,
+      "routes": [
+        "11",
+        "100百貨幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482443991,
+      "name": "河南二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6328043,
+      "lng": 120.2885576,
+      "routes": [
+        "168環西",
+        "168環東"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482443994,
+      "name": "台灣銀行(健保署)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6272449,
+      "lng": 120.2898467,
+      "routes": [
+        "25",
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "76",
+        "77昌福幹線",
+        "168環西",
+        "168環西區間",
+        "168環東",
+        "168環東區間",
+        "214",
+        "8001"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482443998,
+      "name": "愛之船國賓站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6241176,
+      "lng": 120.2901774,
+      "routes": [
+        "168環西",
+        "168環東"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482444000,
+      "name": "成功一路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6315865,
+      "lng": 120.2912494,
+      "routes": [
+        "56A",
+        "82",
+        "82公車式小黃",
+        "168環西",
+        "168環東"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482444003,
+      "name": "捷運前金站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6289898,
+      "lng": 120.2942539,
+      "routes": [
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "168環西區間",
+        "168環東區間",
+        "8001"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2482444004,
+      "name": "自強中正路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6292817,
+      "lng": 120.2938535,
+      "routes": [
+        "83",
+        "168環西",
+        "168環東"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.378Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2511626334,
+      "name": "瑞源路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6297188,
+      "lng": 120.2971752,
+      "routes": [
+        "60覺民幹線",
+        "60覺民幹線區間車",
+        "8001"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2532281855,
+      "name": "新田路口(中華四路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6209474,
+      "lng": 120.2989598,
+      "routes": [
+        "205中華幹線"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984900,
+      "name": "大同醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6263028,
+      "lng": 120.2971139,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2534984901,
+      "name": "大同醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6272199,
+      "lng": 120.2965939,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001558,
+      "name": "中華路口(七賢二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6332087,
+      "lng": 120.2960925,
+      "routes": [
+        "56A",
+        "83",
+        "205中華幹線",
+        "紅25公車式小黃"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001566,
+      "name": "六合二路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6310605,
+      "lng": 120.2950435,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "168環西區間",
+        "168環東區間",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001577,
+      "name": "小圓環",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6277508,
+      "lng": 120.296565,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2536001580,
+      "name": "小圓環",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6288707,
+      "lng": 120.2959409,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "205中華幹線",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559478589,
+      "name": "前金國小(成功一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6250424,
+      "lng": 120.2933323,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559478601,
+      "name": "新聞報",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6273588,
+      "lng": 120.2926085,
+      "routes": [
+        "76",
+        "77昌福幹線",
+        "214"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2559478613,
+      "name": "高雄女中(成功一路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6227709,
+      "lng": 120.2944107,
+      "routes": [
+        "25",
+        "76",
+        "77昌福幹線",
+        "214"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.379Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2727042306,
+      "name": "民生二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6243857,
+      "lng": 120.2931417,
+      "routes": [
+        "25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.214Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2727042328,
+      "name": "高雄地方法院(健保署)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.62608,
+      "lng": 120.2910625,
+      "routes": [
+        "25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.214Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2733357114,
+      "name": "七賢二路口(中華三路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.63401,
+      "lng": 120.293928,
+      "routes": [
+        "33(6:33繞駛後指部)",
+        "82",
+        "82公車式小黃",
+        "168環西區間",
+        "168環東區間",
+        "218A內惟幹線",
+        "218B內惟幹線(繞駛合群社區)",
+        "紅25公車式小黃"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428262,
+      "name": "仁德街口(青年二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6196483,
+      "lng": 120.3008838,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2739428290,
+      "name": "青年二路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6187972,
+      "lng": 120.2983223,
+      "routes": [
+        "11"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797110,
+      "name": "河東路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6305065,
+      "lng": 120.2880325,
+      "routes": [
+        "56A",
+        "82",
+        "82公車式小黃"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2792797144,
+      "name": "自強路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6323548,
+      "lng": 120.2935029,
+      "routes": [
+        "56A",
+        "82",
+        "82公車式小黃",
+        "83"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2802903671,
+      "name": "五福路口(自強二路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.622076,
+      "lng": 120.2966374,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.380Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2802903678,
+      "name": "自強派出所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6241509,
+      "lng": 120.2956593,
+      "routes": [
+        "83"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.214Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4580663528,
+      "name": "前金",
+      "type": "metro",
+      "city": "高雄市",
+      "district": "前金區",
+      "lat": 22.6289683,
+      "lng": 120.2946284,
+      "lines": [
+        "橘線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:27.214Z",
+      "lineConfidence": "high"
+    }
+  ]
+}

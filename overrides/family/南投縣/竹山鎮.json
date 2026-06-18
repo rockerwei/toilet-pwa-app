@@ -1,0 +1,51 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000016",
+      "name": "藏傘閣文化休閒園區",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.95112,
+      "lng": 120.673828,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000016",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣竹山鎮工業區延平路10號"
+    },
+    {
+      "id": "coa:91",
+      "name": "天野青草藥園休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.774431,
+      "lng": 120.697412,
+      "source": "coa",
+      "sourceId": "91",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣竹山鎮延正里1鄰集山路二段591-2號",
+      "phone": "04-9263-1366"
+    },
+    {
+      "id": "coa:532",
+      "name": "星月秘境休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.7575,
+      "lng": 120.6725,
+      "source": "coa",
+      "sourceId": "532",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣竹山鎮中山路888號",
+      "phone": "04-92009188"
+    }
+  ]
+}

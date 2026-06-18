@@ -1,0 +1,22 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:329",
+      "name": "河堤休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.901234,
+      "lng": 120.532145,
+      "source": "coa",
+      "sourceId": "329",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "高雄市美濃區福安街15巷15之1號",
+      "phone": "07-681-5713"
+    }
+  ]
+}

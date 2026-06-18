@@ -1,0 +1,65 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000440",
+      "name": "香里活力豬品牌文化館",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 23.92436,
+      "lng": 120.675079,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000440",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投市南崗工業區仁和路3號"
+    },
+    {
+      "id": "coa:548",
+      "name": "花與綠休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.901234,
+      "lng": 120.691234,
+      "source": "coa",
+      "sourceId": "548",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣南投市茄苳腳段"
+    },
+    {
+      "id": "coa:218",
+      "name": "南投休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.882415,
+      "lng": 120.672341,
+      "source": "coa",
+      "sourceId": "218",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣南投市大庄路151巷188號",
+      "phone": "04-9223-8788"
+    },
+    {
+      "id": "coa:343",
+      "name": "快樂谷休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.931389,
+      "lng": 120.640278,
+      "source": "coa",
+      "sourceId": "343",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣南投市福山里8鄰八卦路592巷27號",
+      "phone": "0932-594913"
+    }
+  ]
+}

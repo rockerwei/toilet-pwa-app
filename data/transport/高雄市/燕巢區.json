@@ -1,0 +1,855 @@
+{
+  "city": "高雄市",
+  "district": "燕巢區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 47,
+  "items": [
+    {
+      "id": 2820153408,
+      "name": "樹德科技大學",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7623629,
+      "lng": 120.3752673
+    },
+    {
+      "id": 2820153407,
+      "name": "樹德科技大學(橫山路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7651853,
+      "lng": 120.375643,
+      "routes": [
+        "7A",
+        "7C",
+        "7D",
+        "97",
+        "8023",
+        "8023區間車",
+        "E03A燕巢快線",
+        "E03B燕巢快線",
+        "E04燕巢學園快線",
+        "E09區間",
+        "E09A",
+        "E09B",
+        "H51"
+      ],
+      "routeCount": 13,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820153409,
+      "name": "義大醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7647449,
+      "lng": 120.3640859,
+      "routes": [
+        "7A",
+        "7C",
+        "96",
+        "97",
+        "511",
+        "511B",
+        "8008",
+        "8020",
+        "8023",
+        "8023區間車",
+        "紅58B",
+        "E03A燕巢快線",
+        "E03B燕巢快線",
+        "E04燕巢學園快線",
+        "E09區間",
+        "E09A",
+        "E09B",
+        "H51",
+        "JOY H11(週一、三、五行駛)",
+        "JOY H11A(週一、三、五行駛)",
+        "JOY H22(週二、四行駛)",
+        "T523(每週一、三、五預約)",
+        "T525(每週二、四預約)",
+        "T526(每週二、四預約)",
+        "T603E(每周一到周六預約)",
+        "T605(每週三預約)",
+        "T606B(每週二、四、六 發車)"
+      ],
+      "routeCount": 27,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2820153411,
+      "name": "高雄看守所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7612778,
+      "lng": 120.3691084,
+      "routes": [
+        "7A",
+        "7C",
+        "97",
+        "8023",
+        "8023區間車",
+        "E03A燕巢快線",
+        "E03B燕巢快線",
+        "E04燕巢學園快線",
+        "E09區間",
+        "E09A",
+        "E09B"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007311,
+      "name": "北鳳雄",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7557233,
+      "lng": 120.3577601,
+      "routes": [
+        "7A",
+        "8008",
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969007315,
+      "name": "鳳山厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7534015,
+      "lng": 120.355245,
+      "routes": [
+        "7A",
+        "7D",
+        "96",
+        "8008",
+        "8023",
+        "8023區間車",
+        "E03B燕巢快線"
+      ],
+      "routeCount": 7,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029645,
+      "name": "塔仔腳",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7708082,
+      "lng": 120.3851327,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029647,
+      "name": "橫山路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7663696,
+      "lng": 120.3772137,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.485Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029649,
+      "name": "橫山國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7676282,
+      "lng": 120.3793818,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029651,
+      "name": "深水",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7721696,
+      "lng": 120.3902529,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線",
+        "H51"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029653,
+      "name": "深水國小",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7769904,
+      "lng": 120.4056401,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029655,
+      "name": "清照寺",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7726346,
+      "lng": 120.3926886,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029657,
+      "name": "石格",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7735854,
+      "lng": 120.4048174,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029659,
+      "name": "竹崎(高雄科大-燕巢)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7722876,
+      "lng": 120.4011093,
+      "routes": [
+        "7A",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線",
+        "E09A"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029661,
+      "name": "高師大門口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7816314,
+      "lng": 120.4043487,
+      "routes": [
+        "7A",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029663,
+      "name": "高師大燕巢校區(致理大樓)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7888912,
+      "lng": 120.4060484,
+      "routes": [
+        "7A",
+        "E04燕巢學園快線",
+        "E09A"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2969029664,
+      "name": "高雄科大(燕巢)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7728837,
+      "lng": 120.400735,
+      "routes": [
+        "7A",
+        "7C",
+        "E04燕巢學園快線",
+        "E09A"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361674722,
+      "name": "燕巢果菜市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7601198,
+      "lng": 120.3592059,
+      "routes": [
+        "7C",
+        "97",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361674724,
+      "name": "角宿",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7706183,
+      "lng": 120.3595952,
+      "routes": [
+        "8008",
+        "8020",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361674726,
+      "name": "高鐵總機廠",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7601413,
+      "lng": 120.347262,
+      "routes": [
+        "7C",
+        "97",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687420,
+      "name": "中興路(元良公司)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7761693,
+      "lng": 120.3605982,
+      "routes": [
+        "紅58B"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.273Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687422,
+      "name": "中西路",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7912609,
+      "lng": 120.3595727
+    },
+    {
+      "id": 3361687423,
+      "name": "工兵學校",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7931767,
+      "lng": 120.3595311,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687424,
+      "name": "榮民之家(燕巢國中)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7858015,
+      "lng": 120.3622094
+    },
+    {
+      "id": 3361687426,
+      "name": "活動中心",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.782324,
+      "lng": 120.3615094,
+      "routes": [
+        "8008",
+        "8020",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687428,
+      "name": "湖仔內路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7786808,
+      "lng": 120.3611363,
+      "routes": [
+        "8008",
+        "8020",
+        "紅58B"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687430,
+      "name": "燕巢區公所(中興路)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7878127,
+      "lng": 120.3623645
+    },
+    {
+      "id": 3361687432,
+      "name": "燕巢市場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7911977,
+      "lng": 120.3625631,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3361687433,
+      "name": "燕巢衛生所",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7932059,
+      "lng": 120.361214,
+      "routes": [
+        "8008",
+        "8020",
+        "燕巢A(周一至三行駛)",
+        "燕巢B(周一至三行駛)",
+        "燕巢C(周一至三行駛)",
+        "T402"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3869067958,
+      "name": "高雄師範大學(歸燕食巢)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7867979,
+      "lng": 120.4046628
+    },
+    {
+      "id": 6050576186,
+      "name": "統聯客運岡山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7887257,
+      "lng": 120.3227652,
+      "routes": [
+        "1610",
+        "1610A",
+        "1621",
+        "1650D",
+        "1651"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.273Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6050576187,
+      "name": "阿羅哈客運岡山站",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7888166,
+      "lng": 120.3231521,
+      "routes": [
+        "1610",
+        "1610A",
+        "1621",
+        "1650D",
+        "1651"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.273Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7473616047,
+      "name": "大仁路(燕巢)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7702064,
+      "lng": 120.3833278,
+      "routes": [
+        "7A",
+        "7C",
+        "8023",
+        "8023區間車",
+        "E04燕巢學園快線"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7607210186,
+      "name": "阿公店水庫",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.8017129,
+      "lng": 120.3567652
+    },
+    {
+      "id": 8198448969,
+      "name": "馬場",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7804694,
+      "lng": 120.4258351,
+      "routes": [
+        "8023",
+        "8023區間車",
+        "H51"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448971,
+      "name": "天主堂",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7807392,
+      "lng": 120.4228731,
+      "routes": [
+        "8023",
+        "8023區間車",
+        "H51"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448973,
+      "name": "敬老院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7809637,
+      "lng": 120.4187075,
+      "routes": [
+        "8023",
+        "8023區間車",
+        "H51"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448975,
+      "name": "靜和醫院",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7813955,
+      "lng": 120.4162864,
+      "routes": [
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.486Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448980,
+      "name": "烏山巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7815294,
+      "lng": 120.412341,
+      "routes": [
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448983,
+      "name": "奧深水",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7817778,
+      "lng": 120.4091152,
+      "routes": [
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448985,
+      "name": "南勢巷",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7788009,
+      "lng": 120.4074703,
+      "routes": [
+        "8023",
+        "8023區間車"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8198448990,
+      "name": "角宿路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7610689,
+      "lng": 120.359782,
+      "routes": [
+        "7A",
+        "7C",
+        "97",
+        "8023",
+        "8023區間車",
+        "紅58B"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8459902903,
+      "name": "變電所 (安招)",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7892473,
+      "lng": 120.3268147
+    },
+    {
+      "id": 8460753397,
+      "name": "安招里",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7909127,
+      "lng": 120.339535,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8460770668,
+      "name": "塑膠公司",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.791756,
+      "lng": 120.345464,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8460770673,
+      "name": "安正路口",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7913578,
+      "lng": 120.3433894,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8461469348,
+      "name": "岡山新厝",
+      "type": "bus",
+      "city": "高雄市",
+      "district": "燕巢區",
+      "lat": 22.7927203,
+      "lng": 120.3515406,
+      "routes": [
+        "8008",
+        "8020"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.487Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

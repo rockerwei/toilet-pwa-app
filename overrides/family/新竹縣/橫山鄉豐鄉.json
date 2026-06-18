@@ -1,0 +1,35 @@
+{
+  "city": "新竹縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T08:46:47.655475Z",
+  "items": [
+    {
+      "id": "tdx:C1_376440000A_000173",
+      "name": "大山背農園",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.695601,
+      "lng": 121.144997,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000173",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣橫山鄉豐鄉村大山背5 鄰 52 號"
+    },
+    {
+      "id": "tdx:C1_376440000A_000174",
+      "name": "大嬸婆的家手工窯烤麵包",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.696199,
+      "lng": 121.138,
+      "source": "tdx",
+      "sourceId": "C1_376440000A_000174",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "新竹縣橫山鄉豐鄉村3鄰48號"
+    }
+  ]
+}

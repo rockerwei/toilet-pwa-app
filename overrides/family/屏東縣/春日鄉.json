@@ -1,0 +1,52 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:51",
+      "name": "士文自然休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.378931,
+      "lng": 120.658249,
+      "source": "coa",
+      "sourceId": "51",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣春日鄉士文村士文路52-2號",
+      "phone": "0933-622-245"
+    },
+    {
+      "id": "coa:249",
+      "name": "大漢山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.371239,
+      "lng": 120.627253,
+      "source": "coa",
+      "sourceId": "249",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣春日鄉春日村春日路67號",
+      "phone": "0911-934-682"
+    },
+    {
+      "id": "coa:283",
+      "name": "士嫻休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.372514,
+      "lng": 120.621415,
+      "source": "coa",
+      "sourceId": "283",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣春日鄉古華村古華路3巷69號",
+      "phone": "0933-622-245"
+    }
+  ]
+}

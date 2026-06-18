@@ -1,0 +1,79 @@
+{
+  "city": "苗栗縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376450000A_000930",
+      "name": "東華樟腦廠",
+      "facilityType": "factory",
+      "facilityLabel": "🏭 觀光工廠",
+      "lat": 24.45372,
+      "lng": 120.780899,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000930",
+      "sourceCategory": "觀光工廠類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣銅鑼鄉樟樹村竹圍2號"
+    },
+    {
+      "id": "tdx:C1_376450000A_000931",
+      "name": "九湖休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.47328,
+      "lng": 120.775887,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000931",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣銅鑼鄉九湖村10鄰92-16號"
+    },
+    {
+      "id": "tdx:C1_376450000A_000940",
+      "name": "銅鑼茶廠",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.45941,
+      "lng": 120.774094,
+      "source": "tdx",
+      "sourceId": "C1_376450000A_000940",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "苗栗縣銅鑼鄉九湖村九湖132-16號"
+    },
+    {
+      "id": "coa:134",
+      "name": "十份崠休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 24.417252,
+      "lng": 120.812302,
+      "source": "coa",
+      "sourceId": "134",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "苗栗縣銅鑼鄉新隆村20鄰219號",
+      "phone": "0921-750056"
+    },
+    {
+      "id": "coa:480",
+      "name": "九湖森林休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.627253,
+      "lng": 120.574512,
+      "source": "coa",
+      "sourceId": "480",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "苗栗縣銅鑼鄉九湖村九湖132-16號",
+      "phone": "03-798-7358"
+    }
+  ]
+}

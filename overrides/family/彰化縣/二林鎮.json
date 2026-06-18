@@ -1,0 +1,67 @@
+{
+  "city": "彰化縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T13:02:17.396491Z",
+  "items": [
+    {
+      "id": "coa:180",
+      "name": "美柏休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.912345,
+      "lng": 120.401234,
+      "source": "coa",
+      "sourceId": "180",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "彰化縣二林鎮興華里7鄰東川路2-1號",
+      "phone": "04-7525682"
+    },
+    {
+      "id": "coa:31",
+      "name": "東螺溪休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.931481,
+      "lng": 120.428511,
+      "source": "coa",
+      "sourceId": "31",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣二林鎮二溪路七段2巷臨1201號",
+      "phone": "0985-699-700"
+    },
+    {
+      "id": "coa:430",
+      "name": "金喜休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.992349,
+      "lng": 120.41245,
+      "source": "coa",
+      "sourceId": "430",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "彰化縣二林鎮北平里新生路569巷48弄107號",
+      "phone": "0900-785-515"
+    },
+    {
+      "id": "coa:379",
+      "name": "慈恩休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.931667,
+      "lng": 120.474444,
+      "source": "coa",
+      "sourceId": "379",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T13:02:17.396491Z",
+      "address": "彰化縣二林鎮華崙里光復路61巷41號",
+      "phone": "04-8681199#166"
+    }
+  ]
+}

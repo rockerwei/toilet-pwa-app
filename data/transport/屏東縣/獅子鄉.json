@@ -1,0 +1,148 @@
+{
+  "city": "屏東縣",
+  "district": "獅子鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 12,
+  "items": [
+    {
+      "id": 1231943662,
+      "name": "枋野",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2808724,
+      "lng": 120.7169938
+    },
+    {
+      "id": 3901306247,
+      "name": "林場",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2442801,
+      "lng": 120.8292785
+    },
+    {
+      "id": 3901306248,
+      "name": "草埔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2367048,
+      "lng": 120.8032625
+    },
+    {
+      "id": 3901306360,
+      "name": "下草埔",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.231887,
+      "lng": 120.8013368
+    },
+    {
+      "id": 3901306361,
+      "name": "雙流",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2266967,
+      "lng": 120.7967231
+    },
+    {
+      "id": 3901306362,
+      "name": "伊屯",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2142184,
+      "lng": 120.7799437
+    },
+    {
+      "id": 3901306363,
+      "name": "丹路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2045072,
+      "lng": 120.7482695
+    },
+    {
+      "id": 3901306364,
+      "name": "新路",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2060209,
+      "lng": 120.723426,
+      "routes": [
+        "幸福獅子1路",
+        "幸福獅子2路",
+        "幸福獅子3路",
+        "幸福獅子7路"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.844Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904078420,
+      "name": "農民教育休閒活動中心",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.1633989,
+      "lng": 120.6975791
+    },
+    {
+      "id": 4904080800,
+      "name": "圓通寺",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.1811064,
+      "lng": 120.6930891,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.844Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4904088718,
+      "name": "竹坑",
+      "type": "bus",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.1450433,
+      "lng": 120.7009493,
+      "routes": [
+        "1773",
+        "8239",
+        "9117",
+        "9188"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:40.844Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11902411023,
+      "name": "中央號誌",
+      "type": "train",
+      "city": "屏東縣",
+      "district": "獅子鄉",
+      "lat": 22.2751142,
+      "lng": 120.742095
+    }
+  ]
+}

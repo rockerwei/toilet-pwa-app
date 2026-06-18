@@ -1,0 +1,488 @@
+{
+  "city": "雲林縣",
+  "district": "斗南鎮",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 29,
+  "items": [
+    {
+      "id": 290976647,
+      "name": "斗南",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6726985,
+      "lng": 120.481102
+    },
+    {
+      "id": 1741147823,
+      "name": "石龜",
+      "type": "train",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6395621,
+      "lng": 120.4709579
+    },
+    {
+      "id": 4577233372,
+      "name": "公車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6946415,
+      "lng": 120.4646026
+    },
+    {
+      "id": 5721411035,
+      "name": "斗南站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6931865,
+      "lng": 120.4769672
+    },
+    {
+      "id": 5841097699,
+      "name": "臺西客運",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6934202,
+      "lng": 120.4769371
+    },
+    {
+      "id": 6451004878,
+      "name": "新光",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6852654,
+      "lng": 120.4852661,
+      "routes": [
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451004882,
+      "name": "東明里",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6842387,
+      "lng": 120.4945064,
+      "routes": [
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451004884,
+      "name": "新庄",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6875448,
+      "lng": 120.5001873,
+      "routes": [
+        "7120",
+        "7124",
+        "7124A",
+        "7124B",
+        "7700"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451244329,
+      "name": "斗南國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.680763,
+      "lng": 120.4811178,
+      "routes": [
+        "6880",
+        "6880A",
+        "7105",
+        "7700"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451263339,
+      "name": "體育館",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6820771,
+      "lng": 120.4736763,
+      "routes": [
+        "7102",
+        "7102A",
+        "7102B",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451263343,
+      "name": "斗南鎮公所",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6796429,
+      "lng": 120.476616,
+      "routes": [
+        "103",
+        "7102",
+        "7102A",
+        "7102B",
+        "7701"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451267836,
+      "name": "大德商工",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.68599,
+      "lng": 120.4715252,
+      "routes": [
+        "7102",
+        "7102A",
+        "7102B",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6451276747,
+      "name": "小東",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6918161,
+      "lng": 120.4671317,
+      "routes": [
+        "7102",
+        "7102A",
+        "7102B",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.319Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469107607,
+      "name": "溪埔寮",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.7166283,
+      "lng": 120.4854003,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469134789,
+      "name": "田頭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.7006138,
+      "lng": 120.4843676,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469134790,
+      "name": "田頭",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.7018123,
+      "lng": 120.484322,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469134791,
+      "name": "北勢",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6913519,
+      "lng": 120.480288,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.176Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469255484,
+      "name": "斗南台汽",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6730952,
+      "lng": 120.47925
+    },
+    {
+      "id": 6469255986,
+      "name": "斗南火車站",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6736959,
+      "lng": 120.48076,
+      "routes": [
+        "103",
+        "6880",
+        "6880A",
+        "7102",
+        "7102A",
+        "7102B",
+        "7103",
+        "7105",
+        "7105A",
+        "7106",
+        "7113",
+        "7119",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469255987,
+      "name": "斗南",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.67586,
+      "lng": 120.4820368
+    },
+    {
+      "id": 6469255988,
+      "name": "斗南縣農會",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6780731,
+      "lng": 120.4820409,
+      "routes": [
+        "6880",
+        "6880A"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469279581,
+      "name": "僑真國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6690481,
+      "lng": 120.4757872
+    },
+    {
+      "id": 6469279583,
+      "name": "僑真國小",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6670607,
+      "lng": 120.475468,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6469304258,
+      "name": "柳樹腳",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6316868,
+      "lng": 120.4683468,
+      "routes": [
+        "6880",
+        "6880A",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 11774812306,
+      "name": "福安醫院",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6786347,
+      "lng": 120.482004,
+      "routes": [
+        "103",
+        "7102",
+        "7102A",
+        "7102B",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12875076591,
+      "name": "埤麻",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6778325,
+      "lng": 120.4537113,
+      "routes": [
+        "7119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12949068779,
+      "name": "新崙",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6794574,
+      "lng": 120.4309957,
+      "routes": [
+        "7119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12949068781,
+      "name": "新崙社區",
+      "type": "bus",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6790816,
+      "lng": 120.4341955,
+      "routes": [
+        "7119"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.320Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 580149819,
+      "name": "台西客運斗南站",
+      "type": "bus_station",
+      "city": "雲林縣",
+      "district": "斗南鎮",
+      "lat": 23.6738188,
+      "lng": 120.4811953,
+      "routes": [
+        "103",
+        "6880",
+        "6880A",
+        "7102",
+        "7102A",
+        "7102B",
+        "7103",
+        "7105",
+        "7105A",
+        "7106",
+        "7113",
+        "7119",
+        "7700",
+        "7701"
+      ],
+      "routeCount": 14,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.321Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

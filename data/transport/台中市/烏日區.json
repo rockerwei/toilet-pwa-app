@@ -1,0 +1,1637 @@
+{
+  "city": "台中市",
+  "district": "烏日區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 109,
+  "items": [
+    {
+      "id": 2713721039,
+      "name": "明道花園城",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1079764,
+      "lng": 120.638413
+    },
+    {
+      "id": 2713721041,
+      "name": "明道中學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1068983,
+      "lng": 120.6357134
+    },
+    {
+      "id": 2713721043,
+      "name": "烏日橋",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1057638,
+      "lng": 120.6333298,
+      "routes": [
+        "3",
+        "33",
+        "37",
+        "54",
+        "82延",
+        "100",
+        "101",
+        "105",
+        "105延",
+        "105副",
+        "133",
+        "281副"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.990Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 2713721045,
+      "name": "中和紡織",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1056176,
+      "lng": 120.6282989
+    },
+    {
+      "id": 2713721047,
+      "name": "中山五光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1059339,
+      "lng": 120.6262869
+    },
+    {
+      "id": 2713721050,
+      "name": "烏日",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1047289,
+      "lng": 120.6223686
+    },
+    {
+      "id": 2713721056,
+      "name": "烏日國中(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1059019,
+      "lng": 120.616801
+    },
+    {
+      "id": 2713721059,
+      "name": "烏日(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1062863,
+      "lng": 120.622554
+    },
+    {
+      "id": 2713721062,
+      "name": "高鐵臺中站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1108895,
+      "lng": 120.6155443
+    },
+    {
+      "id": 2713721065,
+      "name": "九張犁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.108918,
+      "lng": 120.6413687
+    },
+    {
+      "id": 2931485733,
+      "name": "三和里1",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1079078,
+      "lng": 120.6101719
+    },
+    {
+      "id": 3449996899,
+      "name": "新烏日",
+      "type": "train",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1097839,
+      "lng": 120.6142522
+    },
+    {
+      "id": 3449996902,
+      "name": "國際展覽館(烏厝巷)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1073481,
+      "lng": 120.6127528,
+      "routes": [
+        "26",
+        "56",
+        "105",
+        "105區1",
+        "248",
+        "281副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3470825242,
+      "name": "烏日啤酒廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1121064,
+      "lng": 120.6259534
+    },
+    {
+      "id": 3471367561,
+      "name": "烏日區公所(光日路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1050929,
+      "lng": 120.624921,
+      "routes": [
+        "54"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3471367563,
+      "name": "公園光日路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1024581,
+      "lng": 120.6248742,
+      "routes": [
+        "33",
+        "54"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.995Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3471367565,
+      "name": "公園五光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1017799,
+      "lng": 120.6266839,
+      "routes": [
+        "33",
+        "54"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.995Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3471367567,
+      "name": "五光公園三街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1029152,
+      "lng": 120.6282214
+    },
+    {
+      "id": 3471367569,
+      "name": "新興五光路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1039667,
+      "lng": 120.62788,
+      "routes": [
+        "33",
+        "54",
+        "133"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3471367573,
+      "name": "明道中學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1073986,
+      "lng": 120.6365584
+    },
+    {
+      "id": 3532427826,
+      "name": "三和里2",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1087025,
+      "lng": 120.6060702,
+      "routes": [
+        "93",
+        "101",
+        "105",
+        "105延",
+        "105副",
+        "617",
+        "6933",
+        "6933A"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.996Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3532427828,
+      "name": "成功嶺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1104095,
+      "lng": 120.6009066,
+      "routes": [
+        "93",
+        "101",
+        "105",
+        "105延",
+        "105副",
+        "617",
+        "6735",
+        "6735A",
+        "6735B",
+        "6736",
+        "6736A",
+        "6737",
+        "6737B",
+        "6738",
+        "6738A",
+        "6738B",
+        "6738C",
+        "6738D",
+        "6738E",
+        "6882",
+        "6933",
+        "6933A"
+      ],
+      "routeCount": 22,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.997Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3532427830,
+      "name": "烏日戶政",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1092677,
+      "lng": 120.6042578,
+      "routes": [
+        "93",
+        "101",
+        "105",
+        "105區1",
+        "617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3532427831,
+      "name": "烏日戶政",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1098771,
+      "lng": 120.6034418,
+      "routes": [
+        "93",
+        "101",
+        "105",
+        "105區1",
+        "617"
+      ],
+      "routeCount": 5,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.404Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3563743799,
+      "name": "學田活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1223939,
+      "lng": 120.6073045,
+      "routes": [
+        "26",
+        "56",
+        "56延",
+        "70",
+        "70A",
+        "70B",
+        "74",
+        "74繞",
+        "99",
+        "99延",
+        "617",
+        "綠1"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.997Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3563743801,
+      "name": "學田診所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1204493,
+      "lng": 120.6078077,
+      "routes": [
+        "26",
+        "56",
+        "56延",
+        "70",
+        "70A",
+        "70B",
+        "74",
+        "74繞",
+        "99",
+        "99延",
+        "617",
+        "綠1"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.997Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3563743803,
+      "name": "幸記公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1179015,
+      "lng": 120.6080674,
+      "routes": [
+        "26",
+        "56",
+        "56延",
+        "70",
+        "70A",
+        "70B",
+        "74",
+        "74繞",
+        "99",
+        "99延",
+        "617",
+        "綠1"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.997Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3563743807,
+      "name": "成功嶺3號門",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1263113,
+      "lng": 120.6074419
+    },
+    {
+      "id": 3563743811,
+      "name": "烏日學田里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1242941,
+      "lng": 120.6068161,
+      "routes": [
+        "26",
+        "56",
+        "56延",
+        "70",
+        "70A",
+        "70B",
+        "74",
+        "74繞",
+        "99",
+        "99延",
+        "617",
+        "綠1"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.998Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3655570384,
+      "name": "勤工派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1112971,
+      "lng": 120.6497896
+    },
+    {
+      "id": 3655570388,
+      "name": "復興環中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1107314,
+      "lng": 120.6479533
+    },
+    {
+      "id": 3655570390,
+      "name": "樹仔腳",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.110053,
+      "lng": 120.6461649,
+      "routes": [
+        "3",
+        "33",
+        "37",
+        "54",
+        "82延",
+        "100",
+        "101",
+        "105",
+        "105延",
+        "105副",
+        "133",
+        "281副",
+        "6735",
+        "6735A",
+        "6736",
+        "6737",
+        "6738",
+        "6738A",
+        "6738B",
+        "6882",
+        "6933"
+      ],
+      "routeCount": 21,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.999Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3655570391,
+      "name": "烏日(新興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1050232,
+      "lng": 120.6212736,
+      "routes": [
+        "33",
+        "39",
+        "82延",
+        "100",
+        "133",
+        "245",
+        "245繞",
+        "281副",
+        "6735",
+        "6735A",
+        "6736",
+        "6737",
+        "6738",
+        "6738A",
+        "6882",
+        "6933"
+      ],
+      "routeCount": 16,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.002Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3833813273,
+      "name": "台中",
+      "type": "hsr",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.112099,
+      "lng": 120.6159381,
+      "systems": [
+        "高鐵"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.136Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 3833813274,
+      "name": "烏日",
+      "type": "train",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1089116,
+      "lng": 120.6224069
+    },
+    {
+      "id": 3856401238,
+      "name": "成功車站(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1134214,
+      "lng": 120.590578
+    },
+    {
+      "id": 10259588013,
+      "name": "烏日林新醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1093412,
+      "lng": 120.5977589
+    },
+    {
+      "id": 3856423539,
+      "name": "善光寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1128989,
+      "lng": 120.5932254
+    },
+    {
+      "id": 4360429208,
+      "name": "高鐵台中站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1104081,
+      "lng": 120.6156698
+    },
+    {
+      "id": 4360429219,
+      "name": "高鐵台中站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.111304,
+      "lng": 120.6160315
+    },
+    {
+      "id": 4484930691,
+      "name": "光德國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1060866,
+      "lng": 120.642186,
+      "routes": [
+        "54",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.405Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4678587258,
+      "name": "九張犁",
+      "type": "metro",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.114382,
+      "lng": 120.6399052,
+      "lines": [
+        "烏日文心北屯線"
+      ],
+      "lineCount": 1,
+      "lineSource": "gtfs",
+      "lineUpdatedAt": "2026-06-14T15:08:25.138Z",
+      "lineConfidence": "high"
+    },
+    {
+      "id": 4678917784,
+      "name": "捷運九德站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1107778,
+      "lng": 120.6343241
+    },
+    {
+      "id": 4678917785,
+      "name": "捷運烏日站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1089605,
+      "lng": 120.625303
+    },
+    {
+      "id": 5055048138,
+      "name": "高鐵學田路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1132247,
+      "lng": 120.6081358,
+      "routes": [
+        "26",
+        "56",
+        "56延",
+        "70",
+        "70A",
+        "70B",
+        "74",
+        "74繞",
+        "99",
+        "99延",
+        "617",
+        "綠1"
+      ],
+      "routeCount": 12,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.007Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5055048141,
+      "name": "新烏日車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1087099,
+      "lng": 120.6144673
+    },
+    {
+      "id": 5542215183,
+      "name": "成功",
+      "type": "train",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1143357,
+      "lng": 120.5905597
+    },
+    {
+      "id": 5604041805,
+      "name": "溪南派出所",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0564279,
+      "lng": 120.6463838
+    },
+    {
+      "id": 5604041807,
+      "name": "喀哩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0553086,
+      "lng": 120.6467794,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5604041808,
+      "name": "集會所(太明路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.055714,
+      "lng": 120.6482063,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5604041810,
+      "name": "萬應宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0556625,
+      "lng": 120.6527124,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5604041812,
+      "name": "錦埔",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.057584,
+      "lng": 120.657362,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5604041816,
+      "name": "興台塑膠廠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0590241,
+      "lng": 120.6591859,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5616981226,
+      "name": "五張犁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0931595,
+      "lng": 120.6468511,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5616981228,
+      "name": "五光環中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0928305,
+      "lng": 120.6471555
+    },
+    {
+      "id": 5616981230,
+      "name": "五張犁福德宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0937894,
+      "lng": 120.6508188
+    },
+    {
+      "id": 5616981232,
+      "name": "五光里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0943831,
+      "lng": 120.6525984
+    },
+    {
+      "id": 5616981236,
+      "name": "五光五中巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0952946,
+      "lng": 120.6552242
+    },
+    {
+      "id": 5616981239,
+      "name": "德昌社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0962146,
+      "lng": 120.6589177,
+      "routes": [
+        "39",
+        "281",
+        "281延",
+        "281副"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.139Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617733082,
+      "name": "東勢園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0818339,
+      "lng": 120.6435138,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617733086,
+      "name": "東園里",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0839006,
+      "lng": 120.6440207,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617733089,
+      "name": "福泰社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0852425,
+      "lng": 120.6441522,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617733093,
+      "name": "福泰環中路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0858767,
+      "lng": 120.6476793,
+      "routes": [
+        "281"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617758581,
+      "name": "溪南國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0714238,
+      "lng": 120.6427494,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617758585,
+      "name": "溪心壩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0751461,
+      "lng": 120.6427601,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617758587,
+      "name": "北溪心壩",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0778546,
+      "lng": 120.6430632,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617800289,
+      "name": "南螺潭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0612136,
+      "lng": 120.6433475,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617800291,
+      "name": "石螺潭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0635232,
+      "lng": 120.6426501,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5617800293,
+      "name": "北螺潭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.065611,
+      "lng": 120.6425053,
+      "routes": [
+        "281",
+        "281副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 7973381884,
+      "name": "學田路九十八巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1113543,
+      "lng": 120.6072654
+    },
+    {
+      "id": 8037659588,
+      "name": "捷運九張犁站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1148634,
+      "lng": 120.641022
+    },
+    {
+      "id": 8674203210,
+      "name": "烏日客運南站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1087035,
+      "lng": 120.6138715,
+      "routes": [
+        "1621",
+        "1621D",
+        "1621E"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.139Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8976651636,
+      "name": "建國永春東三南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1093142,
+      "lng": 120.630897,
+      "routes": [
+        "99",
+        "99延",
+        "158",
+        "800"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9621296151,
+      "name": "新烏日車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1087964,
+      "lng": 120.6129631,
+      "routes": [
+        "3",
+        "26",
+        "39",
+        "56",
+        "56延",
+        "74",
+        "74繞",
+        "93",
+        "101",
+        "133",
+        "245",
+        "245繞",
+        "248",
+        "281副",
+        "617"
+      ],
+      "routeCount": 15,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.008Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9629536079,
+      "name": "建國民生街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1086117,
+      "lng": 120.6274512
+    },
+    {
+      "id": 9633851383,
+      "name": "清新溫泉飯店",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1372774,
+      "lng": 120.5882561,
+      "routes": [
+        "99延"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9641214731,
+      "name": "五光新興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1035801,
+      "lng": 120.6274719,
+      "routes": [
+        "33",
+        "54"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.406Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9654656296,
+      "name": "啤酒廠美食街",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1107134,
+      "lng": 120.6237201
+    },
+    {
+      "id": 10226257684,
+      "name": "國際會展中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1167751,
+      "lng": 120.6145686
+    },
+    {
+      "id": 10259539299,
+      "name": "五光復光四巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0975551,
+      "lng": 120.6353464
+    },
+    {
+      "id": 10259539301,
+      "name": "五光復光五巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0986857,
+      "lng": 120.6330412
+    },
+    {
+      "id": 10259539303,
+      "name": "五光復光六巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1000011,
+      "lng": 120.6308414
+    },
+    {
+      "id": 10259539305,
+      "name": "烏日區社福館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.105959,
+      "lng": 120.6080269
+    },
+    {
+      "id": 10259539307,
+      "name": "櫻花獨綻社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1068391,
+      "lng": 120.6030624
+    },
+    {
+      "id": 10259588009,
+      "name": "三榮九路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1077144,
+      "lng": 120.5998294
+    },
+    {
+      "id": 10259588011,
+      "name": "烏日林新醫院(三榮路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1080706,
+      "lng": 120.5981808,
+      "routes": [
+        "56",
+        "56延",
+        "245",
+        "245繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10259588015,
+      "name": "旭光國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1107996,
+      "lng": 120.5955232,
+      "routes": [
+        "245",
+        "245繞"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.140Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126135,
+      "name": "環中光明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1075109,
+      "lng": 120.6500884,
+      "routes": [
+        "281副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.140Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126136,
+      "name": "環中光明路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1064826,
+      "lng": 120.6502922,
+      "routes": [
+        "281副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.140Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126137,
+      "name": "環中勤農巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1058081,
+      "lng": 120.6516384,
+      "routes": [
+        "281副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.140Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126139,
+      "name": "前竹社區(環中路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0981937,
+      "lng": 120.650783,
+      "routes": [
+        "281副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10270126141,
+      "name": "五光里(環中路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0950247,
+      "lng": 120.6493188,
+      "routes": [
+        "281副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10271072924,
+      "name": "五光溪南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0963326,
+      "lng": 120.6380824
+    },
+    {
+      "id": 10271072926,
+      "name": "五光環河路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.093719,
+      "lng": 120.6437285
+    },
+    {
+      "id": 12089239724,
+      "name": "五光復光三巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0964397,
+      "lng": 120.638879,
+      "routes": [
+        "245",
+        "245繞",
+        "281副"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.009Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897739,
+      "name": "高鐵一路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1114317,
+      "lng": 120.6098482,
+      "routes": [
+        "99",
+        "99延",
+        "綠1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897741,
+      "name": "捷運高鐵臺中站（2號出口）",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1104095,
+      "lng": 120.6132563,
+      "routes": [
+        "99",
+        "99延",
+        "綠1"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483420,
+      "name": "溪尾國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0408323,
+      "lng": 120.6402009,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483421,
+      "name": "後溪仔(CFT照顧學校)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0364807,
+      "lng": 120.6436087,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483423,
+      "name": "芬園花卉生產休憩園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0296302,
+      "lng": 120.64422,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.140Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483425,
+      "name": "溪尾里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0324343,
+      "lng": 120.6393023,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483427,
+      "name": "南興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0769017,
+      "lng": 120.6418619,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483429,
+      "name": "東園里社區活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0752702,
+      "lng": 120.6350934,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483430,
+      "name": "東園國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0835964,
+      "lng": 120.6396752,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483432,
+      "name": "永興宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.0965992,
+      "lng": 120.6412489,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12168483436,
+      "name": "九德國小(興祥街)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1093508,
+      "lng": 120.6376799,
+      "routes": [
+        "黃25"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872757,
+      "name": "烏日長壽公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.111747,
+      "lng": 120.5906222,
+      "routes": [
+        "56",
+        "56延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872759,
+      "name": "正和公園(旭光國小)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1087598,
+      "lng": 120.5954533,
+      "routes": [
+        "56",
+        "56延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:39.010Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 13094872761,
+      "name": "三和中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "烏日區",
+      "lat": 24.1070721,
+      "lng": 120.6090629,
+      "routes": [
+        "56",
+        "56延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.141Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

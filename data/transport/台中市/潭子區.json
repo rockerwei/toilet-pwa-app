@@ -1,0 +1,1085 @@
+{
+  "city": "台中市",
+  "district": "潭子區",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 87,
+  "items": [
+    {
+      "id": 3426772339,
+      "name": "聚興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1916707,
+      "lng": 120.7182164
+    },
+    {
+      "id": 3426772342,
+      "name": "慈濟中醫院區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1930956,
+      "lng": 120.7193207
+    },
+    {
+      "id": 3426772344,
+      "name": "慈濟醫院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1958305,
+      "lng": 120.7219076
+    },
+    {
+      "id": 3426772345,
+      "name": "中興",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1991599,
+      "lng": 120.7218797
+    },
+    {
+      "id": 3426772363,
+      "name": "潭子聯合辦公大樓",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2037801,
+      "lng": 120.7224804
+    },
+    {
+      "id": 3426772374,
+      "name": "翔仁社區(大明高中)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2041175,
+      "lng": 120.7200464
+    },
+    {
+      "id": 3426772378,
+      "name": "潭興南陽祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.20778,
+      "lng": 120.7105699
+    },
+    {
+      "id": 3426772380,
+      "name": "潭興福潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2105617,
+      "lng": 120.7099898,
+      "routes": [
+        "20"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.400Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644925940,
+      "name": "潭子車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2126221,
+      "lng": 120.7051636
+    },
+    {
+      "id": 3644925908,
+      "name": "中山中興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1914518,
+      "lng": 120.7026252
+    },
+    {
+      "id": 3644925910,
+      "name": "中山合作街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.204974,
+      "lng": 120.7046845
+    },
+    {
+      "id": 3644925912,
+      "name": "中山圓通南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2076958,
+      "lng": 120.7049298
+    },
+    {
+      "id": 3644925914,
+      "name": "中山祥和路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.228148,
+      "lng": 120.7082481
+    },
+    {
+      "id": 3644925917,
+      "name": "中山路一巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1874266,
+      "lng": 120.7023628
+    },
+    {
+      "id": 3644925919,
+      "name": "僑忠國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2029835,
+      "lng": 120.7038299,
+      "routes": [
+        "65",
+        "65延",
+        "65副",
+        "65繞",
+        "74",
+        "74繞",
+        "900",
+        "900跳蛙公車",
+        "901",
+        "901副",
+        "901副2"
+      ],
+      "routeCount": 11,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.981Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644925925,
+      "name": "弘文中學",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2261816,
+      "lng": 120.7077546
+    },
+    {
+      "id": 3644925929,
+      "name": "校栗林",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2309122,
+      "lng": 120.7084821
+    },
+    {
+      "id": 3644925931,
+      "name": "栗林車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2348827,
+      "lng": 120.7094554,
+      "routes": [
+        "900",
+        "901",
+        "901副",
+        "901副2",
+        "956",
+        "956副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644925933,
+      "name": "潭子國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2146428,
+      "lng": 120.7052444
+    },
+    {
+      "id": 3644925936,
+      "name": "潭子科技園區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2172416,
+      "lng": 120.7054311,
+      "routes": [
+        "900",
+        "900跳蛙公車",
+        "901",
+        "901副",
+        "901副2",
+        "920",
+        "956",
+        "956副"
+      ],
+      "routeCount": 8,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.982Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644925938,
+      "name": "中山潭子街口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2095562,
+      "lng": 120.7051303
+    },
+    {
+      "id": 3644925942,
+      "name": "寶熊漁樂碼頭",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2209483,
+      "lng": 120.7062728
+    },
+    {
+      "id": 3644925946,
+      "name": "瓦窯(中山路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1994057,
+      "lng": 120.7029667,
+      "routes": [
+        "956"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3644926592,
+      "name": "頭家厝車站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1948516,
+      "lng": 120.7023011
+    },
+    {
+      "id": 3653682075,
+      "name": "矽品精密",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2241748,
+      "lng": 120.7072934
+    },
+    {
+      "id": 3926714593,
+      "name": "中油鴻陞加油站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2060176,
+      "lng": 120.6868164
+    },
+    {
+      "id": 3926714598,
+      "name": "天畝社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2187199,
+      "lng": 120.6890505
+    },
+    {
+      "id": 3926714600,
+      "name": "崇德大豐一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2106369,
+      "lng": 120.6869561
+    },
+    {
+      "id": 3926714602,
+      "name": "崇德潭富路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2252926,
+      "lng": 120.6903917
+    },
+    {
+      "id": 3926714606,
+      "name": "崇德祿社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.227838,
+      "lng": 120.6907215
+    },
+    {
+      "id": 3926714608,
+      "name": "崇德雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2151836,
+      "lng": 120.6881815
+    },
+    {
+      "id": 3962858826,
+      "name": "東寶國小",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.216054,
+      "lng": 120.685009,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.127Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 3962858828,
+      "name": "歐洲村社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2220464,
+      "lng": 120.689399
+    },
+    {
+      "id": 3962860763,
+      "name": "雅潭民族路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.21567,
+      "lng": 120.6793581,
+      "routes": [
+        "123",
+        "黃10"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.984Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705228,
+      "name": "大富大德一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2048819,
+      "lng": 120.6792556,
+      "routes": [
+        "58副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705230,
+      "name": "大富大豐一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2071576,
+      "lng": 120.6806068,
+      "routes": [
+        "58副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705234,
+      "name": "大富路",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2034631,
+      "lng": 120.678558
+    },
+    {
+      "id": 4237705236,
+      "name": "大豐一崇德路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2100045,
+      "lng": 120.6859631,
+      "routes": [
+        "58副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.985Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705238,
+      "name": "大豐一路89巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2108172,
+      "lng": 120.6888096,
+      "routes": [
+        "58副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705240,
+      "name": "大豐雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2144732,
+      "lng": 120.690679,
+      "routes": [
+        "58副"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.401Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4237705242,
+      "name": "大豐雅潭路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2161058,
+      "lng": 120.6916167
+    },
+    {
+      "id": 4239301933,
+      "name": "北基加油站雅潭站",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2158573,
+      "lng": 120.6941917
+    },
+    {
+      "id": 4239301935,
+      "name": "土地公廟(大豐路三段)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2204463,
+      "lng": 120.692342
+    },
+    {
+      "id": 4239301937,
+      "name": "大豐潭富路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2252473,
+      "lng": 120.6925397
+    },
+    {
+      "id": 4239301939,
+      "name": "大豐路三段230巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2284805,
+      "lng": 120.6928303
+    },
+    {
+      "id": 4239301941,
+      "name": "大豐路二段110巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2186304,
+      "lng": 120.6919672
+    },
+    {
+      "id": 4239301944,
+      "name": "潭秀國中",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2162949,
+      "lng": 120.6993649
+    },
+    {
+      "id": 4239301948,
+      "name": "矽品公司",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2238767,
+      "lng": 120.6922366,
+      "routes": [
+        "63",
+        "65",
+        "65延",
+        "65繞"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4239301979,
+      "name": "雅潭中山路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2157531,
+      "lng": 120.7033482
+    },
+    {
+      "id": 4239301981,
+      "name": "雅潭大豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2158087,
+      "lng": 120.6900201
+    },
+    {
+      "id": 4239401535,
+      "name": "得天宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1943498,
+      "lng": 120.700975
+    },
+    {
+      "id": 4239403617,
+      "name": "頭張公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1945135,
+      "lng": 120.6986378,
+      "routes": [
+        "65",
+        "65延",
+        "65繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4239403620,
+      "name": "頭張路土地公廟",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1937726,
+      "lng": 120.6950561,
+      "routes": [
+        "65",
+        "65延",
+        "65繞"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4398958249,
+      "name": "栗林",
+      "type": "train",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2345999,
+      "lng": 120.7106275
+    },
+    {
+      "id": 4399071720,
+      "name": "頭家厝",
+      "type": "train",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1952609,
+      "lng": 120.7039417
+    },
+    {
+      "id": 4423817059,
+      "name": "大德一大富路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2044958,
+      "lng": 120.6784775
+    },
+    {
+      "id": 4423817063,
+      "name": "東寶社區(昌平路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2033726,
+      "lng": 120.6745586,
+      "routes": [
+        "14",
+        "14延"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4449243884,
+      "name": "潭子",
+      "type": "train",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.212502,
+      "lng": 120.7058646
+    },
+    {
+      "id": 4922060147,
+      "name": "久豪社區",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2053877,
+      "lng": 120.7133914,
+      "routes": [
+        "20",
+        "123"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4922060149,
+      "name": "聚興福德祠",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2041332,
+      "lng": 120.7177894
+    },
+    {
+      "id": 5753571307,
+      "name": "福德祠(豐興路)",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2215523,
+      "lng": 120.7239693
+    },
+    {
+      "id": 5753571310,
+      "name": "新田",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2182818,
+      "lng": 120.7235858
+    },
+    {
+      "id": 5753571315,
+      "name": "中新",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2135362,
+      "lng": 120.7226551
+    },
+    {
+      "id": 5753571317,
+      "name": "南新",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.209654,
+      "lng": 120.7217297
+    },
+    {
+      "id": 6064830690,
+      "name": "福仁",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2051288,
+      "lng": 120.7098314,
+      "routes": [
+        "123"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830692,
+      "name": "保安寺",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2029913,
+      "lng": 120.7096222,
+      "routes": [
+        "123"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830694,
+      "name": "天寶彌勒佛院",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2022338,
+      "lng": 120.7080149,
+      "routes": [
+        "123"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830696,
+      "name": "復興大新路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2032806,
+      "lng": 120.7062909,
+      "routes": [
+        "74",
+        "74繞",
+        "123"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.987Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6064830698,
+      "name": "復興圓通南路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2068548,
+      "lng": 120.7068314,
+      "routes": [
+        "74",
+        "74繞",
+        "123"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 6328504235,
+      "name": "潭子勝利運動公園",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2095072,
+      "lng": 120.7010378
+    },
+    {
+      "id": 9605374793,
+      "name": "佳茂中山會館",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1900246,
+      "lng": 120.7023896,
+      "routes": [
+        "65副",
+        "900",
+        "901",
+        "901副",
+        "956",
+        "956副"
+      ],
+      "routeCount": 6,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9652202990,
+      "name": "甘蔗里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2136096,
+      "lng": 120.7005913,
+      "routes": [
+        "58",
+        "58副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.402Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9652202991,
+      "name": "甘蔗里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2149301,
+      "lng": 120.7004961,
+      "routes": [
+        "58",
+        "58副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:25.129Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 9652202992,
+      "name": "圓通南興華一路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2071009,
+      "lng": 120.7032759,
+      "routes": [
+        "58",
+        "58副"
+      ],
+      "routeCount": 2,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233140,
+      "name": "圓通南復興路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2071804,
+      "lng": 120.7065062,
+      "routes": [
+        "920"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 10982233142,
+      "name": "摘星山莊",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2240055,
+      "lng": 120.6966244
+    },
+    {
+      "id": 10982233150,
+      "name": "祥和嘉豐路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2291088,
+      "lng": 120.716108
+    },
+    {
+      "id": 10982233152,
+      "name": "吉嘉電子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2295242,
+      "lng": 120.7133776
+    },
+    {
+      "id": 10982233154,
+      "name": "栗林活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2303624,
+      "lng": 120.7110833
+    },
+    {
+      "id": 10982233158,
+      "name": "瑞格電子",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2315051,
+      "lng": 120.7070985,
+      "routes": [
+        "921"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T09:55:58.403Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12078268569,
+      "name": "敦富南興北三路口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.1972781,
+      "lng": 120.7076608,
+      "routes": [
+        "901副2"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12097677768,
+      "name": "昌平路三段248巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.206379,
+      "lng": 120.6739586,
+      "routes": [
+        "14",
+        "14延",
+        "14副",
+        "14副2"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897788,
+      "name": "大富路一段325巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2192226,
+      "lng": 120.6859215,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897790,
+      "name": "大富宮",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2268798,
+      "lng": 120.6874426,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111897798,
+      "name": "民族路三段199巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2296606,
+      "lng": 120.683861,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111908402,
+      "name": "大富里活動中心",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.2250566,
+      "lng": 120.6820954,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 12111908404,
+      "name": "民族路二段128巷口",
+      "type": "bus",
+      "city": "台中市",
+      "district": "潭子區",
+      "lat": 24.221009,
+      "lng": 120.6808107,
+      "routes": [
+        "黃10"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:38.988Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

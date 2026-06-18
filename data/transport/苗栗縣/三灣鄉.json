@@ -1,0 +1,294 @@
+{
+  "city": "苗栗縣",
+  "district": "三灣鄉",
+  "category": "transport",
+  "updatedAt": "2026-06-11T16:04:46.906Z",
+  "rev": 1,
+  "count": 17,
+  "items": [
+    {
+      "id": 4625582400,
+      "name": "平潭口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6622064,
+      "lng": 120.9639217,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.097Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582402,
+      "name": "銅鑼圈",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6677968,
+      "lng": 120.9654016,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582404,
+      "name": "莿仔園",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.658934,
+      "lng": 120.9622292,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582406,
+      "name": "三灣郵局",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6567937,
+      "lng": 120.9588349,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582408,
+      "name": "三灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6550752,
+      "lng": 120.9566033,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.097Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582409,
+      "name": "三灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6539575,
+      "lng": 120.9562533,
+      "routes": [
+        "5804",
+        "5805",
+        "5805A",
+        "5806"
+      ],
+      "routeCount": 4,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625582410,
+      "name": "三灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6523035,
+      "lng": 120.9554184
+    },
+    {
+      "id": 4625582412,
+      "name": "上三灣",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6513174,
+      "lng": 120.9549216,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625620870,
+      "name": "峨嵋橋頭",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6711829,
+      "lng": 120.9656025,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 4625864972,
+      "name": "峨嵋橋",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6735263,
+      "lng": 120.9660469,
+      "routes": [
+        "5804",
+        "5805",
+        "5806"
+      ],
+      "routeCount": 3,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978463,
+      "name": "大埔壩入口",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6723779,
+      "lng": 120.9674388,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T15:08:27.097Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978464,
+      "name": "山灣咖啡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6712116,
+      "lng": 120.9689274,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978465,
+      "name": "信修精舍",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6721415,
+      "lng": 120.9760608,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 5738978467,
+      "name": "十寮坑",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6714566,
+      "lng": 120.9816572,
+      "routes": [
+        "5810"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956693,
+      "name": "小北埔",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6450685,
+      "lng": 120.9638715,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956695,
+      "name": "瓦窯岡",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6462837,
+      "lng": 120.9710828,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    },
+    {
+      "id": 8226956697,
+      "name": "崁頂寮",
+      "type": "bus",
+      "city": "苗栗縣",
+      "district": "三灣鄉",
+      "lat": 24.6422255,
+      "lng": 120.9817974,
+      "routes": [
+        "5805"
+      ],
+      "routeCount": 1,
+      "routeSource": "gtfs",
+      "routeUpdatedAt": "2026-06-14T16:43:42.192Z",
+      "routeConfidence": "high"
+    }
+  ]
+}

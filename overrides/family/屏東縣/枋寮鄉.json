@@ -1,0 +1,36 @@
+{
+  "city": "屏東縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:457",
+      "name": "枋寮巧茵山休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.378124,
+      "lng": 120.612341,
+      "source": "coa",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "屏東縣枋寮鄉太源村中山路三段123號",
+      "sourceId": "457",
+      "sourceCategory": "許可登記休閒農場"
+    },
+    {
+      "id": "coa:433",
+      "name": "蘭欣辣汗花果休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.38312,
+      "lng": 120.61245,
+      "source": "coa",
+      "sourceId": "433",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "屏東縣枋寮鄉中正大路666-8號",
+      "phone": "08-871-7370"
+    }
+  ]
+}

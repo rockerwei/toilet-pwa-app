@@ -1,0 +1,51 @@
+{
+  "city": "南投縣",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "tdx:C1_376480000A_000087",
+      "name": "和菓森林",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.92301,
+      "lng": 120.935829,
+      "source": "tdx",
+      "sourceId": "C1_376480000A_000087",
+      "sourceCategory": "休閒農業類",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T08:46:47.655475Z",
+      "address": "南投縣魚池鄉新城村香茶巷5號"
+    },
+    {
+      "id": "coa:201",
+      "name": "大雁休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.912341,
+      "lng": 120.923412,
+      "source": "coa",
+      "sourceId": "201",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "南投縣魚池鄉大雁巷36-1號",
+      "phone": "04-9289-5938"
+    },
+    {
+      "id": "coa:465",
+      "name": "日月潭日月山莊休閒農場-HOHOCHA喝喝茶",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.901152,
+      "lng": 120.912534,
+      "source": "coa",
+      "sourceId": "465",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "南投縣魚池鄉魚池街443-36號",
+      "phone": "04-9289-5899"
+    }
+  ]
+}

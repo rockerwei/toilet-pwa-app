@@ -1,0 +1,22 @@
+{
+  "city": "臺南市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:55:03.699519Z",
+  "items": [
+    {
+      "id": "coa:251",
+      "name": "仙湖休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 23.264251,
+      "lng": 120.490539,
+      "source": "coa",
+      "sourceId": "251",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:53:15.116318Z",
+      "address": "臺南市東山區南勢里大洋6-6號",
+      "phone": "06-686-3635"
+    }
+  ]
+}

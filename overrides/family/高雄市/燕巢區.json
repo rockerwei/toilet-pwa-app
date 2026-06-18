@@ -1,0 +1,22 @@
+{
+  "city": "高雄市",
+  "category": "family",
+  "updatedAt": "2026-06-16T12:08:38.871900Z",
+  "items": [
+    {
+      "id": "coa:338",
+      "name": "角宿休閒農場",
+      "facilityType": "farm",
+      "facilityLabel": "🌾 農場",
+      "lat": 22.781234,
+      "lng": 120.341234,
+      "source": "coa",
+      "sourceId": "338",
+      "sourceCategory": "許可登記休閒農場",
+      "reviewed": true,
+      "updatedAt": "2026-06-16T12:08:38.871900Z",
+      "address": "高雄市燕巢區義大路65號(南角宿段222地號)",
+      "phone": "0977-250-125"
+    }
+  ]
+}
